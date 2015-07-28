@@ -1,0 +1,4 @@
+---
+title: 'London&#8217;s new Icebar'
+---
+Londoners will soon be given the opportunity to join the Swedish cool set with a brand new Icebar. Vodka brand Absolute are teaming up with the people behind the Icehotel in Sweden and new kids on the (ice)block Below zero to bring the bar to the UK. The Icebar will allow 60 people at a time through it's air-lock system, equipping them with special coats and gloves. Everything, including the walls and the Vodka glasses will be made from ice and maintained at a constant minus 5 degrees Celsius but a purpose built air-conditioning system. Now that's cool!

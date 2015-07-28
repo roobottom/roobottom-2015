@@ -1,0 +1,4 @@
+---
+title: 'There&#8217;s Something About Walsall'
+---
+[![New House!!](http://static.flickr.com/42/111859193_b2216573cc.jpg)](http://www.flickr.com/photos/roobottom/111859193/ "New House on Flickr") I went and did it, huh, I think I did it. Yes, this weekend saw the biggest move away from Brownhills since University. I am now an official WS1 resident, slap bang in the middle of picturesque Walsall. I guess this has been coming ever since I realised that [Walsall ](http://www.roobottom.com/2006/01/08/my-spritual-home/) (at least for the moment) is where I need to be. The Kidz Klub thing continues in Coalpool and I can see scope for getting a lot more involved there.

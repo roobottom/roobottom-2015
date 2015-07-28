@@ -1,0 +1,4 @@
+---
+title: Icon Ideas
+---
+I stared designing some shiny new icons for a website yesterday, and thought I'd like to share them with you lucky lucky people. But I need ideas! What could / should / should not go in these icons? ![Shiny New Icons](http://wp.roodesign.co.uk/wp-content/uploads/2007/03/rdc-icons.jpg) They're pretty much a miss-match of objects at the moment, but if someone can suggest a winning theme then I'll put together a new set based on your ideas. I realise this is coping out, but you wanted more posts, so this is the type of crap you get. It's not all about me me me you know. Anyway, ideas for icons gratefully accepted. Thanks. Now bog off.

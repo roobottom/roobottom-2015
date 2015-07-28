@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8"/>
+        <link rel="stylesheet" href="/css/styles.css" type="text/css" media="screen" charset="utf-8">
+        <title>It all makes for a healthier Mac — roobottom.com</title>
+    </head>
+    <body class="it-all-makes-for-a-healthier-mac">
+        
+        <main class="site-content">
+            <p>Over the last few weeks I’ve noticed that my Mac has been slowly grinding to a halt, overheating and basically not bringing me as much maccy joy as she used to. <a href="http://www.flickr.com/photos/roobottom/1442370938/" title="Photo Sharing"><img src="http://farm2.static.flickr.com/1387/1442370938_f2d95fcbee.jpg" alt="My (healthier) Mac" /></a> After a little investigation, I discovered that (for some unknown reason) Dashboard was chewing up memory and processor power by the fistful. In fact, it was claiming a mighty 80% chunk of my 2.3 Ghz core 2 duo. 80% !?! Something had to be done. After a <a href="http://www.macworld.com/weblogs/macosxhints/2005/08/disabledashboard/index.php">little investigation</a> I discovered that there was a way to completely disable my little used Dashboard. The Dashboard app is run as a process of the Dock, so it’s a two stage task to disable the pesky thing. First, start terminal and type the following</p>
+
+<blockquote>
+  <p>defaults write com.apple.dashboard mcx-disabled -boolean YES</p>
+</blockquote>
+
+<p>This will tell your mac that you no longer require Dashboard, then restart your Dock… &gt; killall Dock</p>
+
+<p>There. All better. If you (for some strange reason) decide that the Dashboard <em>is</em> a good idea, you can reverse the process with this command. &gt; defaults write com.apple.dashboard mcx-disabled -boolean NO</p>
+
+<p>The run the ‘killall’ again, and you’re back in business - Although why you’d want this piece of useless gadgetry is beyond me. Have fun!</p>
+
+        </main>
+        
+              
+    <!-- js -->
+
+    </body>
+</html>

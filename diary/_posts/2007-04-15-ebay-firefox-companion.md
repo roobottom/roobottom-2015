@@ -1,0 +1,4 @@
+---
+title: Ebay Firefox Companion
+---
+[![Firefox Ebay Beta](http://wp.roodesign.co.uk/wp-content/uploads/2007/04/ebay-beta.png)](http://en-gb.www.mozilla.com/en-GB/add-ons/ebay/ "visit the plugin website") Mozilla have just announced the alpha version of a [new ebay plugin](http://en-gb.www.mozilla.com/en-GB/add-ons/ebay/) for Firefox that looks pretty awesome. You can sign up on the site for an alpha test when it's launched later this month. If you're a fan of Firefox and an ebay user then this may be the very thing for you. A secure and quick way to keep an eye on your ebay stuff built right into your browser. Sweet.

@@ -1,0 +1,4 @@
+---
+title: A Nice Little Earner
+---
+I was always skeptical about earning money through affliate links and online advertising, but for the past year I've been using a service called [Text Link Ads](http://www.text-link-ads.com/?ref=15374) and been very Impressed with the results. Last month I earned a total of $112 from selling adverts from this site and others - I never imagined that I could make that much! TLA is cool, and if you're looking to advertise, they even do a [$100 free](http://www.text-link-ads.com/starter_kit.php?ref=15374) start up promotion. Get In! Has anyone else had any experience with this?
