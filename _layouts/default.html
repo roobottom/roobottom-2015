@@ -7,6 +7,8 @@
     </head>
     <body class="{{ page.title | slugify }}">
         
+        {% include navigation.html %}
+        
         <main class="site-content">
             {{ content }}
         </main>

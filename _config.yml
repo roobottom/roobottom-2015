@@ -4,13 +4,6 @@ destination: ./_site
 plugins:     ./_plugins
 layouts:     ./_layouts
 data_source: ./_data
-# collections: 
-#     patterns:
-#         output: false
-#     examples:
-#         output: true
-#     components:
-#         output: false
 
 # Handling Reading
 safe:         false
@@ -28,7 +21,8 @@ unpublished: false
 
 # Plugins
 whitelist: []
-gems:      []
+gems:      
+  - jekyll-archives
 
 # Conversion
 markdown:    kramdown
@@ -89,5 +83,14 @@ defaults:
   -
     scope:
       type: "posts"
+      path: "diary"
     values:
       layout: "default"
+      category: "diary"
+  -
+    scope:
+      type: "posts"
+      path: "gallery"
+    values:
+      layout: "default"
+      category: "gallery"
