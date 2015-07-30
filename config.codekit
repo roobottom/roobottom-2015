@@ -49,12 +49,12 @@
 "projectAttributes": {
 	"bowerAbbreviatedPath": "",
 	"displayValue": "roobottom.com",
-	"displayValueWasSetByUser": 0,
+	"displayValueWasSetByUser": 1,
 	"iconImageName": "compass_darkGray"
 	},
 "projectSettings": {
-	"alwaysUseExternalServer": 0,
-	"animateCSSInjections": 1,
+	"alwaysUseExternalServer": 1,
+	"animateCSSInjections": 0,
 	"autoApplyPSLanguageSettingsStyle": 0,
 	"autoprefixerBrowserString": "> 1%, last 2 versions, Firefox ESR, Opera 12.1",
 	"autoSyncProjectSettingsFile": 1,
@@ -195,7 +195,7 @@
 	"coffeeMinifyOutput": 1,
 	"coffeeOutputStyle": 0,
 	"coffeeSyntaxCheckerStyle": 1,
-	"externalServerAddress": "http:\/\/localhost:8888",
+	"externalServerAddress": "http:\/\/localhost:4000",
 	"externalServerPreviewPathAddition": "",
 	"genericWebpageFileExtensionsString": "html, htm, shtml, shtm, xhtml, php, jsp, asp, aspx, erb, ctp",
 	"hamlAutoOutputPathEnabled": 1,
@@ -698,7 +698,7 @@
 	"sassUseLibsass": 0,
 	"shouldRunAutoprefixer": 0,
 	"shouldRunBless": 0,
-	"skippedItemsString": "node_modules, \/_site, _logs, \/_layouts, _cache, log, .hg, \/_plugins, logs, cache, .svn, \/_includes, .git, \/365, \/!_dev, \/archives",
+	"skippedItemsString": "node_modules, \/diary, \/_site, _logs, \/_layouts, _cache, log, .hg, \/_plugins, logs, cache, .svn, \/_includes, .git, \/365, \/!_dev, \/assets, \/archives",
 	"slimAutoOutputPathEnabled": 1,
 	"slimAutoOutputPathFilenamePattern": "*.html",
 	"slimAutoOutputPathRelativePath": "",

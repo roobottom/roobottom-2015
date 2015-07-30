@@ -1,0 +1,9 @@
+<ul class="archives-posts">
+  {% for post in page.posts %}
+    <li class="archives-posts-category-{{ post.categories[0] | slugify }}">
+        <span class="archives-posts-category">{{ post.categories[0] }}</span>
+        <a class="archives-posts-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        <span class="archives-posts-date">{{ post.date | date: "%-d %B %Y" }}</span>
+    </li>
+  {% endfor %}
+</ul>

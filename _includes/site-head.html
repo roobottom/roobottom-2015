@@ -4,7 +4,14 @@
         <meta charset="utf-8"/>
         <link rel="stylesheet" type="text/css" href="//cloud.typography.com/7701512/626848/css/fonts.css" />
         <link rel="stylesheet" href="{{ site.baseurl }}/css/styles.css" type="text/css" media="screen" charset="utf-8">
-        <title>{{ page.title }} — roobottom.com</title>
+        
+        <title>
+        {% if include.pagetitle == null %}
+        {{ page.title }}
+        {% else %}
+        {{ include.pagetitle }}
+        {% endif %}
+         — roobottom.com</title>
     </head>
     <body class="{{ page.title | slugify }}">
         

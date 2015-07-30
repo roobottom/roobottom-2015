@@ -108,7 +108,10 @@ jekyll-archives:
     - year
     - month
     - tags
-  layout: 'archives'
+  layouts:
+    year: 'archives-year'
+    month: 'archives-month'
+    tag: 'archives-tag'
   permalinks:
     year: '/archives/:year/'
     month: '/archives/:year/:month/'
