@@ -4,7 +4,7 @@ cover: /assets/gallery/5197435783_144c8652e7_o.jpg
 section: gallery
 images:
   - 
-    image: /assets/photos/5197435783_144c8652e7_o.jpg
+    image: /assets/gallery/5197435783_144c8652e7_o.jpg
     title: Porsche
     tags:
       - ""
@@ -23,7 +23,7 @@ images:
     flickr_id: "5197435783"
     flickr_secret: f1325e508b
   - 
-    image: /assets/photos/5197433853_d2db0a4e97_o.jpg
+    image: /assets/gallery/5197433853_d2db0a4e97_o.jpg
     title: Ferrari
     tags:
       - ""
@@ -42,7 +42,7 @@ images:
     flickr_id: "5197433853"
     flickr_secret: 4ab890bca0
   - 
-    image: /assets/photos/5197431851_e45f1e5b36_o.jpg
+    image: /assets/gallery/5197431851_e45f1e5b36_o.jpg
     title: Fast Lap...
     tags:
       - ""
@@ -61,7 +61,7 @@ images:
     flickr_id: "5197431851"
     flickr_secret: 46e198e664
   - 
-    image: /assets/photos/5197429605_483cf602b2_o.jpg
+    image: /assets/gallery/5197429605_483cf602b2_o.jpg
     title: The Stig
     tags:
       - ""
@@ -80,7 +80,7 @@ images:
     flickr_id: "5197429605"
     flickr_secret: 9b772e4b21
   - 
-    image: /assets/photos/5198024968_3cbb94ca82_o.jpg
+    image: /assets/gallery/5198024968_3cbb94ca82_o.jpg
     title: a bit pleased with myself
     tags:
       - ""
@@ -99,7 +99,7 @@ images:
     flickr_id: "5198024968"
     flickr_secret: 70aa88308a
   - 
-    image: /assets/photos/5197425503_bf1548d5a4_o.jpg
+    image: /assets/gallery/5197425503_bf1548d5a4_o.jpg
     title: Ohhh Baby
     tags:
       - ""
@@ -118,7 +118,7 @@ images:
     flickr_id: "5197425503"
     flickr_secret: a0ee27fc8c
   - 
-    image: /assets/photos/5198020632_9dc6236c2c_o.jpg
+    image: /assets/gallery/5198020632_9dc6236c2c_o.jpg
     title: Porsche
     tags:
       - ""
@@ -137,7 +137,7 @@ images:
     flickr_id: "5198020632"
     flickr_secret: aa83112dc3
   - 
-    image: /assets/photos/5198018554_9658ab7617_o.jpg
+    image: /assets/gallery/5198018554_9658ab7617_o.jpg
     title: Porsche
     tags:
       - ""
@@ -156,7 +156,7 @@ images:
     flickr_id: "5198018554"
     flickr_secret: ea3065f5fd
   - 
-    image: /assets/photos/5198016436_88499e9a7d_o.jpg
+    image: /assets/gallery/5198016436_88499e9a7d_o.jpg
     title: Come on, come on...
     tags:
       - ""
@@ -175,7 +175,7 @@ images:
     flickr_id: "5198016436"
     flickr_secret: b8f32999cd
   - 
-    image: /assets/photos/5198014668_9986437545_o.jpg
+    image: /assets/gallery/5198014668_9986437545_o.jpg
     title: Ferrari
     tags:
       - ""
@@ -194,7 +194,7 @@ images:
     flickr_id: "5198014668"
     flickr_secret: b69176d161
   - 
-    image: /assets/photos/5198012582_d294116a5b_o.jpg
+    image: /assets/gallery/5198012582_d294116a5b_o.jpg
     title: Ferrari
     tags:
       - ""
@@ -213,7 +213,7 @@ images:
     flickr_id: "5198012582"
     flickr_secret: 933076df06
   - 
-    image: /assets/photos/5195933221_057ab56091_o.jpg
+    image: /assets/gallery/5195933221_057ab56091_o.jpg
     title: Ferrari
     tags:
       - ""
@@ -232,7 +232,7 @@ images:
     flickr_id: "5195933221"
     flickr_secret: 71ccae928d
   - 
-    image: /assets/photos/5196532946_8f5ee8e4d1_o.jpg
+    image: /assets/gallery/5196532946_8f5ee8e4d1_o.jpg
     title: Ferrari
     tags:
       - ""
@@ -251,7 +251,7 @@ images:
     flickr_id: "5196532946"
     flickr_secret: 0afdc2e72d
   - 
-    image: /assets/photos/5196528902_889b54c9c7_o.jpg
+    image: /assets/gallery/5196528902_889b54c9c7_o.jpg
     title: Ferrari
     tags:
       - ""
@@ -270,7 +270,7 @@ images:
     flickr_id: "5196528902"
     flickr_secret: d28711d40f
   - 
-    image: /assets/photos/5196524362_9741716107_o.jpg
+    image: /assets/gallery/5196524362_9741716107_o.jpg
     title: Me n the missus
     tags:
       - ""
@@ -289,7 +289,7 @@ images:
     flickr_id: "5196524362"
     flickr_secret: 4a9bdf0319
   - 
-    image: /assets/photos/5195919885_8ee9c7c8b1_o.jpg
+    image: /assets/gallery/5195919885_8ee9c7c8b1_o.jpg
     title: Ferrari Flag
     tags:
       - ""
@@ -308,7 +308,7 @@ images:
     flickr_id: "5195919885"
     flickr_secret: 93efde536f
   - 
-    image: /assets/photos/5196512174_b3803f29b8_o.jpg
+    image: /assets/gallery/5196512174_b3803f29b8_o.jpg
     title: Ferrari
     tags:
       - ""
@@ -327,7 +327,7 @@ images:
     flickr_id: "5196512174"
     flickr_secret: 430e58448e
   - 
-    image: /assets/photos/5195901939_4f911becef_o.jpg
+    image: /assets/gallery/5195901939_4f911becef_o.jpg
     title: Excited at the start of the day
     tags:
       - ""

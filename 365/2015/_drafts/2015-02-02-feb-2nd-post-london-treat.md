@@ -1,6 +1,6 @@
 ---
 title: Feb 2nd — Post London Treat
-image: /assets/365/IMG_9042.jpg
+images: /assets/365/IMG_9042.jpg
 tags:
   - "365"
   - home

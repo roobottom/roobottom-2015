@@ -1,6 +1,6 @@
 ---
 title: 25th July — Henty Arms Beer Festival
-image:
+images:
   - /assets/365/IMG_8788.jpg
   - /assets/365/IMG_8793.jpg
 tags:

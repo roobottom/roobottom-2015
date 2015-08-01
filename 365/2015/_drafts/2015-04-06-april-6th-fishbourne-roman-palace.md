@@ -1,6 +1,6 @@
 ---
 title: April 6th — Fishbourne Roman Palace
-image:
+images:
   - /assets/365/IMG_0694.jpg
   - /assets/365/IMG_0672.jpg
   - /assets/365/IMG_0705.jpg

@@ -2,11 +2,11 @@
 title: Partial Solar Eclipse
 images:
   - 
-    image: /assets/blog/images/IMG_9976.jpg
+    image: /assets/diary/IMG_9976.jpg
     caption: The "magical" solar eclipse over Littlehampton
     set: seafront
   - 
-    image: /assets/blog/images/IMG_0003.jpg
+    image: /assets/diary/IMG_0003.jpg
     caption: "Mrs. M was impressed with the morning's events"
     set: mrsm
 cover: /assets/blog/covers/IMG_9976.jpg

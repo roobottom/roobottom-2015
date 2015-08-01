@@ -1,6 +1,6 @@
 ---
 title: May 3rd — Going home
-image:
+images:
   - /assets/365/IMG_1353.jpg
   - /assets/365/IMG_1366.jpg
 tags:

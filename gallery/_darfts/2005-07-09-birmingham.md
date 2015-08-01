@@ -4,7 +4,7 @@ cover: /assets/gallery/24730857_ce6716ecae_o.jpg
 section: gallery
 images:
   - 
-    image: /assets/photos/24730857_ce6716ecae_o.jpg
+    image: /assets/gallery/24730857_ce6716ecae_o.jpg
     title: Curvy
     tags:
       - birmingham
@@ -29,7 +29,7 @@ images:
     flickr_id: "24730857"
     flickr_secret: ce6716ecae
   - 
-    image: /assets/photos/24730668_4ecb9b30e3_o.jpg
+    image: /assets/gallery/24730668_4ecb9b30e3_o.jpg
     title: Looking Towards Moor St. Car Park
     tags:
       - birmingham
@@ -54,7 +54,7 @@ images:
     flickr_id: "24730668"
     flickr_secret: 4ecb9b30e3
   - 
-    image: /assets/photos/24730737_f18d7acf21_o.jpg
+    image: /assets/gallery/24730737_f18d7acf21_o.jpg
     title: Alien Mothership
     tags:
       - birmingham
@@ -79,7 +79,7 @@ images:
     flickr_id: "24730737"
     flickr_secret: f18d7acf21
   - 
-    image: /assets/photos/24732467_c78ddc7002_o.jpg
+    image: /assets/gallery/24732467_c78ddc7002_o.jpg
     title: Escape To Selfridges
     tags:
       - birmingham
@@ -104,7 +104,7 @@ images:
     flickr_id: "24732467"
     flickr_secret: c78ddc7002
   - 
-    image: /assets/photos/24732239_9ea5fcedd0_o.jpg
+    image: /assets/gallery/24732239_9ea5fcedd0_o.jpg
     title: Through The Tunnel
     tags:
       - birmingham
@@ -129,7 +129,7 @@ images:
     flickr_id: "24732239"
     flickr_secret: 9ea5fcedd0
   - 
-    image: /assets/photos/24732632_fe4522d774_o.jpg
+    image: /assets/gallery/24732632_fe4522d774_o.jpg
     title: 'Lifts & Stairs'
     tags:
       - birmingham
@@ -154,7 +154,7 @@ images:
     flickr_id: "24732632"
     flickr_secret: fe4522d774
   - 
-    image: /assets/photos/24732034_1ccbacec9c_o.jpg
+    image: /assets/gallery/24732034_1ccbacec9c_o.jpg
     title: Birmingham on a busy Saturday
     tags:
       - birmingham
@@ -179,7 +179,7 @@ images:
     flickr_id: "24732034"
     flickr_secret: 1ccbacec9c
   - 
-    image: /assets/photos/24731848_37503e5259_o.jpg
+    image: /assets/gallery/24731848_37503e5259_o.jpg
     title: St. Martins in the Bull Ring Birmingham
     tags:
       - birmingham
@@ -204,7 +204,7 @@ images:
     flickr_id: "24731848"
     flickr_secret: "37503e5259"
   - 
-    image: /assets/photos/24731695_917042dd8d_o.jpg
+    image: /assets/gallery/24731695_917042dd8d_o.jpg
     title: Just Past 5
     tags:
       - birmingham
@@ -226,7 +226,7 @@ images:
     flickr_id: "24731695"
     flickr_secret: 917042dd8d
   - 
-    image: /assets/photos/24731154_a618531cc1_o.jpg
+    image: /assets/gallery/24731154_a618531cc1_o.jpg
     title: St. Martins
     tags:
       - birmingham
@@ -248,7 +248,7 @@ images:
     flickr_id: "24731154"
     flickr_secret: a618531cc1
   - 
-    image: /assets/photos/24731367_3e918d319c_o.jpg
+    image: /assets/gallery/24731367_3e918d319c_o.jpg
     title: A Meteorite Fell...
     tags:
       - birmingham
@@ -273,7 +273,7 @@ images:
     flickr_id: "24731367"
     flickr_secret: 3e918d319c
   - 
-    image: /assets/photos/24731528_5d4db7d143_o.jpg
+    image: /assets/gallery/24731528_5d4db7d143_o.jpg
     title: The Rotunda
     tags:
       - birmingham
@@ -295,7 +295,7 @@ images:
     flickr_id: "24731528"
     flickr_secret: 5d4db7d143
   - 
-    image: /assets/photos/24730986_24344e3faa_o.jpg
+    image: /assets/gallery/24730986_24344e3faa_o.jpg
     title: Apple is Big in Birmingham
     tags:
       - birmingham
@@ -317,7 +317,7 @@ images:
     flickr_id: "24730986"
     flickr_secret: 24344e3faa
   - 
-    image: /assets/photos/24730549_d7e7442f4b_o.jpg
+    image: /assets/gallery/24730549_d7e7442f4b_o.jpg
     title: Moor Street Station
     tags:
       - birmingham

@@ -1,6 +1,6 @@
 ---
 title: Jan 13th — Stormy Weather
-image:
+images:
   - /assets/365/IMG_8161.jpg
   - /assets/365/IMG_8190.jpg
   - /assets/365/IMG_8211.jpg

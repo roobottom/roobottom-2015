@@ -1,6 +1,6 @@
 ---
 title: Jan 11th — Heat Gun
-image:
+images:
   - /assets/365/IMG_8058-20150111193709.jpg
   - /assets/365/IMG_8084.jpg
 tags:

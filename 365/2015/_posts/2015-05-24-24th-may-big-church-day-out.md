@@ -1,6 +1,6 @@
 ---
 title: 24th May — Big Church Day Out
-image: /assets/365/IMG_1810.jpg
+images: /assets/365/IMG_1810.jpg
 tags:
   - "365"
   - friends

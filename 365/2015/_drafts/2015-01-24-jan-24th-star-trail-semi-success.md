@@ -1,6 +1,6 @@
 ---
 title: Jan 24th — Star Trail Semi-Success
-image: /assets/365/StarStaX_IMG_8614-IMG_8633_lighten-2.jpg
+images: /assets/365/StarStaX_IMG_8614-IMG_8633_lighten-2.jpg
 tags:
   - "365"
   - Photography

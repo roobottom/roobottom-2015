@@ -1,6 +1,6 @@
 ---
 title: Feb 4th — Sleeping dogs lay
-image: /assets/365/IMG_9068.jpg
+images: /assets/365/IMG_9068.jpg
 tags:
   - "365"
   - Friends

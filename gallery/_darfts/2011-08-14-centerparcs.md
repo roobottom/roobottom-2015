@@ -4,7 +4,7 @@ cover: /assets/gallery/6046765855_456b0fba6a_o.jpg
 section: gallery
 images:
   - 
-    image: /assets/photos/6046765855_456b0fba6a_o.jpg
+    image: /assets/gallery/6046765855_456b0fba6a_o.jpg
     title: Our Gaf
     tags:
       - ""
@@ -23,7 +23,7 @@ images:
     flickr_id: "6046765855"
     flickr_secret: 294a4c0189
   - 
-    image: /assets/photos/6046767759_426237e0b2_o.jpg
+    image: /assets/gallery/6046767759_426237e0b2_o.jpg
     title: Some reflection thingy
     tags:
       - ""
@@ -42,7 +42,7 @@ images:
     flickr_id: "6046767759"
     flickr_secret: 1e00e00e86
   - 
-    image: /assets/photos/6047319448_e8760bc0cf_o.jpg
+    image: /assets/gallery/6047319448_e8760bc0cf_o.jpg
     title: 'Mil & Katie'
     tags:
       - ""
@@ -61,7 +61,7 @@ images:
     flickr_id: "6047319448"
     flickr_secret: bbe8f3fafb
   - 
-    image: /assets/photos/6047323146_be4d059637_o.jpg
+    image: /assets/gallery/6047323146_be4d059637_o.jpg
     title: Sellwood Girls
     tags:
       - ""
@@ -80,7 +80,7 @@ images:
     flickr_id: "6047323146"
     flickr_secret: 596c0f108d
   - 
-    image: /assets/photos/6047324992_67bd26d539_o.jpg
+    image: /assets/gallery/6047324992_67bd26d539_o.jpg
     title: Yum!
     tags:
       - ""
@@ -99,7 +99,7 @@ images:
     flickr_id: "6047324992"
     flickr_secret: a1da4c54d3
   - 
-    image: /assets/photos/6046777245_b390f0a7e9_o.jpg
+    image: /assets/gallery/6046777245_b390f0a7e9_o.jpg
     title: Cotton Love
     tags:
       - ""
@@ -118,7 +118,7 @@ images:
     flickr_id: "6046777245"
     flickr_secret: e2728f5ae1
   - 
-    image: /assets/photos/6046778703_ffc64e3e70_o.jpg
+    image: /assets/gallery/6046778703_ffc64e3e70_o.jpg
     title: Moca-froppa-choca-chino ... gone
     tags:
       - ""
@@ -137,7 +137,7 @@ images:
     flickr_id: "6046778703"
     flickr_secret: 6d7c0eea9f
   - 
-    image: /assets/photos/6047330190_916275d029_o.jpg
+    image: /assets/gallery/6047330190_916275d029_o.jpg
     title: Whoops!
     tags:
       - ""
@@ -156,7 +156,7 @@ images:
     flickr_id: "6047330190"
     flickr_secret: cc808c9e62
   - 
-    image: /assets/photos/6046783073_cb4a536b90_o.jpg
+    image: /assets/gallery/6046783073_cb4a536b90_o.jpg
     title: Little man youve had a busy day
     tags:
       - ""
@@ -175,7 +175,7 @@ images:
     flickr_id: "6046783073"
     flickr_secret: b8fd675897
   - 
-    image: /assets/photos/6047339590_146326d4dc_o.jpg
+    image: /assets/gallery/6047339590_146326d4dc_o.jpg
     title: Molly
     tags:
       - ""
@@ -194,7 +194,7 @@ images:
     flickr_id: "6047339590"
     flickr_secret: edeec6e6be
   - 
-    image: /assets/photos/6046792223_c8ede0b8c4_o.jpg
+    image: /assets/gallery/6046792223_c8ede0b8c4_o.jpg
     title: Sauna
     tags:
       - ""
@@ -213,7 +213,7 @@ images:
     flickr_id: "6046792223"
     flickr_secret: 381c183f8f
   - 
-    image: /assets/photos/6046793637_3dc5b06a3d_o.jpg
+    image: /assets/gallery/6046793637_3dc5b06a3d_o.jpg
     title: WHAT is that?!
     tags:
       - ""
@@ -232,7 +232,7 @@ images:
     flickr_id: "6046793637"
     flickr_secret: a41622f36e
   - 
-    image: /assets/photos/6047344522_1371c901ec_o.jpg
+    image: /assets/gallery/6047344522_1371c901ec_o.jpg
     title: the floating man
     tags:
       - ""

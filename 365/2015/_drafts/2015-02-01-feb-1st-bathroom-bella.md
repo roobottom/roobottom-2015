@@ -1,6 +1,6 @@
 ---
 title: Feb 1st — Bathroom Bella
-image: /assets/365/IMG_9030.jpg
+images: /assets/365/IMG_9030.jpg
 tags:
   - "365"
   - pets

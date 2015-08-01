@@ -1,6 +1,6 @@
 ---
 title: April 30th — Waiting
-image: /assets/365/IMG_1226.jpg
+images: /assets/365/IMG_1226.jpg
 tags:
   - "365"
   - family

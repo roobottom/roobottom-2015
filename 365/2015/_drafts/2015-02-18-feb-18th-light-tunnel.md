@@ -1,6 +1,6 @@
 ---
 title: Feb 18th — Light Tunnel
-image: /assets/365/IMG_9411.jpg
+images: /assets/365/IMG_9411.jpg
 tags:
   - "365"
   - Light Painting

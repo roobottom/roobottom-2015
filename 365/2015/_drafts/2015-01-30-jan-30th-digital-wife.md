@@ -1,6 +1,6 @@
 ---
 title: Jan 30th — Digital Wife
-image: /assets/365/IMG_8787.jpg
+images: /assets/365/IMG_8787.jpg
 tags:
   - "365"
   - light painting

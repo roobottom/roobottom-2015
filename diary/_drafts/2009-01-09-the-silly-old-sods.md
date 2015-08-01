@@ -6,7 +6,7 @@ tags:
   - family
 images:
   - 
-    image: /assets/blog/images/Silly-Old-Sod-travels-around-the-country-on-a-bus-pass-03-04-13.jpg
+    image: /assets/diary/Silly-Old-Sod-travels-around-the-country-on-a-bus-pass-03-04-13.jpg
     caption: Uncle Bill and his mate Dave
     set: sos
 ---

@@ -4,7 +4,7 @@ cover: /assets/gallery/5947487118_54ea6942e6_o.jpg
 section: gallery
 images:
   - 
-    image: /assets/photos/5947487118_54ea6942e6_o.jpg
+    image: /assets/gallery/5947487118_54ea6942e6_o.jpg
     title: Coed y Brenin 2011
     tags:
       - ""
@@ -23,7 +23,7 @@ images:
     flickr_id: "5947487118"
     flickr_secret: 57b995afbd
   - 
-    image: /assets/photos/5946935289_85cae49267_o.jpg
+    image: /assets/gallery/5946935289_85cae49267_o.jpg
     title: Coed y Brenin 2011
     tags:
       - ""
@@ -42,7 +42,7 @@ images:
     flickr_id: "5946935289"
     flickr_secret: 88a96c6d3b
   - 
-    image: /assets/photos/5946939183_a3090550b5_o.jpg
+    image: /assets/gallery/5946939183_a3090550b5_o.jpg
     title: Coed y Brenin 2011
     tags:
       - ""
@@ -61,7 +61,7 @@ images:
     flickr_id: "5946939183"
     flickr_secret: 382ca3986a
   - 
-    image: /assets/photos/5946941347_77c607be27_o.jpg
+    image: /assets/gallery/5946941347_77c607be27_o.jpg
     title: Coed y Brenin 2011
     tags:
       - ""
@@ -80,7 +80,7 @@ images:
     flickr_id: "5946941347"
     flickr_secret: b0a0cc0477
   - 
-    image: /assets/photos/5946943895_338f6e7694_o.jpg
+    image: /assets/gallery/5946943895_338f6e7694_o.jpg
     title: Coed y Brenin 2011
     tags:
       - ""
@@ -99,7 +99,7 @@ images:
     flickr_id: "5946943895"
     flickr_secret: 95df30513a
   - 
-    image: /assets/photos/5947499452_46dda4cf32_o.jpg
+    image: /assets/gallery/5947499452_46dda4cf32_o.jpg
     title: Coed y Brenin 2011
     tags:
       - ""
@@ -118,7 +118,7 @@ images:
     flickr_id: "5947499452"
     flickr_secret: 9269f7a55a
   - 
-    image: /assets/photos/5946947663_035d9ac444_o.jpg
+    image: /assets/gallery/5946947663_035d9ac444_o.jpg
     title: Coed y Brenin 2011
     tags:
       - ""
@@ -137,7 +137,7 @@ images:
     flickr_id: "5946947663"
     flickr_secret: 2ddae9c1ce
   - 
-    image: /assets/photos/5946948501_365f70188c_o.jpg
+    image: /assets/gallery/5946948501_365f70188c_o.jpg
     title: Coed y Brenin 2011
     tags:
       - ""
@@ -156,7 +156,7 @@ images:
     flickr_id: "5946948501"
     flickr_secret: 2d9122db7e
   - 
-    image: /assets/photos/5946950745_d3834c8904_o.jpg
+    image: /assets/gallery/5946950745_d3834c8904_o.jpg
     title: Coed y Brenin 2011
     tags:
       - ""
@@ -175,7 +175,7 @@ images:
     flickr_id: "5946950745"
     flickr_secret: 09ebe30565
   - 
-    image: /assets/photos/5947505286_575e80959c_o.jpg
+    image: /assets/gallery/5947505286_575e80959c_o.jpg
     title: Coed y Brenin 2011
     tags:
       - ""

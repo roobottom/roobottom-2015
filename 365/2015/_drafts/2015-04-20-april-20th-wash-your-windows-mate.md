@@ -1,6 +1,6 @@
 ---
 title: 'April 20th — Wash your windows mate? '
-image:
+images:
   - /assets/365/IMG_1103.jpg
   - /assets/365/IMG_1100.jpg
   - /assets/365/IMG_1109.jpg

@@ -1,6 +1,6 @@
 ---
 title: Jan 6th — Brighton Calling
-image: /assets/365/IMG_7634.jpg
+images: /assets/365/IMG_7634.jpg
 tags:
   - "365"
   - work

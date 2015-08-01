@@ -6,7 +6,7 @@ tags:
 cover: /assets/blog/covers/2048.jpg
 images:
   - 
-    image: /assets/blog/images/2048.jpg
+    image: /assets/diary/2048.jpg
     caption: Katie, growing a brand new roo.
     set: the_kid
 introduction: "I'm excited and emotional. What's got me into such a tizzy you ask? Well, a few weeks ago Katie and I discovered we we're going to have a baby. A brand new Roo, if you will."

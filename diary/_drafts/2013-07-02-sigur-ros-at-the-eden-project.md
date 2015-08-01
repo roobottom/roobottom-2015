@@ -8,11 +8,11 @@ tags:
 cover: /assets/blog/covers/sigur_ros_1.jpg
 images:
   - 
-    image: /assets/blog/images/sigur_ros_1.jpg
+    image: /assets/diary/sigur_ros_1.jpg
     caption: Sigur Ros and their amazing light show
     set: sigur_1
   - 
-    image: /assets/blog/images/sigur_ros_2.jpg
+    image: /assets/diary/sigur_ros_2.jpg
     caption: "Eden's beautiful biomes at night"
     set: sigur_2
 ---

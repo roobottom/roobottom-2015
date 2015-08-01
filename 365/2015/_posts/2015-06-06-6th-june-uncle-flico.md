@@ -1,6 +1,6 @@
 ---
 title: 6th June — Uncle Flico
-image:
+images:
   - /assets/365/IMG_8508.JPG
   - /assets/365/IMG_8505.JPG
 tags:

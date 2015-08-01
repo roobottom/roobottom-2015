@@ -4,7 +4,7 @@ cover: /assets/gallery/123951072_e9a65b1b7f_o.jpg
 section: gallery
 images:
   - 
-    image: /assets/photos/123951072_e9a65b1b7f_o.jpg
+    image: /assets/gallery/123951072_e9a65b1b7f_o.jpg
     title: Kiss Those Chips
     tags:
       - friends
@@ -26,7 +26,7 @@ images:
     flickr_id: "123951072"
     flickr_secret: e9a65b1b7f
   - 
-    image: /assets/photos/123951421_718a9b316b_o.jpg
+    image: /assets/gallery/123951421_718a9b316b_o.jpg
     title: Hannahs Plan
     tags:
       - friends
@@ -48,7 +48,7 @@ images:
     flickr_id: "123951421"
     flickr_secret: 718a9b316b
   - 
-    image: /assets/photos/123951703_90dd2868da_o.jpg
+    image: /assets/gallery/123951703_90dd2868da_o.jpg
     title: Steve
     tags:
       - friends
@@ -70,7 +70,7 @@ images:
     flickr_id: "123951703"
     flickr_secret: 90dd2868da
   - 
-    image: /assets/photos/125093020_fb6ad4ee15_o.jpg
+    image: /assets/gallery/125093020_fb6ad4ee15_o.jpg
     title: 'Stage 1: Throw in some Chicken'
     tags:
       - food
@@ -92,7 +92,7 @@ images:
     flickr_id: "125093020"
     flickr_secret: fb6ad4ee15
   - 
-    image: /assets/photos/125093322_a710eb64ca_o.jpg
+    image: /assets/gallery/125093322_a710eb64ca_o.jpg
     title: 'Stage 2: Add the contents of the Stir Fry Box'
     tags:
       - food
@@ -114,7 +114,7 @@ images:
     flickr_id: "125093322"
     flickr_secret: a710eb64ca
   - 
-    image: /assets/photos/125093703_7b701467fa_o.jpg
+    image: /assets/gallery/125093703_7b701467fa_o.jpg
     title: 'Stage 3: Eat The Mother!'
     tags:
       - food
@@ -136,7 +136,7 @@ images:
     flickr_id: "125093703"
     flickr_secret: 7b701467fa
   - 
-    image: /assets/photos/133798798_7e7de9dde8_o.jpg
+    image: /assets/gallery/133798798_7e7de9dde8_o.jpg
     title: Corner People (9:12pm)
     tags:
       - ""
@@ -155,7 +155,7 @@ images:
     flickr_id: "133798798"
     flickr_secret: 7e7de9dde8
   - 
-    image: /assets/photos/133796330_289abb6424_o.jpg
+    image: /assets/gallery/133796330_289abb6424_o.jpg
     title: Spoon Science
     tags:
       - ""
@@ -174,7 +174,7 @@ images:
     flickr_id: "133796330"
     flickr_secret: 289abb6424
   - 
-    image: /assets/photos/133795974_f963b7bac6_o.jpg
+    image: /assets/gallery/133795974_f963b7bac6_o.jpg
     title: Small Wound
     tags:
       - ""
@@ -193,7 +193,7 @@ images:
     flickr_id: "133795974"
     flickr_secret: f963b7bac6
   - 
-    image: /assets/photos/111859193_b2216573cc_o.jpg
+    image: /assets/gallery/111859193_b2216573cc_o.jpg
     title: New House!!
     tags:
       - friends

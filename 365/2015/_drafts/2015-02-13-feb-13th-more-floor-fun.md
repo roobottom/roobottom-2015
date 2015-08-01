@@ -1,6 +1,6 @@
 ---
 title: Feb 13th — More Floor Fun
-image: /assets/365/IMG_9257.jpg
+images: /assets/365/IMG_9257.jpg
 tags:
   - "365"
   - Home

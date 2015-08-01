@@ -1,6 +1,6 @@
 ---
 title: April 4th — Albie
-image: /assets/365/IMG_0624.jpg
+images: /assets/365/IMG_0624.jpg
 tags:
   - "365"
   - family

@@ -1,6 +1,6 @@
 ---
 title: 10th July — Moon Rise
-image: /assets/365/IMG_2798.jpg
+images: /assets/365/IMG_2798.jpg
 tags:
   - "365"
   - photography

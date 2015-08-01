@@ -4,7 +4,7 @@ cover: /assets/gallery/246535880_668cb9e090_o.jpg
 section: gallery
 images:
   - 
-    image: /assets/photos/246535880_668cb9e090_o.jpg
+    image: /assets/gallery/246535880_668cb9e090_o.jpg
     title: beauty and the chin
     tags:
       - uk
@@ -26,7 +26,7 @@ images:
     flickr_id: "246535880"
     flickr_secret: 668cb9e090
   - 
-    image: /assets/photos/246535043_ea98a02892_o.jpg
+    image: /assets/gallery/246535043_ea98a02892_o.jpg
     title: we paid a quid to walk up this hill.
     tags:
       - uk
@@ -48,7 +48,7 @@ images:
     flickr_id: "246535043"
     flickr_secret: ea98a02892
   - 
-    image: /assets/photos/246534250_6c1b9000d2_o.jpg
+    image: /assets/gallery/246534250_6c1b9000d2_o.jpg
     title: a virgin emerges
     tags:
       - oxford
@@ -70,7 +70,7 @@ images:
     flickr_id: "246534250"
     flickr_secret: 6c1b9000d2
   - 
-    image: /assets/photos/246533419_e65d66d6ca_o.jpg
+    image: /assets/gallery/246533419_e65d66d6ca_o.jpg
     title: on top of old smokey
     tags:
       - uk
@@ -92,7 +92,7 @@ images:
     flickr_id: "246533419"
     flickr_secret: e65d66d6ca
   - 
-    image: /assets/photos/246533128_8748715597_o.jpg
+    image: /assets/gallery/246533128_8748715597_o.jpg
     title: primark-proud
     tags:
       - uk
@@ -114,7 +114,7 @@ images:
     flickr_id: "246533128"
     flickr_secret: "8748715597"
   - 
-    image: /assets/photos/246532525_7f3f5cbd6e_o.jpg
+    image: /assets/gallery/246532525_7f3f5cbd6e_o.jpg
     title: texting over-expose
     tags:
       - uk
@@ -136,7 +136,7 @@ images:
     flickr_id: "246532525"
     flickr_secret: 7f3f5cbd6e
   - 
-    image: /assets/photos/248930558_e596eddece_o.jpg
+    image: /assets/gallery/248930558_e596eddece_o.jpg
     title: Barge-Doors
     tags:
       - uk
@@ -159,7 +159,7 @@ images:
     flickr_id: "248930558"
     flickr_secret: e596eddece
   - 
-    image: /assets/photos/248930914_4029172230_o.jpg
+    image: /assets/gallery/248930914_4029172230_o.jpg
     title: Water Water Everywhere and Not a Drop to Drink
     tags:
       - uk
@@ -182,7 +182,7 @@ images:
     flickr_id: "248930914"
     flickr_secret: "4029172230"
   - 
-    image: /assets/photos/248931336_12957e8f64_o.jpg
+    image: /assets/gallery/248931336_12957e8f64_o.jpg
     title: Over The Bridge
     tags:
       - uk
@@ -205,7 +205,7 @@ images:
     flickr_id: "248931336"
     flickr_secret: 12957e8f64
   - 
-    image: /assets/photos/248931687_8147cb852b_o.jpg
+    image: /assets/gallery/248931687_8147cb852b_o.jpg
     title: Oxford Public Transport
     tags:
       - uk
@@ -228,7 +228,7 @@ images:
     flickr_id: "248931687"
     flickr_secret: 8147cb852b
   - 
-    image: /assets/photos/248932086_96e989a624_o.jpg
+    image: /assets/gallery/248932086_96e989a624_o.jpg
     title: Christ College
     tags:
       - uk
@@ -251,7 +251,7 @@ images:
     flickr_id: "248932086"
     flickr_secret: 96e989a624
   - 
-    image: /assets/photos/248932419_d407b0b322_o.jpg
+    image: /assets/gallery/248932419_d407b0b322_o.jpg
     title: Alpha In Oxford
     tags:
       - uk
@@ -274,7 +274,7 @@ images:
     flickr_id: "248932419"
     flickr_secret: d407b0b322
   - 
-    image: /assets/photos/248932740_59fbbf8edf_o.jpg
+    image: /assets/gallery/248932740_59fbbf8edf_o.jpg
     title: A Nice Building
     tags:
       - uk
@@ -297,7 +297,7 @@ images:
     flickr_id: "248932740"
     flickr_secret: 59fbbf8edf
   - 
-    image: /assets/photos/248933066_e9e279d26a_o.jpg
+    image: /assets/gallery/248933066_e9e279d26a_o.jpg
     title: Primak Revisited
     tags:
       - uk
@@ -320,7 +320,7 @@ images:
     flickr_id: "248933066"
     flickr_secret: e9e279d26a
   - 
-    image: /assets/photos/248933299_638b1875be_o.jpg
+    image: /assets/gallery/248933299_638b1875be_o.jpg
     title: Silhouette
     tags:
       - uk
@@ -343,7 +343,7 @@ images:
     flickr_id: "248933299"
     flickr_secret: 638b1875be
   - 
-    image: /assets/photos/248933596_d1f83da537_o.jpg
+    image: /assets/gallery/248933596_d1f83da537_o.jpg
     title: 'Cheesy Grin & Alice'
     tags:
       - uk

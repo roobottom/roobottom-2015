@@ -1,6 +1,6 @@
 ---
 title: March 1st — Lego
-image: /assets/365/IMG_9831.jpg
+images: /assets/365/IMG_9831.jpg
 tags:
   - "365"
   - Toys

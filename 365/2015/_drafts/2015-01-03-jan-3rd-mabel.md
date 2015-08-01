@@ -1,6 +1,6 @@
 ---
 title: Jan 3rd — Mabel
-image: /assets/365/IMG_8117.JPG
+images: /assets/365/IMG_8117.JPG
 tags:
   - "365"
   - friends

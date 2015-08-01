@@ -1,6 +1,6 @@
 ---
 title: May 4th — Goodbye Archice
-image: /assets/365/IMG_1397.jpg
+images: /assets/365/IMG_1397.jpg
 tags:
   - "365"
   - campervan

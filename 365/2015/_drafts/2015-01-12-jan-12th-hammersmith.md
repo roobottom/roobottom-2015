@@ -1,6 +1,6 @@
 ---
 title: Jan 12th — Hammersmith
-image: /assets/365/IMG_8113.jpg
+images: /assets/365/IMG_8113.jpg
 tags:
   - "365"
   - Work

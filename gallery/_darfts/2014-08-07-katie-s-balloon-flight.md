@@ -4,7 +4,7 @@ cover: /assets/gallery/15257294746_95f50d8e3b_o.jpg
 section: gallery
 images:
   - 
-    image: /assets/photos/15257294746_95f50d8e3b_o.jpg
+    image: /assets/gallery/15257294746_95f50d8e3b_o.jpg
     title: Katie and Lisa go flying
     tags:
       - jon
@@ -26,7 +26,7 @@ images:
     flickr_id: "15257294746"
     flickr_secret: 5b5b56c29e
   - 
-    image: /assets/photos/15257296826_3e81bf1248_o.jpg
+    image: /assets/gallery/15257296826_3e81bf1248_o.jpg
     title: Katie and Lisa go flying
     tags:
       - jon
@@ -48,7 +48,7 @@ images:
     flickr_id: "15257296826"
     flickr_secret: de081eb9f4
   - 
-    image: /assets/photos/15257298976_d750a5010d_o.jpg
+    image: /assets/gallery/15257298976_d750a5010d_o.jpg
     title: Katie and Lisa go flying
     tags:
       - jon
@@ -70,7 +70,7 @@ images:
     flickr_id: "15257298976"
     flickr_secret: 570fd70e90
   - 
-    image: /assets/photos/15280321565_cbd489bb8d_o.jpg
+    image: /assets/gallery/15280321565_cbd489bb8d_o.jpg
     title: Katie and Lisa go flying
     tags:
       - jon
@@ -92,7 +92,7 @@ images:
     flickr_id: "15280321565"
     flickr_secret: abd3320c12
   - 
-    image: /assets/photos/15093760807_8ca19e1833_o.jpg
+    image: /assets/gallery/15093760807_8ca19e1833_o.jpg
     title: Katie and Lisa go flying
     tags:
       - jon
@@ -114,7 +114,7 @@ images:
     flickr_id: "15093760807"
     flickr_secret: 2d68f6ea1c
   - 
-    image: /assets/photos/15277191271_8def86b75e_o.jpg
+    image: /assets/gallery/15277191271_8def86b75e_o.jpg
     title: Katie and Lisa go flying
     tags:
       - jon
@@ -136,7 +136,7 @@ images:
     flickr_id: "15277191271"
     flickr_secret: 08402441cc
   - 
-    image: /assets/photos/15093618010_fd204d0554_o.jpg
+    image: /assets/gallery/15093618010_fd204d0554_o.jpg
     title: Katie and Lisa go flying
     tags:
       - jon
@@ -158,7 +158,7 @@ images:
     flickr_id: "15093618010"
     flickr_secret: eaae6cf020
   - 
-    image: /assets/photos/15257307906_309f00a8b4_o.jpg
+    image: /assets/gallery/15257307906_309f00a8b4_o.jpg
     title: Katie and Lisa go flying
     tags:
       - jon
@@ -180,7 +180,7 @@ images:
     flickr_id: "15257307906"
     flickr_secret: b1f91f5ec1
   - 
-    image: /assets/photos/15093567889_7d2a89e9f3_o.jpg
+    image: /assets/gallery/15093567889_7d2a89e9f3_o.jpg
     title: Katie and Lisa go flying
     tags:
       - jon
@@ -202,7 +202,7 @@ images:
     flickr_id: "15093567889"
     flickr_secret: a20743e7cc
   - 
-    image: /assets/photos/15093623350_51bf98e540_o.jpg
+    image: /assets/gallery/15093623350_51bf98e540_o.jpg
     title: Katie and Lisa go flying
     tags:
       - jon
@@ -224,7 +224,7 @@ images:
     flickr_id: "15093623350"
     flickr_secret: 18a2b66e9e
   - 
-    image: /assets/photos/15093771997_b99e41dd3e_o.jpg
+    image: /assets/gallery/15093771997_b99e41dd3e_o.jpg
     title: Katie and Lisa go flying
     tags:
       - jon
@@ -246,7 +246,7 @@ images:
     flickr_id: "15093771997"
     flickr_secret: 3848aed3d5
   - 
-    image: /assets/photos/15277202231_d1a18212df_o.jpg
+    image: /assets/gallery/15277202231_d1a18212df_o.jpg
     title: Katie and Lisa go flying
     tags:
       - jon
@@ -268,7 +268,7 @@ images:
     flickr_id: "15277202231"
     flickr_secret: cd3f6cb0ce
   - 
-    image: /assets/photos/15279939752_d00e22c7b5_o.jpg
+    image: /assets/gallery/15279939752_d00e22c7b5_o.jpg
     title: Katie and Lisa go flying
     tags:
       - jon
@@ -290,7 +290,7 @@ images:
     flickr_id: "15279939752"
     flickr_secret: 2c912c77d1
   - 
-    image: /assets/photos/15093766798_695a446f35_o.jpg
+    image: /assets/gallery/15093766798_695a446f35_o.jpg
     title: Katie and Lisa go flying
     tags:
       - jon
@@ -312,7 +312,7 @@ images:
     flickr_id: "15093766798"
     flickr_secret: d4ebd2b21c
   - 
-    image: /assets/photos/15257321976_d67c9d0df6_o.jpg
+    image: /assets/gallery/15257321976_d67c9d0df6_o.jpg
     title: Katie and Lisa go flying
     tags:
       - jon
@@ -334,7 +334,7 @@ images:
     flickr_id: "15257321976"
     flickr_secret: 2bba61c87d
   - 
-    image: /assets/photos/15093582099_b7c9ea09fa_o.jpg
+    image: /assets/gallery/15093582099_b7c9ea09fa_o.jpg
     title: Katie and Lisa go flying
     tags:
       - jon
@@ -356,7 +356,7 @@ images:
     flickr_id: "15093582099"
     flickr_secret: 567dde8f3c
   - 
-    image: /assets/photos/15273508691_3005723901_o.jpg
+    image: /assets/gallery/15273508691_3005723901_o.jpg
     title: Katie and Lisa go flying
     tags:
       - jon
@@ -378,7 +378,7 @@ images:
     flickr_id: "15273508691"
     flickr_secret: b805b7ba79
   - 
-    image: /assets/photos/15273581531_a20c4b8261_o.jpg
+    image: /assets/gallery/15273581531_a20c4b8261_o.jpg
     title: Katie and Lisa go flying
     tags:
       - jon
@@ -400,7 +400,7 @@ images:
     flickr_id: "15273581531"
     flickr_secret: 8df02f8704
   - 
-    image: /assets/photos/15090159408_5353149542_o.jpg
+    image: /assets/gallery/15090159408_5353149542_o.jpg
     title: Katie and Lisa go flying
     tags:
       - jon

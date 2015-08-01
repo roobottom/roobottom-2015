@@ -4,7 +4,7 @@ cover: /assets/gallery/15069965229_c823b82091_o.jpg
 section: gallery
 images:
   - 
-    image: /assets/photos/15069965229_c823b82091_o.jpg
+    image: /assets/gallery/15069965229_c823b82091_o.jpg
     title: Waking up in the van
     tags:
       - holiday
@@ -26,7 +26,7 @@ images:
     flickr_id: "15069965229"
     flickr_secret: 9f188dcda1
   - 
-    image: /assets/photos/15070160677_620dcbdcab_o.jpg
+    image: /assets/gallery/15070160677_620dcbdcab_o.jpg
     title: Campsite in Germany
     tags:
       - holiday
@@ -48,7 +48,7 @@ images:
     flickr_id: "15070160677"
     flickr_secret: 0204ecc8dd
   - 
-    image: /assets/photos/15070040000_26d38b1c60_o.jpg
+    image: /assets/gallery/15070040000_26d38b1c60_o.jpg
     title: Campsite in Germany
     tags:
       - holiday
@@ -70,7 +70,7 @@ images:
     flickr_id: "15070040000"
     flickr_secret: f8ee261edb
   - 
-    image: /assets/photos/15070167138_6c51af39d2_o.jpg
+    image: /assets/gallery/15070167138_6c51af39d2_o.jpg
     title: Baden Banden
     tags:
       - holiday
@@ -92,7 +92,7 @@ images:
     flickr_id: "15070167138"
     flickr_secret: fbaf3597ae
   - 
-    image: /assets/photos/15253632661_2d5691cbc1_o.jpg
+    image: /assets/gallery/15253632661_2d5691cbc1_o.jpg
     title: Baden Banden
     tags:
       - holiday
@@ -114,7 +114,7 @@ images:
     flickr_id: "15253632661"
     flickr_secret: ecf37f7555
   - 
-    image: /assets/photos/15069972609_18e099bf3f_o.jpg
+    image: /assets/gallery/15069972609_18e099bf3f_o.jpg
     title: The lake at the campsite
     tags:
       - holiday
@@ -136,7 +136,7 @@ images:
     flickr_id: "15069972609"
     flickr_secret: 1a1e00342a
   - 
-    image: /assets/photos/15069974859_1de68d86de_o.jpg
+    image: /assets/gallery/15069974859_1de68d86de_o.jpg
     title: The lake at the campsite
     tags:
       - holiday
@@ -158,7 +158,7 @@ images:
     flickr_id: "15069974859"
     flickr_secret: 3c9368696a
   - 
-    image: /assets/photos/15070047570_1aebfbb658_o.jpg
+    image: /assets/gallery/15070047570_1aebfbb658_o.jpg
     title: Eye-eye
     tags:
       - holiday
@@ -180,7 +180,7 @@ images:
     flickr_id: "15070047570"
     flickr_secret: 25b4172394
   - 
-    image: /assets/photos/15070048960_da3a2d0d30_o.jpg
+    image: /assets/gallery/15070048960_da3a2d0d30_o.jpg
     title: Bühl
     tags:
       - holiday
@@ -202,7 +202,7 @@ images:
     flickr_id: "15070048960"
     flickr_secret: "4563077758"
   - 
-    image: /assets/photos/15253639721_83f4a3fec7_o.jpg
+    image: /assets/gallery/15253639721_83f4a3fec7_o.jpg
     title: Bühl
     tags:
       - holiday
@@ -224,7 +224,7 @@ images:
     flickr_id: "15253639721"
     flickr_secret: 5c2c01d29e
   - 
-    image: /assets/photos/15070177078_225279ff0e_o.jpg
+    image: /assets/gallery/15070177078_225279ff0e_o.jpg
     title: On the road to Salzburg
     tags:
       - holiday
@@ -246,7 +246,7 @@ images:
     flickr_id: "15070177078"
     flickr_secret: 4b29ffdd8a
   - 
-    image: /assets/photos/15256736245_0ed34fafc7_o.jpg
+    image: /assets/gallery/15256736245_0ed34fafc7_o.jpg
     title: On the road to Salzburg
     tags:
       - holiday
@@ -268,7 +268,7 @@ images:
     flickr_id: "15256736245"
     flickr_secret: "69367634e5"
   - 
-    image: /assets/photos/15256347162_3179d4878d_o.jpg
+    image: /assets/gallery/15256347162_3179d4878d_o.jpg
     title: Evening Drinks
     tags:
       - holiday
@@ -290,7 +290,7 @@ images:
     flickr_id: "15256347162"
     flickr_secret: c80daaef9c
   - 
-    image: /assets/photos/15070181778_60470b53ba_o.jpg
+    image: /assets/gallery/15070181778_60470b53ba_o.jpg
     title: Exploring Salzberg
     tags:
       - holiday
@@ -312,7 +312,7 @@ images:
     flickr_id: "15070181778"
     flickr_secret: 5f9e0d8cfa
   - 
-    image: /assets/photos/15256740665_2fb741b675_o.jpg
+    image: /assets/gallery/15256740665_2fb741b675_o.jpg
     title: Exploring Salzberg
     tags:
       - holiday
@@ -334,7 +334,7 @@ images:
     flickr_id: "15256740665"
     flickr_secret: fd83f11231
   - 
-    image: /assets/photos/15256743145_f965c12cc9_o.jpg
+    image: /assets/gallery/15256743145_f965c12cc9_o.jpg
     title: Exploring Salzberg
     tags:
       - holiday
@@ -356,7 +356,7 @@ images:
     flickr_id: "15256743145"
     flickr_secret: 4069da57a4
   - 
-    image: /assets/photos/15070186768_bd1df8bf51_o.jpg
+    image: /assets/gallery/15070186768_bd1df8bf51_o.jpg
     title: Exploring Salzberg
     tags:
       - holiday
@@ -378,7 +378,7 @@ images:
     flickr_id: "15070186768"
     flickr_secret: 4b1a1f1faf
   - 
-    image: /assets/photos/15070183957_bcc163954e_o.jpg
+    image: /assets/gallery/15070183957_bcc163954e_o.jpg
     title: Exploring Salzberg
     tags:
       - holiday
@@ -400,7 +400,7 @@ images:
     flickr_id: "15070183957"
     flickr_secret: 9d5bcb847b
   - 
-    image: /assets/photos/15070063990_2dba789b88_o.jpg
+    image: /assets/gallery/15070063990_2dba789b88_o.jpg
     title: Exploring Salzberg
     tags:
       - holiday
@@ -422,7 +422,7 @@ images:
     flickr_id: "15070063990"
     flickr_secret: 72ca7bb208
   - 
-    image: /assets/photos/15256749155_0e126bb7e1_o.jpg
+    image: /assets/gallery/15256749155_0e126bb7e1_o.jpg
     title: Exploring Salzberg
     tags:
       - holiday
@@ -444,7 +444,7 @@ images:
     flickr_id: "15256749155"
     flickr_secret: 50915d0738
   - 
-    image: /assets/photos/15069995909_efe5343507_o.jpg
+    image: /assets/gallery/15069995909_efe5343507_o.jpg
     title: Exploring Salzberg
     tags:
       - holiday
@@ -466,7 +466,7 @@ images:
     flickr_id: "15069995909"
     flickr_secret: 871f5de984
   - 
-    image: /assets/photos/15069997249_d56f5283dd_o.jpg
+    image: /assets/gallery/15069997249_d56f5283dd_o.jpg
     title: Exploring Salzberg
     tags:
       - holiday
@@ -488,7 +488,7 @@ images:
     flickr_id: "15069997249"
     flickr_secret: 3cea8fb3e2
   - 
-    image: /assets/photos/15233746106_7573f1a8c5_o.jpg
+    image: /assets/gallery/15233746106_7573f1a8c5_o.jpg
     title: Exploring Salzberg
     tags:
       - holiday
@@ -510,7 +510,7 @@ images:
     flickr_id: "15233746106"
     flickr_secret: 4635162f37
   - 
-    image: /assets/photos/15070071570_2952f94b11_o.jpg
+    image: /assets/gallery/15070071570_2952f94b11_o.jpg
     title: Exploring Salzberg
     tags:
       - holiday
@@ -532,7 +532,7 @@ images:
     flickr_id: "15070071570"
     flickr_secret: 248a193708
   - 
-    image: /assets/photos/15070001559_dc5db6ac8e_o.jpg
+    image: /assets/gallery/15070001559_dc5db6ac8e_o.jpg
     title: Exploring Salzberg
     tags:
       - holiday
@@ -554,7 +554,7 @@ images:
     flickr_id: "15070001559"
     flickr_secret: 5f1ff32b8e
   - 
-    image: /assets/photos/15070002669_4e58c97b44_o.jpg
+    image: /assets/gallery/15070002669_4e58c97b44_o.jpg
     title: Exploring Salzberg
     tags:
       - holiday
@@ -576,7 +576,7 @@ images:
     flickr_id: "15070002669"
     flickr_secret: 1ca69491ed
   - 
-    image: /assets/photos/15070201698_730d9189be_o.jpg
+    image: /assets/gallery/15070201698_730d9189be_o.jpg
     title: Exploring Salzberg
     tags:
       - holiday
@@ -598,7 +598,7 @@ images:
     flickr_id: "15070201698"
     flickr_secret: f35da91d92
   - 
-    image: /assets/photos/15233753096_c5d53167b9_o.jpg
+    image: /assets/gallery/15233753096_c5d53167b9_o.jpg
     title: The Salzburg campsite
     tags:
       - holiday
@@ -620,7 +620,7 @@ images:
     flickr_id: "15233753096"
     flickr_secret: 9ca7ede015
   - 
-    image: /assets/photos/15070007389_cce08e606f_o.jpg
+    image: /assets/gallery/15070007389_cce08e606f_o.jpg
     title: The Salzburg campsite
     tags:
       - holiday
@@ -642,7 +642,7 @@ images:
     flickr_id: "15070007389"
     flickr_secret: c189429acf
   - 
-    image: /assets/photos/15256372602_6540f445c4_o.jpg
+    image: /assets/gallery/15256372602_6540f445c4_o.jpg
     title: The Salzburg campsite
     tags:
       - holiday
@@ -664,7 +664,7 @@ images:
     flickr_id: "15256372602"
     flickr_secret: 6ec3653f11
   - 
-    image: /assets/photos/15253671301_9415822d6d_o.jpg
+    image: /assets/gallery/15253671301_9415822d6d_o.jpg
     title: On the road to Italy!
     tags:
       - holiday

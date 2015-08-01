@@ -1,6 +1,6 @@
 ---
 title: March 3rd — Technics Car
-image: /assets/365/IMG_9859.jpg
+images: /assets/365/IMG_9859.jpg
 tags:
   - "365"
   - Toys

@@ -1,6 +1,6 @@
 ---
 title: April 9th — Bingoing Mad
-image: /assets/365/IMG_8397.JPG
+images: /assets/365/IMG_8397.JPG
 tags:
   - "365"
   - friends

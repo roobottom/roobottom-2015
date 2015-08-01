@@ -1,6 +1,6 @@
 ---
 title: Feb 10th — Night Huts
-image: /assets/365/IMG_9162-Edit.jpg
+images: /assets/365/IMG_9162-Edit.jpg
 tags:
   - "365"
   - Light Painting

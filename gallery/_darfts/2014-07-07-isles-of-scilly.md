@@ -4,7 +4,7 @@ cover: /assets/gallery/15085392188_4b3aa86efc_o.jpg
 section: gallery
 images:
   - 
-    image: /assets/photos/15085392188_4b3aa86efc_o.jpg
+    image: /assets/gallery/15085392188_4b3aa86efc_o.jpg
     title: Isles of Scilly 2014
     tags:
       - ""
@@ -23,7 +23,7 @@ images:
     flickr_id: "15085392188"
     flickr_secret: e175252c6e
   - 
-    image: /assets/photos/15085250240_5eca85ed27_o.jpg
+    image: /assets/gallery/15085250240_5eca85ed27_o.jpg
     title: Isles of Scilly 2014
     tags:
       - ""
@@ -42,7 +42,7 @@ images:
     flickr_id: "15085250240"
     flickr_secret: 9ae0e6e51a
   - 
-    image: /assets/photos/15271960395_8bcfa0b170_o.jpg
+    image: /assets/gallery/15271960395_8bcfa0b170_o.jpg
     title: Isles of Scilly 2014
     tags:
       - ""
@@ -61,7 +61,7 @@ images:
     flickr_id: "15271960395"
     flickr_secret: 6971bf1729
   - 
-    image: /assets/photos/15271575552_627fed3880_o.jpg
+    image: /assets/gallery/15271575552_627fed3880_o.jpg
     title: Isles of Scilly 2014
     tags:
       - ""
@@ -80,7 +80,7 @@ images:
     flickr_id: "15271575552"
     flickr_secret: 095ef2565d
   - 
-    image: /assets/photos/15271966145_bdc010239c_o.jpg
+    image: /assets/gallery/15271966145_bdc010239c_o.jpg
     title: Isles of Scilly 2014
     tags:
       - ""
@@ -99,7 +99,7 @@ images:
     flickr_id: "15271966145"
     flickr_secret: 0afcd6909a
   - 
-    image: /assets/photos/15085402928_b3a56efbe3_o.jpg
+    image: /assets/gallery/15085402928_b3a56efbe3_o.jpg
     title: Isles of Scilly 2014
     tags:
       - ""
@@ -118,7 +118,7 @@ images:
     flickr_id: "15085402928"
     flickr_secret: 8f96917748
   - 
-    image: /assets/photos/15271970005_df5e91a05c_o.jpg
+    image: /assets/gallery/15271970005_df5e91a05c_o.jpg
     title: Isles of Scilly 2014
     tags:
       - ""
@@ -137,7 +137,7 @@ images:
     flickr_id: "15271970005"
     flickr_secret: 5114e37eb3
   - 
-    image: /assets/photos/15085406787_6a28ffa5b4_o.jpg
+    image: /assets/gallery/15085406787_6a28ffa5b4_o.jpg
     title: Isles of Scilly 2014
     tags:
       - ""
@@ -156,7 +156,7 @@ images:
     flickr_id: "15085406787"
     flickr_secret: 4be2d0545b
   - 
-    image: /assets/photos/15085408978_fd0bc4930f_o.jpg
+    image: /assets/gallery/15085408978_fd0bc4930f_o.jpg
     title: Isles of Scilly 2014
     tags:
       - ""
@@ -175,7 +175,7 @@ images:
     flickr_id: "15085408978"
     flickr_secret: ce95a4d042
   - 
-    image: /assets/photos/15085410698_ded1eb50e4_o.jpg
+    image: /assets/gallery/15085410698_ded1eb50e4_o.jpg
     title: Isles of Scilly 2014
     tags:
       - ""
@@ -194,7 +194,7 @@ images:
     flickr_id: "15085410698"
     flickr_secret: 593efd7611
   - 
-    image: /assets/photos/15268863751_330712e512_o.jpg
+    image: /assets/gallery/15268863751_330712e512_o.jpg
     title: Isles of Scilly 2014
     tags:
       - ""
@@ -213,7 +213,7 @@ images:
     flickr_id: "15268863751"
     flickr_secret: 7a02957120
   - 
-    image: /assets/photos/15268865551_e2ff5c69a8_o.jpg
+    image: /assets/gallery/15268865551_e2ff5c69a8_o.jpg
     title: Isles of Scilly 2014
     tags:
       - ""
@@ -232,7 +232,7 @@ images:
     flickr_id: "15268865551"
     flickr_secret: 30cd4e1e63
   - 
-    image: /assets/photos/15085416748_84d0b32490_o.jpg
+    image: /assets/gallery/15085416748_84d0b32490_o.jpg
     title: Isles of Scilly 2014
     tags:
       - ""
@@ -251,7 +251,7 @@ images:
     flickr_id: "15085416748"
     flickr_secret: e1b4262b4d
   - 
-    image: /assets/photos/15085418518_6021a6c8c4_o.jpg
+    image: /assets/gallery/15085418518_6021a6c8c4_o.jpg
     title: Isles of Scilly 2014
     tags:
       - ""
@@ -270,7 +270,7 @@ images:
     flickr_id: "15085418518"
     flickr_secret: 725f5565ec
   - 
-    image: /assets/photos/15085275860_778f341484_o.jpg
+    image: /assets/gallery/15085275860_778f341484_o.jpg
     title: Isles of Scilly 2014
     tags:
       - ""
@@ -289,7 +289,7 @@ images:
     flickr_id: "15085275860"
     flickr_secret: 87a59002da
   - 
-    image: /assets/photos/15085277320_56c780f191_o.jpg
+    image: /assets/gallery/15085277320_56c780f191_o.jpg
     title: Isles of Scilly 2014
     tags:
       - ""
@@ -308,7 +308,7 @@ images:
     flickr_id: "15085277320"
     flickr_secret: dcb1d60c5f
   - 
-    image: /assets/photos/15085424197_16f8ccaa58_o.jpg
+    image: /assets/gallery/15085424197_16f8ccaa58_o.jpg
     title: Isles of Scilly 2014
     tags:
       - ""
@@ -327,7 +327,7 @@ images:
     flickr_id: "15085424197"
     flickr_secret: 8cbcaa513a
   - 
-    image: /assets/photos/15085426127_55fe822a43_o.jpg
+    image: /assets/gallery/15085426127_55fe822a43_o.jpg
     title: Isles of Scilly 2014
     tags:
       - ""
@@ -346,7 +346,7 @@ images:
     flickr_id: "15085426127"
     flickr_secret: a08356af7a
   - 
-    image: /assets/photos/15271993645_63a4eeccfa_o.jpg
+    image: /assets/gallery/15271993645_63a4eeccfa_o.jpg
     title: Isles of Scilly 2014
     tags:
       - ""
@@ -365,7 +365,7 @@ images:
     flickr_id: "15271993645"
     flickr_secret: c2b2d3775a
   - 
-    image: /assets/photos/15268880651_31e3f0082f_o.jpg
+    image: /assets/gallery/15268880651_31e3f0082f_o.jpg
     title: Isles of Scilly 2014
     tags:
       - ""
@@ -384,7 +384,7 @@ images:
     flickr_id: "15268880651"
     flickr_secret: 6d472e386f
   - 
-    image: /assets/photos/15085431577_535e936417_o.jpg
+    image: /assets/gallery/15085431577_535e936417_o.jpg
     title: Isles of Scilly 2014
     tags:
       - ""
@@ -403,7 +403,7 @@ images:
     flickr_id: "15085431577"
     flickr_secret: 68ddb3dbe2
   - 
-    image: /assets/photos/15085253109_1aa3f912a8_o.jpg
+    image: /assets/gallery/15085253109_1aa3f912a8_o.jpg
     title: Isles of Scilly 2014
     tags:
       - ""
@@ -422,7 +422,7 @@ images:
     flickr_id: "15085253109"
     flickr_secret: 3ef8f59b8c
   - 
-    image: /assets/photos/15248999556_5a5cbe7057_o.jpg
+    image: /assets/gallery/15248999556_5a5cbe7057_o.jpg
     title: Isles of Scilly 2014
     tags:
       - ""
@@ -441,7 +441,7 @@ images:
     flickr_id: "15248999556"
     flickr_secret: fe8c5df222
   - 
-    image: /assets/photos/15249001446_4398957760_o.jpg
+    image: /assets/gallery/15249001446_4398957760_o.jpg
     title: Isles of Scilly 2014
     tags:
       - ""
@@ -460,7 +460,7 @@ images:
     flickr_id: "15249001446"
     flickr_secret: 6a64837d33
   - 
-    image: /assets/photos/15085258109_aae51f355b_o.jpg
+    image: /assets/gallery/15085258109_aae51f355b_o.jpg
     title: Isles of Scilly 2014
     tags:
       - ""
@@ -479,7 +479,7 @@ images:
     flickr_id: "15085258109"
     flickr_secret: 1be54c2d64
   - 
-    image: /assets/photos/15085260159_3cb3bced28_o.jpg
+    image: /assets/gallery/15085260159_3cb3bced28_o.jpg
     title: Isles of Scilly 2014
     tags:
       - ""
@@ -498,7 +498,7 @@ images:
     flickr_id: "15085260159"
     flickr_secret: 671173f692
   - 
-    image: /assets/photos/15085298320_959bcdbd4a_o.jpg
+    image: /assets/gallery/15085298320_959bcdbd4a_o.jpg
     title: Isles of Scilly 2014
     tags:
       - ""
@@ -517,7 +517,7 @@ images:
     flickr_id: "15085298320"
     flickr_secret: a95d633b49
   - 
-    image: /assets/photos/15268895081_16081665db_o.jpg
+    image: /assets/gallery/15268895081_16081665db_o.jpg
     title: Isles of Scilly 2014
     tags:
       - ""
@@ -536,7 +536,7 @@ images:
     flickr_id: "15268895081"
     flickr_secret: 752dfc45a2
   - 
-    image: /assets/photos/15268896041_49b9f5cce3_o.jpg
+    image: /assets/gallery/15268896041_49b9f5cce3_o.jpg
     title: Isles of Scilly 2014
     tags:
       - ""
@@ -555,7 +555,7 @@ images:
     flickr_id: "15268896041"
     flickr_secret: 7ec3bccbc6
   - 
-    image: /assets/photos/15271625152_f21f241831_o.jpg
+    image: /assets/gallery/15271625152_f21f241831_o.jpg
     title: Isles of Scilly 2014
     tags:
       - ""
@@ -574,7 +574,7 @@ images:
     flickr_id: "15271625152"
     flickr_secret: 893338183b
   - 
-    image: /assets/photos/15268899261_5bccd6eb1e_o.jpg
+    image: /assets/gallery/15268899261_5bccd6eb1e_o.jpg
     title: Isles of Scilly 2014
     tags:
       - ""
@@ -593,7 +593,7 @@ images:
     flickr_id: "15268899261"
     flickr_secret: c64172c6fc
   - 
-    image: /assets/photos/15085450638_73bbf5c283_o.jpg
+    image: /assets/gallery/15085450638_73bbf5c283_o.jpg
     title: Isles of Scilly 2014
     tags:
       - ""
@@ -612,7 +612,7 @@ images:
     flickr_id: "15085450638"
     flickr_secret: 7d36d5cfd2
   - 
-    image: /assets/photos/15085306550_be4611a8a8_o.jpg
+    image: /assets/gallery/15085306550_be4611a8a8_o.jpg
     title: Isles of Scilly 2014
     tags:
       - ""
@@ -631,7 +631,7 @@ images:
     flickr_id: "15085306550"
     flickr_secret: 72a152a72a
   - 
-    image: /assets/photos/15085271559_231ec5f5c4_o.jpg
+    image: /assets/gallery/15085271559_231ec5f5c4_o.jpg
     title: Isles of Scilly 2014
     tags:
       - ""
@@ -650,7 +650,7 @@ images:
     flickr_id: "15085271559"
     flickr_secret: aefe404e78
   - 
-    image: /assets/photos/15085309720_2c28ddf6ae_o.jpg
+    image: /assets/gallery/15085309720_2c28ddf6ae_o.jpg
     title: Isles of Scilly 2014
     tags:
       - ""
@@ -669,7 +669,7 @@ images:
     flickr_id: "15085309720"
     flickr_secret: 42c25d2c86
   - 
-    image: /assets/photos/15272020715_9956ff7576_o.jpg
+    image: /assets/gallery/15272020715_9956ff7576_o.jpg
     title: Isles of Scilly 2014
     tags:
       - ""
@@ -688,7 +688,7 @@ images:
     flickr_id: "15272020715"
     flickr_secret: b19b5f6362
   - 
-    image: /assets/photos/15085276199_a24d1aed2e_o.jpg
+    image: /assets/gallery/15085276199_a24d1aed2e_o.jpg
     title: Isles of Scilly 2014
     tags:
       - ""
@@ -707,7 +707,7 @@ images:
     flickr_id: "15085276199"
     flickr_secret: db7c45d47a
   - 
-    image: /assets/photos/15085314420_a8a9838ba8_o.jpg
+    image: /assets/gallery/15085314420_a8a9838ba8_o.jpg
     title: Isles of Scilly 2014
     tags:
       - ""
@@ -726,7 +726,7 @@ images:
     flickr_id: "15085314420"
     flickr_secret: ccb79aeb82
   - 
-    image: /assets/photos/15272025315_6165edb5f4_o.jpg
+    image: /assets/gallery/15272025315_6165edb5f4_o.jpg
     title: Isles of Scilly 2014
     tags:
       - ""
@@ -745,7 +745,7 @@ images:
     flickr_id: "15272025315"
     flickr_secret: 9e5c5713fa
   - 
-    image: /assets/photos/15272026865_bfb9f68a6a_o.jpg
+    image: /assets/gallery/15272026865_bfb9f68a6a_o.jpg
     title: Isles of Scilly 2014
     tags:
       - ""
@@ -764,7 +764,7 @@ images:
     flickr_id: "15272026865"
     flickr_secret: e69b612184
   - 
-    image: /assets/photos/15085318670_b84fe1048d_o.jpg
+    image: /assets/gallery/15085318670_b84fe1048d_o.jpg
     title: Isles of Scilly 2014
     tags:
       - ""
@@ -783,7 +783,7 @@ images:
     flickr_id: "15085318670"
     flickr_secret: 04d7b669c0
   - 
-    image: /assets/photos/15271642442_437e338b18_o.jpg
+    image: /assets/gallery/15271642442_437e338b18_o.jpg
     title: Isles of Scilly 2014
     tags:
       - ""
@@ -802,7 +802,7 @@ images:
     flickr_id: "15271642442"
     flickr_secret: 70ea8c2505
   - 
-    image: /assets/photos/15085467448_b2d90121fe_o.jpg
+    image: /assets/gallery/15085467448_b2d90121fe_o.jpg
     title: Isles of Scilly 2014
     tags:
       - ""
@@ -821,7 +821,7 @@ images:
     flickr_id: "15085467448"
     flickr_secret: cb0f9ee784
   - 
-    image: /assets/photos/15268917591_1b56cd6288_o.jpg
+    image: /assets/gallery/15268917591_1b56cd6288_o.jpg
     title: Isles of Scilly 2014
     tags:
       - ""
@@ -840,7 +840,7 @@ images:
     flickr_id: "15268917591"
     flickr_secret: 48d5229562
   - 
-    image: /assets/photos/15249033786_3695a45426_o.jpg
+    image: /assets/gallery/15249033786_3695a45426_o.jpg
     title: Isles of Scilly 2014
     tags:
       - ""
@@ -859,7 +859,7 @@ images:
     flickr_id: "15249033786"
     flickr_secret: eb7a5bca72
   - 
-    image: /assets/photos/15085471217_d9c878fb8f_o.jpg
+    image: /assets/gallery/15085471217_d9c878fb8f_o.jpg
     title: Isles of Scilly 2014
     tags:
       - ""
@@ -878,7 +878,7 @@ images:
     flickr_id: "15085471217"
     flickr_secret: eacb55acb4
   - 
-    image: /assets/photos/15085291699_c1dbf5613b_o.jpg
+    image: /assets/gallery/15085291699_c1dbf5613b_o.jpg
     title: Isles of Scilly 2014
     tags:
       - ""
@@ -897,7 +897,7 @@ images:
     flickr_id: "15085291699"
     flickr_secret: 308261106a
   - 
-    image: /assets/photos/15085474978_3a3fe0e43f_o.jpg
+    image: /assets/gallery/15085474978_3a3fe0e43f_o.jpg
     title: Isles of Scilly 2014
     tags:
       - ""
@@ -916,7 +916,7 @@ images:
     flickr_id: "15085474978"
     flickr_secret: 16b2481f14
   - 
-    image: /assets/photos/15085476118_dd38560648_o.jpg
+    image: /assets/gallery/15085476118_dd38560648_o.jpg
     title: Isles of Scilly 2014
     tags:
       - ""
@@ -935,7 +935,7 @@ images:
     flickr_id: "15085476118"
     flickr_secret: 88cdd5d2d6
   - 
-    image: /assets/photos/15085334500_4f7a376d9e_o.jpg
+    image: /assets/gallery/15085334500_4f7a376d9e_o.jpg
     title: Isles of Scilly 2014
     tags:
       - ""
@@ -954,7 +954,7 @@ images:
     flickr_id: "15085334500"
     flickr_secret: 4b6fa492fb
   - 
-    image: /assets/photos/15268929751_43b98f19a4_o.jpg
+    image: /assets/gallery/15268929751_43b98f19a4_o.jpg
     title: Isles of Scilly 2014
     tags:
       - ""
@@ -973,7 +973,7 @@ images:
     flickr_id: "15268929751"
     flickr_secret: 8d40d4f6bd
   - 
-    image: /assets/photos/15271658842_f9e50a735f_o.jpg
+    image: /assets/gallery/15271658842_f9e50a735f_o.jpg
     title: Isles of Scilly 2014
     tags:
       - ""
@@ -992,7 +992,7 @@ images:
     flickr_id: "15271658842"
     flickr_secret: 6a20994f9d
   - 
-    image: /assets/photos/15085338680_63766922a5_o.jpg
+    image: /assets/gallery/15085338680_63766922a5_o.jpg
     title: Isles of Scilly 2014
     tags:
       - ""

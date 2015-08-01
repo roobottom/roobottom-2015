@@ -1,6 +1,6 @@
 ---
 title: March 19th — Spring Daffs
-image: /assets/365/IMG_9946.jpg
+images: /assets/365/IMG_9946.jpg
 tags:
   - "365"
 ---

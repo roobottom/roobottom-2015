@@ -4,7 +4,7 @@ cover: /assets/gallery/228104818_3d1a9f146b_o.jpg
 section: gallery
 images:
   - 
-    image: /assets/photos/228104818_3d1a9f146b_o.jpg
+    image: /assets/gallery/228104818_3d1a9f146b_o.jpg
     title: Water Prison
     tags:
       - holiday
@@ -23,7 +23,7 @@ images:
     flickr_id: "228104818"
     flickr_secret: 3d1a9f146b
   - 
-    image: /assets/photos/228104276_73626c08e2_o.jpg
+    image: /assets/gallery/228104276_73626c08e2_o.jpg
     title: sit.PLAY.violin
     tags:
       - holiday
@@ -44,7 +44,7 @@ images:
     flickr_id: "228104276"
     flickr_secret: 73626c08e2
   - 
-    image: /assets/photos/228104068_9861aac53d_o.jpg
+    image: /assets/gallery/228104068_9861aac53d_o.jpg
     title: The Family Sellwood
     tags:
       - family
@@ -64,7 +64,7 @@ images:
     flickr_id: "228104068"
     flickr_secret: 9861aac53d
   - 
-    image: /assets/photos/228103572_2d37e045bd_o.jpg
+    image: /assets/gallery/228103572_2d37e045bd_o.jpg
     title: A Fine Way To Visit London
     tags:
       - sky
@@ -87,7 +87,7 @@ images:
     flickr_id: "228103572"
     flickr_secret: 2d37e045bd
   - 
-    image: /assets/photos/228102993_4dd7f28185_o.jpg
+    image: /assets/gallery/228102993_4dd7f28185_o.jpg
     title: Embankment Tube Station
     tags:
       - holiday
@@ -108,7 +108,7 @@ images:
     flickr_id: "228102993"
     flickr_secret: 4dd7f28185
   - 
-    image: /assets/photos/228102471_6abea2d26c_o.jpg
+    image: /assets/gallery/228102471_6abea2d26c_o.jpg
     title: Yum!
     tags:
       - holiday
@@ -127,7 +127,7 @@ images:
     flickr_id: "228102471"
     flickr_secret: 6abea2d26c
   - 
-    image: /assets/photos/228101986_fe2998d539_o.jpg
+    image: /assets/gallery/228101986_fe2998d539_o.jpg
     title: 'Flowers: By Katie'
     tags:
       - holiday
@@ -146,7 +146,7 @@ images:
     flickr_id: "228101986"
     flickr_secret: fe2998d539
   - 
-    image: /assets/photos/228101467_4d5b673a09_o.jpg
+    image: /assets/gallery/228101467_4d5b673a09_o.jpg
     title: The Victory
     tags:
       - holiday
@@ -167,7 +167,7 @@ images:
     flickr_id: "228101467"
     flickr_secret: 4d5b673a09
   - 
-    image: /assets/photos/228100929_2cb346c2cd_o.jpg
+    image: /assets/gallery/228100929_2cb346c2cd_o.jpg
     title: Miss. Mast-Head
     tags:
       - holiday
@@ -192,7 +192,7 @@ images:
     flickr_id: "228100929"
     flickr_secret: 2cb346c2cd
   - 
-    image: /assets/photos/228100426_38e7aba347_o.jpg
+    image: /assets/gallery/228100426_38e7aba347_o.jpg
     title: I See No Ships!
     tags:
       - holiday
@@ -212,7 +212,7 @@ images:
     flickr_id: "228100426"
     flickr_secret: 38e7aba347
   - 
-    image: /assets/photos/228099963_cd9de3eaf5_o.jpg
+    image: /assets/gallery/228099963_cd9de3eaf5_o.jpg
     title: Spinnaker Tower
     tags:
       - holiday

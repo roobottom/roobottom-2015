@@ -1,6 +1,6 @@
 ---
 title: March 15th — Mummy Photoshoot, take two
-image: /assets/365/IMG_9817.jpg
+images: /assets/365/IMG_9817.jpg
 tags:
   - "365"
   - Family

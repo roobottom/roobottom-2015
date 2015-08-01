@@ -4,7 +4,7 @@ cover: /assets/gallery/396287773_66e49705c5_o.jpg
 section: gallery
 images:
   - 
-    image: /assets/photos/395510080_1a7cd6e695_o.jpg
+    image: /assets/gallery/395510080_1a7cd6e695_o.jpg
     title: Over the mountains and the sea
     tags:
       - men
@@ -30,7 +30,7 @@ images:
     flickr_id: "395510080"
     flickr_secret: 1a7cd6e695
   - 
-    image: /assets/photos/395512446_e443d9ae54_o.jpg
+    image: /assets/gallery/395512446_e443d9ae54_o.jpg
     title: On top of the world.
     tags:
       - men
@@ -56,7 +56,7 @@ images:
     flickr_id: "395512446"
     flickr_secret: e443d9ae54
   - 
-    image: /assets/photos/395517289_2bbac90106_o.jpg
+    image: /assets/gallery/395517289_2bbac90106_o.jpg
     title: Clean Air.
     tags:
       - ""
@@ -75,7 +75,7 @@ images:
     flickr_id: "395517289"
     flickr_secret: 2bbac90106
   - 
-    image: /assets/photos/395518584_4397a47059_o.jpg
+    image: /assets/gallery/395518584_4397a47059_o.jpg
     title: Lenseflare
     tags:
       - ""
@@ -94,7 +94,7 @@ images:
     flickr_id: "395518584"
     flickr_secret: 4397a47059
   - 
-    image: /assets/photos/395521744_9128b9a8fd_o.jpg
+    image: /assets/gallery/395521744_9128b9a8fd_o.jpg
     title: Blackrock
     tags:
       - ""
@@ -113,7 +113,7 @@ images:
     flickr_id: "395521744"
     flickr_secret: 9128b9a8fd
   - 
-    image: /assets/photos/395522667_6addc85e49_o.jpg
+    image: /assets/gallery/395522667_6addc85e49_o.jpg
     title: Andy Brev
     tags:
       - ""
@@ -132,7 +132,7 @@ images:
     flickr_id: "395522667"
     flickr_secret: 6addc85e49
   - 
-    image: /assets/photos/396287760_6922f7da76_o.jpg
+    image: /assets/gallery/396287760_6922f7da76_o.jpg
     title: High Five
     tags:
       - mountain
@@ -154,7 +154,7 @@ images:
     flickr_id: "396287760"
     flickr_secret: 6922f7da76
   - 
-    image: /assets/photos/396287773_66e49705c5_o.jpg
+    image: /assets/gallery/396287773_66e49705c5_o.jpg
     title: Vertigo
     tags:
       - mountain
@@ -176,7 +176,7 @@ images:
     flickr_id: "396287773"
     flickr_secret: 66e49705c5
   - 
-    image: /assets/photos/396287785_39e6bf32a5_o.jpg
+    image: /assets/gallery/396287785_39e6bf32a5_o.jpg
     title: In Summation
     tags:
       - mountain

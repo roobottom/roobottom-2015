@@ -1,6 +1,6 @@
 ---
 title: Feb 28th — Weekend at Chez Roo Senior
-image: /assets/365/IMG_9612.jpg
+images: /assets/365/IMG_9612.jpg
 tags:
   - "365"
   - Family

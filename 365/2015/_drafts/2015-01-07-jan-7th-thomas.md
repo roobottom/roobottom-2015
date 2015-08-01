@@ -1,6 +1,6 @@
 ---
 title: Jan 7th — Thomas
-image: /assets/365/IMG_7669.jpg
+images: /assets/365/IMG_7669.jpg
 tags:
   - "365"
   - church

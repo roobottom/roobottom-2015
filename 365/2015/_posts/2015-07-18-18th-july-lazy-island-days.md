@@ -1,6 +1,6 @@
 ---
 title: 18th July — Lazy Island Days
-image:
+images:
   - /assets/365/IMG_8666.jpg
   - /assets/365/IMG_3440.jpg
   - /assets/365/IMG_8677.jpg

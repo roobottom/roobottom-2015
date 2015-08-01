@@ -1,6 +1,6 @@
 ---
 title: Jan 28th — Lightpainting
-image:
+images:
   - /assets/365/IMG_8747.jpg
   - /assets/365/IMG_8753.jpg
 tags:

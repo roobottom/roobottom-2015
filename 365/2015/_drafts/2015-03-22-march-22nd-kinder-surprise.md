@@ -1,6 +1,6 @@
 ---
 title: March 22nd — Kinder Surprise
-image: /assets/365/IMG_0221.jpg
+images: /assets/365/IMG_0221.jpg
 tags:
   - "365"
   - family

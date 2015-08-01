@@ -4,7 +4,7 @@ cover: /assets/gallery/12524834_4154177d14_o.jpg
 section: gallery
 images:
   - 
-    image: /assets/photos/12524834_4154177d14_o.jpg
+    image: /assets/gallery/12524834_4154177d14_o.jpg
     title: Jim and Dan play the blues
     tags:
       - walsall
@@ -26,7 +26,7 @@ images:
     flickr_id: "12524834"
     flickr_secret: 4154177d14
   - 
-    image: /assets/photos/12525022_93e27046a2_o.jpg
+    image: /assets/gallery/12525022_93e27046a2_o.jpg
     title: Jim and Dan
     tags:
       - walsall
@@ -48,7 +48,7 @@ images:
     flickr_id: "12525022"
     flickr_secret: 93e27046a2
   - 
-    image: /assets/photos/12524954_0afebfa888_o.jpg
+    image: /assets/gallery/12524954_0afebfa888_o.jpg
     title: live in walsall
     tags:
       - walsall
@@ -70,7 +70,7 @@ images:
     flickr_id: "12524954"
     flickr_secret: 0afebfa888
   - 
-    image: /assets/photos/12524899_bcaad15336_o.jpg
+    image: /assets/gallery/12524899_bcaad15336_o.jpg
     title: Dave n Dan
     tags:
       - walsall
@@ -92,7 +92,7 @@ images:
     flickr_id: "12524899"
     flickr_secret: bcaad15336
   - 
-    image: /assets/photos/12524923_66ab2f7cff_o.jpg
+    image: /assets/gallery/12524923_66ab2f7cff_o.jpg
     title: Dave
     tags:
       - walsall
@@ -114,7 +114,7 @@ images:
     flickr_id: "12524923"
     flickr_secret: 66ab2f7cff
   - 
-    image: /assets/photos/12524873_f4cc5b730e_o.jpg
+    image: /assets/gallery/12524873_f4cc5b730e_o.jpg
     title: Jiiiiim
     tags:
       - walsall

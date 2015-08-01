@@ -1,6 +1,6 @@
 ---
 title: Jan 27th — So Long Student Loan
-image: /assets/365/IMG_8739.jpg
+images: /assets/365/IMG_8739.jpg
 tags:
   - "365"
 ---

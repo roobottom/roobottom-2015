@@ -4,7 +4,7 @@ cover: /assets/gallery/15149628158_a5bc3a1271_o.jpg
 section: gallery
 images:
   - 
-    image: /assets/photos/15149628158_a5bc3a1271_o.jpg
+    image: /assets/gallery/15149628158_a5bc3a1271_o.jpg
     title: Wagamama
     tags:
       - ""
@@ -23,7 +23,7 @@ images:
     flickr_id: "15149628158"
     flickr_secret: a175995b92
   - 
-    image: /assets/photos/15149678317_12a46a804c_o.jpg
+    image: /assets/gallery/15149678317_12a46a804c_o.jpg
     title: Alt-J
     tags:
       - ""
@@ -42,7 +42,7 @@ images:
     flickr_id: "15149678317"
     flickr_secret: e5099b51d4
   - 
-    image: /assets/photos/15335900752_8be369a8a7_o.jpg
+    image: /assets/gallery/15335900752_8be369a8a7_o.jpg
     title: Alt-J
     tags:
       - ""
@@ -61,7 +61,7 @@ images:
     flickr_id: "15335900752"
     flickr_secret: 444bfac0c6
   - 
-    image: /assets/photos/15149680457_ee19b01b60_o.jpg
+    image: /assets/gallery/15149680457_ee19b01b60_o.jpg
     title: Alt-J
     tags:
       - ""
@@ -80,7 +80,7 @@ images:
     flickr_id: "15149680457"
     flickr_secret: 8680654a25
   - 
-    image: /assets/photos/15313183796_7985ce9305_o.jpg
+    image: /assets/gallery/15313183796_7985ce9305_o.jpg
     title: Alt-J
     tags:
       - ""
@@ -99,7 +99,7 @@ images:
     flickr_id: "15313183796"
     flickr_secret: 1466d032bf
   - 
-    image: /assets/photos/15313185356_651466fe2a_o.jpg
+    image: /assets/gallery/15313185356_651466fe2a_o.jpg
     title: Standing pass
     tags:
       - ""
@@ -118,7 +118,7 @@ images:
     flickr_id: "15313185356"
     flickr_secret: 5fa81efea2
   - 
-    image: /assets/photos/15333049651_bb56cc17dc_o.jpg
+    image: /assets/gallery/15333049651_bb56cc17dc_o.jpg
     title: 'Cath, Dave & Katie @ Alt-J'
     tags:
       - ""
@@ -137,7 +137,7 @@ images:
     flickr_id: "15333049651"
     flickr_secret: e62b3b6f9f
   - 
-    image: /assets/photos/15148565590_9d1e8de875_o.jpg
+    image: /assets/gallery/15148565590_9d1e8de875_o.jpg
     title: Alt-J.
     tags:
       - ""
@@ -156,7 +156,7 @@ images:
     flickr_id: "15148565590"
     flickr_secret: f96d4f0fcd
   - 
-    image: /assets/photos/15148408928_013b47f542_o.jpg
+    image: /assets/gallery/15148408928_013b47f542_o.jpg
     title: This is from (for?) Matilda. Alt J at the Brighton Centre.
     tags:
       - brightoncentre

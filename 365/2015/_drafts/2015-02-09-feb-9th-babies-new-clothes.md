@@ -1,6 +1,6 @@
 ---
 title: Feb 9th — Babies New Clothes
-image: /assets/365/IMG_9155.jpg
+images: /assets/365/IMG_9155.jpg
 tags:
   - "365"
   - Family

@@ -4,7 +4,7 @@ cover: /assets/gallery/61278333_e7fd770f01_o.jpg
 section: gallery
 images:
   - 
-    image: /assets/photos/61278333_e7fd770f01_o.jpg
+    image: /assets/gallery/61278333_e7fd770f01_o.jpg
     title: Barbed
     tags:
       - autumn
@@ -33,7 +33,7 @@ images:
     flickr_id: "61278333"
     flickr_secret: e7fd770f01
   - 
-    image: /assets/photos/59692035_d450e89d55_o.jpg
+    image: /assets/gallery/59692035_d450e89d55_o.jpg
     title: History Maker
     tags:
       - uk
@@ -57,7 +57,7 @@ images:
     flickr_id: "59692035"
     flickr_secret: d450e89d55
   - 
-    image: /assets/photos/57128219_e32cf2e97b_o.jpg
+    image: /assets/gallery/57128219_e32cf2e97b_o.jpg
     title: The Light Fantastic
     tags:
       - park
@@ -82,7 +82,7 @@ images:
     flickr_id: "57128219"
     flickr_secret: e32cf2e97b
   - 
-    image: /assets/photos/45571720_7708a889af_o.jpg
+    image: /assets/gallery/45571720_7708a889af_o.jpg
     title: Original Stunt-Master
     tags:
       - lego
@@ -106,7 +106,7 @@ images:
     flickr_id: "45571720"
     flickr_secret: 7708a889af
   - 
-    image: /assets/photos/59729721_f996c8a576_o.jpg
+    image: /assets/gallery/59729721_f996c8a576_o.jpg
     title: Friday Night Sunset
     tags:
       - sunset
@@ -129,7 +129,7 @@ images:
     flickr_id: "59729721"
     flickr_secret: f996c8a576
   - 
-    image: /assets/photos/43118454_f5f990fa35_o.jpg
+    image: /assets/gallery/43118454_f5f990fa35_o.jpg
     title: Corn Forest
     tags:
       - uk
@@ -154,7 +154,7 @@ images:
     flickr_id: "43118454"
     flickr_secret: f5f990fa35
   - 
-    image: /assets/photos/38565747_39f7ab66a6_o.jpg
+    image: /assets/gallery/38565747_39f7ab66a6_o.jpg
     title: Bombs Away!
     tags:
       - england
@@ -179,7 +179,7 @@ images:
     flickr_id: "38565747"
     flickr_secret: 39f7ab66a6
   - 
-    image: /assets/photos/36008927_0d423eaf3b_o.jpg
+    image: /assets/gallery/36008927_0d423eaf3b_o.jpg
     title: McClegg
     tags:
       - camping
@@ -204,7 +204,7 @@ images:
     flickr_id: "36008927"
     flickr_secret: 0d423eaf3b
   - 
-    image: /assets/photos/20284222_2d9ddaca61_o.jpg
+    image: /assets/gallery/20284222_2d9ddaca61_o.jpg
     title: Evening Surf
     tags:
       - summer
@@ -237,7 +237,7 @@ images:
     flickr_id: "20284222"
     flickr_secret: 2d9ddaca61
   - 
-    image: /assets/photos/13962991_e08e2da583_o.jpg
+    image: /assets/gallery/13962991_e08e2da583_o.jpg
     title: silver string
     tags:
       - macro
@@ -260,7 +260,7 @@ images:
     flickr_id: "13962991"
     flickr_secret: e08e2da583
   - 
-    image: /assets/photos/39592758_47d3eca40d_o.jpg
+    image: /assets/gallery/39592758_47d3eca40d_o.jpg
     title: The No. 34 to Dudley
     tags:
       - museum
@@ -284,7 +284,7 @@ images:
     flickr_id: "39592758"
     flickr_secret: 47d3eca40d
   - 
-    image: /assets/photos/61870329_8c422fb2eb_o.jpg
+    image: /assets/gallery/61870329_8c422fb2eb_o.jpg
     title: Wet Grass (or) h2Wow!
     tags:
       - deleteme
@@ -310,7 +310,7 @@ images:
     flickr_id: "61870329"
     flickr_secret: 8c422fb2eb
   - 
-    image: /assets/photos/64474213_254051a7cc_o.jpg
+    image: /assets/gallery/64474213_254051a7cc_o.jpg
     title: its cold but...
     tags:
       - winter
@@ -335,7 +335,7 @@ images:
     flickr_id: "64474213"
     flickr_secret: 254051a7cc
   - 
-    image: /assets/photos/61278477_838d313b60_o.jpg
+    image: /assets/gallery/61278477_838d313b60_o.jpg
     title: Gateposing
     tags:
       - autumn
@@ -364,7 +364,7 @@ images:
     flickr_id: "61278477"
     flickr_secret: 838d313b60
   - 
-    image: /assets/photos/51917519_f4c16cdb65_o.jpg
+    image: /assets/gallery/51917519_f4c16cdb65_o.jpg
     title: Gary
     tags:
       - bw
@@ -390,7 +390,7 @@ images:
     flickr_id: "51917519"
     flickr_secret: f4c16cdb65
   - 
-    image: /assets/photos/72322058_8062494d3e_o.jpg
+    image: /assets/gallery/72322058_8062494d3e_o.jpg
     title: Lions In The Park
     tags:
       - madrid
@@ -411,7 +411,7 @@ images:
     flickr_id: "72322058"
     flickr_secret: 8062494d3e
   - 
-    image: /assets/photos/72322015_496e2e8eaf_o.jpg
+    image: /assets/gallery/72322015_496e2e8eaf_o.jpg
     title: Too Late To Hire a Boat
     tags:
       - madrid
@@ -432,7 +432,7 @@ images:
     flickr_id: "72322015"
     flickr_secret: 496e2e8eaf
   - 
-    image: /assets/photos/61571803_3c66a3d661_o.jpg
+    image: /assets/gallery/61571803_3c66a3d661_o.jpg
     title: Hello
     tags:
       - autumn
@@ -464,7 +464,7 @@ images:
     flickr_id: "61571803"
     flickr_secret: 3c66a3d661
   - 
-    image: /assets/photos/76734575_9c110c606f_o.jpg
+    image: /assets/gallery/76734575_9c110c606f_o.jpg
     title: The Lego People Are Coming!
     tags:
       - lego
@@ -485,7 +485,7 @@ images:
     flickr_id: "76734575"
     flickr_secret: 9c110c606f
   - 
-    image: /assets/photos/109760268_886e19a251_o.jpg
+    image: /assets/gallery/109760268_886e19a251_o.jpg
     title: The Birds
     tags:
       - london
@@ -508,7 +508,7 @@ images:
     flickr_id: "109760268"
     flickr_secret: 886e19a251
   - 
-    image: /assets/photos/123125836_b93ae7b884_o.jpg
+    image: /assets/gallery/123125836_b93ae7b884_o.jpg
     title: Katie
     tags:
       - beach
@@ -533,7 +533,7 @@ images:
     flickr_id: "123125836"
     flickr_secret: b93ae7b884
   - 
-    image: /assets/photos/131857173_6d046aee29_o.jpg
+    image: /assets/gallery/131857173_6d046aee29_o.jpg
     title: Welcome To The Jungle
     tags:
       - nikonstunninggallery
@@ -552,7 +552,7 @@ images:
     flickr_id: "131857173"
     flickr_secret: 6d046aee29
   - 
-    image: /assets/photos/109758757_b46ba57740_o.jpg
+    image: /assets/gallery/109758757_b46ba57740_o.jpg
     title: 'London: Sundown'
     tags:
       - london
@@ -575,7 +575,7 @@ images:
     flickr_id: "109758757"
     flickr_secret: b46ba57740
   - 
-    image: /assets/photos/160462726_6a2bac2206_o.jpg
+    image: /assets/gallery/160462726_6a2bac2206_o.jpg
     title: Day Sleeper
     tags:
       - nikonstunninggallery
@@ -594,7 +594,7 @@ images:
     flickr_id: "160462726"
     flickr_secret: 6a2bac2206
   - 
-    image: /assets/photos/196382769_0f28b59cfc_o.jpg
+    image: /assets/gallery/196382769_0f28b59cfc_o.jpg
     title: Happy Campers!
     tags:
       - camping
@@ -617,7 +617,7 @@ images:
     flickr_id: "196382769"
     flickr_secret: 0f28b59cfc
   - 
-    image: /assets/photos/205141589_5150071fff_o.jpg
+    image: /assets/gallery/205141589_5150071fff_o.jpg
     title: It Burns Bright
     tags:
       - macro
@@ -639,7 +639,7 @@ images:
     flickr_id: "205141589"
     flickr_secret: 5150071fff
   - 
-    image: /assets/photos/248933299_638b1875be_o.jpg
+    image: /assets/gallery/248933299_638b1875be_o.jpg
     title: Silhouette
     tags:
       - uk
@@ -662,7 +662,7 @@ images:
     flickr_id: "248933299"
     flickr_secret: 638b1875be
   - 
-    image: /assets/photos/251024932_ee68defbf2_o.jpg
+    image: /assets/gallery/251024932_ee68defbf2_o.jpg
     title: Glory
     tags:
       - england
@@ -688,7 +688,7 @@ images:
     flickr_id: "251024932"
     flickr_secret: ee68defbf2
   - 
-    image: /assets/photos/391014211_c0d4186f42_o.jpg
+    image: /assets/gallery/391014211_c0d4186f42_o.jpg
     title: Me
     tags:
       - portrait
@@ -709,7 +709,7 @@ images:
     flickr_id: "391014211"
     flickr_secret: c0d4186f42
   - 
-    image: /assets/photos/395521744_9128b9a8fd_o.jpg
+    image: /assets/gallery/395521744_9128b9a8fd_o.jpg
     title: Blackrock
     tags:
       - ""
@@ -728,7 +728,7 @@ images:
     flickr_id: "395521744"
     flickr_secret: 9128b9a8fd
   - 
-    image: /assets/photos/404626321_f3adb59b5f_o.jpg
+    image: /assets/gallery/404626321_f3adb59b5f_o.jpg
     title: that red coat again
     tags:
       - red
@@ -750,7 +750,7 @@ images:
     flickr_id: "404626321"
     flickr_secret: f3adb59b5f
   - 
-    image: /assets/photos/4135047383_dd43c7c24c_o.jpg
+    image: /assets/gallery/4135047383_dd43c7c24c_o.jpg
     title: 'London: 5pm'
     tags:
       - londoncenterpoint
@@ -769,7 +769,7 @@ images:
     flickr_id: "4135047383"
     flickr_secret: d002d7d19a
   - 
-    image: /assets/photos/4223567658_6d9195b4ba_o.jpg
+    image: /assets/gallery/4223567658_6d9195b4ba_o.jpg
     title: Amilie
     tags:
       - ""

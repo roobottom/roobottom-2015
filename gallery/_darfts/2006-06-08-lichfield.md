@@ -4,7 +4,7 @@ cover: /assets/gallery/163519829_ed11fbbd68_o.jpg
 section: gallery
 images:
   - 
-    image: /assets/photos/163519829_ed11fbbd68_o.jpg
+    image: /assets/gallery/163519829_ed11fbbd68_o.jpg
     title: Summer Has Come!
     tags:
       - uk
@@ -26,7 +26,7 @@ images:
     flickr_id: "163519829"
     flickr_secret: ed11fbbd68
   - 
-    image: /assets/photos/163519054_f20b085d88_o.jpg
+    image: /assets/gallery/163519054_f20b085d88_o.jpg
     title: Beacon Park, Lichfield
     tags:
       - uk
@@ -51,7 +51,7 @@ images:
     flickr_id: "163519054"
     flickr_secret: f20b085d88
   - 
-    image: /assets/photos/163518328_c50a03f47a_o.jpg
+    image: /assets/gallery/163518328_c50a03f47a_o.jpg
     title: The Many Attractions of Lichfield
     tags:
       - uk
@@ -73,7 +73,7 @@ images:
     flickr_id: "163518328"
     flickr_secret: c50a03f47a
   - 
-    image: /assets/photos/163517652_91cc27f247_o.jpg
+    image: /assets/gallery/163517652_91cc27f247_o.jpg
     title: Lichfield Cathedral
     tags:
       - uk
@@ -95,7 +95,7 @@ images:
     flickr_id: "163517652"
     flickr_secret: 91cc27f247
   - 
-    image: /assets/photos/163517193_8605fc3618_o.jpg
+    image: /assets/gallery/163517193_8605fc3618_o.jpg
     title: Grass n Rock
     tags:
       - uk
@@ -117,7 +117,7 @@ images:
     flickr_id: "163517193"
     flickr_secret: 8605fc3618
   - 
-    image: /assets/photos/163516517_00ab72b683_o.jpg
+    image: /assets/gallery/163516517_00ab72b683_o.jpg
     title: The Three Spires
     tags:
       - uk

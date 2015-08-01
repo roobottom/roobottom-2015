@@ -1,6 +1,6 @@
 ---
 title: May 1st — Happy Birthday baby Roo
-image: /assets/365/IMG_1259.jpg
+images: /assets/365/IMG_1259.jpg
 tags:
   - "365"
   - family

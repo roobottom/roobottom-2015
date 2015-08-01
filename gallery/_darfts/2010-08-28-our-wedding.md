@@ -4,7 +4,7 @@ cover: /assets/gallery/5195865776_e9362a92dd_o.jpg
 section: gallery
 images:
   - 
-    image: /assets/photos/5195865776_e9362a92dd_o.jpg
+    image: /assets/gallery/5195865776_e9362a92dd_o.jpg
     title: "252"
     tags:
       - ""
@@ -23,7 +23,7 @@ images:
     flickr_id: "5195865776"
     flickr_secret: 9c0f685f5d
   - 
-    image: /assets/photos/5195862972_ea39f71106_o.jpg
+    image: /assets/gallery/5195862972_ea39f71106_o.jpg
     title: "251"
     tags:
       - ""
@@ -42,7 +42,7 @@ images:
     flickr_id: "5195862972"
     flickr_secret: 867bf40532
   - 
-    image: /assets/photos/5195261259_f7ce6b8804_o.jpg
+    image: /assets/gallery/5195261259_f7ce6b8804_o.jpg
     title: "255"
     tags:
       - ""
@@ -61,7 +61,7 @@ images:
     flickr_id: "5195261259"
     flickr_secret: e64af07613
   - 
-    image: /assets/photos/5195258223_9c7bf010c1_o.jpg
+    image: /assets/gallery/5195258223_9c7bf010c1_o.jpg
     title: "254"
     tags:
       - ""
@@ -80,7 +80,7 @@ images:
     flickr_id: "5195258223"
     flickr_secret: c775cc8a46
   - 
-    image: /assets/photos/5195854710_32f04e2e05_o.jpg
+    image: /assets/gallery/5195854710_32f04e2e05_o.jpg
     title: "253"
     tags:
       - ""
@@ -99,7 +99,7 @@ images:
     flickr_id: "5195854710"
     flickr_secret: f9235501cb
   - 
-    image: /assets/photos/5195851542_ee0971f830_o.jpg
+    image: /assets/gallery/5195851542_ee0971f830_o.jpg
     title: "359"
     tags:
       - ""
@@ -118,7 +118,7 @@ images:
     flickr_id: "5195851542"
     flickr_secret: df10216ede
   - 
-    image: /assets/photos/5195846626_50898b12c7_o.jpg
+    image: /assets/gallery/5195846626_50898b12c7_o.jpg
     title: "376"
     tags:
       - ""
@@ -137,7 +137,7 @@ images:
     flickr_id: "5195846626"
     flickr_secret: 3dae66a6df
   - 
-    image: /assets/photos/5195842896_4b390f9589_o.jpg
+    image: /assets/gallery/5195842896_4b390f9589_o.jpg
     title: "375"
     tags:
       - ""
@@ -156,7 +156,7 @@ images:
     flickr_id: "5195842896"
     flickr_secret: ca0e956174
   - 
-    image: /assets/photos/5195242007_36ecee9f90_o.jpg
+    image: /assets/gallery/5195242007_36ecee9f90_o.jpg
     title: "366"
     tags:
       - ""
@@ -175,7 +175,7 @@ images:
     flickr_id: "5195242007"
     flickr_secret: 910d211e59
   - 
-    image: /assets/photos/5195838310_da1a820d66_o.jpg
+    image: /assets/gallery/5195838310_da1a820d66_o.jpg
     title: "364"
     tags:
       - ""
@@ -194,7 +194,7 @@ images:
     flickr_id: "5195838310"
     flickr_secret: c88bf47d69
   - 
-    image: /assets/photos/5195826348_57577b2c24_o.jpg
+    image: /assets/gallery/5195826348_57577b2c24_o.jpg
     title: "361"
     tags:
       - ""
@@ -213,7 +213,7 @@ images:
     flickr_id: "5195826348"
     flickr_secret: f95365beef
   - 
-    image: /assets/photos/5195821664_c202ff3fa6_o.jpg
+    image: /assets/gallery/5195821664_c202ff3fa6_o.jpg
     title: "357"
     tags:
       - ""
@@ -232,7 +232,7 @@ images:
     flickr_id: "5195821664"
     flickr_secret: 453a0565c6
   - 
-    image: /assets/photos/5195212727_c308e5eb68_o.jpg
+    image: /assets/gallery/5195212727_c308e5eb68_o.jpg
     title: "350"
     tags:
       - ""
@@ -251,7 +251,7 @@ images:
     flickr_id: "5195212727"
     flickr_secret: e54c7f3455
   - 
-    image: /assets/photos/5195810308_5ba3c4169c_o.jpg
+    image: /assets/gallery/5195810308_5ba3c4169c_o.jpg
     title: "346"
     tags:
       - ""
@@ -270,7 +270,7 @@ images:
     flickr_id: "5195810308"
     flickr_secret: 54d8648186
   - 
-    image: /assets/photos/5195209263_50e9c4d3c0_o.jpg
+    image: /assets/gallery/5195209263_50e9c4d3c0_o.jpg
     title: "347"
     tags:
       - ""
@@ -289,7 +289,7 @@ images:
     flickr_id: "5195209263"
     flickr_secret: 56f6b2230a
   - 
-    image: /assets/photos/5195205883_67241e4495_o.jpg
+    image: /assets/gallery/5195205883_67241e4495_o.jpg
     title: "341"
     tags:
       - ""
@@ -308,7 +308,7 @@ images:
     flickr_id: "5195205883"
     flickr_secret: 4f75d43fcb
   - 
-    image: /assets/photos/5195802634_9bc2fe533e_o.jpg
+    image: /assets/gallery/5195802634_9bc2fe533e_o.jpg
     title: "339"
     tags:
       - ""
@@ -327,7 +327,7 @@ images:
     flickr_id: "5195802634"
     flickr_secret: e3d94ecf99
   - 
-    image: /assets/photos/5195201119_cfc33c3294_o.jpg
+    image: /assets/gallery/5195201119_cfc33c3294_o.jpg
     title: "338"
     tags:
       - ""
@@ -346,7 +346,7 @@ images:
     flickr_id: "5195201119"
     flickr_secret: 2ac5f9e537
   - 
-    image: /assets/photos/5195796728_fafb94a443_o.jpg
+    image: /assets/gallery/5195796728_fafb94a443_o.jpg
     title: "336"
     tags:
       - ""
@@ -365,7 +365,7 @@ images:
     flickr_id: "5195796728"
     flickr_secret: d7bf815f45
   - 
-    image: /assets/photos/5195792020_2493615eef_o.jpg
+    image: /assets/gallery/5195792020_2493615eef_o.jpg
     title: "329"
     tags:
       - ""
@@ -384,7 +384,7 @@ images:
     flickr_id: "5195792020"
     flickr_secret: 8e63cd4bfd
   - 
-    image: /assets/photos/5195784850_ecc3519dd6_o.jpg
+    image: /assets/gallery/5195784850_ecc3519dd6_o.jpg
     title: "328"
     tags:
       - ""
@@ -403,7 +403,7 @@ images:
     flickr_id: "5195784850"
     flickr_secret: 001ef4ba58
   - 
-    image: /assets/photos/5195777648_6274fb64c2_o.jpg
+    image: /assets/gallery/5195777648_6274fb64c2_o.jpg
     title: "327"
     tags:
       - ""
@@ -422,7 +422,7 @@ images:
     flickr_id: "5195777648"
     flickr_secret: 44a175cf02
   - 
-    image: /assets/photos/5195173213_b9d4aa3cb4_o.jpg
+    image: /assets/gallery/5195173213_b9d4aa3cb4_o.jpg
     title: "326"
     tags:
       - ""
@@ -441,7 +441,7 @@ images:
     flickr_id: "5195173213"
     flickr_secret: d35ee3ca9a
   - 
-    image: /assets/photos/5195762582_4d8dcef43e_o.jpg
+    image: /assets/gallery/5195762582_4d8dcef43e_o.jpg
     title: "323"
     tags:
       - ""
@@ -460,7 +460,7 @@ images:
     flickr_id: "5195762582"
     flickr_secret: 235779c960
   - 
-    image: /assets/photos/5195158505_37a0007092_o.jpg
+    image: /assets/gallery/5195158505_37a0007092_o.jpg
     title: "321"
     tags:
       - ""
@@ -479,7 +479,7 @@ images:
     flickr_id: "5195158505"
     flickr_secret: 39161ca466
   - 
-    image: /assets/photos/5195154063_52a728fe0f_o.jpg
+    image: /assets/gallery/5195154063_52a728fe0f_o.jpg
     title: "320"
     tags:
       - ""
@@ -498,7 +498,7 @@ images:
     flickr_id: "5195154063"
     flickr_secret: ddd5533d9f
   - 
-    image: /assets/photos/5195744386_fc1a6a0169_o.jpg
+    image: /assets/gallery/5195744386_fc1a6a0169_o.jpg
     title: "318"
     tags:
       - ""
@@ -517,7 +517,7 @@ images:
     flickr_id: "5195744386"
     flickr_secret: 08c8b96f99
   - 
-    image: /assets/photos/5195735846_7404ce859d_o.jpg
+    image: /assets/gallery/5195735846_7404ce859d_o.jpg
     title: "317"
     tags:
       - ""
@@ -536,7 +536,7 @@ images:
     flickr_id: "5195735846"
     flickr_secret: 0549767b91
   - 
-    image: /assets/photos/5195727974_d93abb38b8_o.jpg
+    image: /assets/gallery/5195727974_d93abb38b8_o.jpg
     title: "342"
     tags:
       - ""
@@ -555,7 +555,7 @@ images:
     flickr_id: "5195727974"
     flickr_secret: 30cd488561
   - 
-    image: /assets/photos/5195121045_d83d5c7373_o.jpg
+    image: /assets/gallery/5195121045_d83d5c7373_o.jpg
     title: "316"
     tags:
       - ""
@@ -574,7 +574,7 @@ images:
     flickr_id: "5195121045"
     flickr_secret: e0de124c88
   - 
-    image: /assets/photos/5195711948_ca8ef28afd_o.jpg
+    image: /assets/gallery/5195711948_ca8ef28afd_o.jpg
     title: "315"
     tags:
       - ""
@@ -593,7 +593,7 @@ images:
     flickr_id: "5195711948"
     flickr_secret: 395dd3064f
   - 
-    image: /assets/photos/5195103789_10987e4d69_o.jpg
+    image: /assets/gallery/5195103789_10987e4d69_o.jpg
     title: "313"
     tags:
       - ""
@@ -612,7 +612,7 @@ images:
     flickr_id: "5195103789"
     flickr_secret: 70dfd7b985
   - 
-    image: /assets/photos/5195695428_0b7ff12473_o.jpg
+    image: /assets/gallery/5195695428_0b7ff12473_o.jpg
     title: "312"
     tags:
       - ""
@@ -631,7 +631,7 @@ images:
     flickr_id: "5195695428"
     flickr_secret: 49295dce6b
   - 
-    image: /assets/photos/5195089241_60dec7130c_o.jpg
+    image: /assets/gallery/5195089241_60dec7130c_o.jpg
     title: "311"
     tags:
       - ""
@@ -650,7 +650,7 @@ images:
     flickr_id: "5195089241"
     flickr_secret: cffe061637
   - 
-    image: /assets/photos/5195681942_b32cd0a870_o.jpg
+    image: /assets/gallery/5195681942_b32cd0a870_o.jpg
     title: "309"
     tags:
       - ""
@@ -669,7 +669,7 @@ images:
     flickr_id: "5195681942"
     flickr_secret: 02590775c9
   - 
-    image: /assets/photos/5195676506_1d131fe544_o.jpg
+    image: /assets/gallery/5195676506_1d131fe544_o.jpg
     title: "308"
     tags:
       - ""
@@ -688,7 +688,7 @@ images:
     flickr_id: "5195676506"
     flickr_secret: 0e80b501bb
   - 
-    image: /assets/photos/5195069033_c5be4dac97_o.jpg
+    image: /assets/gallery/5195069033_c5be4dac97_o.jpg
     title: "306"
     tags:
       - ""
@@ -707,7 +707,7 @@ images:
     flickr_id: "5195069033"
     flickr_secret: 21962e2e48
   - 
-    image: /assets/photos/5195660538_b8394d9c7b_o.jpg
+    image: /assets/gallery/5195660538_b8394d9c7b_o.jpg
     title: "305"
     tags:
       - ""
@@ -726,7 +726,7 @@ images:
     flickr_id: "5195660538"
     flickr_secret: be6566608a
   - 
-    image: /assets/photos/5195653284_6540ef7870_o.jpg
+    image: /assets/gallery/5195653284_6540ef7870_o.jpg
     title: "304"
     tags:
       - ""
@@ -745,7 +745,7 @@ images:
     flickr_id: "5195653284"
     flickr_secret: 79f3f289b0
   - 
-    image: /assets/photos/5195646068_95d9afea53_o.jpg
+    image: /assets/gallery/5195646068_95d9afea53_o.jpg
     title: "302"
     tags:
       - ""
@@ -764,7 +764,7 @@ images:
     flickr_id: "5195646068"
     flickr_secret: d619324d7f
   - 
-    image: /assets/photos/5195641424_0239b4a67c_o.jpg
+    image: /assets/gallery/5195641424_0239b4a67c_o.jpg
     title: "301"
     tags:
       - ""
@@ -783,7 +783,7 @@ images:
     flickr_id: "5195641424"
     flickr_secret: 29e1e2eaf0
   - 
-    image: /assets/photos/5195634144_57e1a0a83a_o.jpg
+    image: /assets/gallery/5195634144_57e1a0a83a_o.jpg
     title: "300"
     tags:
       - ""
@@ -802,7 +802,7 @@ images:
     flickr_id: "5195634144"
     flickr_secret: 1c0a8c5b9c
   - 
-    image: /assets/photos/5195026483_15d89d0ea0_o.jpg
+    image: /assets/gallery/5195026483_15d89d0ea0_o.jpg
     title: "299"
     tags:
       - ""
@@ -821,7 +821,7 @@ images:
     flickr_id: "5195026483"
     flickr_secret: b532aa593b
   - 
-    image: /assets/photos/5195023369_9ce1120a82_o.jpg
+    image: /assets/gallery/5195023369_9ce1120a82_o.jpg
     title: "344"
     tags:
       - ""
@@ -840,7 +840,7 @@ images:
     flickr_id: "5195023369"
     flickr_secret: 2c03601ca0
   - 
-    image: /assets/photos/5195613944_4049cf3c8d_o.jpg
+    image: /assets/gallery/5195613944_4049cf3c8d_o.jpg
     title: "296"
     tags:
       - ""
@@ -859,7 +859,7 @@ images:
     flickr_id: "5195613944"
     flickr_secret: 5dbdea28f6
   - 
-    image: /assets/photos/5195611318_1d6af2caed_o.jpg
+    image: /assets/gallery/5195611318_1d6af2caed_o.jpg
     title: "282"
     tags:
       - ""
@@ -878,7 +878,7 @@ images:
     flickr_id: "5195611318"
     flickr_secret: b6115ee2f3
   - 
-    image: /assets/photos/5195601638_73a3b68587_o.jpg
+    image: /assets/gallery/5195601638_73a3b68587_o.jpg
     title: "268"
     tags:
       - ""
@@ -897,7 +897,7 @@ images:
     flickr_id: "5195601638"
     flickr_secret: 5600029a5d
   - 
-    image: /assets/photos/5195591138_79b13a23b5_o.jpg
+    image: /assets/gallery/5195591138_79b13a23b5_o.jpg
     title: "295"
     tags:
       - ""
@@ -916,7 +916,7 @@ images:
     flickr_id: "5195591138"
     flickr_secret: f6a3a0820d
   - 
-    image: /assets/photos/5195587844_e1db6dd790_o.jpg
+    image: /assets/gallery/5195587844_e1db6dd790_o.jpg
     title: "267"
     tags:
       - ""
@@ -935,7 +935,7 @@ images:
     flickr_id: "5195587844"
     flickr_secret: 4c1c28f8f9
   - 
-    image: /assets/photos/5194979965_d4f6f913e8_o.jpg
+    image: /assets/gallery/5194979965_d4f6f913e8_o.jpg
     title: "294"
     tags:
       - ""
@@ -954,7 +954,7 @@ images:
     flickr_id: "5194979965"
     flickr_secret: 511e7da6fc
   - 
-    image: /assets/photos/5194978407_80c013f221_o.jpg
+    image: /assets/gallery/5194978407_80c013f221_o.jpg
     title: "293"
     tags:
       - ""
@@ -973,7 +973,7 @@ images:
     flickr_id: "5194978407"
     flickr_secret: 039896e0c8
   - 
-    image: /assets/photos/5195573832_41eee9ebd0_o.jpg
+    image: /assets/gallery/5195573832_41eee9ebd0_o.jpg
     title: "292"
     tags:
       - ""
@@ -992,7 +992,7 @@ images:
     flickr_id: "5195573832"
     flickr_secret: e8942796d5
   - 
-    image: /assets/photos/5195571572_3423507d59_o.jpg
+    image: /assets/gallery/5195571572_3423507d59_o.jpg
     title: "291"
     tags:
       - ""
@@ -1011,7 +1011,7 @@ images:
     flickr_id: "5195571572"
     flickr_secret: a5a5db456b
   - 
-    image: /assets/photos/5194968611_01c756ed87_o.jpg
+    image: /assets/gallery/5194968611_01c756ed87_o.jpg
     title: "290"
     tags:
       - ""
@@ -1030,7 +1030,7 @@ images:
     flickr_id: "5194968611"
     flickr_secret: a9c242d47a
   - 
-    image: /assets/photos/5195567920_55310aa192_o.jpg
+    image: /assets/gallery/5195567920_55310aa192_o.jpg
     title: "289"
     tags:
       - ""
@@ -1049,7 +1049,7 @@ images:
     flickr_id: "5195567920"
     flickr_secret: c7c29a6b49
   - 
-    image: /assets/photos/5195565944_5577361c4a_o.jpg
+    image: /assets/gallery/5195565944_5577361c4a_o.jpg
     title: "288"
     tags:
       - ""
@@ -1068,7 +1068,7 @@ images:
     flickr_id: "5195565944"
     flickr_secret: 342be870c3
   - 
-    image: /assets/photos/5195562448_935b9546d3_o.jpg
+    image: /assets/gallery/5195562448_935b9546d3_o.jpg
     title: "287"
     tags:
       - ""
@@ -1087,7 +1087,7 @@ images:
     flickr_id: "5195562448"
     flickr_secret: 72f251c306
   - 
-    image: /assets/photos/5194960139_e166762d8e_o.jpg
+    image: /assets/gallery/5194960139_e166762d8e_o.jpg
     title: "286"
     tags:
       - ""
@@ -1106,7 +1106,7 @@ images:
     flickr_id: "5194960139"
     flickr_secret: 7d8b2748fa
   - 
-    image: /assets/photos/5194952087_2a95ebddfd_o.jpg
+    image: /assets/gallery/5194952087_2a95ebddfd_o.jpg
     title: "285"
     tags:
       - ""
@@ -1125,7 +1125,7 @@ images:
     flickr_id: "5194952087"
     flickr_secret: 73c279c7cc
   - 
-    image: /assets/photos/5194949595_bc3319e88a_o.jpg
+    image: /assets/gallery/5194949595_bc3319e88a_o.jpg
     title: "284"
     tags:
       - ""
@@ -1144,7 +1144,7 @@ images:
     flickr_id: "5194949595"
     flickr_secret: 81c8890e4a
   - 
-    image: /assets/photos/5194946181_0de06dd407_o.jpg
+    image: /assets/gallery/5194946181_0de06dd407_o.jpg
     title: "283"
     tags:
       - ""
@@ -1163,7 +1163,7 @@ images:
     flickr_id: "5194946181"
     flickr_secret: 6974ca25c9
   - 
-    image: /assets/photos/5195543106_44f3bd7017_o.jpg
+    image: /assets/gallery/5195543106_44f3bd7017_o.jpg
     title: "281"
     tags:
       - ""
@@ -1182,7 +1182,7 @@ images:
     flickr_id: "5195543106"
     flickr_secret: 7d7ca30ba8
   - 
-    image: /assets/photos/5194940059_36db946fa4_o.jpg
+    image: /assets/gallery/5194940059_36db946fa4_o.jpg
     title: "280"
     tags:
       - ""
@@ -1201,7 +1201,7 @@ images:
     flickr_id: "5194940059"
     flickr_secret: ac6646a6ca
   - 
-    image: /assets/photos/5195535394_d2c588eeb6_o.jpg
+    image: /assets/gallery/5195535394_d2c588eeb6_o.jpg
     title: "279"
     tags:
       - ""
@@ -1220,7 +1220,7 @@ images:
     flickr_id: "5195535394"
     flickr_secret: fb6d7180a2
   - 
-    image: /assets/photos/5195529770_ed35ce902a_o.jpg
+    image: /assets/gallery/5195529770_ed35ce902a_o.jpg
     title: "278"
     tags:
       - ""
@@ -1239,7 +1239,7 @@ images:
     flickr_id: "5195529770"
     flickr_secret: 2f88418b8d
   - 
-    image: /assets/photos/5195524106_b66c3f48fd_o.jpg
+    image: /assets/gallery/5195524106_b66c3f48fd_o.jpg
     title: "277"
     tags:
       - ""
@@ -1258,7 +1258,7 @@ images:
     flickr_id: "5195524106"
     flickr_secret: 54a4f443b3
   - 
-    image: /assets/photos/5195518168_3abed50d05_o.jpg
+    image: /assets/gallery/5195518168_3abed50d05_o.jpg
     title: "276"
     tags:
       - ""
@@ -1277,7 +1277,7 @@ images:
     flickr_id: "5195518168"
     flickr_secret: 1b57e22556
   - 
-    image: /assets/photos/5195514722_b7ac5dc6af_o.jpg
+    image: /assets/gallery/5195514722_b7ac5dc6af_o.jpg
     title: "275"
     tags:
       - ""
@@ -1296,7 +1296,7 @@ images:
     flickr_id: "5195514722"
     flickr_secret: a4075480e6
   - 
-    image: /assets/photos/5195511136_9bf318b08a_o.jpg
+    image: /assets/gallery/5195511136_9bf318b08a_o.jpg
     title: _CD13449
     tags:
       - ""
@@ -1315,7 +1315,7 @@ images:
     flickr_id: "5195511136"
     flickr_secret: 3035904b26
   - 
-    image: /assets/photos/5195507112_c710c8f59b_o.jpg
+    image: /assets/gallery/5195507112_c710c8f59b_o.jpg
     title: "274"
     tags:
       - ""
@@ -1334,7 +1334,7 @@ images:
     flickr_id: "5195507112"
     flickr_secret: 753de40617
   - 
-    image: /assets/photos/5194902965_1f7a92cbfd_o.jpg
+    image: /assets/gallery/5194902965_1f7a92cbfd_o.jpg
     title: "272"
     tags:
       - ""
@@ -1353,7 +1353,7 @@ images:
     flickr_id: "5194902965"
     flickr_secret: 27358ce511
   - 
-    image: /assets/photos/5195502752_1b9bbe77f4_o.jpg
+    image: /assets/gallery/5195502752_1b9bbe77f4_o.jpg
     title: "273"
     tags:
       - ""
@@ -1372,7 +1372,7 @@ images:
     flickr_id: "5195502752"
     flickr_secret: ae7b890c6a
   - 
-    image: /assets/photos/5195499450_2127c3d6ca_o.jpg
+    image: /assets/gallery/5195499450_2127c3d6ca_o.jpg
     title: "257"
     tags:
       - ""
@@ -1391,7 +1391,7 @@ images:
     flickr_id: "5195499450"
     flickr_secret: 7ab844c3f5
   - 
-    image: /assets/photos/5195492540_dc4c8c8326_o.jpg
+    image: /assets/gallery/5195492540_dc4c8c8326_o.jpg
     title: "256"
     tags:
       - ""
@@ -1410,7 +1410,7 @@ images:
     flickr_id: "5195492540"
     flickr_secret: 51abda1c05
   - 
-    image: /assets/photos/5194883901_1dfb0e1912_o.jpg
+    image: /assets/gallery/5194883901_1dfb0e1912_o.jpg
     title: "271"
     tags:
       - ""
@@ -1429,7 +1429,7 @@ images:
     flickr_id: "5194883901"
     flickr_secret: 3356740a21
   - 
-    image: /assets/photos/5194881407_af8027d0a9_o.jpg
+    image: /assets/gallery/5194881407_af8027d0a9_o.jpg
     title: "269"
     tags:
       - ""
@@ -1448,7 +1448,7 @@ images:
     flickr_id: "5194881407"
     flickr_secret: fdda1b050b
   - 
-    image: /assets/photos/5194876865_2f0e1ed355_o.jpg
+    image: /assets/gallery/5194876865_2f0e1ed355_o.jpg
     title: "270"
     tags:
       - ""
@@ -1467,7 +1467,7 @@ images:
     flickr_id: "5194876865"
     flickr_secret: 0d6bee1d05
   - 
-    image: /assets/photos/5194875149_323ea9d713_o.jpg
+    image: /assets/gallery/5194875149_323ea9d713_o.jpg
     title: "266"
     tags:
       - ""
@@ -1486,7 +1486,7 @@ images:
     flickr_id: "5194875149"
     flickr_secret: 1a3fc8d4fc
   - 
-    image: /assets/photos/5194870031_5020b66fdc_o.jpg
+    image: /assets/gallery/5194870031_5020b66fdc_o.jpg
     title: "264"
     tags:
       - ""
@@ -1505,7 +1505,7 @@ images:
     flickr_id: "5194870031"
     flickr_secret: 8da82889fa
   - 
-    image: /assets/photos/5194864417_39de3c33c3_o.jpg
+    image: /assets/gallery/5194864417_39de3c33c3_o.jpg
     title: "263"
     tags:
       - ""
@@ -1524,7 +1524,7 @@ images:
     flickr_id: "5194864417"
     flickr_secret: 29f2a1ed6a
   - 
-    image: /assets/photos/5194857401_1c4b7e338e_o.jpg
+    image: /assets/gallery/5194857401_1c4b7e338e_o.jpg
     title: "262"
     tags:
       - ""
@@ -1543,7 +1543,7 @@ images:
     flickr_id: "5194857401"
     flickr_secret: 93127fd304
   - 
-    image: /assets/photos/5194851277_60f807ef01_o.jpg
+    image: /assets/gallery/5194851277_60f807ef01_o.jpg
     title: "261"
     tags:
       - ""
@@ -1562,7 +1562,7 @@ images:
     flickr_id: "5194851277"
     flickr_secret: db9bbc5eb5
   - 
-    image: /assets/photos/5194847863_42ccd37463_o.jpg
+    image: /assets/gallery/5194847863_42ccd37463_o.jpg
     title: "260"
     tags:
       - ""
@@ -1581,7 +1581,7 @@ images:
     flickr_id: "5194847863"
     flickr_secret: cc636ecc95
   - 
-    image: /assets/photos/5195444280_41ce27ccd5_o.jpg
+    image: /assets/gallery/5195444280_41ce27ccd5_o.jpg
     title: "259"
     tags:
       - ""
@@ -1600,7 +1600,7 @@ images:
     flickr_id: "5195444280"
     flickr_secret: 72fb89a905
   - 
-    image: /assets/photos/5194841297_3f0bd0633e_o.jpg
+    image: /assets/gallery/5194841297_3f0bd0633e_o.jpg
     title: "250"
     tags:
       - ""
@@ -1619,7 +1619,7 @@ images:
     flickr_id: "5194841297"
     flickr_secret: e543e26c6e
   - 
-    image: /assets/photos/5195438444_3a7d7473d9_o.jpg
+    image: /assets/gallery/5195438444_3a7d7473d9_o.jpg
     title: "258"
     tags:
       - ""
@@ -1638,7 +1638,7 @@ images:
     flickr_id: "5195438444"
     flickr_secret: 34b4e684c9
   - 
-    image: /assets/photos/5194834847_783572e4d4_o.jpg
+    image: /assets/gallery/5194834847_783572e4d4_o.jpg
     title: "249"
     tags:
       - ""
@@ -1657,7 +1657,7 @@ images:
     flickr_id: "5194834847"
     flickr_secret: ab8df49ce1
   - 
-    image: /assets/photos/5195432856_9acc46f0b0_o.jpg
+    image: /assets/gallery/5195432856_9acc46f0b0_o.jpg
     title: "248"
     tags:
       - ""
@@ -1676,7 +1676,7 @@ images:
     flickr_id: "5195432856"
     flickr_secret: 38ac321d58
   - 
-    image: /assets/photos/5194829243_54c40b9346_o.jpg
+    image: /assets/gallery/5194829243_54c40b9346_o.jpg
     title: "247"
     tags:
       - ""
@@ -1695,7 +1695,7 @@ images:
     flickr_id: "5194829243"
     flickr_secret: e30bb88927
   - 
-    image: /assets/photos/5194821851_3aa4336586_o.jpg
+    image: /assets/gallery/5194821851_3aa4336586_o.jpg
     title: "244"
     tags:
       - ""
@@ -1714,7 +1714,7 @@ images:
     flickr_id: "5194821851"
     flickr_secret: afe665d838
   - 
-    image: /assets/photos/5195417258_93dfe11984_o.jpg
+    image: /assets/gallery/5195417258_93dfe11984_o.jpg
     title: "243"
     tags:
       - ""
@@ -1733,7 +1733,7 @@ images:
     flickr_id: "5195417258"
     flickr_secret: 2ded05bf5c
   - 
-    image: /assets/photos/5195413530_cc531423f0_o.jpg
+    image: /assets/gallery/5195413530_cc531423f0_o.jpg
     title: "241"
     tags:
       - ""
@@ -1752,7 +1752,7 @@ images:
     flickr_id: "5195413530"
     flickr_secret: 85f5087a8c
   - 
-    image: /assets/photos/5195408690_b23d91bf7a_o.jpg
+    image: /assets/gallery/5195408690_b23d91bf7a_o.jpg
     title: "240"
     tags:
       - ""
@@ -1771,7 +1771,7 @@ images:
     flickr_id: "5195408690"
     flickr_secret: 43f4dd40d4
   - 
-    image: /assets/photos/5195402116_e971163cbc_o.jpg
+    image: /assets/gallery/5195402116_e971163cbc_o.jpg
     title: "239"
     tags:
       - ""
@@ -1790,7 +1790,7 @@ images:
     flickr_id: "5195402116"
     flickr_secret: 0e3a1a7a56
   - 
-    image: /assets/photos/5194799381_183b27e4e5_o.jpg
+    image: /assets/gallery/5194799381_183b27e4e5_o.jpg
     title: "297"
     tags:
       - ""
@@ -1809,7 +1809,7 @@ images:
     flickr_id: "5194799381"
     flickr_secret: 544711f84f
   - 
-    image: /assets/photos/5194835314_feac75c4d4_o.jpg
+    image: /assets/gallery/5194835314_feac75c4d4_o.jpg
     title: "238"
     tags:
       - ""
@@ -1828,7 +1828,7 @@ images:
     flickr_id: "5194835314"
     flickr_secret: fe274076d1
   - 
-    image: /assets/photos/5194833094_ca3a8851ab_o.jpg
+    image: /assets/gallery/5194833094_ca3a8851ab_o.jpg
     title: "236"
     tags:
       - ""
@@ -1847,7 +1847,7 @@ images:
     flickr_id: "5194833094"
     flickr_secret: 30ca5b934b
   - 
-    image: /assets/photos/5194831294_69f5337b1f_o.jpg
+    image: /assets/gallery/5194831294_69f5337b1f_o.jpg
     title: "235"
     tags:
       - ""
@@ -1866,7 +1866,7 @@ images:
     flickr_id: "5194831294"
     flickr_secret: ecc5cc8048
   - 
-    image: /assets/photos/5194229275_7445249ed3_o.jpg
+    image: /assets/gallery/5194229275_7445249ed3_o.jpg
     title: "234"
     tags:
       - ""
@@ -1885,7 +1885,7 @@ images:
     flickr_id: "5194229275"
     flickr_secret: 61f6ac2b96
   - 
-    image: /assets/photos/5194826072_1b3f5b8b88_o.jpg
+    image: /assets/gallery/5194826072_1b3f5b8b88_o.jpg
     title: "233"
     tags:
       - ""
@@ -1904,7 +1904,7 @@ images:
     flickr_id: "5194826072"
     flickr_secret: 964174c963
   - 
-    image: /assets/photos/5194224153_69950b9d16_o.jpg
+    image: /assets/gallery/5194224153_69950b9d16_o.jpg
     title: "232"
     tags:
       - ""
@@ -1923,7 +1923,7 @@ images:
     flickr_id: "5194224153"
     flickr_secret: 7c39e86d91
   - 
-    image: /assets/photos/5194822310_b6a3627a5a_o.jpg
+    image: /assets/gallery/5194822310_b6a3627a5a_o.jpg
     title: "231"
     tags:
       - ""
@@ -1942,7 +1942,7 @@ images:
     flickr_id: "5194822310"
     flickr_secret: 649b793057
   - 
-    image: /assets/photos/5194220813_988686497d_o.jpg
+    image: /assets/gallery/5194220813_988686497d_o.jpg
     title: "228"
     tags:
       - ""
@@ -1961,7 +1961,7 @@ images:
     flickr_id: "5194220813"
     flickr_secret: fc4ed3f623
   - 
-    image: /assets/photos/5194817700_906456d3f0_o.jpg
+    image: /assets/gallery/5194817700_906456d3f0_o.jpg
     title: "227"
     tags:
       - ""
@@ -1980,7 +1980,7 @@ images:
     flickr_id: "5194817700"
     flickr_secret: 23336bd43e
   - 
-    image: /assets/photos/5194215545_f634b7715b_o.jpg
+    image: /assets/gallery/5194215545_f634b7715b_o.jpg
     title: "226"
     tags:
       - ""
@@ -1999,7 +1999,7 @@ images:
     flickr_id: "5194215545"
     flickr_secret: eec896b233
   - 
-    image: /assets/photos/5194213523_f651b09cbe_o.jpg
+    image: /assets/gallery/5194213523_f651b09cbe_o.jpg
     title: "221"
     tags:
       - ""
@@ -2018,7 +2018,7 @@ images:
     flickr_id: "5194213523"
     flickr_secret: e7936aa3c6
   - 
-    image: /assets/photos/5194809038_e9f2603a0c_o.jpg
+    image: /assets/gallery/5194809038_e9f2603a0c_o.jpg
     title: "219"
     tags:
       - ""
@@ -2037,7 +2037,7 @@ images:
     flickr_id: "5194809038"
     flickr_secret: 702f631f11
   - 
-    image: /assets/photos/5194806884_25cd54e6af_o.jpg
+    image: /assets/gallery/5194806884_25cd54e6af_o.jpg
     title: "218"
     tags:
       - ""
@@ -2056,7 +2056,7 @@ images:
     flickr_id: "5194806884"
     flickr_secret: 054e46b58a
   - 
-    image: /assets/photos/5194804292_ed32d1ed94_o.jpg
+    image: /assets/gallery/5194804292_ed32d1ed94_o.jpg
     title: "217"
     tags:
       - ""
@@ -2075,7 +2075,7 @@ images:
     flickr_id: "5194804292"
     flickr_secret: a197026b75
   - 
-    image: /assets/photos/5194802262_aa6f1b2dac_o.jpg
+    image: /assets/gallery/5194802262_aa6f1b2dac_o.jpg
     title: "216"
     tags:
       - ""
@@ -2094,7 +2094,7 @@ images:
     flickr_id: "5194802262"
     flickr_secret: f84a1608e0
   - 
-    image: /assets/photos/5194197619_67ddaaa70b_o.jpg
+    image: /assets/gallery/5194197619_67ddaaa70b_o.jpg
     title: "212"
     tags:
       - ""
@@ -2113,7 +2113,7 @@ images:
     flickr_id: "5194197619"
     flickr_secret: f0fa0563c9
   - 
-    image: /assets/photos/5194196299_69d7cf0af7_o.jpg
+    image: /assets/gallery/5194196299_69d7cf0af7_o.jpg
     title: "297"
     tags:
       - ""
@@ -2132,7 +2132,7 @@ images:
     flickr_id: "5194196299"
     flickr_secret: a18fc72d44
   - 
-    image: /assets/photos/5194191475_46b32116e7_o.jpg
+    image: /assets/gallery/5194191475_46b32116e7_o.jpg
     title: "210"
     tags:
       - ""
@@ -2151,7 +2151,7 @@ images:
     flickr_id: "5194191475"
     flickr_secret: a754637b0a
   - 
-    image: /assets/photos/5194787918_de4b57ae3b_o.jpg
+    image: /assets/gallery/5194787918_de4b57ae3b_o.jpg
     title: "207"
     tags:
       - ""
@@ -2170,7 +2170,7 @@ images:
     flickr_id: "5194787918"
     flickr_secret: 65313ee1d1
   - 
-    image: /assets/photos/5194787438_d42e95978a_o.jpg
+    image: /assets/gallery/5194787438_d42e95978a_o.jpg
     title: "209"
     tags:
       - ""
@@ -2189,7 +2189,7 @@ images:
     flickr_id: "5194787438"
     flickr_secret: 7047d3b91a
   - 
-    image: /assets/photos/5194184805_f5bb396b04_o.jpg
+    image: /assets/gallery/5194184805_f5bb396b04_o.jpg
     title: "206"
     tags:
       - ""
@@ -2208,7 +2208,7 @@ images:
     flickr_id: "5194184805"
     flickr_secret: 0a656ed088
   - 
-    image: /assets/photos/5194780758_f4eeb9e410_o.jpg
+    image: /assets/gallery/5194780758_f4eeb9e410_o.jpg
     title: "204"
     tags:
       - ""
@@ -2227,7 +2227,7 @@ images:
     flickr_id: "5194780758"
     flickr_secret: c40a012c7d
   - 
-    image: /assets/photos/5194779306_9c8fd31860_o.jpg
+    image: /assets/gallery/5194779306_9c8fd31860_o.jpg
     title: "202"
     tags:
       - ""
@@ -2246,7 +2246,7 @@ images:
     flickr_id: "5194779306"
     flickr_secret: a4a7220e8d
   - 
-    image: /assets/photos/5194777494_4290e95221_o.jpg
+    image: /assets/gallery/5194777494_4290e95221_o.jpg
     title: "199"
     tags:
       - ""
@@ -2265,7 +2265,7 @@ images:
     flickr_id: "5194777494"
     flickr_secret: 27ea9de537
   - 
-    image: /assets/photos/5194776092_6108dd5512_o.jpg
+    image: /assets/gallery/5194776092_6108dd5512_o.jpg
     title: "197"
     tags:
       - ""
@@ -2284,7 +2284,7 @@ images:
     flickr_id: "5194776092"
     flickr_secret: 542b3e79da
   - 
-    image: /assets/photos/5194175549_65405b7d07_o.jpg
+    image: /assets/gallery/5194175549_65405b7d07_o.jpg
     title: "195"
     tags:
       - ""
@@ -2303,7 +2303,7 @@ images:
     flickr_id: "5194175549"
     flickr_secret: 1594cf6d3c
   - 
-    image: /assets/photos/5194774028_a49ae474b4_o.jpg
+    image: /assets/gallery/5194774028_a49ae474b4_o.jpg
     title: "187"
     tags:
       - ""
@@ -2322,7 +2322,7 @@ images:
     flickr_id: "5194774028"
     flickr_secret: 47520a7585
   - 
-    image: /assets/photos/5194771428_fa45f69e9c_o.jpg
+    image: /assets/gallery/5194771428_fa45f69e9c_o.jpg
     title: "184"
     tags:
       - ""
@@ -2341,7 +2341,7 @@ images:
     flickr_id: "5194771428"
     flickr_secret: 689c78dae6
   - 
-    image: /assets/photos/5194769918_62099f837a_o.jpg
+    image: /assets/gallery/5194769918_62099f837a_o.jpg
     title: "181"
     tags:
       - ""
@@ -2360,7 +2360,7 @@ images:
     flickr_id: "5194769918"
     flickr_secret: cb6ae64882
   - 
-    image: /assets/photos/5194767682_eea0bc7387_o.jpg
+    image: /assets/gallery/5194767682_eea0bc7387_o.jpg
     title: "175"
     tags:
       - ""
@@ -2379,7 +2379,7 @@ images:
     flickr_id: "5194767682"
     flickr_secret: 460e970df8
   - 
-    image: /assets/photos/5194165697_a427acf83d_o.jpg
+    image: /assets/gallery/5194165697_a427acf83d_o.jpg
     title: "174"
     tags:
       - ""
@@ -2398,7 +2398,7 @@ images:
     flickr_id: "5194165697"
     flickr_secret: 649ec23bfe
   - 
-    image: /assets/photos/5194762294_bff81835a1_o.jpg
+    image: /assets/gallery/5194762294_bff81835a1_o.jpg
     title: "172"
     tags:
       - ""
@@ -2417,7 +2417,7 @@ images:
     flickr_id: "5194762294"
     flickr_secret: 00986c8d99
   - 
-    image: /assets/photos/5194761014_2472c191df_o.jpg
+    image: /assets/gallery/5194761014_2472c191df_o.jpg
     title: "171"
     tags:
       - ""
@@ -2436,7 +2436,7 @@ images:
     flickr_id: "5194761014"
     flickr_secret: 5c8f8a02b5
   - 
-    image: /assets/photos/5194159081_0fec8d7246_o.jpg
+    image: /assets/gallery/5194159081_0fec8d7246_o.jpg
     title: "168"
     tags:
       - ""
@@ -2455,7 +2455,7 @@ images:
     flickr_id: "5194159081"
     flickr_secret: e57cda4cf7
   - 
-    image: /assets/photos/5194756700_bdd96e2194_o.jpg
+    image: /assets/gallery/5194756700_bdd96e2194_o.jpg
     title: "165"
     tags:
       - ""
@@ -2474,7 +2474,7 @@ images:
     flickr_id: "5194756700"
     flickr_secret: 3c2454f5b1
   - 
-    image: /assets/photos/5194155621_83584d9077_o.jpg
+    image: /assets/gallery/5194155621_83584d9077_o.jpg
     title: "164"
     tags:
       - ""
@@ -2493,7 +2493,7 @@ images:
     flickr_id: "5194155621"
     flickr_secret: 7c4098fcb0
   - 
-    image: /assets/photos/5194752282_9f0a35155e_o.jpg
+    image: /assets/gallery/5194752282_9f0a35155e_o.jpg
     title: "163"
     tags:
       - ""
@@ -2512,7 +2512,7 @@ images:
     flickr_id: "5194752282"
     flickr_secret: 949ff98b67
   - 
-    image: /assets/photos/5194749124_89ce360864_o.jpg
+    image: /assets/gallery/5194749124_89ce360864_o.jpg
     title: "162"
     tags:
       - ""
@@ -2531,7 +2531,7 @@ images:
     flickr_id: "5194749124"
     flickr_secret: 23df070940
   - 
-    image: /assets/photos/5194747030_db5e9f1e94_o.jpg
+    image: /assets/gallery/5194747030_db5e9f1e94_o.jpg
     title: "159"
     tags:
       - ""
@@ -2550,7 +2550,7 @@ images:
     flickr_id: "5194747030"
     flickr_secret: 0b12a6c995
   - 
-    image: /assets/photos/5194141649_a9ae277a5b_o.jpg
+    image: /assets/gallery/5194141649_a9ae277a5b_o.jpg
     title: "156"
     tags:
       - ""
@@ -2569,7 +2569,7 @@ images:
     flickr_id: "5194141649"
     flickr_secret: e92cb9282f
   - 
-    image: /assets/photos/5194138307_233d89fde4_o.jpg
+    image: /assets/gallery/5194138307_233d89fde4_o.jpg
     title: "153"
     tags:
       - ""
@@ -2588,7 +2588,7 @@ images:
     flickr_id: "5194138307"
     flickr_secret: 5a2cbdf3fe
   - 
-    image: /assets/photos/5194736720_d7bccb7298_o.jpg
+    image: /assets/gallery/5194736720_d7bccb7298_o.jpg
     title: "151"
     tags:
       - ""
@@ -2607,7 +2607,7 @@ images:
     flickr_id: "5194736720"
     flickr_secret: b6a9617117
   - 
-    image: /assets/photos/5194735642_c4da067954_o.jpg
+    image: /assets/gallery/5194735642_c4da067954_o.jpg
     title: "149"
     tags:
       - ""
@@ -2626,7 +2626,7 @@ images:
     flickr_id: "5194735642"
     flickr_secret: 2b2c29567a
   - 
-    image: /assets/photos/5194734012_599a209523_o.jpg
+    image: /assets/gallery/5194734012_599a209523_o.jpg
     title: "146"
     tags:
       - ""
@@ -2645,7 +2645,7 @@ images:
     flickr_id: "5194734012"
     flickr_secret: 8f23861b09
   - 
-    image: /assets/photos/5194132167_f3611f2e82_o.jpg
+    image: /assets/gallery/5194132167_f3611f2e82_o.jpg
     title: "144"
     tags:
       - ""
@@ -2664,7 +2664,7 @@ images:
     flickr_id: "5194132167"
     flickr_secret: a54b5d563c
   - 
-    image: /assets/photos/5194730822_047ed9ed70_o.jpg
+    image: /assets/gallery/5194730822_047ed9ed70_o.jpg
     title: "143"
     tags:
       - ""
@@ -2683,7 +2683,7 @@ images:
     flickr_id: "5194730822"
     flickr_secret: a337be864a
   - 
-    image: /assets/photos/5194728690_6533e277a0_o.jpg
+    image: /assets/gallery/5194728690_6533e277a0_o.jpg
     title: "140"
     tags:
       - ""
@@ -2702,7 +2702,7 @@ images:
     flickr_id: "5194728690"
     flickr_secret: 246711d8c5
   - 
-    image: /assets/photos/5194126885_77de51db0d_o.jpg
+    image: /assets/gallery/5194126885_77de51db0d_o.jpg
     title: "139"
     tags:
       - ""
@@ -2721,7 +2721,7 @@ images:
     flickr_id: "5194126885"
     flickr_secret: ddc2ed7a54
   - 
-    image: /assets/photos/5194125317_260d4a1e86_o.jpg
+    image: /assets/gallery/5194125317_260d4a1e86_o.jpg
     title: "137"
     tags:
       - ""
@@ -2740,7 +2740,7 @@ images:
     flickr_id: "5194125317"
     flickr_secret: d4e2a5e67b
   - 
-    image: /assets/photos/5194724170_cafdfb518c_o.jpg
+    image: /assets/gallery/5194724170_cafdfb518c_o.jpg
     title: "136"
     tags:
       - ""
@@ -2759,7 +2759,7 @@ images:
     flickr_id: "5194724170"
     flickr_secret: dec1e5d0fe
   - 
-    image: /assets/photos/5194722796_cc920bfbc4_o.jpg
+    image: /assets/gallery/5194722796_cc920bfbc4_o.jpg
     title: "116"
     tags:
       - ""
@@ -2778,7 +2778,7 @@ images:
     flickr_id: "5194722796"
     flickr_secret: 5b16746c58
   - 
-    image: /assets/photos/5194720858_3abbd9a369_o.jpg
+    image: /assets/gallery/5194720858_3abbd9a369_o.jpg
     title: "135"
     tags:
       - ""
@@ -2797,7 +2797,7 @@ images:
     flickr_id: "5194720858"
     flickr_secret: d5d6f50455
   - 
-    image: /assets/photos/5194720294_137a9acf75_o.jpg
+    image: /assets/gallery/5194720294_137a9acf75_o.jpg
     title: "134"
     tags:
       - ""
@@ -2816,7 +2816,7 @@ images:
     flickr_id: "5194720294"
     flickr_secret: 4f80bd031b
   - 
-    image: /assets/photos/5194118473_3c51569bca_o.jpg
+    image: /assets/gallery/5194118473_3c51569bca_o.jpg
     title: "131"
     tags:
       - ""
@@ -2835,7 +2835,7 @@ images:
     flickr_id: "5194118473"
     flickr_secret: 570197cae9
   - 
-    image: /assets/photos/5194715886_8b96eece71_o.jpg
+    image: /assets/gallery/5194715886_8b96eece71_o.jpg
     title: "129"
     tags:
       - ""
@@ -2854,7 +2854,7 @@ images:
     flickr_id: "5194715886"
     flickr_secret: 10e9de1774
   - 
-    image: /assets/photos/5194113189_a965ba36fb_o.jpg
+    image: /assets/gallery/5194113189_a965ba36fb_o.jpg
     title: "124"
     tags:
       - ""
@@ -2873,7 +2873,7 @@ images:
     flickr_id: "5194113189"
     flickr_secret: 3427136eff
   - 
-    image: /assets/photos/5194110045_571cbc1829_o.jpg
+    image: /assets/gallery/5194110045_571cbc1829_o.jpg
     title: "121"
     tags:
       - ""
@@ -2892,7 +2892,7 @@ images:
     flickr_id: "5194110045"
     flickr_secret: 2fa1318965
   - 
-    image: /assets/photos/5194107289_5a3e982c24_o.jpg
+    image: /assets/gallery/5194107289_5a3e982c24_o.jpg
     title: "119"
     tags:
       - ""
@@ -2911,7 +2911,7 @@ images:
     flickr_id: "5194107289"
     flickr_secret: 2cea28365d
   - 
-    image: /assets/photos/5194704024_a27df65923_o.jpg
+    image: /assets/gallery/5194704024_a27df65923_o.jpg
     title: "112"
     tags:
       - ""
@@ -2930,7 +2930,7 @@ images:
     flickr_id: "5194704024"
     flickr_secret: bd70b6dbac
   - 
-    image: /assets/photos/5194100775_48e1c69eaf_o.jpg
+    image: /assets/gallery/5194100775_48e1c69eaf_o.jpg
     title: "109"
     tags:
       - ""
@@ -2949,7 +2949,7 @@ images:
     flickr_id: "5194100775"
     flickr_secret: fd12ffd8ea
   - 
-    image: /assets/photos/5194100023_52f624e053_o.jpg
+    image: /assets/gallery/5194100023_52f624e053_o.jpg
     title: "106"
     tags:
       - ""
@@ -2968,7 +2968,7 @@ images:
     flickr_id: "5194100023"
     flickr_secret: 0d051376d1
   - 
-    image: /assets/photos/5194096411_c8f3f61a75_o.jpg
+    image: /assets/gallery/5194096411_c8f3f61a75_o.jpg
     title: "101"
     tags:
       - ""
@@ -2987,7 +2987,7 @@ images:
     flickr_id: "5194096411"
     flickr_secret: 318bc7d431
   - 
-    image: /assets/photos/5194095339_678fb75021_o.jpg
+    image: /assets/gallery/5194095339_678fb75021_o.jpg
     title: "105"
     tags:
       - ""
@@ -3006,7 +3006,7 @@ images:
     flickr_id: "5194095339"
     flickr_secret: 7c2a8c12eb
   - 
-    image: /assets/photos/5194693810_50c9afd22e_o.jpg
+    image: /assets/gallery/5194693810_50c9afd22e_o.jpg
     title: "098"
     tags:
       - ""
@@ -3025,7 +3025,7 @@ images:
     flickr_id: "5194693810"
     flickr_secret: e38a955f93
   - 
-    image: /assets/photos/5194692464_6150313b8f_o.jpg
+    image: /assets/gallery/5194692464_6150313b8f_o.jpg
     title: "093"
     tags:
       - ""
@@ -3044,7 +3044,7 @@ images:
     flickr_id: "5194692464"
     flickr_secret: 1afa804bed
   - 
-    image: /assets/photos/5194089697_fb6cf7652a_o.jpg
+    image: /assets/gallery/5194089697_fb6cf7652a_o.jpg
     title: "092"
     tags:
       - ""
@@ -3063,7 +3063,7 @@ images:
     flickr_id: "5194089697"
     flickr_secret: a3b2628e68
   - 
-    image: /assets/photos/5194087545_0a2c2e761b_o.jpg
+    image: /assets/gallery/5194087545_0a2c2e761b_o.jpg
     title: "089"
     tags:
       - ""
@@ -3082,7 +3082,7 @@ images:
     flickr_id: "5194087545"
     flickr_secret: c4c6166ae2
   - 
-    image: /assets/photos/5194085709_572c8acca9_o.jpg
+    image: /assets/gallery/5194085709_572c8acca9_o.jpg
     title: "087"
     tags:
       - ""
@@ -3101,7 +3101,7 @@ images:
     flickr_id: "5194085709"
     flickr_secret: 8a11612113
   - 
-    image: /assets/photos/5194083339_1a9d5d689c_o.jpg
+    image: /assets/gallery/5194083339_1a9d5d689c_o.jpg
     title: "076"
     tags:
       - ""
@@ -3120,7 +3120,7 @@ images:
     flickr_id: "5194083339"
     flickr_secret: ddc4c9d75d
   - 
-    image: /assets/photos/5194680390_1928839a17_o.jpg
+    image: /assets/gallery/5194680390_1928839a17_o.jpg
     title: "072"
     tags:
       - ""
@@ -3139,7 +3139,7 @@ images:
     flickr_id: "5194680390"
     flickr_secret: d736f4110a
   - 
-    image: /assets/photos/5194078903_003148aec8_o.jpg
+    image: /assets/gallery/5194078903_003148aec8_o.jpg
     title: "068"
     tags:
       - ""
@@ -3158,7 +3158,7 @@ images:
     flickr_id: "5194078903"
     flickr_secret: 8c5f40be18
   - 
-    image: /assets/photos/5194077711_1c2ede6d11_o.jpg
+    image: /assets/gallery/5194077711_1c2ede6d11_o.jpg
     title: "063"
     tags:
       - ""
@@ -3177,7 +3177,7 @@ images:
     flickr_id: "5194077711"
     flickr_secret: bf285b25c6
   - 
-    image: /assets/photos/5194674106_2e2166ea80_o.jpg
+    image: /assets/gallery/5194674106_2e2166ea80_o.jpg
     title: "061"
     tags:
       - ""
@@ -3196,7 +3196,7 @@ images:
     flickr_id: "5194674106"
     flickr_secret: 74f1cabb00
   - 
-    image: /assets/photos/5194072515_a1caaf5e13_o.jpg
+    image: /assets/gallery/5194072515_a1caaf5e13_o.jpg
     title: "056"
     tags:
       - ""
@@ -3215,7 +3215,7 @@ images:
     flickr_id: "5194072515"
     flickr_secret: f0c428a95b
   - 
-    image: /assets/photos/5194669828_5bf2cc1dff_o.jpg
+    image: /assets/gallery/5194669828_5bf2cc1dff_o.jpg
     title: "053"
     tags:
       - ""
@@ -3234,7 +3234,7 @@ images:
     flickr_id: "5194669828"
     flickr_secret: 4482a5e721
   - 
-    image: /assets/photos/5194068027_e5caebdc72_o.jpg
+    image: /assets/gallery/5194068027_e5caebdc72_o.jpg
     title: "052"
     tags:
       - ""
@@ -3253,7 +3253,7 @@ images:
     flickr_id: "5194068027"
     flickr_secret: a63f7182b2
   - 
-    image: /assets/photos/5194665734_771f84f056_o.jpg
+    image: /assets/gallery/5194665734_771f84f056_o.jpg
     title: "050"
     tags:
       - ""
@@ -3272,7 +3272,7 @@ images:
     flickr_id: "5194665734"
     flickr_secret: 3cc78bf64a
   - 
-    image: /assets/photos/5194065443_36f76a91b0_o.jpg
+    image: /assets/gallery/5194065443_36f76a91b0_o.jpg
     title: "080"
     tags:
       - ""
@@ -3291,7 +3291,7 @@ images:
     flickr_id: "5194065443"
     flickr_secret: 05e034af0e
   - 
-    image: /assets/photos/5194060685_e24c276496_o.jpg
+    image: /assets/gallery/5194060685_e24c276496_o.jpg
     title: "045"
     tags:
       - ""
@@ -3310,7 +3310,7 @@ images:
     flickr_id: "5194060685"
     flickr_secret: ed7c0d066d
   - 
-    image: /assets/photos/5194658814_78f478755c_o.jpg
+    image: /assets/gallery/5194658814_78f478755c_o.jpg
     title: "044"
     tags:
       - ""
@@ -3329,7 +3329,7 @@ images:
     flickr_id: "5194658814"
     flickr_secret: db57468764
   - 
-    image: /assets/photos/5194058083_19a66bfe05_o.jpg
+    image: /assets/gallery/5194058083_19a66bfe05_o.jpg
     title: "039"
     tags:
       - ""
@@ -3348,7 +3348,7 @@ images:
     flickr_id: "5194058083"
     flickr_secret: 50d7616a7b
   - 
-    image: /assets/photos/5194056643_87df226946_o.jpg
+    image: /assets/gallery/5194056643_87df226946_o.jpg
     title: "042"
     tags:
       - ""
@@ -3367,7 +3367,7 @@ images:
     flickr_id: "5194056643"
     flickr_secret: abb160766d
   - 
-    image: /assets/photos/5194654980_1f5eb11cb1_o.jpg
+    image: /assets/gallery/5194654980_1f5eb11cb1_o.jpg
     title: "030"
     tags:
       - ""
@@ -3386,7 +3386,7 @@ images:
     flickr_id: "5194654980"
     flickr_secret: 0d980dc282
   - 
-    image: /assets/photos/5194650372_0e84533ddf_o.jpg
+    image: /assets/gallery/5194650372_0e84533ddf_o.jpg
     title: "038"
     tags:
       - ""
@@ -3405,7 +3405,7 @@ images:
     flickr_id: "5194650372"
     flickr_secret: f24f76bdd6
   - 
-    image: /assets/photos/5194649552_45a10b8d1f_o.jpg
+    image: /assets/gallery/5194649552_45a10b8d1f_o.jpg
     title: "037"
     tags:
       - ""
@@ -3424,7 +3424,7 @@ images:
     flickr_id: "5194649552"
     flickr_secret: 6ff93e0f10
   - 
-    image: /assets/photos/5194647964_4894ba4323_o.jpg
+    image: /assets/gallery/5194647964_4894ba4323_o.jpg
     title: "034"
     tags:
       - ""
@@ -3443,7 +3443,7 @@ images:
     flickr_id: "5194647964"
     flickr_secret: 570f56df42
   - 
-    image: /assets/photos/5194047703_05d771ce52_o.jpg
+    image: /assets/gallery/5194047703_05d771ce52_o.jpg
     title: "035"
     tags:
       - ""
@@ -3462,7 +3462,7 @@ images:
     flickr_id: "5194047703"
     flickr_secret: 45f3974002
   - 
-    image: /assets/photos/5194645992_2c4b17f22f_o.jpg
+    image: /assets/gallery/5194645992_2c4b17f22f_o.jpg
     title: "011"
     tags:
       - ""
@@ -3481,7 +3481,7 @@ images:
     flickr_id: "5194645992"
     flickr_secret: f143b04675
   - 
-    image: /assets/photos/5194637578_3bb12a1b46_o.jpg
+    image: /assets/gallery/5194637578_3bb12a1b46_o.jpg
     title: "023"
     tags:
       - ""
@@ -3500,7 +3500,7 @@ images:
     flickr_id: "5194637578"
     flickr_secret: 37637b2c5e
   - 
-    image: /assets/photos/5194032603_bd34bff779_o.jpg
+    image: /assets/gallery/5194032603_bd34bff779_o.jpg
     title: "002"
     tags:
       - ""
@@ -3519,7 +3519,7 @@ images:
     flickr_id: "5194032603"
     flickr_secret: bc87952288
   - 
-    image: /assets/photos/5194627966_457e297870_o.jpg
+    image: /assets/gallery/5194627966_457e297870_o.jpg
     title: "015"
     tags:
       - ""
@@ -3538,7 +3538,7 @@ images:
     flickr_id: "5194627966"
     flickr_secret: 6457bd9550
   - 
-    image: /assets/photos/5194027155_d08beea3c1_o.jpg
+    image: /assets/gallery/5194027155_d08beea3c1_o.jpg
     title: "014"
     tags:
       - ""
@@ -3557,7 +3557,7 @@ images:
     flickr_id: "5194027155"
     flickr_secret: f602c1a756
   - 
-    image: /assets/photos/5194624056_6aec274449_o.jpg
+    image: /assets/gallery/5194624056_6aec274449_o.jpg
     title: "008"
     tags:
       - ""
@@ -3576,7 +3576,7 @@ images:
     flickr_id: "5194624056"
     flickr_secret: 41b62b9481
   - 
-    image: /assets/photos/5194622998_66c9a3ba74_o.jpg
+    image: /assets/gallery/5194622998_66c9a3ba74_o.jpg
     title: "012"
     tags:
       - ""
@@ -3595,7 +3595,7 @@ images:
     flickr_id: "5194622998"
     flickr_secret: c2089cd5d7
   - 
-    image: /assets/photos/5194622262_f41058afc2_o.jpg
+    image: /assets/gallery/5194622262_f41058afc2_o.jpg
     title: "006"
     tags:
       - ""

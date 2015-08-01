@@ -1,6 +1,6 @@
 ---
 title: 19th June — Babysitters!
-image: /assets/365/IMG_8546.JPG
+images: /assets/365/IMG_8546.JPG
 tags:
   - "365"
 ---

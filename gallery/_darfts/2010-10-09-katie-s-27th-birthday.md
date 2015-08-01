@@ -4,7 +4,7 @@ cover: /assets/gallery/5196219230_69510ec852_o.jpg
 section: gallery
 images:
   - 
-    image: /assets/photos/5196250540_4c8e999574_o.jpg
+    image: /assets/gallery/5196250540_4c8e999574_o.jpg
     title: Loo 1
     tags:
       - ""
@@ -23,7 +23,7 @@ images:
     flickr_id: "5196250540"
     flickr_secret: 95d812937d
   - 
-    image: /assets/photos/5196247598_a0ff69e607_o.jpg
+    image: /assets/gallery/5196247598_a0ff69e607_o.jpg
     title: Loo 2
     tags:
       - ""
@@ -42,7 +42,7 @@ images:
     flickr_id: "5196247598"
     flickr_secret: 0b800e85ec
   - 
-    image: /assets/photos/5195644343_77069cb58b_o.jpg
+    image: /assets/gallery/5195644343_77069cb58b_o.jpg
     title: The Cadged Man
     tags:
       - ""
@@ -61,7 +61,7 @@ images:
     flickr_id: "5195644343"
     flickr_secret: 057c8b70ae
   - 
-    image: /assets/photos/5195640603_d239ee7a58_o.jpg
+    image: /assets/gallery/5195640603_d239ee7a58_o.jpg
     title: The Hair Escape
     tags:
       - ""
@@ -80,7 +80,7 @@ images:
     flickr_id: "5195640603"
     flickr_secret: 04d5e84d15
   - 
-    image: /assets/photos/5196235904_0d35c2695d_o.jpg
+    image: /assets/gallery/5196235904_0d35c2695d_o.jpg
     title: She LOVES the cake.
     tags:
       - ""
@@ -99,7 +99,7 @@ images:
     flickr_id: "5196235904"
     flickr_secret: 8a54290542
   - 
-    image: /assets/photos/5195632873_268e641a5f_o.jpg
+    image: /assets/gallery/5195632873_268e641a5f_o.jpg
     title: Beautiful Ladies
     tags:
       - ""
@@ -118,7 +118,7 @@ images:
     flickr_id: "5195632873"
     flickr_secret: a3482ee8e7
   - 
-    image: /assets/photos/5196228424_c63a864950_o.jpg
+    image: /assets/gallery/5196228424_c63a864950_o.jpg
     title: 27th Birthday
     tags:
       - ""
@@ -137,7 +137,7 @@ images:
     flickr_id: "5196228424"
     flickr_secret: e600055626
   - 
-    image: /assets/photos/5195624905_8370e71806_o.jpg
+    image: /assets/gallery/5195624905_8370e71806_o.jpg
     title: Cell Buddies
     tags:
       - ""
@@ -156,7 +156,7 @@ images:
     flickr_id: "5195624905"
     flickr_secret: f70f9f9944
   - 
-    image: /assets/photos/5196219230_69510ec852_o.jpg
+    image: /assets/gallery/5196219230_69510ec852_o.jpg
     title: My Wife
     tags:
       - ""
@@ -175,7 +175,7 @@ images:
     flickr_id: "5196219230"
     flickr_secret: 8486a99677
   - 
-    image: /assets/photos/5195615681_89d64af4fd_o.jpg
+    image: /assets/gallery/5195615681_89d64af4fd_o.jpg
     title: Party
     tags:
       - ""
@@ -194,7 +194,7 @@ images:
     flickr_id: "5195615681"
     flickr_secret: 2b9f4da383
   - 
-    image: /assets/photos/5196212224_604ea3d170_o.jpg
+    image: /assets/gallery/5196212224_604ea3d170_o.jpg
     title: Party
     tags:
       - ""
@@ -213,7 +213,7 @@ images:
     flickr_id: "5196212224"
     flickr_secret: 8a4cbd7dd6
   - 
-    image: /assets/photos/5195609949_1dea556447_o.jpg
+    image: /assets/gallery/5195609949_1dea556447_o.jpg
     title: 27th Cakes
     tags:
       - ""
@@ -232,7 +232,7 @@ images:
     flickr_id: "5195609949"
     flickr_secret: fb031bb758
   - 
-    image: /assets/photos/5195606659_f4aa673645_o.jpg
+    image: /assets/gallery/5195606659_f4aa673645_o.jpg
     title: The Full Member
     tags:
       - ""
@@ -251,7 +251,7 @@ images:
     flickr_id: "5195606659"
     flickr_secret: b44aa5c0c2
   - 
-    image: /assets/photos/5195603819_443b812d03_o.jpg
+    image: /assets/gallery/5195603819_443b812d03_o.jpg
     title: Birthday Girl
     tags:
       - ""

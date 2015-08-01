@@ -1,6 +1,6 @@
 ---
 title: '4th July — Weekend at Grandma & Grandads'
-image:
+images:
   - /assets/365/IMG_2772.jpg
   - /assets/365/IMG_2764.jpg
   - /assets/365/IMG_2750.jpg

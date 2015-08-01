@@ -1,6 +1,6 @@
 ---
 title: "16th May — Jez & Cherry's Wedding"
-image:
+images:
   - /assets/365/IMG_1715.jpg
   - /assets/365/IMG_1717.jpg
 tags:

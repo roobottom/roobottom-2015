@@ -4,7 +4,7 @@ cover: /assets/gallery/32368406_23175991f4_o.jpg
 section: gallery
 images:
   - 
-    image: /assets/photos/32368815_75f3aaaf68_o.jpg
+    image: /assets/gallery/32368815_75f3aaaf68_o.jpg
     title: The congregation arrives
     tags:
       - wedding
@@ -28,7 +28,7 @@ images:
     flickr_id: "32368815"
     flickr_secret: 75f3aaaf68
   - 
-    image: /assets/photos/32368562_c85ef53c91_o.jpg
+    image: /assets/gallery/32368562_c85ef53c91_o.jpg
     title: I Do.
     tags:
       - wedding
@@ -52,7 +52,7 @@ images:
     flickr_id: "32368562"
     flickr_secret: c85ef53c91
   - 
-    image: /assets/photos/32368406_23175991f4_o.jpg
+    image: /assets/gallery/32368406_23175991f4_o.jpg
     title: Paul, Esta and the bridesmaids
     tags:
       - wedding
@@ -77,7 +77,7 @@ images:
     flickr_id: "32368406"
     flickr_secret: 23175991f4
   - 
-    image: /assets/photos/32368088_8017e1aa0f_o.jpg
+    image: /assets/gallery/32368088_8017e1aa0f_o.jpg
     title: Enjoying the wedding dinner
     tags:
       - wedding
@@ -101,7 +101,7 @@ images:
     flickr_id: "32368088"
     flickr_secret: 8017e1aa0f
   - 
-    image: /assets/photos/32367838_5849b57ec7_o.jpg
+    image: /assets/gallery/32367838_5849b57ec7_o.jpg
     title: Are you tekkin pictures of my wife?
     tags:
       - wedding
@@ -125,7 +125,7 @@ images:
     flickr_id: "32367838"
     flickr_secret: 5849b57ec7
   - 
-    image: /assets/photos/32367151_eef63d5a8f_o.jpg
+    image: /assets/gallery/32367151_eef63d5a8f_o.jpg
     title: Whoooos this?
     tags:
       - wedding
@@ -149,7 +149,7 @@ images:
     flickr_id: "32367151"
     flickr_secret: eef63d5a8f
   - 
-    image: /assets/photos/32366891_a3c2353836_o.jpg
+    image: /assets/gallery/32366891_a3c2353836_o.jpg
     title: Eeeek!
     tags:
       - wedding
@@ -173,7 +173,7 @@ images:
     flickr_id: "32366891"
     flickr_secret: a3c2353836
   - 
-    image: /assets/photos/32366533_b088782e80_o.jpg
+    image: /assets/gallery/32366533_b088782e80_o.jpg
     title: Shhhh.... listen
     tags:
       - wedding
@@ -197,7 +197,7 @@ images:
     flickr_id: "32366533"
     flickr_secret: b088782e80
   - 
-    image: /assets/photos/32366329_a4ae4668cc_o.jpg
+    image: /assets/gallery/32366329_a4ae4668cc_o.jpg
     title: Raz
     tags:
       - wedding
@@ -221,7 +221,7 @@ images:
     flickr_id: "32366329"
     flickr_secret: a4ae4668cc
   - 
-    image: /assets/photos/32365691_1afd7b29c3_o.jpg
+    image: /assets/gallery/32365691_1afd7b29c3_o.jpg
     title: My car!
     tags:
       - wedding
@@ -245,7 +245,7 @@ images:
     flickr_id: "32365691"
     flickr_secret: 1afd7b29c3
   - 
-    image: /assets/photos/32365334_5005e90a18_o.jpg
+    image: /assets/gallery/32365334_5005e90a18_o.jpg
     title: Tin-can tastic
     tags:
       - wedding
@@ -269,7 +269,7 @@ images:
     flickr_id: "32365334"
     flickr_secret: 5005e90a18
   - 
-    image: /assets/photos/33006361_051f59240a_o.jpg
+    image: /assets/gallery/33006361_051f59240a_o.jpg
     title: Happy People
     tags:
       - ""
@@ -288,7 +288,7 @@ images:
     flickr_id: "33006361"
     flickr_secret: 051f59240a
   - 
-    image: /assets/photos/32365045_e9a7de739b_o.jpg
+    image: /assets/gallery/32365045_e9a7de739b_o.jpg
     title: And the party continued
     tags:
       - wedding
@@ -312,7 +312,7 @@ images:
     flickr_id: "32365045"
     flickr_secret: e9a7de739b
   - 
-    image: /assets/photos/32364487_776301ed86_o.jpg
+    image: /assets/gallery/32364487_776301ed86_o.jpg
     title: Up yours pal
     tags:
       - wedding
@@ -336,7 +336,7 @@ images:
     flickr_id: "32364487"
     flickr_secret: 776301ed86
   - 
-    image: /assets/photos/32364275_6d3d2b5656_o.jpg
+    image: /assets/gallery/32364275_6d3d2b5656_o.jpg
     title: Cotton!
     tags:
       - wedding
@@ -360,7 +360,7 @@ images:
     flickr_id: "32364275"
     flickr_secret: 6d3d2b5656
   - 
-    image: /assets/photos/32363894_bcd3afc5f1_o.jpg
+    image: /assets/gallery/32363894_bcd3afc5f1_o.jpg
     title: Jo and Becks
     tags:
       - wedding
@@ -384,7 +384,7 @@ images:
     flickr_id: "32363894"
     flickr_secret: bcd3afc5f1
   - 
-    image: /assets/photos/32363495_27e151471f_o.jpg
+    image: /assets/gallery/32363495_27e151471f_o.jpg
     title: Hello!
     tags:
       - wedding
@@ -408,7 +408,7 @@ images:
     flickr_id: "32363495"
     flickr_secret: 27e151471f
   - 
-    image: /assets/photos/32363132_ca936a3616_o.jpg
+    image: /assets/gallery/32363132_ca936a3616_o.jpg
     title: Sweaty
     tags:
       - wedding
@@ -432,7 +432,7 @@ images:
     flickr_id: "32363132"
     flickr_secret: ca936a3616
   - 
-    image: /assets/photos/32362835_64082f9126_o.jpg
+    image: /assets/gallery/32362835_64082f9126_o.jpg
     title: The Daddy
     tags:
       - wedding
@@ -456,7 +456,7 @@ images:
     flickr_id: "32362835"
     flickr_secret: 64082f9126
   - 
-    image: /assets/photos/32362581_731394b566_o.jpg
+    image: /assets/gallery/32362581_731394b566_o.jpg
     title: Remote-Bling
     tags:
       - wedding
@@ -480,7 +480,7 @@ images:
     flickr_id: "32362581"
     flickr_secret: 731394b566
   - 
-    image: /assets/photos/32362366_e53a3d4225_o.jpg
+    image: /assets/gallery/32362366_e53a3d4225_o.jpg
     title: A bit worse for wear
     tags:
       - wedding
@@ -504,7 +504,7 @@ images:
     flickr_id: "32362366"
     flickr_secret: e53a3d4225
   - 
-    image: /assets/photos/32362168_4793a52de2_o.jpg
+    image: /assets/gallery/32362168_4793a52de2_o.jpg
     title: Chillin
     tags:
       - wedding
@@ -528,7 +528,7 @@ images:
     flickr_id: "32362168"
     flickr_secret: 4793a52de2
   - 
-    image: /assets/photos/32361981_2cf3c67255_o.jpg
+    image: /assets/gallery/32361981_2cf3c67255_o.jpg
     title: Mad Me
     tags:
       - wedding
@@ -552,7 +552,7 @@ images:
     flickr_id: "32361981"
     flickr_secret: 2cf3c67255
   - 
-    image: /assets/photos/32361649_8f32df6836_o.jpg
+    image: /assets/gallery/32361649_8f32df6836_o.jpg
     title: Mrs. Tepper reflects on the day
     tags:
       - wedding
@@ -576,7 +576,7 @@ images:
     flickr_id: "32361649"
     flickr_secret: 8f32df6836
   - 
-    image: /assets/photos/32361380_4db5d07995_o.jpg
+    image: /assets/gallery/32361380_4db5d07995_o.jpg
     title: David, the qizical look
     tags:
       - wedding
@@ -600,7 +600,7 @@ images:
     flickr_id: "32361380"
     flickr_secret: 4db5d07995
   - 
-    image: /assets/photos/32361066_254c5910b4_o.jpg
+    image: /assets/gallery/32361066_254c5910b4_o.jpg
     title: Bip and his lovely wife
     tags:
       - wedding

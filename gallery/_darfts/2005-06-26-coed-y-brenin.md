@@ -4,7 +4,7 @@ cover: /assets/gallery/21976888_b3b3a24ead_o.jpg
 section: gallery
 images:
   - 
-    image: /assets/photos/21976888_b3b3a24ead_o.jpg
+    image: /assets/gallery/21976888_b3b3a24ead_o.jpg
     title: Red Bull Marker
     tags:
       - mtb
@@ -28,7 +28,7 @@ images:
     flickr_id: "21976888"
     flickr_secret: b3b3a24ead
   - 
-    image: /assets/photos/21979933_88290805ff_o.jpg
+    image: /assets/gallery/21979933_88290805ff_o.jpg
     title: Happy Campers
     tags:
       - mtb
@@ -52,7 +52,7 @@ images:
     flickr_id: "21979933"
     flickr_secret: 88290805ff
   - 
-    image: /assets/photos/21979191_0ec04a3553_o.jpg
+    image: /assets/gallery/21979191_0ec04a3553_o.jpg
     title: Lloydy Smoking
     tags:
       - mtb
@@ -76,7 +76,7 @@ images:
     flickr_id: "21979191"
     flickr_secret: 0ec04a3553
   - 
-    image: /assets/photos/21977901_6d40ef5fda_o.jpg
+    image: /assets/gallery/21977901_6d40ef5fda_o.jpg
     title: Camping
     tags:
       - mtb
@@ -100,7 +100,7 @@ images:
     flickr_id: "21977901"
     flickr_secret: 6d40ef5fda
   - 
-    image: /assets/photos/21978660_203f42c5f9_o.jpg
+    image: /assets/gallery/21978660_203f42c5f9_o.jpg
     title: Bottle Rocket Building
     tags:
       - mtb
@@ -124,7 +124,7 @@ images:
     flickr_id: "21978660"
     flickr_secret: 203f42c5f9
   - 
-    image: /assets/photos/21978495_883d96eaf8_o.jpg
+    image: /assets/gallery/21978495_883d96eaf8_o.jpg
     title: Dave
     tags:
       - mtb
@@ -148,7 +148,7 @@ images:
     flickr_id: "21978495"
     flickr_secret: 883d96eaf8
   - 
-    image: /assets/photos/21978224_b73c02bfeb_o.jpg
+    image: /assets/gallery/21978224_b73c02bfeb_o.jpg
     title: The Fire at Night
     tags:
       - mtb
@@ -172,7 +172,7 @@ images:
     flickr_id: "21978224"
     flickr_secret: b73c02bfeb
   - 
-    image: /assets/photos/21978918_7ded58826f_o.jpg
+    image: /assets/gallery/21978918_7ded58826f_o.jpg
     title: The Morning After
     tags:
       - mtb
@@ -196,7 +196,7 @@ images:
     flickr_id: "21978918"
     flickr_secret: 7ded58826f
   - 
-    image: /assets/photos/21978134_86ff89a13f_o.jpg
+    image: /assets/gallery/21978134_86ff89a13f_o.jpg
     title: The Sink
     tags:
       - mtb
@@ -220,7 +220,7 @@ images:
     flickr_id: "21978134"
     flickr_secret: 86ff89a13f
   - 
-    image: /assets/photos/21975727_d9c5f98ed1_o.jpg
+    image: /assets/gallery/21975727_d9c5f98ed1_o.jpg
     title: Coed-y-Brenin
     tags:
       - mtb
@@ -244,7 +244,7 @@ images:
     flickr_id: "21975727"
     flickr_secret: d9c5f98ed1
   - 
-    image: /assets/photos/21977655_3f58a80d9e_o.jpg
+    image: /assets/gallery/21977655_3f58a80d9e_o.jpg
     title: Gulp!
     tags:
       - mtb
@@ -268,7 +268,7 @@ images:
     flickr_id: "21977655"
     flickr_secret: 3f58a80d9e
   - 
-    image: /assets/photos/21977399_66c6c1fcc6_o.jpg
+    image: /assets/gallery/21977399_66c6c1fcc6_o.jpg
     title: The choice of a new generation
     tags:
       - mtb
@@ -292,7 +292,7 @@ images:
     flickr_id: "21977399"
     flickr_secret: 66c6c1fcc6
   - 
-    image: /assets/photos/21976745_cf9674a5a9_o.jpg
+    image: /assets/gallery/21976745_cf9674a5a9_o.jpg
     title: Lock out
     tags:
       - mtb
@@ -316,7 +316,7 @@ images:
     flickr_id: "21976745"
     flickr_secret: cf9674a5a9
   - 
-    image: /assets/photos/21976492_dcabc2c1ad_o.jpg
+    image: /assets/gallery/21976492_dcabc2c1ad_o.jpg
     title: Jump!
     tags:
       - mtb
@@ -340,7 +340,7 @@ images:
     flickr_id: "21976492"
     flickr_secret: dcabc2c1ad
   - 
-    image: /assets/photos/21979703_cb2a0a544c_o.jpg
+    image: /assets/gallery/21979703_cb2a0a544c_o.jpg
     title: The View from the Crash Site
     tags:
       - mtb
@@ -364,7 +364,7 @@ images:
     flickr_id: "21979703"
     flickr_secret: cb2a0a544c
   - 
-    image: /assets/photos/21976278_d7365b6478_o.jpg
+    image: /assets/gallery/21976278_d7365b6478_o.jpg
     title: Top of the hill, at last
     tags:
       - mtb
@@ -388,7 +388,7 @@ images:
     flickr_id: "21976278"
     flickr_secret: d7365b6478
   - 
-    image: /assets/photos/21979448_400ab096be_o.jpg
+    image: /assets/gallery/21979448_400ab096be_o.jpg
     title: Cogs
     tags:
       - mtb
@@ -412,7 +412,7 @@ images:
     flickr_id: "21979448"
     flickr_secret: 400ab096be
   - 
-    image: /assets/photos/21976108_8a99316bd7_o.jpg
+    image: /assets/gallery/21976108_8a99316bd7_o.jpg
     title: The good, bad, ugly and everyone else
     tags:
       - mtb

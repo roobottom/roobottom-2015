@@ -1,6 +1,6 @@
 ---
 title: May 6th — First Bath
-image: /assets/365/IMG_1457-2.jpg
+images: /assets/365/IMG_1457-2.jpg
 tags:
   - "365"
   - baby roo

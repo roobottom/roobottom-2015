@@ -4,7 +4,7 @@ cover: /assets/gallery/15252677686_42a86ccf39_o.jpg
 section: gallery
 images:
   - 
-    image: /assets/photos/15252677686_42a86ccf39_o.jpg
+    image: /assets/gallery/15252677686_42a86ccf39_o.jpg
     title: Oh, hello
     tags:
       - ""
@@ -23,7 +23,7 @@ images:
     flickr_id: "15252677686"
     flickr_secret: 579bc0ec6d
   - 
-    image: /assets/photos/15272563381_7c752200f0_o.jpg
+    image: /assets/gallery/15272563381_7c752200f0_o.jpg
     title: Lago Maggiore from the campsite
     tags:
       - ""
@@ -42,7 +42,7 @@ images:
     flickr_id: "15272563381"
     flickr_secret: 630a2c3958
   - 
-    image: /assets/photos/15088974150_328af42a71_o.jpg
+    image: /assets/gallery/15088974150_328af42a71_o.jpg
     title: Locarno
     tags:
       - ""
@@ -61,7 +61,7 @@ images:
     flickr_id: "15088974150"
     flickr_secret: c2009d6927
   - 
-    image: /assets/photos/15252682296_1eece154cf_o.jpg
+    image: /assets/gallery/15252682296_1eece154cf_o.jpg
     title: Locarno
     tags:
       - ""
@@ -80,7 +80,7 @@ images:
     flickr_id: "15252682296"
     flickr_secret: 336d42fcc4
   - 
-    image: /assets/photos/15272567551_e292b6d8e5_o.jpg
+    image: /assets/gallery/15272567551_e292b6d8e5_o.jpg
     title: Locarno
     tags:
       - ""
@@ -99,7 +99,7 @@ images:
     flickr_id: "15272567551"
     flickr_secret: 543abc6cc6
   - 
-    image: /assets/photos/15088932309_d0548be623_o.jpg
+    image: /assets/gallery/15088932309_d0548be623_o.jpg
     title: Locarno
     tags:
       - ""
@@ -118,7 +118,7 @@ images:
     flickr_id: "15088932309"
     flickr_secret: afb2ba7167
   - 
-    image: /assets/photos/15252686406_b1948d6311_o.jpg
+    image: /assets/gallery/15252686406_b1948d6311_o.jpg
     title: Locarno
     tags:
       - ""
@@ -137,7 +137,7 @@ images:
     flickr_id: "15252686406"
     flickr_secret: 9068daf7e7
   - 
-    image: /assets/photos/15252687566_198a6478e0_o.jpg
+    image: /assets/gallery/15252687566_198a6478e0_o.jpg
     title: Locarno
     tags:
       - ""
@@ -156,7 +156,7 @@ images:
     flickr_id: "15252687566"
     flickr_secret: 8c83de3780
   - 
-    image: /assets/photos/15088981780_83323fe0e4_o.jpg
+    image: /assets/gallery/15088981780_83323fe0e4_o.jpg
     title: Locarno
     tags:
       - ""
@@ -175,7 +175,7 @@ images:
     flickr_id: "15088981780"
     flickr_secret: e7aa3eda4f
   - 
-    image: /assets/photos/15088982970_35994f6108_o.jpg
+    image: /assets/gallery/15088982970_35994f6108_o.jpg
     title: Locarno
     tags:
       - ""
@@ -194,7 +194,7 @@ images:
     flickr_id: "15088982970"
     flickr_secret: aaf9b72376
   - 
-    image: /assets/photos/15089119118_d47d43f2eb_o.jpg
+    image: /assets/gallery/15089119118_d47d43f2eb_o.jpg
     title: Locarno
     tags:
       - ""
@@ -213,7 +213,7 @@ images:
     flickr_id: "15089119118"
     flickr_secret: 16bab09599
   - 
-    image: /assets/photos/15089128037_fdab06aa31_o.jpg
+    image: /assets/gallery/15089128037_fdab06aa31_o.jpg
     title: At Contra Dam
     tags:
       - ""
@@ -232,7 +232,7 @@ images:
     flickr_id: "15089128037"
     flickr_secret: be41854e12
   - 
-    image: /assets/photos/15275303852_2b703c05d2_o.jpg
+    image: /assets/gallery/15275303852_2b703c05d2_o.jpg
     title: Contra Dam
     tags:
       - ""
@@ -251,7 +251,7 @@ images:
     flickr_id: "15275303852"
     flickr_secret: 2eda6367d2
   - 
-    image: /assets/photos/15275689145_e7c19b25e6_o.jpg
+    image: /assets/gallery/15275689145_e7c19b25e6_o.jpg
     title: Contra Dam
     tags:
       - ""
@@ -270,7 +270,7 @@ images:
     flickr_id: "15275689145"
     flickr_secret: fd25387bb7
   - 
-    image: /assets/photos/15089123768_b252207996_o.jpg
+    image: /assets/gallery/15089123768_b252207996_o.jpg
     title: Contra Dam
     tags:
       - ""
@@ -289,7 +289,7 @@ images:
     flickr_id: "15089123768"
     flickr_secret: f99fd7fff3
   - 
-    image: /assets/photos/15088990250_29e1087bf2_o.jpg
+    image: /assets/gallery/15088990250_29e1087bf2_o.jpg
     title: From the campsite
     tags:
       - ""
@@ -308,7 +308,7 @@ images:
     flickr_id: "15088990250"
     flickr_secret: 74c18d2724
   - 
-    image: /assets/photos/15088945209_6d3c6d4298_o.jpg
+    image: /assets/gallery/15088945209_6d3c6d4298_o.jpg
     title: From the campsite
     tags:
       - ""
@@ -327,7 +327,7 @@ images:
     flickr_id: "15088945209"
     flickr_secret: 58cee03467
   - 
-    image: /assets/photos/15275694525_a850701635_o.jpg
+    image: /assets/gallery/15275694525_a850701635_o.jpg
     title: From the campsite
     tags:
       - ""
@@ -346,7 +346,7 @@ images:
     flickr_id: "15275694525"
     flickr_secret: 139eb462ae
   - 
-    image: /assets/photos/15089137787_98e953fbc1_o.jpg
+    image: /assets/gallery/15089137787_98e953fbc1_o.jpg
     title: The campsite
     tags:
       - ""
@@ -365,7 +365,7 @@ images:
     flickr_id: "15089137787"
     flickr_secret: df37505afb
   - 
-    image: /assets/photos/15088949379_db8d4cacdf_o.jpg
+    image: /assets/gallery/15088949379_db8d4cacdf_o.jpg
     title: On the road again
     tags:
       - ""
@@ -384,7 +384,7 @@ images:
     flickr_id: "15088949379"
     flickr_secret: d329613a9b
   - 
-    image: /assets/photos/15252703376_f4b29e04bd_o.jpg
+    image: /assets/gallery/15252703376_f4b29e04bd_o.jpg
     title: Halbmeil
     tags:
       - ""
@@ -403,7 +403,7 @@ images:
     flickr_id: "15252703376"
     flickr_secret: eb4a9f24d4
   - 
-    image: /assets/photos/15275315822_3a80aa086c_o.jpg
+    image: /assets/gallery/15275315822_3a80aa086c_o.jpg
     title: Halbmeil
     tags:
       - ""
@@ -422,7 +422,7 @@ images:
     flickr_id: "15275315822"
     flickr_secret: 6f03d8a902
   - 
-    image: /assets/photos/15272589181_3b2c28cac1_o.jpg
+    image: /assets/gallery/15272589181_3b2c28cac1_o.jpg
     title: Halbmeil
     tags:
       - ""
@@ -441,7 +441,7 @@ images:
     flickr_id: "15272589181"
     flickr_secret: 824d0296e8
   - 
-    image: /assets/photos/15088954499_f93610fea0_o.jpg
+    image: /assets/gallery/15088954499_f93610fea0_o.jpg
     title: Wolfach
     tags:
       - ""
@@ -460,7 +460,7 @@ images:
     flickr_id: "15088954499"
     flickr_secret: 8579e7f4ec
   - 
-    image: /assets/photos/15252707576_ceff38ff2e_o.jpg
+    image: /assets/gallery/15252707576_ceff38ff2e_o.jpg
     title: Wolfach
     tags:
       - ""
@@ -479,7 +479,7 @@ images:
     flickr_id: "15252707576"
     flickr_secret: dd985298f6
   - 
-    image: /assets/photos/15275320762_f4f5bc5a90_o.jpg
+    image: /assets/gallery/15275320762_f4f5bc5a90_o.jpg
     title: Wolfach
     tags:
       - ""
@@ -498,7 +498,7 @@ images:
     flickr_id: "15275320762"
     flickr_secret: a89c381b8d
   - 
-    image: /assets/photos/15089147987_821f653c33_o.jpg
+    image: /assets/gallery/15089147987_821f653c33_o.jpg
     title: Wolfach
     tags:
       - ""
@@ -517,7 +517,7 @@ images:
     flickr_id: "15089147987"
     flickr_secret: fdb4192d7c
   - 
-    image: /assets/photos/15089005360_be770ff921_o.jpg
+    image: /assets/gallery/15089005360_be770ff921_o.jpg
     title: Wolfach
     tags:
       - ""
@@ -536,7 +536,7 @@ images:
     flickr_id: "15089005360"
     flickr_secret: 27ee218e01
   - 
-    image: /assets/photos/15088961529_3c45b42e4a_o.jpg
+    image: /assets/gallery/15088961529_3c45b42e4a_o.jpg
     title: Wolfach
     tags:
       - ""
@@ -555,7 +555,7 @@ images:
     flickr_id: "15088961529"
     flickr_secret: 3d24328bb5
   - 
-    image: /assets/photos/15089009620_6b0e7cb959_o.jpg
+    image: /assets/gallery/15089009620_6b0e7cb959_o.jpg
     title: Wolfach
     tags:
       - ""
@@ -574,7 +574,7 @@ images:
     flickr_id: "15089009620"
     flickr_secret: 2b04dd6932
   - 
-    image: /assets/photos/15252716756_f5d33f6cd1_o.jpg
+    image: /assets/gallery/15252716756_f5d33f6cd1_o.jpg
     title: Wolfach
     tags:
       - ""
@@ -593,7 +593,7 @@ images:
     flickr_id: "15252716756"
     flickr_secret: 6f3a99d2d9
   - 
-    image: /assets/photos/15252718066_1878971b12_o.jpg
+    image: /assets/gallery/15252718066_1878971b12_o.jpg
     title: Wolfach
     tags:
       - ""
@@ -612,7 +612,7 @@ images:
     flickr_id: "15252718066"
     flickr_secret: 0a4a2f5761
   - 
-    image: /assets/photos/15089013350_f6e6b7deb3_o.jpg
+    image: /assets/gallery/15089013350_f6e6b7deb3_o.jpg
     title: Wolfach
     tags:
       - ""
@@ -631,7 +631,7 @@ images:
     flickr_id: "15089013350"
     flickr_secret: 5743678b9e
   - 
-    image: /assets/photos/15088968319_2f868abca8_o.jpg
+    image: /assets/gallery/15088968319_2f868abca8_o.jpg
     title: Grasshopper
     tags:
       - ""
@@ -650,7 +650,7 @@ images:
     flickr_id: "15088968319"
     flickr_secret: 05c130d233
   - 
-    image: /assets/photos/15089015730_dec592b4f3_o.jpg
+    image: /assets/gallery/15089015730_dec592b4f3_o.jpg
     title: Grasshopper
     tags:
       - ""
@@ -669,7 +669,7 @@ images:
     flickr_id: "15089015730"
     flickr_secret: c9d7d6e81d
   - 
-    image: /assets/photos/15089016930_b98fd0387a_o.jpg
+    image: /assets/gallery/15089016930_b98fd0387a_o.jpg
     title: Campsite near Wolfach
     tags:
       - ""
@@ -688,7 +688,7 @@ images:
     flickr_id: "15089016930"
     flickr_secret: 66b59b5a08
   - 
-    image: /assets/photos/15272607781_b7a1e546ab_o.jpg
+    image: /assets/gallery/15272607781_b7a1e546ab_o.jpg
     title: Campsite in Belgium
     tags:
       - ""
@@ -707,7 +707,7 @@ images:
     flickr_id: "15272607781"
     flickr_secret: 488bb9a438
   - 
-    image: /assets/photos/15089155038_e43171ee73_o.jpg
+    image: /assets/gallery/15089155038_e43171ee73_o.jpg
     title: Campsite in Belgium
     tags:
       - ""
@@ -726,7 +726,7 @@ images:
     flickr_id: "15089155038"
     flickr_secret: b02c0306cb
   - 
-    image: /assets/photos/15088974209_29c76d30d0_o.jpg
+    image: /assets/gallery/15088974209_29c76d30d0_o.jpg
     title: Campsite in Belgium
     tags:
       - ""
@@ -745,7 +745,7 @@ images:
     flickr_id: "15088974209"
     flickr_secret: dbef716ccc
   - 
-    image: /assets/photos/15275722995_6d267dfb7b_o.jpg
+    image: /assets/gallery/15275722995_6d267dfb7b_o.jpg
     title: Campsite in Belgium
     tags:
       - ""
@@ -764,7 +764,7 @@ images:
     flickr_id: "15275722995"
     flickr_secret: 830bda8744
   - 
-    image: /assets/photos/15275340382_2bc61b6255_o.jpg
+    image: /assets/gallery/15275340382_2bc61b6255_o.jpg
     title: Campsite in Belgium
     tags:
       - ""
@@ -783,7 +783,7 @@ images:
     flickr_id: "15275340382"
     flickr_secret: 58e111a0b2
   - 
-    image: /assets/photos/15089166437_9075179d84_o.jpg
+    image: /assets/gallery/15089166437_9075179d84_o.jpg
     title: Campsite in Belgium
     tags:
       - ""
@@ -802,7 +802,7 @@ images:
     flickr_id: "15089166437"
     flickr_secret: feb2a1a637
   - 
-    image: /assets/photos/15275726095_636e47663a_o.jpg
+    image: /assets/gallery/15275726095_636e47663a_o.jpg
     title: Sad times, on our way home
     tags:
       - ""
@@ -821,7 +821,7 @@ images:
     flickr_id: "15275726095"
     flickr_secret: 567c427b6d
   - 
-    image: /assets/photos/15089168847_60b2998858_o.jpg
+    image: /assets/gallery/15089168847_60b2998858_o.jpg
     title: Sad times, on our way home
     tags:
       - ""

@@ -1,6 +1,6 @@
 ---
 title: 15th July — Tresco
-image:
+images:
   - /assets/365/IMG_3031.jpg
   - /assets/365/IMG_3055.jpg
   - /assets/365/IMG_3081.jpg

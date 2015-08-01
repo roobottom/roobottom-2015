@@ -1,6 +1,6 @@
 ---
 title: March 24th — Mabel
-image: /assets/365/IMG_0279.jpg
+images: /assets/365/IMG_0279.jpg
 tags:
   - "365"
   - pets

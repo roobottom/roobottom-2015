@@ -1,6 +1,6 @@
 ---
 title: Feb 21st — Mrs. Mabs
-image: /assets/365/IMG_8327.jpg
+images: /assets/365/IMG_8327.jpg
 tags:
   - "365"
   - Friends

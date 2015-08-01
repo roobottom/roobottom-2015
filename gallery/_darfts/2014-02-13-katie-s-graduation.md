@@ -4,7 +4,7 @@ cover: /assets/gallery/15094199837_8fc6952fff_o.jpg
 section: gallery
 images:
   - 
-    image: /assets/photos/15094199837_8fc6952fff_o.jpg
+    image: /assets/gallery/15094199837_8fc6952fff_o.jpg
     title: Katies Graduation
     tags:
       - jon
@@ -26,7 +26,7 @@ images:
     flickr_id: "15094199837"
     flickr_secret: 2640dfd5b5
   - 
-    image: /assets/photos/15280362882_e4063104ec_o.jpg
+    image: /assets/gallery/15280362882_e4063104ec_o.jpg
     title: Katies Graduation
     tags:
       - jon
@@ -48,7 +48,7 @@ images:
     flickr_id: "15280362882"
     flickr_secret: 509063514f
   - 
-    image: /assets/photos/15094187218_eb86809ab6_o.jpg
+    image: /assets/gallery/15094187218_eb86809ab6_o.jpg
     title: Katies Graduation
     tags:
       - jon
@@ -70,7 +70,7 @@ images:
     flickr_id: "15094187218"
     flickr_secret: 0c55438292
   - 
-    image: /assets/photos/15094058060_d8f32f3099_o.jpg
+    image: /assets/gallery/15094058060_d8f32f3099_o.jpg
     title: Katies Graduation
     tags:
       - jon
@@ -92,7 +92,7 @@ images:
     flickr_id: "15094058060"
     flickr_secret: fc9eaa086c
   - 
-    image: /assets/photos/15280763005_f4368055d0_o.jpg
+    image: /assets/gallery/15280763005_f4368055d0_o.jpg
     title: Katies Graduation
     tags:
       - jon
@@ -114,7 +114,7 @@ images:
     flickr_id: "15280763005"
     flickr_secret: bbcfa05ce6
   - 
-    image: /assets/photos/15094061430_b682b2f578_o.jpg
+    image: /assets/gallery/15094061430_b682b2f578_o.jpg
     title: Katies Graduation
     tags:
       - jon
@@ -136,7 +136,7 @@ images:
     flickr_id: "15094061430"
     flickr_secret: 39156fb49b
   - 
-    image: /assets/photos/15277636501_092ab4ca03_o.jpg
+    image: /assets/gallery/15277636501_092ab4ca03_o.jpg
     title: Katies Graduation
     tags:
       - jon

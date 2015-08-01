@@ -4,7 +4,7 @@ cover: /assets/gallery/196509085_e9924556c8_o.jpg
 section: gallery
 images:
   - 
-    image: /assets/photos/196509085_e9924556c8_o.jpg
+    image: /assets/gallery/196509085_e9924556c8_o.jpg
     title: Tenting
     tags:
       - camping
@@ -27,7 +27,7 @@ images:
     flickr_id: "196509085"
     flickr_secret: e9924556c8
   - 
-    image: /assets/photos/196508027_92da179e4a_o.jpg
+    image: /assets/gallery/196508027_92da179e4a_o.jpg
     title: Sher!
     tags:
       - camping
@@ -50,7 +50,7 @@ images:
     flickr_id: "196508027"
     flickr_secret: 92da179e4a
   - 
-    image: /assets/photos/196505158_e2f41d819d_o.jpg
+    image: /assets/gallery/196505158_e2f41d819d_o.jpg
     title: Goodnight Steph
     tags:
       - camping
@@ -73,7 +73,7 @@ images:
     flickr_id: "196505158"
     flickr_secret: e2f41d819d
   - 
-    image: /assets/photos/196504394_2db3182f60_o.jpg
+    image: /assets/gallery/196504394_2db3182f60_o.jpg
     title: So this is 3D on a 2D screen?
     tags:
       - camping
@@ -96,7 +96,7 @@ images:
     flickr_id: "196504394"
     flickr_secret: 2db3182f60
   - 
-    image: /assets/photos/196503518_fa4b8369ee_o.jpg
+    image: /assets/gallery/196503518_fa4b8369ee_o.jpg
     title: Double Chin Crew
     tags:
       - camping
@@ -119,7 +119,7 @@ images:
     flickr_id: "196503518"
     flickr_secret: fa4b8369ee
   - 
-    image: /assets/photos/196501541_9286c26232_o.jpg
+    image: /assets/gallery/196501541_9286c26232_o.jpg
     title: Onwards! To the caves.
     tags:
       - camping
@@ -142,7 +142,7 @@ images:
     flickr_id: "196501541"
     flickr_secret: 9286c26232
   - 
-    image: /assets/photos/196500500_c7fce2648a_o.jpg
+    image: /assets/gallery/196500500_c7fce2648a_o.jpg
     title: Professional Rain Gear
     tags:
       - camping
@@ -165,7 +165,7 @@ images:
     flickr_id: "196500500"
     flickr_secret: c7fce2648a
   - 
-    image: /assets/photos/196499438_59fdaf40d0_o.jpg
+    image: /assets/gallery/196499438_59fdaf40d0_o.jpg
     title: What Time Is It Outdoor Dan?
     tags:
       - camping
@@ -188,7 +188,7 @@ images:
     flickr_id: "196499438"
     flickr_secret: 59fdaf40d0
   - 
-    image: /assets/photos/196384629_d41d68b926_o.jpg
+    image: /assets/gallery/196384629_d41d68b926_o.jpg
     title: Fun With Tea-Lights
     tags:
       - camping
@@ -211,7 +211,7 @@ images:
     flickr_id: "196384629"
     flickr_secret: d41d68b926
   - 
-    image: /assets/photos/196382769_0f28b59cfc_o.jpg
+    image: /assets/gallery/196382769_0f28b59cfc_o.jpg
     title: Happy Campers!
     tags:
       - camping
@@ -234,7 +234,7 @@ images:
     flickr_id: "196382769"
     flickr_secret: 0f28b59cfc
   - 
-    image: /assets/photos/196377853_50de402d72_o.jpg
+    image: /assets/gallery/196377853_50de402d72_o.jpg
     title: The Tent Monster
     tags:
       - camping
@@ -257,7 +257,7 @@ images:
     flickr_id: "196377853"
     flickr_secret: 50de402d72
   - 
-    image: /assets/photos/196376996_f3f1dcbd61_o.jpg
+    image: /assets/gallery/196376996_f3f1dcbd61_o.jpg
     title: Not Exactly What You Would Call Comfortable
     tags:
       - camping

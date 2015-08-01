@@ -4,7 +4,7 @@ cover: /assets/gallery/473616327_4fa9ee8d2b_o.jpg
 section: gallery
 images:
   - 
-    image: /assets/photos/473616647_95ca0757f6_o.png
+    image: /assets/gallery/473616647_95ca0757f6_o.png
     title: Boards Design
     tags:
       - walsall
@@ -27,7 +27,7 @@ images:
     flickr_id: "473616647"
     flickr_secret: edf99d00fd
   - 
-    image: /assets/photos/473603134_33569d3e09_o.jpg
+    image: /assets/gallery/473603134_33569d3e09_o.jpg
     title: Waiting for the sky
     tags:
       - walsall
@@ -50,7 +50,7 @@ images:
     flickr_id: "473603134"
     flickr_secret: 7f711c8b54
   - 
-    image: /assets/photos/473603044_1544e41ab3_o.jpg
+    image: /assets/gallery/473603044_1544e41ab3_o.jpg
     title: Smudge
     tags:
       - walsall
@@ -73,7 +73,7 @@ images:
     flickr_id: "473603044"
     flickr_secret: 662bb89727
   - 
-    image: /assets/photos/473616523_54bbc19737_o.jpg
+    image: /assets/gallery/473616523_54bbc19737_o.jpg
     title: Hannah gets painting
     tags:
       - walsall
@@ -96,7 +96,7 @@ images:
     flickr_id: "473616523"
     flickr_secret: 6a3871a792
   - 
-    image: /assets/photos/473616425_12640b9dee_o.jpg
+    image: /assets/gallery/473616425_12640b9dee_o.jpg
     title: 'Dee: camp with a paintbrush'
     tags:
       - walsall
@@ -119,7 +119,7 @@ images:
     flickr_id: "473616425"
     flickr_secret: 9bf951347a
   - 
-    image: /assets/photos/473616383_686eb1a1cf_o.jpg
+    image: /assets/gallery/473616383_686eb1a1cf_o.jpg
     title: Ready to Paint
     tags:
       - walsall
@@ -142,7 +142,7 @@ images:
     flickr_id: "473616383"
     flickr_secret: e31c5ecbb0
   - 
-    image: /assets/photos/473616327_4fa9ee8d2b_o.jpg
+    image: /assets/gallery/473616327_4fa9ee8d2b_o.jpg
     title: The finished Article
     tags:
       - walsall
@@ -165,7 +165,7 @@ images:
     flickr_id: "473616327"
     flickr_secret: 76d087fcd2
   - 
-    image: /assets/photos/473602674_496c233061_o.jpg
+    image: /assets/gallery/473602674_496c233061_o.jpg
     title: The Coalpool Sky
     tags:
       - walsall
@@ -188,7 +188,7 @@ images:
     flickr_id: "473602674"
     flickr_secret: 480e9eaaab
   - 
-    image: /assets/photos/473602586_4ba77e5118_o.jpg
+    image: /assets/gallery/473602586_4ba77e5118_o.jpg
     title: Girls win... again
     tags:
       - walsall

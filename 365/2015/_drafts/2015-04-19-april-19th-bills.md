@@ -1,6 +1,6 @@
 ---
 title: April 19th — Bills
-image:
+images:
   - /assets/365/IMG_1033.jpg
   - /assets/365/IMG_1036.jpg
   - /assets/365/IMG_1081.jpg

@@ -5,11 +5,11 @@ introduction: "Recently my good friend's Paul and Esta popped their first sprog 
 cover: /assets/blog/covers/1890223951_b96fd56980_o.jpg
 images:
   - 
-    image: /assets/blog/images/1890223951_b96fd56980_o.jpg
+    image: /assets/diary/1890223951_b96fd56980_o.jpg
     caption: Smoking Baby
     set: baby
   - 
-    image: /assets/blog/images/1798830018_93c0be6e2b_o.jpg
+    image: /assets/diary/1798830018_93c0be6e2b_o.jpg
     caption: The day I met Amelie
     set: amelie
 ---

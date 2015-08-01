@@ -4,7 +4,7 @@ cover: /assets/gallery/3303891251_759a142f3a_o.jpg
 section: gallery
 images:
   - 
-    image: /assets/photos/3303891251_759a142f3a_o.jpg
+    image: /assets/gallery/3303891251_759a142f3a_o.jpg
     title: 'Sussex Beacon Half Marathon 2009 - Start Line'
     tags:
       - brighton
@@ -26,7 +26,7 @@ images:
     flickr_id: "3303891251"
     flickr_secret: 0a93fb3f47
   - 
-    image: /assets/photos/3303890091_8a7ae05a78_o.jpg
+    image: /assets/gallery/3303890091_8a7ae05a78_o.jpg
     title: The Interpid Runners
     tags:
       - brighton
@@ -51,7 +51,7 @@ images:
     flickr_id: "3303890091"
     flickr_secret: 529b7d76f2
   - 
-    image: /assets/photos/3304717474_43896c5d9c_o.jpg
+    image: /assets/gallery/3304717474_43896c5d9c_o.jpg
     title: Sussex Beacon Half Marathon 2009
     tags:
       - brighton
@@ -76,7 +76,7 @@ images:
     flickr_id: "3304717474"
     flickr_secret: abc9150ccd
   - 
-    image: /assets/photos/3303889067_69ed497c55_o.jpg
+    image: /assets/gallery/3303889067_69ed497c55_o.jpg
     title: Nearing the start line
     tags:
       - brighton
@@ -99,7 +99,7 @@ images:
     flickr_id: "3303889067"
     flickr_secret: 27c17dc624
   - 
-    image: /assets/photos/3304715472_ee1f8f5ba7_o.jpg
+    image: /assets/gallery/3304715472_ee1f8f5ba7_o.jpg
     title: Running the Sussex Beacon Half Marathon 2009
     tags:
       - brighton
@@ -122,7 +122,7 @@ images:
     flickr_id: "3304715472"
     flickr_secret: 80d92f9ef5
   - 
-    image: /assets/photos/3303885779_5f70480b2c_o.jpg
+    image: /assets/gallery/3303885779_5f70480b2c_o.jpg
     title: 'On the train with Mum & Dad'
     tags:
       - brighton
@@ -147,7 +147,7 @@ images:
     flickr_id: "3303885779"
     flickr_secret: 539cc92fac
   - 
-    image: /assets/photos/3303884427_f1be9b158a_o.jpg
+    image: /assets/gallery/3303884427_f1be9b158a_o.jpg
     title: IPICO Chip.
     tags:
       - brighton
@@ -170,7 +170,7 @@ images:
     flickr_id: "3303884427"
     flickr_secret: bbca413c3c
   - 
-    image: /assets/photos/3303883035_974c1b9592_o.jpg
+    image: /assets/gallery/3303883035_974c1b9592_o.jpg
     title: On the train with Katie
     tags:
       - brighton

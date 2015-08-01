@@ -1,6 +1,6 @@
 ---
 title: "Feb 3rd — It's too cold to snow"
-image: /assets/365/IMG_9048.jpg
+images: /assets/365/IMG_9048.jpg
 tags:
   - "365"
   - Home

@@ -1,6 +1,6 @@
 ---
 title: "17th July — A walk around St. Mary's"
-image:
+images:
   - /assets/365/IMG_3372.jpg
   - /assets/365/IMG_3383.jpg
   - /assets/365/IMG_3410.jpg

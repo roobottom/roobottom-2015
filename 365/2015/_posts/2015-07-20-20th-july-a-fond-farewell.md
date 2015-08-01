@@ -1,6 +1,6 @@
 ---
 title: 20th July — A fond Farewell
-image:
+images:
   - /assets/365/IMG_8769.jpg
   - /assets/365/IMG_3632.jpg
 tags:

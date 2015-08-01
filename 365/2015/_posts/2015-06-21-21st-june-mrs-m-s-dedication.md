@@ -1,6 +1,6 @@
 ---
 title: "21st June — Mrs. M's dedication"
-image: /assets/365/IMG_2120.jpg
+images: /assets/365/IMG_2120.jpg
 tags:
   - "365"
   - friends

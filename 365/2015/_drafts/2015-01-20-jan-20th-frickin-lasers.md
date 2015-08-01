@@ -1,6 +1,6 @@
 ---
 title: "Jan 20th — Frickin' Lasers"
-image: /assets/365/IMG_8427.jpg
+images: /assets/365/IMG_8427.jpg
 tags:
   - "365"
   - Photography

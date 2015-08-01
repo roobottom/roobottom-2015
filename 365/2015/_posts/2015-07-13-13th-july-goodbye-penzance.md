@@ -1,6 +1,6 @@
 ---
 title: 13th July — Goodbye Penzance
-image: /assets/365/IMG_2810.jpg
+images: /assets/365/IMG_2810.jpg
 tags:
   - "365"
   - holiday

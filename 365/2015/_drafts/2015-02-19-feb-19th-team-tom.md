@@ -1,6 +1,6 @@
 ---
 title: Feb 19th — Team Tom
-image: /assets/365/IMG_8299.jpg
+images: /assets/365/IMG_8299.jpg
 tags:
   - "365"
   - Friends

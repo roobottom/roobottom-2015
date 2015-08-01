@@ -4,7 +4,7 @@ cover: /assets/gallery/15164995_e2652ffcf7_o.jpg
 section: gallery
 images:
   - 
-    image: /assets/photos/15165877_75f88db7ce_o.jpg
+    image: /assets/gallery/15165877_75f88db7ce_o.jpg
     title: The calm before the storm
     tags:
       - run
@@ -26,7 +26,7 @@ images:
     flickr_id: "15165877"
     flickr_secret: 75f88db7ce
   - 
-    image: /assets/photos/15165129_930840f6c2_o.jpg
+    image: /assets/gallery/15165129_930840f6c2_o.jpg
     title: Empty Road
     tags:
       - run
@@ -48,7 +48,7 @@ images:
     flickr_id: "15165129"
     flickr_secret: 930840f6c2
   - 
-    image: /assets/photos/15164995_e2652ffcf7_o.jpg
+    image: /assets/gallery/15164995_e2652ffcf7_o.jpg
     title: RUN!
     tags:
       - run
@@ -70,7 +70,7 @@ images:
     flickr_id: "15164995"
     flickr_secret: e2652ffcf7
   - 
-    image: /assets/photos/15165280_23ba3b538a_o.jpg
+    image: /assets/gallery/15165280_23ba3b538a_o.jpg
     title: The Crowds
     tags:
       - run
@@ -92,7 +92,7 @@ images:
     flickr_id: "15165280"
     flickr_secret: 23ba3b538a
   - 
-    image: /assets/photos/15164820_a3e3a41def_o.jpg
+    image: /assets/gallery/15164820_a3e3a41def_o.jpg
     title: The Entertainment
     tags:
       - run
@@ -114,7 +114,7 @@ images:
     flickr_id: "15164820"
     flickr_secret: a3e3a41def
   - 
-    image: /assets/photos/15164643_7c9012953e_o.jpg
+    image: /assets/gallery/15164643_7c9012953e_o.jpg
     title: The Champ
     tags:
       - run
@@ -136,7 +136,7 @@ images:
     flickr_id: "15164643"
     flickr_secret: 7c9012953e
   - 
-    image: /assets/photos/15165431_74bcf78155_o.jpg
+    image: /assets/gallery/15165431_74bcf78155_o.jpg
     title: Tags
     tags:
       - run
@@ -158,7 +158,7 @@ images:
     flickr_id: "15165431"
     flickr_secret: 74bcf78155
   - 
-    image: /assets/photos/15165518_93922e494e_o.jpg
+    image: /assets/gallery/15165518_93922e494e_o.jpg
     title: The Ritz
     tags:
       - run
@@ -180,7 +180,7 @@ images:
     flickr_id: "15165518"
     flickr_secret: 93922e494e
   - 
-    image: /assets/photos/15163623_8cfca81171_o.jpg
+    image: /assets/gallery/15163623_8cfca81171_o.jpg
     title: Manchester Chimney
     tags:
       - run
@@ -202,7 +202,7 @@ images:
     flickr_id: "15163623"
     flickr_secret: 8cfca81171
   - 
-    image: /assets/photos/15163794_252632e6dd_o.jpg
+    image: /assets/gallery/15163794_252632e6dd_o.jpg
     title: Apartments For Sale
     tags:
       - run
@@ -224,7 +224,7 @@ images:
     flickr_id: "15163794"
     flickr_secret: 252632e6dd
   - 
-    image: /assets/photos/15163922_25f8a401c8_o.jpg
+    image: /assets/gallery/15163922_25f8a401c8_o.jpg
     title: Old Dunlop Building
     tags:
       - run
@@ -246,7 +246,7 @@ images:
     flickr_id: "15163922"
     flickr_secret: 25f8a401c8
   - 
-    image: /assets/photos/15164142_596331854f_o.jpg
+    image: /assets/gallery/15164142_596331854f_o.jpg
     title: Hotspur House
     tags:
       - run
@@ -268,7 +268,7 @@ images:
     flickr_id: "15164142"
     flickr_secret: 596331854f
   - 
-    image: /assets/photos/15164343_e58aeaa248_o.jpg
+    image: /assets/gallery/15164343_e58aeaa248_o.jpg
     title: Ceramic Flower
     tags:
       - run
@@ -290,7 +290,7 @@ images:
     flickr_id: "15164343"
     flickr_secret: e58aeaa248
   - 
-    image: /assets/photos/15164507_15e1275072_o.jpg
+    image: /assets/gallery/15164507_15e1275072_o.jpg
     title: Cool Pub!
     tags:
       - run
@@ -312,7 +312,7 @@ images:
     flickr_id: "15164507"
     flickr_secret: "15e1275072"
   - 
-    image: /assets/photos/15163557_7d87244c84_o.jpg
+    image: /assets/gallery/15163557_7d87244c84_o.jpg
     title: Brownhills Rainbow
     tags:
       - run

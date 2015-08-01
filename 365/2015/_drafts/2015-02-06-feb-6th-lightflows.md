@@ -1,6 +1,6 @@
 ---
 title: Feb 6th — Lightflows
-image:
+images:
   - /assets/365/IMG_9102.jpg
   - /assets/365/IMG_9105.jpg
 tags:

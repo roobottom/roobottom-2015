@@ -1,6 +1,6 @@
 ---
 title: March 27th — Neighbourious Catius
-image: /assets/365/IMG_0380.jpg
+images: /assets/365/IMG_0380.jpg
 tags:
   - "365"
   - pets

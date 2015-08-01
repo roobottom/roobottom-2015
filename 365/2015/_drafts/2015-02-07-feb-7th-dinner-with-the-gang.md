@@ -1,6 +1,6 @@
 ---
 title: Feb 7th — Dinner with the gang
-image: /assets/365/IMG_8224.jpg
+images: /assets/365/IMG_8224.jpg
 tags:
   - "365"
   - Friends

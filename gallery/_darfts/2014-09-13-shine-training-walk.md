@@ -4,7 +4,7 @@ cover: /assets/gallery/15040469837_5edda739b7_o.jpg
 section: gallery
 images:
   - 
-    image: /assets/photos/15040469837_5edda739b7_o.jpg
+    image: /assets/gallery/15040469837_5edda739b7_o.jpg
     title: Shine training walk, Littlehampton, Arundel and Worthing.
     tags:
       - dave
@@ -25,7 +25,7 @@ images:
     flickr_id: "15040469837"
     flickr_secret: c33c8d948d
   - 
-    image: /assets/photos/15040355890_d1ae79f51d_o.jpg
+    image: /assets/gallery/15040355890_d1ae79f51d_o.jpg
     title: Shine training walk, Littlehampton, Arundel and Worthing.
     tags:
       - dave
@@ -46,7 +46,7 @@ images:
     flickr_id: "15040355890"
     flickr_secret: f53532f658
   - 
-    image: /assets/photos/15227051615_bdae2c3f8d_o.jpg
+    image: /assets/gallery/15227051615_bdae2c3f8d_o.jpg
     title: Shine training walk, Littlehampton, Arundel and Worthing.
     tags:
       - dave
@@ -67,7 +67,7 @@ images:
     flickr_id: "15227051615"
     flickr_secret: 4c68dee79f
   - 
-    image: /assets/photos/15040263879_d241cbd78f_o.jpg
+    image: /assets/gallery/15040263879_d241cbd78f_o.jpg
     title: Shine training walk, Littlehampton, Arundel and Worthing.
     tags:
       - dave
@@ -88,7 +88,7 @@ images:
     flickr_id: "15040263879"
     flickr_secret: 38ce706e49
   - 
-    image: /assets/photos/15204015116_e8b4e0644d_o.jpg
+    image: /assets/gallery/15204015116_e8b4e0644d_o.jpg
     title: Shine training walk, Littlehampton, Arundel and Worthing.
     tags:
       - dave
@@ -109,7 +109,7 @@ images:
     flickr_id: "15204015116"
     flickr_secret: 7ef18c83bc
   - 
-    image: /assets/photos/15227046735_0f737f053c_o.jpg
+    image: /assets/gallery/15227046735_0f737f053c_o.jpg
     title: Shine training walk, Littlehampton, Arundel and Worthing.
     tags:
       - dave
@@ -130,7 +130,7 @@ images:
     flickr_id: "15227046735"
     flickr_secret: 71a7bc8708
   - 
-    image: /assets/photos/15040466438_75ba5413a4_o.jpg
+    image: /assets/gallery/15040466438_75ba5413a4_o.jpg
     title: Shine training walk, Littlehampton, Arundel and Worthing.
     tags:
       - dave
@@ -151,7 +151,7 @@ images:
     flickr_id: "15040466438"
     flickr_secret: 972337756e
   - 
-    image: /assets/photos/15204008406_d074bef8ff_o.jpg
+    image: /assets/gallery/15204008406_d074bef8ff_o.jpg
     title: Shine training walk, Littlehampton, Arundel and Worthing.
     tags:
       - dave
@@ -172,7 +172,7 @@ images:
     flickr_id: "15204008406"
     flickr_secret: f99e35f45a
   - 
-    image: /assets/photos/15227048665_b4267e62f5_o.jpg
+    image: /assets/gallery/15227048665_b4267e62f5_o.jpg
     title: Shine training walk, Littlehampton, Arundel and Worthing.
     tags:
       - dave
@@ -193,7 +193,7 @@ images:
     flickr_id: "15227048665"
     flickr_secret: 0a7175d30e
   - 
-    image: /assets/photos/15040269139_1ae1aa4e1d_o.jpg
+    image: /assets/gallery/15040269139_1ae1aa4e1d_o.jpg
     title: Shine training walk, Littlehampton, Arundel and Worthing.
     tags:
       - dave
@@ -214,7 +214,7 @@ images:
     flickr_id: "15040269139"
     flickr_secret: "64899e0728"
   - 
-    image: /assets/photos/15226674662_9b9806aec3_o.jpg
+    image: /assets/gallery/15226674662_9b9806aec3_o.jpg
     title: Shine training walk, Littlehampton, Arundel and Worthing.
     tags:
       - dave
@@ -235,7 +235,7 @@ images:
     flickr_id: "15226674662"
     flickr_secret: 091fb00750
   - 
-    image: /assets/photos/15040359740_da3ed8e1ed_o.jpg
+    image: /assets/gallery/15040359740_da3ed8e1ed_o.jpg
     title: Shine training walk, Littlehampton, Arundel and Worthing.
     tags:
       - dave

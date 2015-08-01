@@ -4,7 +4,7 @@ cover: /assets/gallery/13175148_58cf611a6b_o.jpg
 section: gallery
 images:
   - 
-    image: /assets/photos/13174741_8acfdfe15b_o.jpg
+    image: /assets/gallery/13174741_8acfdfe15b_o.jpg
     title: Kate Aumonier
     tags:
       - jamesblunt
@@ -27,7 +27,7 @@ images:
     flickr_id: "13174741"
     flickr_secret: 8acfdfe15b
   - 
-    image: /assets/photos/13174805_7e338915d1_o.jpg
+    image: /assets/gallery/13174805_7e338915d1_o.jpg
     title: Kate Aumonier
     tags:
       - jamesblunt
@@ -50,7 +50,7 @@ images:
     flickr_id: "13174805"
     flickr_secret: 7e338915d1
   - 
-    image: /assets/photos/13174870_645b80d944_o.jpg
+    image: /assets/gallery/13174870_645b80d944_o.jpg
     title: Kate Aumonier
     tags:
       - jamesblunt
@@ -73,7 +73,7 @@ images:
     flickr_id: "13174870"
     flickr_secret: 645b80d944
   - 
-    image: /assets/photos/13174917_0e8feb7324_o.jpg
+    image: /assets/gallery/13174917_0e8feb7324_o.jpg
     title: Kate Aumonier
     tags:
       - jamesblunt
@@ -96,7 +96,7 @@ images:
     flickr_id: "13174917"
     flickr_secret: 0e8feb7324
   - 
-    image: /assets/photos/13175019_34c6950f08_o.jpg
+    image: /assets/gallery/13175019_34c6950f08_o.jpg
     title: James Blunt
     tags:
       - jamesblunt
@@ -119,7 +119,7 @@ images:
     flickr_id: "13175019"
     flickr_secret: 34c6950f08
   - 
-    image: /assets/photos/13175148_58cf611a6b_o.jpg
+    image: /assets/gallery/13175148_58cf611a6b_o.jpg
     title: James Blunt
     tags:
       - jamesblunt
@@ -142,7 +142,7 @@ images:
     flickr_id: "13175148"
     flickr_secret: 58cf611a6b
   - 
-    image: /assets/photos/13175209_cc5058f641_o.jpg
+    image: /assets/gallery/13175209_cc5058f641_o.jpg
     title: James Blunt
     tags:
       - jamesblunt
@@ -165,7 +165,7 @@ images:
     flickr_id: "13175209"
     flickr_secret: cc5058f641
   - 
-    image: /assets/photos/13175294_f0144ad4f8_o.jpg
+    image: /assets/gallery/13175294_f0144ad4f8_o.jpg
     title: James Blunt
     tags:
       - jamesblunt
@@ -188,7 +188,7 @@ images:
     flickr_id: "13175294"
     flickr_secret: f0144ad4f8
   - 
-    image: /assets/photos/13175338_eaa984f04e_o.jpg
+    image: /assets/gallery/13175338_eaa984f04e_o.jpg
     title: James Blunt
     tags:
       - jamesblunt
@@ -211,7 +211,7 @@ images:
     flickr_id: "13175338"
     flickr_secret: eaa984f04e
   - 
-    image: /assets/photos/13175369_737873c77e_o.jpg
+    image: /assets/gallery/13175369_737873c77e_o.jpg
     title: James Blunt
     tags:
       - jamesblunt
@@ -234,7 +234,7 @@ images:
     flickr_id: "13175369"
     flickr_secret: 737873c77e
   - 
-    image: /assets/photos/13175442_938527c4ca_o.jpg
+    image: /assets/gallery/13175442_938527c4ca_o.jpg
     title: James Blunt meets the fans
     tags:
       - jamesblunt
@@ -257,7 +257,7 @@ images:
     flickr_id: "13175442"
     flickr_secret: 938527c4ca
   - 
-    image: /assets/photos/13175519_bbebd073fa_o.jpg
+    image: /assets/gallery/13175519_bbebd073fa_o.jpg
     title: James Blunt meets Lloydy
     tags:
       - jamesblunt

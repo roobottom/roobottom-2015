@@ -1,6 +1,6 @@
 ---
 title: March 28th — New Contacts
-image: /assets/365/IMG_0400.jpg
+images: /assets/365/IMG_0400.jpg
 tags:
   - "365"
   - toys

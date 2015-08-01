@@ -1,6 +1,6 @@
 ---
 title: Jan 17th — Hidden Treasure
-image:
+images:
   - /assets/365/IMG_8319.jpg
   - /assets/365/IMG_8315.jpg
 tags:

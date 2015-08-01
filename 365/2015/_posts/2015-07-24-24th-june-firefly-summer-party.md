@@ -1,6 +1,6 @@
 ---
 title: 24th June — Firefly Summer Party
-image:
+images:
   - /assets/365/IMG_8780.jpg
   - /assets/365/IMG_8785.jpg
   - /assets/365/IMG_8784.jpg

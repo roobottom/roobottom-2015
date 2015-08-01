@@ -4,7 +4,7 @@ cover: /assets/gallery/5257527544_1138866e86_o.jpg
 section: gallery
 images:
   - 
-    image: /assets/photos/5257527544_1138866e86_o.jpg
+    image: /assets/gallery/5257527544_1138866e86_o.jpg
     title: Vegetable Crumble
     tags:
       - food
@@ -25,7 +25,7 @@ images:
     flickr_id: "5257527544"
     flickr_secret: 0424daa386
   - 
-    image: /assets/photos/5256917135_67d0ec0599_o.jpg
+    image: /assets/gallery/5256917135_67d0ec0599_o.jpg
     title: Vegetable Crumble
     tags:
       - food
@@ -46,7 +46,7 @@ images:
     flickr_id: "5256917135"
     flickr_secret: 5f368b2642
   - 
-    image: /assets/photos/5257529330_067cef8f08_o.jpg
+    image: /assets/gallery/5257529330_067cef8f08_o.jpg
     title: Vegetable Crumble
     tags:
       - food
@@ -67,7 +67,7 @@ images:
     flickr_id: "5257529330"
     flickr_secret: 90f1b8fe32
   - 
-    image: /assets/photos/5256918923_56ca207b97_o.jpg
+    image: /assets/gallery/5256918923_56ca207b97_o.jpg
     title: Vegetable Crumble
     tags:
       - food
@@ -88,7 +88,7 @@ images:
     flickr_id: "5256918923"
     flickr_secret: 8dd6b5d8cd
   - 
-    image: /assets/photos/5257530456_7342f1ba24_o.jpg
+    image: /assets/gallery/5257530456_7342f1ba24_o.jpg
     title: Vegetable Crumble
     tags:
       - food
@@ -109,7 +109,7 @@ images:
     flickr_id: "5257530456"
     flickr_secret: c5f170cd67
   - 
-    image: /assets/photos/5256919561_631f9f368d_o.jpg
+    image: /assets/gallery/5256919561_631f9f368d_o.jpg
     title: Vegetable Crumble
     tags:
       - food
@@ -130,7 +130,7 @@ images:
     flickr_id: "5256919561"
     flickr_secret: ec97165b91
   - 
-    image: /assets/photos/5257531404_24567b9644_o.jpg
+    image: /assets/gallery/5257531404_24567b9644_o.jpg
     title: Vegetable Crumble
     tags:
       - food

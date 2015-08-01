@@ -1,6 +1,6 @@
 ---
 title: Feb 25th — Sunset
-image: /assets/365/IMG_9584.jpg
+images: /assets/365/IMG_9584.jpg
 tags:
   - "365"
   - Photography

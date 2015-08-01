@@ -1,6 +1,6 @@
 ---
 title: Jan 16th — Dinner with the Leggatts
-image: /assets/365/IMG_8288.jpg
+images: /assets/365/IMG_8288.jpg
 tags:
   - "365"
   - Friends

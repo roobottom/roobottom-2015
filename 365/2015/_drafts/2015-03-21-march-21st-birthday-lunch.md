@@ -1,6 +1,6 @@
 ---
 title: March 21st — Birthday Lunch
-image:
+images:
   - /assets/365/IMG_0101.jpg
   - /assets/365/IMG_0120.jpg
   - /assets/365/IMG_0141.jpg

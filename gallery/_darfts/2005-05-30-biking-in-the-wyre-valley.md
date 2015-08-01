@@ -4,7 +4,7 @@ cover: /assets/gallery/16497932_e7c8b187aa_o.jpg
 section: gallery
 images:
   - 
-    image: /assets/photos/16499480_379af463c4_o.jpg
+    image: /assets/gallery/16499480_379af463c4_o.jpg
     title: Fixing a hole
     tags:
       - biking
@@ -26,7 +26,7 @@ images:
     flickr_id: "16499480"
     flickr_secret: 379af463c4
   - 
-    image: /assets/photos/16498887_439747ea70_o.jpg
+    image: /assets/gallery/16498887_439747ea70_o.jpg
     title: Puzzled
     tags:
       - biking
@@ -48,7 +48,7 @@ images:
     flickr_id: "16498887"
     flickr_secret: 439747ea70
   - 
-    image: /assets/photos/16498532_fcef11be0f_o.jpg
+    image: /assets/gallery/16498532_fcef11be0f_o.jpg
     title: Posing
     tags:
       - biking
@@ -70,7 +70,7 @@ images:
     flickr_id: "16498532"
     flickr_secret: fcef11be0f
   - 
-    image: /assets/photos/16498374_b91a745acb_o.jpg
+    image: /assets/gallery/16498374_b91a745acb_o.jpg
     title: You shall not pass!
     tags:
       - biking
@@ -92,7 +92,7 @@ images:
     flickr_id: "16498374"
     flickr_secret: b91a745acb
   - 
-    image: /assets/photos/16498180_6056aaaec7_o.jpg
+    image: /assets/gallery/16498180_6056aaaec7_o.jpg
     title: Some kind of crappy break-dancing
     tags:
       - biking
@@ -114,7 +114,7 @@ images:
     flickr_id: "16498180"
     flickr_secret: 6056aaaec7
   - 
-    image: /assets/photos/16497932_e7c8b187aa_o.jpg
+    image: /assets/gallery/16497932_e7c8b187aa_o.jpg
     title: All of us
     tags:
       - biking
@@ -136,7 +136,7 @@ images:
     flickr_id: "16497932"
     flickr_secret: e7c8b187aa
   - 
-    image: /assets/photos/16497680_18b8c718fe_o.jpg
+    image: /assets/gallery/16497680_18b8c718fe_o.jpg
     title: Lost Again
     tags:
       - england
@@ -159,7 +159,7 @@ images:
     flickr_id: "16497680"
     flickr_secret: 18b8c718fe
   - 
-    image: /assets/photos/16497414_9543b3495c_o.jpg
+    image: /assets/gallery/16497414_9543b3495c_o.jpg
     title: Up the hill we go
     tags:
       - biking
@@ -181,7 +181,7 @@ images:
     flickr_id: "16497414"
     flickr_secret: 9543b3495c
   - 
-    image: /assets/photos/16497160_a7ec410101_o.jpg
+    image: /assets/gallery/16497160_a7ec410101_o.jpg
     title: Kris makes light work of that BIG hill
     tags:
       - biking
@@ -203,7 +203,7 @@ images:
     flickr_id: "16497160"
     flickr_secret: a7ec410101
   - 
-    image: /assets/photos/16496861_258940a86e_o.jpg
+    image: /assets/gallery/16496861_258940a86e_o.jpg
     title: Phew!
     tags:
       - biking
@@ -225,7 +225,7 @@ images:
     flickr_id: "16496861"
     flickr_secret: 258940a86e
   - 
-    image: /assets/photos/16496503_ea5fbd7538_o.jpg
+    image: /assets/gallery/16496503_ea5fbd7538_o.jpg
     title: Im a happy soul
     tags:
       - biking
@@ -247,7 +247,7 @@ images:
     flickr_id: "16496503"
     flickr_secret: ea5fbd7538
   - 
-    image: /assets/photos/16496331_338e1d0c25_o.jpg
+    image: /assets/gallery/16496331_338e1d0c25_o.jpg
     title: Me and the Lloyd in the back of Dervs Van
     tags:
       - biking
@@ -269,7 +269,7 @@ images:
     flickr_id: "16496331"
     flickr_secret: 338e1d0c25
   - 
-    image: /assets/photos/16496062_8d15954938_o.jpg
+    image: /assets/gallery/16496062_8d15954938_o.jpg
     title: Sitting Up Front
     tags:
       - biking

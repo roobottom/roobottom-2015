@@ -4,7 +4,7 @@ cover: /assets/gallery/7453714160_f3df2dfdec_o.jpg
 section: gallery
 images:
   - 
-    image: /assets/photos/7453714160_f3df2dfdec_o.jpg
+    image: /assets/gallery/7453714160_f3df2dfdec_o.jpg
     title: Watching the questionable video that Lewis made.
     tags:
       - ""
@@ -23,7 +23,7 @@ images:
     flickr_id: "7453714160"
     flickr_secret: 87fd0ebe0f
   - 
-    image: /assets/photos/7453716076_104cc81530_o.jpg
+    image: /assets/gallery/7453716076_104cc81530_o.jpg
     title: Fordy, can in hand, contemplates life on camp.
     tags:
       - ""
@@ -42,7 +42,7 @@ images:
     flickr_id: "7453716076"
     flickr_secret: "3798002834"
   - 
-    image: /assets/photos/7453717744_b15e9b8dd1_o.jpg
+    image: /assets/gallery/7453717744_b15e9b8dd1_o.jpg
     title: Mark; the man, the legend
     tags:
       - ""
@@ -61,7 +61,7 @@ images:
     flickr_id: "7453717744"
     flickr_secret: 8f6dcc326b
   - 
-    image: /assets/photos/7453719624_4ebfb3621c_o.jpg
+    image: /assets/gallery/7453719624_4ebfb3621c_o.jpg
     title: These are real mens men.
     tags:
       - ""
@@ -80,7 +80,7 @@ images:
     flickr_id: "7453719624"
     flickr_secret: b005077613
   - 
-    image: /assets/photos/7453721432_a4eae6a51a_o.jpg
+    image: /assets/gallery/7453721432_a4eae6a51a_o.jpg
     title: Lee Nash. Be afraid.
     tags:
       - ""
@@ -99,7 +99,7 @@ images:
     flickr_id: "7453721432"
     flickr_secret: e801a15711
   - 
-    image: /assets/photos/7453723950_ddd21a9e1c_o.jpg
+    image: /assets/gallery/7453723950_ddd21a9e1c_o.jpg
     title: Summit base camp beta
     tags:
       - ""
@@ -118,7 +118,7 @@ images:
     flickr_id: "7453723950"
     flickr_secret: 20c301b46a
   - 
-    image: /assets/photos/7453726596_61074b9070_o.jpg
+    image: /assets/gallery/7453726596_61074b9070_o.jpg
     title: Summit base camp alpha
     tags:
       - ""

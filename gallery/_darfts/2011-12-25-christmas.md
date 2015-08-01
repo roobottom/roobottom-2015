@@ -4,7 +4,7 @@ cover: /assets/gallery/6599982021_87d0a104eb_o.jpg
 section: gallery
 images:
   - 
-    image: /assets/photos/6599982021_87d0a104eb_o.jpg
+    image: /assets/gallery/6599982021_87d0a104eb_o.jpg
     title: Christmas 2011
     tags:
       - ""
@@ -23,7 +23,7 @@ images:
     flickr_id: "6599982021"
     flickr_secret: 31d8c89a45
   - 
-    image: /assets/photos/6599980343_aa2c641621_o.jpg
+    image: /assets/gallery/6599980343_aa2c641621_o.jpg
     title: Christmas 2011
     tags:
       - ""
@@ -42,7 +42,7 @@ images:
     flickr_id: "6599980343"
     flickr_secret: 8cdbb2dd68
   - 
-    image: /assets/photos/6599978539_6a3691e9a0_o.jpg
+    image: /assets/gallery/6599978539_6a3691e9a0_o.jpg
     title: Christmas 2011
     tags:
       - ""
@@ -61,7 +61,7 @@ images:
     flickr_id: "6599978539"
     flickr_secret: 0f712e9fee
   - 
-    image: /assets/photos/6599976837_3214ea00c3_o.jpg
+    image: /assets/gallery/6599976837_3214ea00c3_o.jpg
     title: Christmas 2011
     tags:
       - ""
@@ -80,7 +80,7 @@ images:
     flickr_id: "6599976837"
     flickr_secret: d7354ceb19
   - 
-    image: /assets/photos/6599974455_42d1066cbd_o.jpg
+    image: /assets/gallery/6599974455_42d1066cbd_o.jpg
     title: Christmas 2011
     tags:
       - ""
@@ -99,7 +99,7 @@ images:
     flickr_id: "6599974455"
     flickr_secret: 1d5c02dd34
   - 
-    image: /assets/photos/6599970911_b53ac66bd7_o.jpg
+    image: /assets/gallery/6599970911_b53ac66bd7_o.jpg
     title: Christmas 2011
     tags:
       - ""
@@ -118,7 +118,7 @@ images:
     flickr_id: "6599970911"
     flickr_secret: b44e8173e1
   - 
-    image: /assets/photos/6599967843_5280dfca1f_o.jpg
+    image: /assets/gallery/6599967843_5280dfca1f_o.jpg
     title: Christmas 2011
     tags:
       - ""
@@ -137,7 +137,7 @@ images:
     flickr_id: "6599967843"
     flickr_secret: 41f57285c9
   - 
-    image: /assets/photos/6599966305_0584b4bd41_o.jpg
+    image: /assets/gallery/6599966305_0584b4bd41_o.jpg
     title: Christmas 2011
     tags:
       - ""
@@ -156,7 +156,7 @@ images:
     flickr_id: "6599966305"
     flickr_secret: 563d6cc22f
   - 
-    image: /assets/photos/6599964845_ca4edeb52a_o.jpg
+    image: /assets/gallery/6599964845_ca4edeb52a_o.jpg
     title: Christmas 2011
     tags:
       - ""
@@ -175,7 +175,7 @@ images:
     flickr_id: "6599964845"
     flickr_secret: 299826a960
   - 
-    image: /assets/photos/6599962985_01c20e4c3a_o.jpg
+    image: /assets/gallery/6599962985_01c20e4c3a_o.jpg
     title: Christmas 2011
     tags:
       - ""
@@ -194,7 +194,7 @@ images:
     flickr_id: "6599962985"
     flickr_secret: c4721af39b
   - 
-    image: /assets/photos/6599960339_1663e2f629_o.jpg
+    image: /assets/gallery/6599960339_1663e2f629_o.jpg
     title: Christmas 2011
     tags:
       - ""
@@ -213,7 +213,7 @@ images:
     flickr_id: "6599960339"
     flickr_secret: be9cdffaa3
   - 
-    image: /assets/photos/6599958163_1c8aac0652_o.jpg
+    image: /assets/gallery/6599958163_1c8aac0652_o.jpg
     title: Christmas 2011
     tags:
       - ""
@@ -232,7 +232,7 @@ images:
     flickr_id: "6599958163"
     flickr_secret: 3d5e324b62
   - 
-    image: /assets/photos/6599956081_7595c4369a_o.jpg
+    image: /assets/gallery/6599956081_7595c4369a_o.jpg
     title: Christmas 2011
     tags:
       - ""
@@ -251,7 +251,7 @@ images:
     flickr_id: "6599956081"
     flickr_secret: b8e1f9f25e
   - 
-    image: /assets/photos/6601829721_42762315d6_o.jpg
+    image: /assets/gallery/6601829721_42762315d6_o.jpg
     title: Christmas 2011
     tags:
       - ""
@@ -270,7 +270,7 @@ images:
     flickr_id: "6601829721"
     flickr_secret: 71d936dabc
   - 
-    image: /assets/photos/6601832437_7071df8471_o.jpg
+    image: /assets/gallery/6601832437_7071df8471_o.jpg
     title: Christmas 2011
     tags:
       - ""
@@ -289,7 +289,7 @@ images:
     flickr_id: "6601832437"
     flickr_secret: a147897f9f
   - 
-    image: /assets/photos/6601837067_be3d12ce02_o.jpg
+    image: /assets/gallery/6601837067_be3d12ce02_o.jpg
     title: Christmas 2011
     tags:
       - ""
@@ -308,7 +308,7 @@ images:
     flickr_id: "6601837067"
     flickr_secret: eeecd8a7b1
   - 
-    image: /assets/photos/6601841225_9347c7c297_o.jpg
+    image: /assets/gallery/6601841225_9347c7c297_o.jpg
     title: Christmas 2011
     tags:
       - ""
@@ -327,7 +327,7 @@ images:
     flickr_id: "6601841225"
     flickr_secret: d556e861a1
   - 
-    image: /assets/photos/6601843675_67fe6ce95b_o.jpg
+    image: /assets/gallery/6601843675_67fe6ce95b_o.jpg
     title: Christmas 2011
     tags:
       - ""
@@ -346,7 +346,7 @@ images:
     flickr_id: "6601843675"
     flickr_secret: 207b11775a
   - 
-    image: /assets/photos/6601846127_fb3a9d3fea_o.jpg
+    image: /assets/gallery/6601846127_fb3a9d3fea_o.jpg
     title: Christmas 2011
     tags:
       - ""

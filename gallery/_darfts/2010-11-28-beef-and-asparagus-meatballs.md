@@ -4,7 +4,7 @@ cover: /assets/gallery/5214373875_f8852e0ef8_o.jpg
 section: gallery
 images:
   - 
-    image: /assets/photos/5214962600_4842c5461d_o.jpg
+    image: /assets/gallery/5214962600_4842c5461d_o.jpg
     title: 'Beef & Asparagus Meetballs'
     tags:
       - cooking
@@ -24,7 +24,7 @@ images:
     flickr_id: "5214962600"
     flickr_secret: e3810aa5ea
   - 
-    image: /assets/photos/5214371205_fbd07873ff_o.jpg
+    image: /assets/gallery/5214371205_fbd07873ff_o.jpg
     title: 'Beef & Asparagus Meetballs'
     tags:
       - cooking
@@ -44,7 +44,7 @@ images:
     flickr_id: "5214371205"
     flickr_secret: b0229c9051
   - 
-    image: /assets/photos/5214373875_f8852e0ef8_o.jpg
+    image: /assets/gallery/5214373875_f8852e0ef8_o.jpg
     title: 'Beef & Asparagus Meetballs'
     tags:
       - cooking
@@ -64,7 +64,7 @@ images:
     flickr_id: "5214373875"
     flickr_secret: 467067957e
   - 
-    image: /assets/photos/5214375281_73d9aca8a8_o.jpg
+    image: /assets/gallery/5214375281_73d9aca8a8_o.jpg
     title: 'Beef & Asparagus Meetballs'
     tags:
       - cooking
@@ -84,7 +84,7 @@ images:
     flickr_id: "5214375281"
     flickr_secret: 0b1e71312f
   - 
-    image: /assets/photos/5214376607_45be413a5a_o.jpg
+    image: /assets/gallery/5214376607_45be413a5a_o.jpg
     title: 'Beef & Asparagus Meetballs'
     tags:
       - cooking

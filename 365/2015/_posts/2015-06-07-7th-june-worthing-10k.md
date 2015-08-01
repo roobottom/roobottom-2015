@@ -1,6 +1,6 @@
 ---
 title: 7th June — Worthing 10K
-image:
+images:
   - /assets/365/EAI_UK_WO10_070615_AC_01343-2.jpg
   - /assets/365/img_8514.jpg
 tags:

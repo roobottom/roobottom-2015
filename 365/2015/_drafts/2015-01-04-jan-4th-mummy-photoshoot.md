@@ -1,6 +1,6 @@
 ---
 title: Jan 4th — Mummy Photoshoot
-image: /assets/365/IMG_7543.jpg
+images: /assets/365/IMG_7543.jpg
 tags:
   - "365"
   - family

@@ -2,43 +2,43 @@
 title: Rabbit Towers
 images:
   - 
-    image: /assets/blog/images/rabs.jpg
+    image: /assets/diary/rabs.jpg
     caption: Rabbits
     set: rabs
   - 
-    image: /assets/blog/images/rabs2.jpg
+    image: /assets/diary/rabs2.jpg
     caption: Rabbits In their hutch
     set: rabs
   - 
-    image: /assets/blog/images/rabs3.jpg
+    image: /assets/diary/rabs3.jpg
     caption: Molly
     set: rabs
   - 
-    image: /assets/blog/images/building_the_runs_1.jpg
+    image: /assets/diary/building_the_runs_1.jpg
     caption: Laying the foundations
     set: building
   - 
-    image: /assets/blog/images/building_the_runs_4.jpg
+    image: /assets/diary/building_the_runs_4.jpg
     caption: Building the ramp-box
     set: building
   - 
-    image: /assets/blog/images/inside_the_hutch.jpg
+    image: /assets/diary/inside_the_hutch.jpg
     caption: Inside the top hutche
     set: building
   - 
-    image: /assets/blog/images/building_the_runs_5.jpg
+    image: /assets/diary/building_the_runs_5.jpg
     caption: Ramp-box in place with roof fitted
     set: building
   - 
-    image: /assets/blog/images/building_the_runs_6.jpg
+    image: /assets/diary/building_the_runs_6.jpg
     caption: Completed
     set: building
   - 
-    image: /assets/blog/images/building_the_runs_7.jpg
+    image: /assets/diary/building_the_runs_7.jpg
     caption: "Bella's first decent"
     set: building
   - 
-    image: /assets/blog/images/building_the_runs_8.jpg
+    image: /assets/diary/building_the_runs_8.jpg
     caption: Oi nosey
     set: building
 tags:

@@ -1,6 +1,6 @@
 ---
 title: April 3rd — Bed for baby
-image: /assets/365/IMG_0490.jpg
+images: /assets/365/IMG_0490.jpg
 tags:
   - "365"
   - family

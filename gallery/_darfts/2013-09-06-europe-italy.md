@@ -4,7 +4,7 @@ cover: /assets/gallery/15076123010_6878a7c1c8_o.jpg
 section: gallery
 images:
   - 
-    image: /assets/photos/15076123010_6878a7c1c8_o.jpg
+    image: /assets/gallery/15076123010_6878a7c1c8_o.jpg
     title: Europe 2013 — Italy
     tags:
       - ""
@@ -23,7 +23,7 @@ images:
     flickr_id: "15076123010"
     flickr_secret: 73ec0c1aab
   - 
-    image: /assets/photos/15259730501_3409acdbec_o.jpg
+    image: /assets/gallery/15259730501_3409acdbec_o.jpg
     title: Europe 2013 — Italy
     tags:
       - ""
@@ -42,7 +42,7 @@ images:
     flickr_id: "15259730501"
     flickr_secret: d436704c22
   - 
-    image: /assets/photos/15262433312_6ed8ee5cba_o.jpg
+    image: /assets/gallery/15262433312_6ed8ee5cba_o.jpg
     title: Europe 2013 — Italy
     tags:
       - ""
@@ -61,7 +61,7 @@ images:
     flickr_id: "15262433312"
     flickr_secret: e56a70c96b
   - 
-    image: /assets/photos/15262824735_0a6f67d7a1_o.jpg
+    image: /assets/gallery/15262824735_0a6f67d7a1_o.jpg
     title: Europe 2013 — Italy
     tags:
       - ""
@@ -80,7 +80,7 @@ images:
     flickr_id: "15262824735"
     flickr_secret: 632357de1c
   - 
-    image: /assets/photos/15076076099_02eab971a7_o.jpg
+    image: /assets/gallery/15076076099_02eab971a7_o.jpg
     title: Europe 2013 — Italy
     tags:
       - ""
@@ -99,7 +99,7 @@ images:
     flickr_id: "15076076099"
     flickr_secret: 5ec6fceb98
   - 
-    image: /assets/photos/15239817266_c2840271f0_o.jpg
+    image: /assets/gallery/15239817266_c2840271f0_o.jpg
     title: Europe 2013 — Italy
     tags:
       - ""
@@ -118,7 +118,7 @@ images:
     flickr_id: "15239817266"
     flickr_secret: d818cf0c98
   - 
-    image: /assets/photos/15239818586_90a7a8c6c6_o.jpg
+    image: /assets/gallery/15239818586_90a7a8c6c6_o.jpg
     title: Europe 2013 — Italy
     tags:
       - ""
@@ -137,7 +137,7 @@ images:
     flickr_id: "15239818586"
     flickr_secret: 5728be7055
   - 
-    image: /assets/photos/15259740131_8f8880fc47_o.jpg
+    image: /assets/gallery/15259740131_8f8880fc47_o.jpg
     title: Europe 2013 — Italy
     tags:
       - ""
@@ -156,7 +156,7 @@ images:
     flickr_id: "15259740131"
     flickr_secret: 66247be0cb
   - 
-    image: /assets/photos/15076265897_cce019e914_o.jpg
+    image: /assets/gallery/15076265897_cce019e914_o.jpg
     title: Europe 2013 — Italy
     tags:
       - ""
@@ -175,7 +175,7 @@ images:
     flickr_id: "15076265897"
     flickr_secret: 5c8056662b
   - 
-    image: /assets/photos/15076268148_0973fbf6d4_o.jpg
+    image: /assets/gallery/15076268148_0973fbf6d4_o.jpg
     title: Europe 2013 — Italy
     tags:
       - ""
@@ -194,7 +194,7 @@ images:
     flickr_id: "15076268148"
     flickr_secret: f2b73523d0
   - 
-    image: /assets/photos/15259743621_b569224968_o.jpg
+    image: /assets/gallery/15259743621_b569224968_o.jpg
     title: Europe 2013 — Italy
     tags:
       - ""
@@ -213,7 +213,7 @@ images:
     flickr_id: "15259743621"
     flickr_secret: 603d3335c2
   - 
-    image: /assets/photos/15262836925_5480d55efb_o.jpg
+    image: /assets/gallery/15262836925_5480d55efb_o.jpg
     title: Europe 2013 — Italy
     tags:
       - ""
@@ -232,7 +232,7 @@ images:
     flickr_id: "15262836925"
     flickr_secret: 19d0f35814
   - 
-    image: /assets/photos/15239828536_4ff1fed884_o.jpg
+    image: /assets/gallery/15239828536_4ff1fed884_o.jpg
     title: Europe 2013 — Italy
     tags:
       - ""
@@ -251,7 +251,7 @@ images:
     flickr_id: "15239828536"
     flickr_secret: 2110f8ca91
   - 
-    image: /assets/photos/15262839015_33e157e39a_o.jpg
+    image: /assets/gallery/15262839015_33e157e39a_o.jpg
     title: Europe 2013 — Italy
     tags:
       - ""
@@ -270,7 +270,7 @@ images:
     flickr_id: "15262839015"
     flickr_secret: 2cdaa05572
   - 
-    image: /assets/photos/15076141740_4e6d699947_o.jpg
+    image: /assets/gallery/15076141740_4e6d699947_o.jpg
     title: Europe 2013 — Italy
     tags:
       - ""
@@ -289,7 +289,7 @@ images:
     flickr_id: "15076141740"
     flickr_secret: 289bc34126
   - 
-    image: /assets/photos/15259749801_66c99bf6ed_o.jpg
+    image: /assets/gallery/15259749801_66c99bf6ed_o.jpg
     title: Europe 2013 — Italy
     tags:
       - ""
@@ -308,7 +308,7 @@ images:
     flickr_id: "15259749801"
     flickr_secret: ddeb32296d
   - 
-    image: /assets/photos/15259751091_b999d55a60_o.jpg
+    image: /assets/gallery/15259751091_b999d55a60_o.jpg
     title: Europe 2013 — Italy
     tags:
       - ""
@@ -327,7 +327,7 @@ images:
     flickr_id: "15259751091"
     flickr_secret: e39551d0e8
   - 
-    image: /assets/photos/15076277488_37d17e3e08_o.jpg
+    image: /assets/gallery/15076277488_37d17e3e08_o.jpg
     title: Europe 2013 — Italy
     tags:
       - ""
@@ -346,7 +346,7 @@ images:
     flickr_id: "15076277488"
     flickr_secret: 4fe3a49349
   - 
-    image: /assets/photos/15076146740_78680be132_o.jpg
+    image: /assets/gallery/15076146740_78680be132_o.jpg
     title: Europe 2013 — Italy
     tags:
       - ""
@@ -365,7 +365,7 @@ images:
     flickr_id: "15076146740"
     flickr_secret: 428769efb6
   - 
-    image: /assets/photos/15239838426_1b359ae278_o.jpg
+    image: /assets/gallery/15239838426_1b359ae278_o.jpg
     title: Europe 2013 — Italy
     tags:
       - ""
@@ -384,7 +384,7 @@ images:
     flickr_id: "15239838426"
     flickr_secret: a259e41a7b
   - 
-    image: /assets/photos/15239840096_727130107b_o.jpg
+    image: /assets/gallery/15239840096_727130107b_o.jpg
     title: Europe 2013 — Italy
     tags:
       - ""
@@ -403,7 +403,7 @@ images:
     flickr_id: "15239840096"
     flickr_secret: 434eccb433
   - 
-    image: /assets/photos/15262850695_16690158fe_o.jpg
+    image: /assets/gallery/15262850695_16690158fe_o.jpg
     title: Europe 2013 — Italy
     tags:
       - ""
@@ -422,7 +422,7 @@ images:
     flickr_id: "15262850695"
     flickr_secret: cb2ca94d55
   - 
-    image: /assets/photos/15076154260_310e29749e_o.jpg
+    image: /assets/gallery/15076154260_310e29749e_o.jpg
     title: Europe 2013 — Italy
     tags:
       - ""
@@ -441,7 +441,7 @@ images:
     flickr_id: "15076154260"
     flickr_secret: e711084f32
   - 
-    image: /assets/photos/15262462432_f0dba1d3d4_o.jpg
+    image: /assets/gallery/15262462432_f0dba1d3d4_o.jpg
     title: Europe 2013 — Italy
     tags:
       - ""
@@ -460,7 +460,7 @@ images:
     flickr_id: "15262462432"
     flickr_secret: fcece8ed02
   - 
-    image: /assets/photos/15076104969_c690feb818_o.jpg
+    image: /assets/gallery/15076104969_c690feb818_o.jpg
     title: Europe 2013 — Italy
     tags:
       - ""
@@ -479,7 +479,7 @@ images:
     flickr_id: "15076104969"
     flickr_secret: 93a1f27354
   - 
-    image: /assets/photos/15076159070_177847c1ab_o.jpg
+    image: /assets/gallery/15076159070_177847c1ab_o.jpg
     title: Europe 2013 — Italy
     tags:
       - ""
@@ -498,7 +498,7 @@ images:
     flickr_id: "15076159070"
     flickr_secret: f2579cc472
   - 
-    image: /assets/photos/15076290857_8e2fa10bfb_o.jpg
+    image: /assets/gallery/15076290857_8e2fa10bfb_o.jpg
     title: Europe 2013 — Italy
     tags:
       - ""
@@ -517,7 +517,7 @@ images:
     flickr_id: "15076290857"
     flickr_secret: b6ce2ee79a
   - 
-    image: /assets/photos/15262468762_e28e25bc08_o.jpg
+    image: /assets/gallery/15262468762_e28e25bc08_o.jpg
     title: Europe 2013 — Italy
     tags:
       - ""
@@ -536,7 +536,7 @@ images:
     flickr_id: "15262468762"
     flickr_secret: 997bfd8ba6
   - 
-    image: /assets/photos/15239851056_ccc64eb32f_o.jpg
+    image: /assets/gallery/15239851056_ccc64eb32f_o.jpg
     title: Europe 2013 — Italy
     tags:
       - ""
@@ -555,7 +555,7 @@ images:
     flickr_id: "15239851056"
     flickr_secret: 9590b4a84d
   - 
-    image: /assets/photos/15259770281_6c3606fa11_o.jpg
+    image: /assets/gallery/15259770281_6c3606fa11_o.jpg
     title: Europe 2013 — Italy
     tags:
       - ""
@@ -574,7 +574,7 @@ images:
     flickr_id: "15259770281"
     flickr_secret: 8b79563f21
   - 
-    image: /assets/photos/15076113109_b05de2bfaf_o.jpg
+    image: /assets/gallery/15076113109_b05de2bfaf_o.jpg
     title: Europe 2013 — Italy
     tags:
       - ""
@@ -593,7 +593,7 @@ images:
     flickr_id: "15076113109"
     flickr_secret: 1bc3887059
   - 
-    image: /assets/photos/15076166500_a5bce637d5_o.jpg
+    image: /assets/gallery/15076166500_a5bce637d5_o.jpg
     title: Europe 2013 — Italy
     tags:
       - ""
@@ -612,7 +612,7 @@ images:
     flickr_id: "15076166500"
     flickr_secret: 794dccc22a
   - 
-    image: /assets/photos/15262474972_d890451d49_o.jpg
+    image: /assets/gallery/15262474972_d890451d49_o.jpg
     title: Europe 2013 — Italy
     tags:
       - ""
@@ -631,7 +631,7 @@ images:
     flickr_id: "15262474972"
     flickr_secret: 4484a708e6
   - 
-    image: /assets/photos/15076116439_aba40accc9_o.jpg
+    image: /assets/gallery/15076116439_aba40accc9_o.jpg
     title: Europe 2013 — Italy
     tags:
       - ""
@@ -650,7 +650,7 @@ images:
     flickr_id: "15076116439"
     flickr_secret: 87871b6745
   - 
-    image: /assets/photos/15076170470_ec96f73a3c_o.jpg
+    image: /assets/gallery/15076170470_ec96f73a3c_o.jpg
     title: Europe 2013 — Italy
     tags:
       - ""
@@ -669,7 +669,7 @@ images:
     flickr_id: "15076170470"
     flickr_secret: 96aba1d03f
   - 
-    image: /assets/photos/15262869655_9beaa9aaf8_o.jpg
+    image: /assets/gallery/15262869655_9beaa9aaf8_o.jpg
     title: Europe 2013 — Italy
     tags:
       - ""
@@ -688,7 +688,7 @@ images:
     flickr_id: "15262869655"
     flickr_secret: 96e57fd310
   - 
-    image: /assets/photos/15076303837_e186f2c931_o.jpg
+    image: /assets/gallery/15076303837_e186f2c931_o.jpg
     title: Europe 2013 — Italy
     tags:
       - ""
@@ -707,7 +707,7 @@ images:
     flickr_id: "15076303837"
     flickr_secret: 38cbc251d8
   - 
-    image: /assets/photos/15076121699_33a95d8940_o.jpg
+    image: /assets/gallery/15076121699_33a95d8940_o.jpg
     title: Europe 2013 — Italy
     tags:
       - ""
@@ -726,7 +726,7 @@ images:
     flickr_id: "15076121699"
     flickr_secret: f70a19e81c
   - 
-    image: /assets/photos/15262482982_edf0816e09_o.jpg
+    image: /assets/gallery/15262482982_edf0816e09_o.jpg
     title: Europe 2013 — Italy
     tags:
       - ""
@@ -745,7 +745,7 @@ images:
     flickr_id: "15262482982"
     flickr_secret: 935c751436
   - 
-    image: /assets/photos/15076176250_8ccc6f109b_o.jpg
+    image: /assets/gallery/15076176250_8ccc6f109b_o.jpg
     title: Europe 2013 — Italy
     tags:
       - ""
@@ -764,7 +764,7 @@ images:
     flickr_id: "15076176250"
     flickr_secret: caf833dd87
   - 
-    image: /assets/photos/15259784731_86980a0402_o.jpg
+    image: /assets/gallery/15259784731_86980a0402_o.jpg
     title: Europe 2013 — Italy
     tags:
       - ""
@@ -783,7 +783,7 @@ images:
     flickr_id: "15259784731"
     flickr_secret: 7997ff992f
   - 
-    image: /assets/photos/15239868516_39fb36b1a9_o.jpg
+    image: /assets/gallery/15239868516_39fb36b1a9_o.jpg
     title: Europe 2013 — Italy
     tags:
       - ""
@@ -802,7 +802,7 @@ images:
     flickr_id: "15239868516"
     flickr_secret: 5ac00fd5c8
   - 
-    image: /assets/photos/15262879505_d55f43daa4_o.jpg
+    image: /assets/gallery/15262879505_d55f43daa4_o.jpg
     title: Europe 2013 — Italy
     tags:
       - ""
@@ -821,7 +821,7 @@ images:
     flickr_id: "15262879505"
     flickr_secret: b4815ac412
   - 
-    image: /assets/photos/15262490672_daf06f1be3_o.jpg
+    image: /assets/gallery/15262490672_daf06f1be3_o.jpg
     title: Europe 2013 — Italy
     tags:
       - ""
@@ -840,7 +840,7 @@ images:
     flickr_id: "15262490672"
     flickr_secret: a53a2e7e62
   - 
-    image: /assets/photos/15076183480_debd3e44e0_o.jpg
+    image: /assets/gallery/15076183480_debd3e44e0_o.jpg
     title: Europe 2013 — Italy
     tags:
       - ""
@@ -859,7 +859,7 @@ images:
     flickr_id: "15076183480"
     flickr_secret: 906c4c3815
   - 
-    image: /assets/photos/15262493772_ed50c48a41_o.jpg
+    image: /assets/gallery/15262493772_ed50c48a41_o.jpg
     title: Europe 2013 — Italy
     tags:
       - ""
@@ -878,7 +878,7 @@ images:
     flickr_id: "15262493772"
     flickr_secret: a77f9812df
   - 
-    image: /assets/photos/15259794521_7f1489d79f_o.jpg
+    image: /assets/gallery/15259794521_7f1489d79f_o.jpg
     title: Europe 2013 — Italy
     tags:
       - ""
@@ -897,7 +897,7 @@ images:
     flickr_id: "15259794521"
     flickr_secret: c62425ee1a
   - 
-    image: /assets/photos/15076136739_d0098b743b_o.jpg
+    image: /assets/gallery/15076136739_d0098b743b_o.jpg
     title: Europe 2013 — Italy
     tags:
       - ""
@@ -916,7 +916,7 @@ images:
     flickr_id: "15076136739"
     flickr_secret: 38a7def0cf
   - 
-    image: /assets/photos/15076189830_5945f649ec_o.jpg
+    image: /assets/gallery/15076189830_5945f649ec_o.jpg
     title: Europe 2013 — Italy
     tags:
       - ""
@@ -935,7 +935,7 @@ images:
     flickr_id: "15076189830"
     flickr_secret: 813e34b5f8
   - 
-    image: /assets/photos/15076138999_f2c6dff7b8_o.jpg
+    image: /assets/gallery/15076138999_f2c6dff7b8_o.jpg
     title: Europe 2013 — Italy
     tags:
       - ""
@@ -954,7 +954,7 @@ images:
     flickr_id: "15076138999"
     flickr_secret: 08c55e4a8f
   - 
-    image: /assets/photos/15239882686_32b29c5f48_o.jpg
+    image: /assets/gallery/15239882686_32b29c5f48_o.jpg
     title: Europe 2013 — Italy
     tags:
       - ""
@@ -973,7 +973,7 @@ images:
     flickr_id: "15239882686"
     flickr_secret: 8b420e0aa6
   - 
-    image: /assets/photos/15259801021_67e6eb8567_o.jpg
+    image: /assets/gallery/15259801021_67e6eb8567_o.jpg
     title: Europe 2013 — Italy
     tags:
       - ""
@@ -992,7 +992,7 @@ images:
     flickr_id: "15259801021"
     flickr_secret: 1b81c2380e
   - 
-    image: /assets/photos/15259801931_0b7f83ae60_o.jpg
+    image: /assets/gallery/15259801931_0b7f83ae60_o.jpg
     title: Europe 2013 — Italy
     tags:
       - ""
@@ -1011,7 +1011,7 @@ images:
     flickr_id: "15259801931"
     flickr_secret: 86b978328e
   - 
-    image: /assets/photos/15262894875_f088e067d2_o.jpg
+    image: /assets/gallery/15262894875_f088e067d2_o.jpg
     title: Europe 2013 — Italy
     tags:
       - ""
@@ -1030,7 +1030,7 @@ images:
     flickr_id: "15262894875"
     flickr_secret: 1aa1be9e17
   - 
-    image: /assets/photos/15259804211_b0f89f152c_o.jpg
+    image: /assets/gallery/15259804211_b0f89f152c_o.jpg
     title: Europe 2013 — Italy
     tags:
       - ""
@@ -1049,7 +1049,7 @@ images:
     flickr_id: "15259804211"
     flickr_secret: 3c2d94b60f
   - 
-    image: /assets/photos/15262896975_9f8c67e8aa_o.jpg
+    image: /assets/gallery/15262896975_9f8c67e8aa_o.jpg
     title: Europe 2013 — Italy
     tags:
       - ""
@@ -1068,7 +1068,7 @@ images:
     flickr_id: "15262896975"
     flickr_secret: 3419a9bc1d
   - 
-    image: /assets/photos/15076331488_bc01f13f71_o.jpg
+    image: /assets/gallery/15076331488_bc01f13f71_o.jpg
     title: Europe 2013 — Italy
     tags:
       - ""
@@ -1087,7 +1087,7 @@ images:
     flickr_id: "15076331488"
     flickr_secret: aa5b1a7b45
   - 
-    image: /assets/photos/15076332668_3e702854fc_o.jpg
+    image: /assets/gallery/15076332668_3e702854fc_o.jpg
     title: Europe 2013 — Italy
     tags:
       - ""
@@ -1106,7 +1106,7 @@ images:
     flickr_id: "15076332668"
     flickr_secret: d99e68f4df
   - 
-    image: /assets/photos/15076149709_29ddb39275_o.jpg
+    image: /assets/gallery/15076149709_29ddb39275_o.jpg
     title: Europe 2013 — Italy
     tags:
       - ""
@@ -1125,7 +1125,7 @@ images:
     flickr_id: "15076149709"
     flickr_secret: dbe3de1f70
   - 
-    image: /assets/photos/15262901675_34e26844d0_o.jpg
+    image: /assets/gallery/15262901675_34e26844d0_o.jpg
     title: Europe 2013 — Italy
     tags:
       - ""
@@ -1144,7 +1144,7 @@ images:
     flickr_id: "15262901675"
     flickr_secret: a17048d26e
   - 
-    image: /assets/photos/15076336218_2a77f6835c_o.jpg
+    image: /assets/gallery/15076336218_2a77f6835c_o.jpg
     title: Europe 2013 — Italy
     tags:
       - ""
@@ -1163,7 +1163,7 @@ images:
     flickr_id: "15076336218"
     flickr_secret: 2ea6a53928
   - 
-    image: /assets/photos/15259812981_619e33574b_o.jpg
+    image: /assets/gallery/15259812981_619e33574b_o.jpg
     title: Europe 2013 — Italy
     tags:
       - ""
@@ -1182,7 +1182,7 @@ images:
     flickr_id: "15259812981"
     flickr_secret: 17ee340c38
   - 
-    image: /assets/photos/15259814451_2324a49b66_o.jpg
+    image: /assets/gallery/15259814451_2324a49b66_o.jpg
     title: Europe 2013 — Italy
     tags:
       - ""
@@ -1201,7 +1201,7 @@ images:
     flickr_id: "15259814451"
     flickr_secret: 37b22c33d4
   - 
-    image: /assets/photos/15076155699_3981459c5b_o.jpg
+    image: /assets/gallery/15076155699_3981459c5b_o.jpg
     title: Europe 2013 — Italy
     tags:
       - ""
@@ -1220,7 +1220,7 @@ images:
     flickr_id: "15076155699"
     flickr_secret: d35de466af
   - 
-    image: /assets/photos/15076208210_950e0128dc_o.jpg
+    image: /assets/gallery/15076208210_950e0128dc_o.jpg
     title: Europe 2013 — Italy
     tags:
       - ""
@@ -1239,7 +1239,7 @@ images:
     flickr_id: "15076208210"
     flickr_secret: 2288904b30
   - 
-    image: /assets/photos/15076343197_ac5b937f5f_o.jpg
+    image: /assets/gallery/15076343197_ac5b937f5f_o.jpg
     title: Europe 2013 — Italy
     tags:
       - ""
@@ -1258,7 +1258,7 @@ images:
     flickr_id: "15076343197"
     flickr_secret: f4299bfc93
   - 
-    image: /assets/photos/15076211170_95e8925d4a_o.jpg
+    image: /assets/gallery/15076211170_95e8925d4a_o.jpg
     title: Europe 2013 — Italy
     tags:
       - ""

@@ -4,7 +4,7 @@ cover: /assets/gallery/2909820028_d97804a1d2_o.jpg
 section: gallery
 images:
   - 
-    image: /assets/photos/2909820028_d97804a1d2_o.jpg
+    image: /assets/gallery/2909820028_d97804a1d2_o.jpg
     title: Thats about right!
     tags:
       - ""
@@ -23,7 +23,7 @@ images:
     flickr_id: "2909820028"
     flickr_secret: f54ab79120
   - 
-    image: /assets/photos/2908973225_32cee830e1_o.jpg
+    image: /assets/gallery/2908973225_32cee830e1_o.jpg
     title: Wa! No legs!
     tags:
       - ""
@@ -42,7 +42,7 @@ images:
     flickr_id: "2908973225"
     flickr_secret: d4799829ce
   - 
-    image: /assets/photos/2909819788_5fc295ec76_o.jpg
+    image: /assets/gallery/2909819788_5fc295ec76_o.jpg
     title: KT gets right in there.
     tags:
       - ""
@@ -61,7 +61,7 @@ images:
     flickr_id: "2909819788"
     flickr_secret: f6907efa85
   - 
-    image: /assets/photos/2908972951_df9885dc2f_o.jpg
+    image: /assets/gallery/2908972951_df9885dc2f_o.jpg
     title: Big Ben
     tags:
       - ""
@@ -80,7 +80,7 @@ images:
     flickr_id: "2908972951"
     flickr_secret: fc2c157e72
   - 
-    image: /assets/photos/2909819602_05e1b2de98_o.jpg
+    image: /assets/gallery/2909819602_05e1b2de98_o.jpg
     title: Cake Oil.
     tags:
       - ""
@@ -99,7 +99,7 @@ images:
     flickr_id: "2909819602"
     flickr_secret: 4244f564c6
   - 
-    image: /assets/photos/2909819510_701f7dd395_o.jpg
+    image: /assets/gallery/2909819510_701f7dd395_o.jpg
     title: Argh! More Sharks!
     tags:
       - ""
@@ -118,7 +118,7 @@ images:
     flickr_id: "2909819510"
     flickr_secret: 3c23763d10
   - 
-    image: /assets/photos/2909819384_3b1824affb_o.jpg
+    image: /assets/gallery/2909819384_3b1824affb_o.jpg
     title: Sharks
     tags:
       - ""
@@ -137,7 +137,7 @@ images:
     flickr_id: "2909819384"
     flickr_secret: ed06d47031
   - 
-    image: /assets/photos/2908972489_c8ecaeb162_o.jpg
+    image: /assets/gallery/2908972489_c8ecaeb162_o.jpg
     title: London (and Cake)
     tags:
       - ""
@@ -156,7 +156,7 @@ images:
     flickr_id: "2908972489"
     flickr_secret: 3af2348513
   - 
-    image: /assets/photos/2909819112_7a82526626_o.jpg
+    image: /assets/gallery/2909819112_7a82526626_o.jpg
     title: 'Big trish & Annie'
     tags:
       - ""
@@ -175,7 +175,7 @@ images:
     flickr_id: "2909819112"
     flickr_secret: 84a34217a1
   - 
-    image: /assets/photos/2908972237_b453834ae3_o.jpg
+    image: /assets/gallery/2908972237_b453834ae3_o.jpg
     title: 'Kam & Ells'
     tags:
       - ""
@@ -194,7 +194,7 @@ images:
     flickr_id: "2908972237"
     flickr_secret: 66c2c61f0a
   - 
-    image: /assets/photos/2908972107_d2ef1ee2f7_o.jpg
+    image: /assets/gallery/2908972107_d2ef1ee2f7_o.jpg
     title: Dinner!
     tags:
       - ""
@@ -213,7 +213,7 @@ images:
     flickr_id: "2908972107"
     flickr_secret: df1ba54321
   - 
-    image: /assets/photos/2909818578_b53e3157af_o.jpg
+    image: /assets/gallery/2909818578_b53e3157af_o.jpg
     title: The 6 hour service
     tags:
       - ""
@@ -232,7 +232,7 @@ images:
     flickr_id: "2909818578"
     flickr_secret: 0c24f17d3f
   - 
-    image: /assets/photos/2908971815_d979ca1460_o.jpg
+    image: /assets/gallery/2908971815_d979ca1460_o.jpg
     title: Hmm couply.
     tags:
       - ""
@@ -251,7 +251,7 @@ images:
     flickr_id: "2908971815"
     flickr_secret: d333c77350
   - 
-    image: /assets/photos/2908971559_8f87c30b09_o.jpg
+    image: /assets/gallery/2908971559_8f87c30b09_o.jpg
     title: Feets
     tags:
       - ""
@@ -270,7 +270,7 @@ images:
     flickr_id: "2908971559"
     flickr_secret: 511800196a
   - 
-    image: /assets/photos/2909817858_2624a5c2fe_o.jpg
+    image: /assets/gallery/2909817858_2624a5c2fe_o.jpg
     title: Hayling Island Beach
     tags:
       - ""
@@ -289,7 +289,7 @@ images:
     flickr_id: "2909817858"
     flickr_secret: e484656f0e
   - 
-    image: /assets/photos/2909817666_a9356095a8_o.jpg
+    image: /assets/gallery/2909817666_a9356095a8_o.jpg
     title: 'Hannah & Jons Wedding'
     tags:
       - ""
@@ -308,7 +308,7 @@ images:
     flickr_id: "2909817666"
     flickr_secret: 2ea4d4fff9
   - 
-    image: /assets/photos/2909817534_a03b26d3a7_o.jpg
+    image: /assets/gallery/2909817534_a03b26d3a7_o.jpg
     title: Marks last night
     tags:
       - ""
@@ -327,7 +327,7 @@ images:
     flickr_id: "2909817534"
     flickr_secret: e09e7a8547
   - 
-    image: /assets/photos/2909817406_f8499ce81e_o.jpg
+    image: /assets/gallery/2909817406_f8499ce81e_o.jpg
     title: Baptism Cake
     tags:
       - ""
@@ -346,7 +346,7 @@ images:
     flickr_id: "2909817406"
     flickr_secret: 5c6543ed38
   - 
-    image: /assets/photos/2908970641_2706ffbb6a_o.jpg
+    image: /assets/gallery/2908970641_2706ffbb6a_o.jpg
     title: Cath takes a Bath
     tags:
       - ""
@@ -365,7 +365,7 @@ images:
     flickr_id: "2908970641"
     flickr_secret: 3769483fcd
   - 
-    image: /assets/photos/2908970517_104c087a17_o.jpg
+    image: /assets/gallery/2908970517_104c087a17_o.jpg
     title: Love her.
     tags:
       - ""
@@ -384,7 +384,7 @@ images:
     flickr_id: "2908970517"
     flickr_secret: f9a24dc9b9
   - 
-    image: /assets/photos/2908970367_5733f46417_o.jpg
+    image: /assets/gallery/2908970367_5733f46417_o.jpg
     title: Streach
     tags:
       - ""
@@ -403,7 +403,7 @@ images:
     flickr_id: "2908970367"
     flickr_secret: 256af9526c
   - 
-    image: /assets/photos/2909816990_bf6e177432_o.jpg
+    image: /assets/gallery/2909816990_bf6e177432_o.jpg
     title: Weird Dolls Head
     tags:
       - ""
@@ -422,7 +422,7 @@ images:
     flickr_id: "2909816990"
     flickr_secret: c9b38ab7bf
   - 
-    image: /assets/photos/2908970157_db13c6394d_o.jpg
+    image: /assets/gallery/2908970157_db13c6394d_o.jpg
     title: Annies Little Sister
     tags:
       - ""
@@ -441,7 +441,7 @@ images:
     flickr_id: "2908970157"
     flickr_secret: 47565bb89e
   - 
-    image: /assets/photos/2909816784_1d63ce50d7_o.jpg
+    image: /assets/gallery/2909816784_1d63ce50d7_o.jpg
     title: Vote Kamran
     tags:
       - ""
@@ -460,7 +460,7 @@ images:
     flickr_id: "2909816784"
     flickr_secret: 8734e4eb33
   - 
-    image: /assets/photos/2909816672_1240cf8769_o.jpg
+    image: /assets/gallery/2909816672_1240cf8769_o.jpg
     title: 2nd First Dance
     tags:
       - ""
@@ -479,7 +479,7 @@ images:
     flickr_id: "2909816672"
     flickr_secret: ba088b23e3
   - 
-    image: /assets/photos/2908969867_65181100b9_o.jpg
+    image: /assets/gallery/2908969867_65181100b9_o.jpg
     title: M Moss
     tags:
       - ""
@@ -498,7 +498,7 @@ images:
     flickr_id: "2908969867"
     flickr_secret: 48eb66f003
   - 
-    image: /assets/photos/2908969767_14fe65ced1_o.jpg
+    image: /assets/gallery/2908969767_14fe65ced1_o.jpg
     title: dContruct
     tags:
       - ""
@@ -517,7 +517,7 @@ images:
     flickr_id: "2908969767"
     flickr_secret: "1129992521"
   - 
-    image: /assets/photos/2908969665_1ba9276d21_o.jpg
+    image: /assets/gallery/2908969665_1ba9276d21_o.jpg
     title: Littlehampton Beach
     tags:
       - ""
@@ -536,7 +536,7 @@ images:
     flickr_id: "2908969665"
     flickr_secret: aeef627517
   - 
-    image: /assets/photos/2909816238_852da9fcc5_o.jpg
+    image: /assets/gallery/2909816238_852da9fcc5_o.jpg
     title: KTs Fave.
     tags:
       - ""
@@ -555,7 +555,7 @@ images:
     flickr_id: "2909816238"
     flickr_secret: 93f3a2fcc7
   - 
-    image: /assets/photos/2908969479_8815d01ea7_o.jpg
+    image: /assets/gallery/2908969479_8815d01ea7_o.jpg
     title: Peace Man
     tags:
       - ""
@@ -574,7 +574,7 @@ images:
     flickr_id: "2908969479"
     flickr_secret: 9184f33fef
   - 
-    image: /assets/photos/2908969397_b3591925f7_o.jpg
+    image: /assets/gallery/2908969397_b3591925f7_o.jpg
     title: 'Uncle Fester & Space Cadet'
     tags:
       - ""
@@ -593,7 +593,7 @@ images:
     flickr_id: "2908969397"
     flickr_secret: d361199f5d
   - 
-    image: /assets/photos/2909815924_f81a03aabf_o.jpg
+    image: /assets/gallery/2909815924_f81a03aabf_o.jpg
     title: Advanced Optics
     tags:
       - ""
@@ -612,7 +612,7 @@ images:
     flickr_id: "2909815924"
     flickr_secret: dcb7ca08c9
   - 
-    image: /assets/photos/2909815846_3a235ff4d8_o.jpg
+    image: /assets/gallery/2909815846_3a235ff4d8_o.jpg
     title: Picnic in Sutton Park.. brrr..
     tags:
       - ""
@@ -631,7 +631,7 @@ images:
     flickr_id: "2909815846"
     flickr_secret: 58dd6c194e
   - 
-    image: /assets/photos/2909815770_5bfca3a235_o.jpg
+    image: /assets/gallery/2909815770_5bfca3a235_o.jpg
     title: Dads Birthday Gift
     tags:
       - ""
@@ -650,7 +650,7 @@ images:
     flickr_id: "2909815770"
     flickr_secret: f55297eb16
   - 
-    image: /assets/photos/2908969007_d8be61d211_o.jpg
+    image: /assets/gallery/2908969007_d8be61d211_o.jpg
     title: 'Mum, Dad & Cake Oil'
     tags:
       - ""
@@ -669,7 +669,7 @@ images:
     flickr_id: "2908969007"
     flickr_secret: eefc4da86a
   - 
-    image: /assets/photos/2908968881_e1c3f015cb_o.jpg
+    image: /assets/gallery/2908968881_e1c3f015cb_o.jpg
     title: Fireworks after the Levellers
     tags:
       - ""
@@ -688,7 +688,7 @@ images:
     flickr_id: "2908968881"
     flickr_secret: bb32d32ea8
   - 
-    image: /assets/photos/2908968779_e7ee084fa0_o.jpg
+    image: /assets/gallery/2908968779_e7ee084fa0_o.jpg
     title: KT @ The Levellers
     tags:
       - ""
@@ -707,7 +707,7 @@ images:
     flickr_id: "2908968779"
     flickr_secret: 75069a1009
   - 
-    image: /assets/photos/2909815444_fd67f883be_o.jpg
+    image: /assets/gallery/2909815444_fd67f883be_o.jpg
     title: Levellers
     tags:
       - ""
@@ -726,7 +726,7 @@ images:
     flickr_id: "2909815444"
     flickr_secret: 68e323b146
   - 
-    image: /assets/photos/2908968599_2b758cb18e_o.jpg
+    image: /assets/gallery/2908968599_2b758cb18e_o.jpg
     title: Arundel Castle
     tags:
       - ""
@@ -745,7 +745,7 @@ images:
     flickr_id: "2908968599"
     flickr_secret: faa916e82d
   - 
-    image: /assets/photos/2908968515_2518e16927_o.jpg
+    image: /assets/gallery/2908968515_2518e16927_o.jpg
     title: FUITY!!
     tags:
       - ""
@@ -764,7 +764,7 @@ images:
     flickr_id: "2908968515"
     flickr_secret: d650288465
   - 
-    image: /assets/photos/2909815150_bc5e215def_o.jpg
+    image: /assets/gallery/2909815150_bc5e215def_o.jpg
     title: Big Trish Swings
     tags:
       - ""
@@ -783,7 +783,7 @@ images:
     flickr_id: "2909815150"
     flickr_secret: c0b277e04f
   - 
-    image: /assets/photos/2909815056_3d63cb879c_o.jpg
+    image: /assets/gallery/2909815056_3d63cb879c_o.jpg
     title: Jonny BB!
     tags:
       - ""
@@ -802,7 +802,7 @@ images:
     flickr_id: "2909815056"
     flickr_secret: 1c136e002a
   - 
-    image: /assets/photos/2909814904_10a7a3ea10_o.jpg
+    image: /assets/gallery/2909814904_10a7a3ea10_o.jpg
     title: Lighting over Brighton
     tags:
       - ""
@@ -821,7 +821,7 @@ images:
     flickr_id: "2909814904"
     flickr_secret: 69913fdbf6
   - 
-    image: /assets/photos/2909814808_70693a4454_o.jpg
+    image: /assets/gallery/2909814808_70693a4454_o.jpg
     title: My New House
     tags:
       - ""
@@ -840,7 +840,7 @@ images:
     flickr_id: "2909814808"
     flickr_secret: 19ddcc6d6e
   - 
-    image: /assets/photos/2908967939_f5c051942b_o.jpg
+    image: /assets/gallery/2908967939_f5c051942b_o.jpg
     title: Old ships in Littlehampton
     tags:
       - ""
@@ -859,7 +859,7 @@ images:
     flickr_id: "2908967939"
     flickr_secret: 78d4f11524
   - 
-    image: /assets/photos/2908967823_ca98871cdb_o.jpg
+    image: /assets/gallery/2908967823_ca98871cdb_o.jpg
     title: Paul, mining for nose Gold
     tags:
       - ""
@@ -878,7 +878,7 @@ images:
     flickr_id: "2908967823"
     flickr_secret: f0db2dbdc3
   - 
-    image: /assets/photos/2909814400_9b9fdc7fe0_o.jpg
+    image: /assets/gallery/2909814400_9b9fdc7fe0_o.jpg
     title: IKEA
     tags:
       - ""
@@ -897,7 +897,7 @@ images:
     flickr_id: "2909814400"
     flickr_secret: 796f503067
   - 
-    image: /assets/photos/2908967467_bc200d567e_o.jpg
+    image: /assets/gallery/2908967467_bc200d567e_o.jpg
     title: Cath doesny like photos
     tags:
       - ""
@@ -916,7 +916,7 @@ images:
     flickr_id: "2908967467"
     flickr_secret: 068690dcbb
   - 
-    image: /assets/photos/2909813920_95c8feef8b_o.jpg
+    image: /assets/gallery/2909813920_95c8feef8b_o.jpg
     title: New Boy in Littlehampton
     tags:
       - ""
@@ -935,7 +935,7 @@ images:
     flickr_id: "2909813920"
     flickr_secret: 0df74ea219
   - 
-    image: /assets/photos/2909813752_578abfb8c2_o.jpg
+    image: /assets/gallery/2909813752_578abfb8c2_o.jpg
     title: AJ loves his food!
     tags:
       - ""
@@ -954,7 +954,7 @@ images:
     flickr_id: "2909813752"
     flickr_secret: 3f6a57464b
   - 
-    image: /assets/photos/2909813590_2697ddf0e8_o.jpg
+    image: /assets/gallery/2909813590_2697ddf0e8_o.jpg
     title: Kemp Loves his iPhone
     tags:
       - ""
@@ -973,7 +973,7 @@ images:
     flickr_id: "2909813590"
     flickr_secret: c687bd7f12
   - 
-    image: /assets/photos/2908966621_db816e0720_o.jpg
+    image: /assets/gallery/2908966621_db816e0720_o.jpg
     title: Lloydy
     tags:
       - paulrobertlloyd
@@ -992,7 +992,7 @@ images:
     flickr_id: "2908966621"
     flickr_secret: 8080e25f52
   - 
-    image: /assets/photos/2909813176_0d097c0d94_o.jpg
+    image: /assets/gallery/2909813176_0d097c0d94_o.jpg
     title: McNally
     tags:
       - ""
@@ -1011,7 +1011,7 @@ images:
     flickr_id: "2909813176"
     flickr_secret: 0939df5f9d
   - 
-    image: /assets/photos/2909813038_9d2310ff1e_o.jpg
+    image: /assets/gallery/2909813038_9d2310ff1e_o.jpg
     title: 'Ads & Ste'
     tags:
       - ""
@@ -1030,7 +1030,7 @@ images:
     flickr_id: "2909813038"
     flickr_secret: 9f92209d82
   - 
-    image: /assets/photos/2908965971_fcaf62de12_o.jpg
+    image: /assets/gallery/2908965971_fcaf62de12_o.jpg
     title: AJ
     tags:
       - ""
@@ -1049,7 +1049,7 @@ images:
     flickr_id: "2908965971"
     flickr_secret: 8fe503bf3e
   - 
-    image: /assets/photos/2909812684_d307d5cf23_o.jpg
+    image: /assets/gallery/2909812684_d307d5cf23_o.jpg
     title: 'Andy & Sue'
     tags:
       - ""
@@ -1068,7 +1068,7 @@ images:
     flickr_id: "2909812684"
     flickr_secret: 0485b0d4ec
   - 
-    image: /assets/photos/2908965585_126c8afe64_o.jpg
+    image: /assets/gallery/2908965585_126c8afe64_o.jpg
     title: 'Rob & Bex'
     tags:
       - ""
@@ -1087,7 +1087,7 @@ images:
     flickr_id: "2908965585"
     flickr_secret: 301a7576bf
   - 
-    image: /assets/photos/2909812246_a200f38329_o.jpg
+    image: /assets/gallery/2909812246_a200f38329_o.jpg
     title: Lloydy
     tags:
       - ""
@@ -1106,7 +1106,7 @@ images:
     flickr_id: "2909812246"
     flickr_secret: 2dcd81d934
   - 
-    image: /assets/photos/2909812118_d6ef55ef81_o.jpg
+    image: /assets/gallery/2909812118_d6ef55ef81_o.jpg
     title: Just woken up
     tags:
       - ""
@@ -1125,7 +1125,7 @@ images:
     flickr_id: "2909812118"
     flickr_secret: d244e86df0
   - 
-    image: /assets/photos/2909811944_4fdfbd2619_o.jpg
+    image: /assets/gallery/2909811944_4fdfbd2619_o.jpg
     title: Mark has a thought
     tags:
       - ""
@@ -1144,7 +1144,7 @@ images:
     flickr_id: "2909811944"
     flickr_secret: 2ef239d383
   - 
-    image: /assets/photos/2909811784_79ea540971_o.jpg
+    image: /assets/gallery/2909811784_79ea540971_o.jpg
     title: Camping
     tags:
       - ""
@@ -1163,7 +1163,7 @@ images:
     flickr_id: "2909811784"
     flickr_secret: b78ffdc287
   - 
-    image: /assets/photos/2908964595_d2b5a3eb0b_o.jpg
+    image: /assets/gallery/2908964595_d2b5a3eb0b_o.jpg
     title: Mr Lee Nash
     tags:
       - ""

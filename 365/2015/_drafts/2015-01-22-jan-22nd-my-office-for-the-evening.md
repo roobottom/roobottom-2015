@@ -1,6 +1,6 @@
 ---
 title: Jan 22nd — My Office for the Evening
-image: /assets/365/IMG_8500.jpg
+images: /assets/365/IMG_8500.jpg
 tags:
   - "365"
   - Work

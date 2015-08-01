@@ -4,7 +4,7 @@ cover: /assets/gallery/28805701_9ec86fb308_o.jpg
 section: gallery
 images:
   - 
-    image: /assets/photos/28805701_9ec86fb308_o.jpg
+    image: /assets/gallery/28805701_9ec86fb308_o.jpg
     title: Granddad as a baby
     tags:
       - old
@@ -27,7 +27,7 @@ images:
     flickr_id: "28805701"
     flickr_secret: 9ec86fb308
   - 
-    image: /assets/photos/28805810_9409dfc059_o.jpg
+    image: /assets/gallery/28805810_9409dfc059_o.jpg
     title: Granddad Me and Andrew
     tags:
       - old
@@ -50,7 +50,7 @@ images:
     flickr_id: "28805810"
     flickr_secret: 9409dfc059
   - 
-    image: /assets/photos/28807142_c7c0da0f99_o.jpg
+    image: /assets/gallery/28807142_c7c0da0f99_o.jpg
     title: The shop
     tags:
       - old
@@ -73,7 +73,7 @@ images:
     flickr_id: "28807142"
     flickr_secret: c7c0da0f99
   - 
-    image: /assets/photos/28805993_1a6b8e3adf_o.jpg
+    image: /assets/gallery/28805993_1a6b8e3adf_o.jpg
     title: Granddad
     tags:
       - old
@@ -96,7 +96,7 @@ images:
     flickr_id: "28805993"
     flickr_secret: 1a6b8e3adf
   - 
-    image: /assets/photos/28806911_cbac27416d_o.jpg
+    image: /assets/gallery/28806911_cbac27416d_o.jpg
     title: Me and Dad Circa 1983
     tags:
       - old
@@ -119,7 +119,7 @@ images:
     flickr_id: "28806911"
     flickr_secret: cbac27416d
   - 
-    image: /assets/photos/28806753_d45fb41505_o.jpg
+    image: /assets/gallery/28806753_d45fb41505_o.jpg
     title: Me, aged about 6
     tags:
       - old
@@ -142,7 +142,7 @@ images:
     flickr_id: "28806753"
     flickr_secret: d45fb41505
   - 
-    image: /assets/photos/28806328_b908af0dd6_o.jpg
+    image: /assets/gallery/28806328_b908af0dd6_o.jpg
     title: Action man Dad
     tags:
       - old
@@ -165,7 +165,7 @@ images:
     flickr_id: "28806328"
     flickr_secret: b908af0dd6
   - 
-    image: /assets/photos/28806117_3a78d0d81c_o.jpg
+    image: /assets/gallery/28806117_3a78d0d81c_o.jpg
     title: Mum in tree
     tags:
       - old
@@ -188,7 +188,7 @@ images:
     flickr_id: "28806117"
     flickr_secret: 3a78d0d81c
   - 
-    image: /assets/photos/30701396_848035cb81_o.jpg
+    image: /assets/gallery/30701396_848035cb81_o.jpg
     title: super-hero
     tags:
       - nerd

@@ -1,6 +1,6 @@
 ---
 title: Jan 8th — Star Trail Fail
-image: /assets/365/IMG_7684.jpg
+images: /assets/365/IMG_7684.jpg
 tags:
   - "365"
   - photography

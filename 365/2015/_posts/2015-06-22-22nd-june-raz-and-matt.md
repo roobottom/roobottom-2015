@@ -1,6 +1,6 @@
 ---
 title: '22nd June — Raz & Matt'
-image: /assets/365/IMG_8559.JPG
+images: /assets/365/IMG_8559.JPG
 tags:
   - "365"
   - friends

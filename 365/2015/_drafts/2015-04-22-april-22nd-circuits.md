@@ -1,6 +1,6 @@
 ---
 title: April 22nd — Circuits
-image: /assets/365/IMG_1140.jpg
+images: /assets/365/IMG_1140.jpg
 tags:
   - "365"
   - Projects

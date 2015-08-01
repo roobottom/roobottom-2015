@@ -1,6 +1,6 @@
 ---
 title: March 12th — The support team
-image: /assets/365/IMG_9693.jpg
+images: /assets/365/IMG_9693.jpg
 tags:
   - "365"
   - Firefly

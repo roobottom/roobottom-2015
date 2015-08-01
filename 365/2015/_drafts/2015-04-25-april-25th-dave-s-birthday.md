@@ -1,6 +1,6 @@
 ---
 title: "April 25th — Dave's Birthday"
-image:
+images:
   - /assets/365/IMG_1188.jpg
   - /assets/365/IMG_1192.jpg
   - /assets/365/IMG_1204.jpg

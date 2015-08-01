@@ -1,6 +1,6 @@
 ---
 title: March 20th — Total un-eclipse of the sun
-image: /assets/365/IMG_0030.jpg
+images: /assets/365/IMG_0030.jpg
 tags:
   - "365"
 ---

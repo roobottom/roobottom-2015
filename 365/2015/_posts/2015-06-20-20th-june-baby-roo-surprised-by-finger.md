@@ -1,6 +1,6 @@
 ---
 title: 20th June — Baby Roo, surprised by finger
-image: /assets/365/IMG_2034.jpg
+images: /assets/365/IMG_2034.jpg
 tags:
   - "365"
   - baby roo

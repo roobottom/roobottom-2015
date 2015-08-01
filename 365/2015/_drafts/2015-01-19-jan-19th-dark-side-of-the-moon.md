@@ -1,6 +1,6 @@
 ---
 title: Jan 19th — Dark Side of the Moon
-image:
+images:
   - /assets/365/IMG_8347.jpg
   - /assets/365/IMG_8355.jpg
 tags:

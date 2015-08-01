@@ -4,7 +4,7 @@ cover: /assets/gallery/5221310903_2d0aabef80_o.jpg
 section: gallery
 images:
   - 
-    image: /assets/photos/5221902300_f3e6fa6abd_o.jpg
+    image: /assets/gallery/5221902300_f3e6fa6abd_o.jpg
     title: salmon en croute
     tags:
       - en
@@ -27,7 +27,7 @@ images:
     flickr_id: "5221902300"
     flickr_secret: aa9ac1b6a5
   - 
-    image: /assets/photos/5221304587_8e7abeda3e_o.jpg
+    image: /assets/gallery/5221304587_8e7abeda3e_o.jpg
     title: salmon en croute
     tags:
       - en
@@ -50,7 +50,7 @@ images:
     flickr_id: "5221304587"
     flickr_secret: 6dc63076b5
   - 
-    image: /assets/photos/5221904804_1dcdf16dec_o.jpg
+    image: /assets/gallery/5221904804_1dcdf16dec_o.jpg
     title: salmon en croute
     tags:
       - en
@@ -73,7 +73,7 @@ images:
     flickr_id: "5221904804"
     flickr_secret: 014dab238a
   - 
-    image: /assets/photos/5221905864_104fc590b9_o.jpg
+    image: /assets/gallery/5221905864_104fc590b9_o.jpg
     title: salmon en croute
     tags:
       - en
@@ -96,7 +96,7 @@ images:
     flickr_id: "5221905864"
     flickr_secret: e696f109c8
   - 
-    image: /assets/photos/5221906890_c76f38f227_o.jpg
+    image: /assets/gallery/5221906890_c76f38f227_o.jpg
     title: salmon en croute
     tags:
       - en
@@ -119,7 +119,7 @@ images:
     flickr_id: "5221906890"
     flickr_secret: 9fa2e860cf
   - 
-    image: /assets/photos/5221908038_86713b02c4_o.jpg
+    image: /assets/gallery/5221908038_86713b02c4_o.jpg
     title: salmon en croute
     tags:
       - en
@@ -142,7 +142,7 @@ images:
     flickr_id: "5221908038"
     flickr_secret: 83392e091e
   - 
-    image: /assets/photos/5221309685_07983e3194_o.jpg
+    image: /assets/gallery/5221309685_07983e3194_o.jpg
     title: salmon en croute
     tags:
       - en
@@ -165,7 +165,7 @@ images:
     flickr_id: "5221309685"
     flickr_secret: c63dccc79f
   - 
-    image: /assets/photos/5221310903_2d0aabef80_o.jpg
+    image: /assets/gallery/5221310903_2d0aabef80_o.jpg
     title: salmon en croute
     tags:
       - en

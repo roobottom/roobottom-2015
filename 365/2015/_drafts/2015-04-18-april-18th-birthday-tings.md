@@ -1,6 +1,6 @@
 ---
 title: April 18th — Birthday tings
-image:
+images:
   - /assets/365/IMG_0971.jpg
   - /assets/365/IMG_0966.jpg
 tags:

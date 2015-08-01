@@ -1,6 +1,6 @@
 ---
 title: Jan 18th — Poor Neighbours
-image: /assets/365/IMG_8334.jpg
+images: /assets/365/IMG_8334.jpg
 tags:
   - "365"
   - Home

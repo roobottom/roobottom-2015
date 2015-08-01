@@ -1,6 +1,6 @@
 ---
 title: 'May 2nd — Meeting Grandpa & Grandma'
-image: /assets/365/IMG_1324.jpg
+images: /assets/365/IMG_1324.jpg
 tags:
   - "365"
   - family

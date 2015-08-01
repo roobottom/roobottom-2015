@@ -1,6 +1,6 @@
 ---
 title: Feb 16th — Bumpalicious
-image: /assets/365/IMG_9328.jpg
+images: /assets/365/IMG_9328.jpg
 tags:
   - "365"
   - Family

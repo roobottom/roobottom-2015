@@ -1,6 +1,6 @@
 ---
 title: Jan 14th — Run, Fatty
-image: /assets/365/IMG_8257.jpg
+images: /assets/365/IMG_8257.jpg
 tags:
   - "365"
   - Health

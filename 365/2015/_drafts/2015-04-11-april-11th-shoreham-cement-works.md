@@ -1,6 +1,6 @@
 ---
 title: April 11th — Shoreham Cement Works
-image:
+images:
   - /assets/365/IMG_0809.jpg
   - /assets/365/IMG_0838.jpg
   - /assets/365/IMG_0847.jpg

@@ -1,6 +1,6 @@
 ---
 title: 23rd May — Lunch at The Loft
-image:
+images:
   - /assets/365/IMG_1788.jpg
   - /assets/365/IMG_1794.jpg
 tags:

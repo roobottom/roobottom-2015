@@ -1,6 +1,6 @@
 ---
 title: "27th June — Cousin's Weekend"
-image:
+images:
   - /assets/365/IMG_2205.jpg
   - /assets/365/IMG_2160.jpg
   - /assets/365/IMG_2201.jpg

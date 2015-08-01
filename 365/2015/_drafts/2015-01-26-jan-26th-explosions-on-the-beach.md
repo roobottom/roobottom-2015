@@ -1,6 +1,6 @@
 ---
 title: Jan 26th — Explosions on the Beach
-image: /assets/365/IMG_8733.jpg
+images: /assets/365/IMG_8733.jpg
 tags:
   - "365"
   - Photography

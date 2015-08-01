@@ -4,7 +4,7 @@ cover: /assets/gallery/12448997_80e1d4c52a_o.jpg
 section: gallery
 images:
   - 
-    image: /assets/photos/12449106_b6b199fbed_o.jpg
+    image: /assets/gallery/12449106_b6b199fbed_o.jpg
     title: Twigs and Sticks
     tags:
       - followthedog
@@ -28,7 +28,7 @@ images:
     flickr_id: "12449106"
     flickr_secret: b6b199fbed
   - 
-    image: /assets/photos/12449087_2dd70e9d6d_o.jpg
+    image: /assets/gallery/12449087_2dd70e9d6d_o.jpg
     title: The Dog
     tags:
       - followthedog
@@ -52,7 +52,7 @@ images:
     flickr_id: "12449087"
     flickr_secret: 2dd70e9d6d
   - 
-    image: /assets/photos/12449076_b06d4d2edc_o.jpg
+    image: /assets/gallery/12449076_b06d4d2edc_o.jpg
     title: The Ass
     tags:
       - followthedog
@@ -76,7 +76,7 @@ images:
     flickr_id: "12449076"
     flickr_secret: b06d4d2edc
   - 
-    image: /assets/photos/12449068_b951d02ce0_o.jpg
+    image: /assets/gallery/12449068_b951d02ce0_o.jpg
     title: Teenage Wasteland
     tags:
       - followthedog
@@ -100,7 +100,7 @@ images:
     flickr_id: "12449068"
     flickr_secret: b951d02ce0
   - 
-    image: /assets/photos/12449057_2ce1ddabca_o.jpg
+    image: /assets/gallery/12449057_2ce1ddabca_o.jpg
     title: Rest Stop
     tags:
       - followthedog
@@ -124,7 +124,7 @@ images:
     flickr_id: "12449057"
     flickr_secret: 2ce1ddabca
   - 
-    image: /assets/photos/12449049_02650e5d9a_o.jpg
+    image: /assets/gallery/12449049_02650e5d9a_o.jpg
     title: Mark
     tags:
       - followthedog
@@ -148,7 +148,7 @@ images:
     flickr_id: "12449049"
     flickr_secret: 02650e5d9a
   - 
-    image: /assets/photos/12449028_13bf0e97fa_o.jpg
+    image: /assets/gallery/12449028_13bf0e97fa_o.jpg
     title: Lloydy enjoying
     tags:
       - followthedog
@@ -172,7 +172,7 @@ images:
     flickr_id: "12449028"
     flickr_secret: 13bf0e97fa
   - 
-    image: /assets/photos/12449014_d425ef4ca8_o.jpg
+    image: /assets/gallery/12449014_d425ef4ca8_o.jpg
     title: Letting out a quiet gruff
     tags:
       - followthedog
@@ -196,7 +196,7 @@ images:
     flickr_id: "12449014"
     flickr_secret: d425ef4ca8
   - 
-    image: /assets/photos/12449004_a42c3e2551_o.jpg
+    image: /assets/gallery/12449004_a42c3e2551_o.jpg
     title: Kris, Jon and James
     tags:
       - followthedog
@@ -220,7 +220,7 @@ images:
     flickr_id: "12449004"
     flickr_secret: a42c3e2551
   - 
-    image: /assets/photos/12448997_80e1d4c52a_o.jpg
+    image: /assets/gallery/12448997_80e1d4c52a_o.jpg
     title: James shows off his pink bike and Jon shows off his belly
     tags:
       - followthedog
@@ -244,7 +244,7 @@ images:
     flickr_id: "12448997"
     flickr_secret: 80e1d4c52a
   - 
-    image: /assets/photos/12448976_7a76f8ac23_o.jpg
+    image: /assets/gallery/12448976_7a76f8ac23_o.jpg
     title: Its griped, its sorted, its off-road
     tags:
       - followthedog
@@ -268,7 +268,7 @@ images:
     flickr_id: "12448976"
     flickr_secret: 7a76f8ac23
   - 
-    image: /assets/photos/12448952_24d8bf9263_o.jpg
+    image: /assets/gallery/12448952_24d8bf9263_o.jpg
     title: Its Derv, but whos that pleb with him?
     tags:
       - followthedog
@@ -292,7 +292,7 @@ images:
     flickr_id: "12448952"
     flickr_secret: 24d8bf9263
   - 
-    image: /assets/photos/12448940_a2208fdd88_o.jpg
+    image: /assets/gallery/12448940_a2208fdd88_o.jpg
     title: In need of some new glasses
     tags:
       - followthedog
@@ -316,7 +316,7 @@ images:
     flickr_id: "12448940"
     flickr_secret: a2208fdd88
   - 
-    image: /assets/photos/12448932_8ee778ea92_o.jpg
+    image: /assets/gallery/12448932_8ee778ea92_o.jpg
     title: Derv
     tags:
       - followthedog
@@ -340,7 +340,7 @@ images:
     flickr_id: "12448932"
     flickr_secret: 8ee778ea92
   - 
-    image: /assets/photos/12448918_5685f50506_o.jpg
+    image: /assets/gallery/12448918_5685f50506_o.jpg
     title: Deep water my ass
     tags:
       - followthedog
@@ -364,7 +364,7 @@ images:
     flickr_id: "12448918"
     flickr_secret: 5685f50506
   - 
-    image: /assets/photos/12448889_254210d023_o.jpg
+    image: /assets/gallery/12448889_254210d023_o.jpg
     title: Collapse
     tags:
       - followthedog
@@ -388,7 +388,7 @@ images:
     flickr_id: "12448889"
     flickr_secret: 254210d023
   - 
-    image: /assets/photos/12448860_80f2769478_o.jpg
+    image: /assets/gallery/12448860_80f2769478_o.jpg
     title: A Hill too far
     tags:
       - followthedog

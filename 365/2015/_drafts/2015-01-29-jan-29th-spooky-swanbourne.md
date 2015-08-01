@@ -1,6 +1,6 @@
 ---
 title: Jan 29th — Spooky Swanbourne
-image: /assets/365/IMG_8778-Edit.jpg
+images: /assets/365/IMG_8778-Edit.jpg
 tags:
   - "365"
   - Photography

@@ -4,7 +4,7 @@ cover: /assets/gallery/208892371_f91900c4c9_o.jpg
 section: gallery
 images:
   - 
-    image: /assets/photos/208892371_f91900c4c9_o.jpg
+    image: /assets/gallery/208892371_f91900c4c9_o.jpg
     title: Fighting
     tags:
       - ""
@@ -23,7 +23,7 @@ images:
     flickr_id: "208892371"
     flickr_secret: f91900c4c9
   - 
-    image: /assets/photos/208892061_c60850926e_o.jpg
+    image: /assets/gallery/208892061_c60850926e_o.jpg
     title: Fighting II
     tags:
       - ""
@@ -42,7 +42,7 @@ images:
     flickr_id: "208892061"
     flickr_secret: c60850926e
   - 
-    image: /assets/photos/208891671_34d1c1946a_o.jpg
+    image: /assets/gallery/208891671_34d1c1946a_o.jpg
     title: Fighting III
     tags:
       - ""
@@ -61,7 +61,7 @@ images:
     flickr_id: "208891671"
     flickr_secret: 34d1c1946a
   - 
-    image: /assets/photos/208891258_c61e174d9e_o.jpg
+    image: /assets/gallery/208891258_c61e174d9e_o.jpg
     title: Fighting IV
     tags:
       - ""
@@ -80,7 +80,7 @@ images:
     flickr_id: "208891258"
     flickr_secret: c61e174d9e
   - 
-    image: /assets/photos/208890891_53f272f8bb_o.jpg
+    image: /assets/gallery/208890891_53f272f8bb_o.jpg
     title: Together
     tags:
       - ""
@@ -99,7 +99,7 @@ images:
     flickr_id: "208890891"
     flickr_secret: 53f272f8bb
   - 
-    image: /assets/photos/208890629_4fa7d3321a_o.jpg
+    image: /assets/gallery/208890629_4fa7d3321a_o.jpg
     title: Train People
     tags:
       - ""
@@ -118,7 +118,7 @@ images:
     flickr_id: "208890629"
     flickr_secret: 4fa7d3321a
   - 
-    image: /assets/photos/208890236_a8782daff2_o.jpg
+    image: /assets/gallery/208890236_a8782daff2_o.jpg
     title: Wheres Waldo? Brighton Beach
     tags:
       - ""
@@ -137,7 +137,7 @@ images:
     flickr_id: "208890236"
     flickr_secret: a8782daff2
   - 
-    image: /assets/photos/208889354_5dd6be389e_o.jpg
+    image: /assets/gallery/208889354_5dd6be389e_o.jpg
     title: He won it on the pier
     tags:
       - ""
@@ -156,7 +156,7 @@ images:
     flickr_id: "208889354"
     flickr_secret: 5dd6be389e
   - 
-    image: /assets/photos/208888908_043dee2f12_o.jpg
+    image: /assets/gallery/208888908_043dee2f12_o.jpg
     title: 'Katie & Jon'
     tags:
       - ""
@@ -175,7 +175,7 @@ images:
     flickr_id: "208888908"
     flickr_secret: 043dee2f12
   - 
-    image: /assets/photos/208459596_bd84bc4ee0_o.jpg
+    image: /assets/gallery/208459596_bd84bc4ee0_o.jpg
     title: Pileon!!
     tags:
       - ""
@@ -194,7 +194,7 @@ images:
     flickr_id: "208459596"
     flickr_secret: bd84bc4ee0
   - 
-    image: /assets/photos/208458882_42ced5de66_o.jpg
+    image: /assets/gallery/208458882_42ced5de66_o.jpg
     title: 'Lloydy, Ellen, Me & Cath'
     tags:
       - jonroobottom
@@ -216,7 +216,7 @@ images:
     flickr_id: "208458882"
     flickr_secret: 42ced5de66
   - 
-    image: /assets/photos/208457515_560f2abf15_o.jpg
+    image: /assets/gallery/208457515_560f2abf15_o.jpg
     title: Morning Girls!
     tags:
       - ""
@@ -235,7 +235,7 @@ images:
     flickr_id: "208457515"
     flickr_secret: 560f2abf15
   - 
-    image: /assets/photos/208456891_8fcde0f84f_o.jpg
+    image: /assets/gallery/208456891_8fcde0f84f_o.jpg
     title: Jeans!
     tags:
       - ""
@@ -254,7 +254,7 @@ images:
     flickr_id: "208456891"
     flickr_secret: 8fcde0f84f
   - 
-    image: /assets/photos/208456067_e322b4ff3c_o.jpg
+    image: /assets/gallery/208456067_e322b4ff3c_o.jpg
     title: Brighton Pier
     tags:
       - ""
@@ -273,7 +273,7 @@ images:
     flickr_id: "208456067"
     flickr_secret: e322b4ff3c
   - 
-    image: /assets/photos/208455517_c61c33a09a_o.jpg
+    image: /assets/gallery/208455517_c61c33a09a_o.jpg
     title: Wiggy Hair
     tags:
       - ""
@@ -292,7 +292,7 @@ images:
     flickr_id: "208455517"
     flickr_secret: c61c33a09a
   - 
-    image: /assets/photos/208454867_0f2455006b_o.jpg
+    image: /assets/gallery/208454867_0f2455006b_o.jpg
     title: Whaaaaaa?
     tags:
       - ""
@@ -311,7 +311,7 @@ images:
     flickr_id: "208454867"
     flickr_secret: 0f2455006b
   - 
-    image: /assets/photos/208454157_dada2e6334_o.jpg
+    image: /assets/gallery/208454157_dada2e6334_o.jpg
     title: Reserved For Roobottom
     tags:
       - ""

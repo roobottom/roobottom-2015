@@ -1,6 +1,6 @@
 ---
 title: 14th July — Fog Bound
-image:
+images:
   - /assets/365/IMG_8612.jpg
   - /assets/365/IMG_2910.jpg
   - /assets/365/IMG_2965.jpg

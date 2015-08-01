@@ -4,7 +4,7 @@ cover: /assets/gallery/41278895_71cb8d67f6_o.jpg
 section: gallery
 images:
   - 
-    image: /assets/photos/41278895_71cb8d67f6_o.jpg
+    image: /assets/gallery/41278895_71cb8d67f6_o.jpg
     title: 'Cell: Paul is Surprised'
     tags:
       - cell
@@ -28,7 +28,7 @@ images:
     flickr_id: "41278895"
     flickr_secret: 71cb8d67f6
   - 
-    image: /assets/photos/41279088_1478841bf1_o.jpg
+    image: /assets/gallery/41279088_1478841bf1_o.jpg
     title: 'Cell: AJ is Surprised.'
     tags:
       - cell
@@ -52,7 +52,7 @@ images:
     flickr_id: "41279088"
     flickr_secret: 1478841bf1
   - 
-    image: /assets/photos/41278701_c626ac5eb8_o.jpg
+    image: /assets/gallery/41278701_c626ac5eb8_o.jpg
     title: 'Cell: D double E'
     tags:
       - cell
@@ -76,7 +76,7 @@ images:
     flickr_id: "41278701"
     flickr_secret: c626ac5eb8
   - 
-    image: /assets/photos/41278540_5b48fc0701_o.jpg
+    image: /assets/gallery/41278540_5b48fc0701_o.jpg
     title: Awww
     tags:
       - cell
@@ -100,7 +100,7 @@ images:
     flickr_id: "41278540"
     flickr_secret: 5b48fc0701
   - 
-    image: /assets/photos/41278337_7693dcf1de_o.jpg
+    image: /assets/gallery/41278337_7693dcf1de_o.jpg
     title: 'Cell: Steve and his new camera'
     tags:
       - cell

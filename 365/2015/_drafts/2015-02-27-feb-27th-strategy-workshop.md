@@ -1,6 +1,6 @@
 ---
 title: Feb 27th — Strategy Workshop
-image:
+images:
   - /assets/365/IMG_6037.jpg
   - /assets/365/IMG_6039.jpg
 tags:

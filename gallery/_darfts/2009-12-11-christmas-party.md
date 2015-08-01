@@ -4,7 +4,7 @@ cover: /assets/gallery/4182159165_1a25a603b2_o.jpg
 section: gallery
 images:
   - 
-    image: /assets/photos/4182159165_1a25a603b2_o.jpg
+    image: /assets/gallery/4182159165_1a25a603b2_o.jpg
     title: 'Pawel & Flemming'
     tags:
       - ""
@@ -23,7 +23,7 @@ images:
     flickr_id: "4182159165"
     flickr_secret: 391455c68d
   - 
-    image: /assets/photos/4182108177_f824ac0d0f_o.jpg
+    image: /assets/gallery/4182108177_f824ac0d0f_o.jpg
     title: Gads About Town
     tags:
       - ""
@@ -42,7 +42,7 @@ images:
     flickr_id: "4182108177"
     flickr_secret: de58ea6908
   - 
-    image: /assets/photos/4182107251_3104aa3878_o.jpg
+    image: /assets/gallery/4182107251_3104aa3878_o.jpg
     title: 'Andy, Anne & Pawel'
     tags:
       - ""
@@ -61,7 +61,7 @@ images:
     flickr_id: "4182107251"
     flickr_secret: 91b2015f3f
   - 
-    image: /assets/photos/4182106197_5d158ec873_o.jpg
+    image: /assets/gallery/4182106197_5d158ec873_o.jpg
     title: 'KarlOS: Supprised by own hand'
     tags:
       - ""
@@ -80,7 +80,7 @@ images:
     flickr_id: "4182106197"
     flickr_secret: 62fd0df588
   - 
-    image: /assets/photos/4182867932_e2cc3ff44f_o.jpg
+    image: /assets/gallery/4182867932_e2cc3ff44f_o.jpg
     title: Call me!
     tags:
       - ""
@@ -99,7 +99,7 @@ images:
     flickr_id: "4182867932"
     flickr_secret: 1b15cc573c
   - 
-    image: /assets/photos/4182867680_54f9486a36_o.jpg
+    image: /assets/gallery/4182867680_54f9486a36_o.jpg
     title: PARTY!
     tags:
       - ""
@@ -118,7 +118,7 @@ images:
     flickr_id: "4182867680"
     flickr_secret: 6375dccdbf
   - 
-    image: /assets/photos/4182867338_ca681f7691_o.jpg
+    image: /assets/gallery/4182867338_ca681f7691_o.jpg
     title: DJs
     tags:
       - ""
@@ -137,7 +137,7 @@ images:
     flickr_id: "4182867338"
     flickr_secret: 13e59a4ee2
   - 
-    image: /assets/photos/4182866750_0a915ffe7e_o.jpg
+    image: /assets/gallery/4182866750_0a915ffe7e_o.jpg
     title: 'Anne & Steve'
     tags:
       - ""
@@ -156,7 +156,7 @@ images:
     flickr_id: "4182866750"
     flickr_secret: 08379a87eb
   - 
-    image: /assets/photos/4182866378_ae34bb047d_o.jpg
+    image: /assets/gallery/4182866378_ae34bb047d_o.jpg
     title: Austin
     tags:
       - ""

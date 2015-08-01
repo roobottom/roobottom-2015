@@ -1,6 +1,6 @@
 ---
 title: Jan 9th — Womb Tunes
-image: /assets/365/IMG_7751.jpg
+images: /assets/365/IMG_7751.jpg
 tags:
   - "365"
   - family

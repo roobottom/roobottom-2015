@@ -4,7 +4,7 @@ cover: /assets/gallery/2413243780_0446bd5405_o.jpg
 section: gallery
 images:
   - 
-    image: /assets/photos/2412417137_038ced09d1_o.jpg
+    image: /assets/gallery/2412417137_038ced09d1_o.jpg
     title: Snow Rat
     tags:
       - markwilson
@@ -23,7 +23,7 @@ images:
     flickr_id: "2412417137"
     flickr_secret: 7083fd4a19
   - 
-    image: /assets/photos/2413242160_c7b47734e3_o.jpg
+    image: /assets/gallery/2413242160_c7b47734e3_o.jpg
     title: 'Snowball - Mid Flight'
     tags:
       - ""
@@ -42,7 +42,7 @@ images:
     flickr_id: "2413242160"
     flickr_secret: 773b15e616
   - 
-    image: /assets/photos/2412418515_71f3c24dbd_o.jpg
+    image: /assets/gallery/2412418515_71f3c24dbd_o.jpg
     title: Littlehampton Beach (and Ellie) in the snow.
     tags:
       - ""
@@ -61,7 +61,7 @@ images:
     flickr_id: "2412418515"
     flickr_secret: d6c1dfde23
   - 
-    image: /assets/photos/2413243780_0446bd5405_o.jpg
+    image: /assets/gallery/2413243780_0446bd5405_o.jpg
     title: 'I thought that all that salt water & sand would melt it?'
     tags:
       - ""
@@ -80,7 +80,7 @@ images:
     flickr_id: "2413243780"
     flickr_secret: 6f1ee57d31
   - 
-    image: /assets/photos/2413244780_6129be3bbf_o.jpg
+    image: /assets/gallery/2413244780_6129be3bbf_o.jpg
     title: You know what they say about cold hands...
     tags:
       - ""
@@ -99,7 +99,7 @@ images:
     flickr_id: "2413244780"
     flickr_secret: 844fbafc97
   - 
-    image: /assets/photos/2412420757_32335810a9_o.jpg
+    image: /assets/gallery/2412420757_32335810a9_o.jpg
     title: Hotties
     tags:
       - ""
@@ -118,7 +118,7 @@ images:
     flickr_id: "2412420757"
     flickr_secret: 7f102b9a5d
   - 
-    image: /assets/photos/2413245894_259a501a14_o.jpg
+    image: /assets/gallery/2413245894_259a501a14_o.jpg
     title: Britains Next Top Modles
     tags:
       - ""
@@ -137,7 +137,7 @@ images:
     flickr_id: "2413245894"
     flickr_secret: 0a35ee355b
   - 
-    image: /assets/photos/2412421863_29a0c63ed5_o.jpg
+    image: /assets/gallery/2412421863_29a0c63ed5_o.jpg
     title: In The April Snow.
     tags:
       - ""

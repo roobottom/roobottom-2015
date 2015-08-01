@@ -1,6 +1,6 @@
 ---
 title: April 5th — Easter Sunday
-image:
+images:
   - /assets/365/IMG_0612.jpg
   - /assets/365/IMG_6055.jpg
   - /assets/365/IMG_6057.jpg

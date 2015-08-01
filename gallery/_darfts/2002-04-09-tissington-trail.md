@@ -4,7 +4,7 @@ cover: /assets/gallery/12638223_f6ad1d605a_o.jpg
 section: gallery
 images:
   - 
-    image: /assets/photos/12638294_a2494a522a_o.jpg
+    image: /assets/gallery/12638294_a2494a522a_o.jpg
     title: Whoops
     tags:
       - tissingtontrail
@@ -25,7 +25,7 @@ images:
     flickr_id: "12638294"
     flickr_secret: a2494a522a
   - 
-    image: /assets/photos/12638284_be70e8e462_o.jpg
+    image: /assets/gallery/12638284_be70e8e462_o.jpg
     title: Dervs Mud Trail
     tags:
       - tissingtontrail
@@ -46,7 +46,7 @@ images:
     flickr_id: "12638284"
     flickr_secret: be70e8e462
   - 
-    image: /assets/photos/12638253_61b443b5be_o.jpg
+    image: /assets/gallery/12638253_61b443b5be_o.jpg
     title: So says Lloydy
     tags:
       - tissingtontrail
@@ -67,7 +67,7 @@ images:
     flickr_id: "12638253"
     flickr_secret: 61b443b5be
   - 
-    image: /assets/photos/12638239_d5e2248119_o.jpg
+    image: /assets/gallery/12638239_d5e2248119_o.jpg
     title: Pack-a-Mac Tastic
     tags:
       - tissingtontrail
@@ -88,7 +88,7 @@ images:
     flickr_id: "12638239"
     flickr_secret: d5e2248119
   - 
-    image: /assets/photos/12638223_f6ad1d605a_o.jpg
+    image: /assets/gallery/12638223_f6ad1d605a_o.jpg
     title: Breeeeeak
     tags:
       - tissingtontrail
@@ -109,7 +109,7 @@ images:
     flickr_id: "12638223"
     flickr_secret: f6ad1d605a
   - 
-    image: /assets/photos/12638212_16c1ca5878_o.jpg
+    image: /assets/gallery/12638212_16c1ca5878_o.jpg
     title: Go team (oh dear)
     tags:
       - tissingtontrail
@@ -130,7 +130,7 @@ images:
     flickr_id: "12638212"
     flickr_secret: 16c1ca5878
   - 
-    image: /assets/photos/12638187_c27373bdc4_o.jpg
+    image: /assets/gallery/12638187_c27373bdc4_o.jpg
     title: Im ALWAYS pulling stupid faces
     tags:
       - tissingtontrail
@@ -151,7 +151,7 @@ images:
     flickr_id: "12638187"
     flickr_secret: c27373bdc4
   - 
-    image: /assets/photos/12638159_59dae1f855_o.jpg
+    image: /assets/gallery/12638159_59dae1f855_o.jpg
     title: Another nice view from the trail
     tags:
       - tissingtontrail
@@ -172,7 +172,7 @@ images:
     flickr_id: "12638159"
     flickr_secret: 59dae1f855
   - 
-    image: /assets/photos/12638147_ed3d505200_o.jpg
+    image: /assets/gallery/12638147_ed3d505200_o.jpg
     title: A nice view from the trail
     tags:
       - tissingtontrail
@@ -193,7 +193,7 @@ images:
     flickr_id: "12638147"
     flickr_secret: ed3d505200
   - 
-    image: /assets/photos/12638134_c9059f4d32_o.jpg
+    image: /assets/gallery/12638134_c9059f4d32_o.jpg
     title: One big-ass tunnel
     tags:
       - tissingtontrail

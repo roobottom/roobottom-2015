@@ -4,7 +4,7 @@ cover: /assets/gallery/6025453895_17c5a19eee_o.jpg
 section: gallery
 images:
   - 
-    image: /assets/photos/6025453895_17c5a19eee_o.jpg
+    image: /assets/gallery/6025453895_17c5a19eee_o.jpg
     title: New Fence
     tags:
       - ""
@@ -23,7 +23,7 @@ images:
     flickr_id: "6025453895"
     flickr_secret: 48be4db8d0
   - 
-    image: /assets/photos/6025996330_955a3c3db0_o.jpg
+    image: /assets/gallery/6025996330_955a3c3db0_o.jpg
     title: The old fence
     tags:
       - ""
@@ -42,7 +42,7 @@ images:
     flickr_id: "6025996330"
     flickr_secret: d215893d75
   - 
-    image: /assets/photos/6025442857_d2ea4cd01d_o.jpg
+    image: /assets/gallery/6025442857_d2ea4cd01d_o.jpg
     title: The old fence
     tags:
       - ""
@@ -61,7 +61,7 @@ images:
     flickr_id: "6025442857"
     flickr_secret: 5dbc00c53f
   - 
-    image: /assets/photos/6025445499_961a874f10_o.jpg
+    image: /assets/gallery/6025445499_961a874f10_o.jpg
     title: Big G ripping that sucker down
     tags:
       - ""
@@ -80,7 +80,7 @@ images:
     flickr_id: "6025445499"
     flickr_secret: f17fbc9af8
   - 
-    image: /assets/photos/6025447267_e0baebc64f_o.jpg
+    image: /assets/gallery/6025447267_e0baebc64f_o.jpg
     title: She actaully did do some work
     tags:
       - ""
@@ -99,7 +99,7 @@ images:
     flickr_id: "6025447267"
     flickr_secret: 3948fd659f
   - 
-    image: /assets/photos/6026004954_d566ae258a_o.jpg
+    image: /assets/gallery/6026004954_d566ae258a_o.jpg
     title: I let G do most of the hard stuff
     tags:
       - ""
@@ -118,7 +118,7 @@ images:
     flickr_id: "6026004954"
     flickr_secret: 7239792af8
   - 
-    image: /assets/photos/6026006760_cc0bf40f85_o.jpg
+    image: /assets/gallery/6026006760_cc0bf40f85_o.jpg
     title: New Fence
     tags:
       - ""

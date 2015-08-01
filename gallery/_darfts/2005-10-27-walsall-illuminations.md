@@ -4,7 +4,7 @@ cover: /assets/gallery/57128219_e32cf2e97b_o.jpg
 section: gallery
 images:
   - 
-    image: /assets/photos/57127754_29b9077705_o.jpg
+    image: /assets/gallery/57127754_29b9077705_o.jpg
     title: Swing
     tags:
       - illuminations
@@ -28,7 +28,7 @@ images:
     flickr_id: "57127754"
     flickr_secret: 29b9077705
   - 
-    image: /assets/photos/57127897_42a4e2b804_o.jpg
+    image: /assets/gallery/57127897_42a4e2b804_o.jpg
     title: Welcome To Walsall
     tags:
       - illuminations
@@ -52,7 +52,7 @@ images:
     flickr_id: "57127897"
     flickr_secret: 42a4e2b804
   - 
-    image: /assets/photos/57128015_18b0077ae2_o.jpg
+    image: /assets/gallery/57128015_18b0077ae2_o.jpg
     title: Snapshot of Movement
     tags:
       - illuminations
@@ -76,7 +76,7 @@ images:
     flickr_id: "57128015"
     flickr_secret: 18b0077ae2
   - 
-    image: /assets/photos/57128219_e32cf2e97b_o.jpg
+    image: /assets/gallery/57128219_e32cf2e97b_o.jpg
     title: The Light Fantastic
     tags:
       - park
@@ -101,7 +101,7 @@ images:
     flickr_id: "57128219"
     flickr_secret: e32cf2e97b
   - 
-    image: /assets/photos/57128298_24a34ff244_o.jpg
+    image: /assets/gallery/57128298_24a34ff244_o.jpg
     title: Taz
     tags:
       - illuminations
@@ -125,7 +125,7 @@ images:
     flickr_id: "57128298"
     flickr_secret: 24a34ff244
   - 
-    image: /assets/photos/57128408_7bc219ff9a_o.jpg
+    image: /assets/gallery/57128408_7bc219ff9a_o.jpg
     title: Arbo-Lights
     tags:
       - illuminations
@@ -149,7 +149,7 @@ images:
     flickr_id: "57128408"
     flickr_secret: 7bc219ff9a
   - 
-    image: /assets/photos/57128558_2bfad04849_o.jpg
+    image: /assets/gallery/57128558_2bfad04849_o.jpg
     title: Greenary
     tags:
       - illuminations

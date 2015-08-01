@@ -1,6 +1,6 @@
 ---
 title: 16th June — Firefly Planning Session
-image: /assets/365/IMG_8531.JPG
+images: /assets/365/IMG_8531.JPG
 tags:
   - "365"
   - work

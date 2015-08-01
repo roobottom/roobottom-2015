@@ -4,7 +4,7 @@ cover: /assets/gallery/7529918788_befa2c95e5_o.jpg
 section: gallery
 images:
   - 
-    image: /assets/photos/7529918788_befa2c95e5_o.jpg
+    image: /assets/gallery/7529918788_befa2c95e5_o.jpg
     title: Camping in Mortehoe, Devon
     tags:
       - ""
@@ -23,7 +23,7 @@ images:
     flickr_id: "7529918788"
     flickr_secret: 36423d627b
   - 
-    image: /assets/photos/7529916412_cfba0af0be_o.jpg
+    image: /assets/gallery/7529916412_cfba0af0be_o.jpg
     title: Camping in Mortehoe, Devon
     tags:
       - ""
@@ -42,7 +42,7 @@ images:
     flickr_id: "7529916412"
     flickr_secret: 50f412b811
   - 
-    image: /assets/photos/7529912424_418dd70edc_o.jpg
+    image: /assets/gallery/7529912424_418dd70edc_o.jpg
     title: Camping in Mortehoe, Devon
     tags:
       - ""
@@ -61,7 +61,7 @@ images:
     flickr_id: "7529912424"
     flickr_secret: fd7a78c1fc
   - 
-    image: /assets/photos/7529906582_34302cb25b_o.jpg
+    image: /assets/gallery/7529906582_34302cb25b_o.jpg
     title: Camping in Mortehoe, Devon
     tags:
       - ""
@@ -80,7 +80,7 @@ images:
     flickr_id: "7529906582"
     flickr_secret: 270e749a5d
   - 
-    image: /assets/photos/7529901962_9cdf65a753_o.jpg
+    image: /assets/gallery/7529901962_9cdf65a753_o.jpg
     title: Camping in Mortehoe, Devon
     tags:
       - ""
@@ -99,7 +99,7 @@ images:
     flickr_id: "7529901962"
     flickr_secret: a248426cd4
   - 
-    image: /assets/photos/7529894592_03d4889b6d_o.jpg
+    image: /assets/gallery/7529894592_03d4889b6d_o.jpg
     title: Camping in Mortehoe, Devon
     tags:
       - ""
@@ -118,7 +118,7 @@ images:
     flickr_id: "7529894592"
     flickr_secret: 03faec0ae4
   - 
-    image: /assets/photos/7529882456_8d454e408e_o.jpg
+    image: /assets/gallery/7529882456_8d454e408e_o.jpg
     title: Camping in Mortehoe, Devon
     tags:
       - ""
@@ -137,7 +137,7 @@ images:
     flickr_id: "7529882456"
     flickr_secret: aa6c9fdbb4
   - 
-    image: /assets/photos/7529873634_157a1fb807_o.jpg
+    image: /assets/gallery/7529873634_157a1fb807_o.jpg
     title: Oh, Sammy
     tags:
       - ""
@@ -156,7 +156,7 @@ images:
     flickr_id: "7529873634"
     flickr_secret: ff82112613
   - 
-    image: /assets/photos/7529869010_6f621f866c_o.jpg
+    image: /assets/gallery/7529869010_6f621f866c_o.jpg
     title: Camping in Mortehoe, Devon
     tags:
       - ""
@@ -175,7 +175,7 @@ images:
     flickr_id: "7529869010"
     flickr_secret: 32d6c20fd2
   - 
-    image: /assets/photos/7529865754_a7baf5c123_o.jpg
+    image: /assets/gallery/7529865754_a7baf5c123_o.jpg
     title: Camping in Mortehoe, Devon
     tags:
       - ""
@@ -194,7 +194,7 @@ images:
     flickr_id: "7529865754"
     flickr_secret: b0e53f6772
   - 
-    image: /assets/photos/7529862496_ac474b6c0b_o.jpg
+    image: /assets/gallery/7529862496_ac474b6c0b_o.jpg
     title: Camping in Mortehoe, Devon
     tags:
       - ""
@@ -213,7 +213,7 @@ images:
     flickr_id: "7529862496"
     flickr_secret: 18c62b7930
   - 
-    image: /assets/photos/7529857176_f43aa3caa2_o.jpg
+    image: /assets/gallery/7529857176_f43aa3caa2_o.jpg
     title: Camping in Mortehoe, Devon
     tags:
       - ""
@@ -232,7 +232,7 @@ images:
     flickr_id: "7529857176"
     flickr_secret: 18985b2e1a
   - 
-    image: /assets/photos/7529850870_e59eeb1e7f_o.jpg
+    image: /assets/gallery/7529850870_e59eeb1e7f_o.jpg
     title: CMYK
     tags:
       - ""

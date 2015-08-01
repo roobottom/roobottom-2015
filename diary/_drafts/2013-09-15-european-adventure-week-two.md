@@ -4,23 +4,23 @@ section: diary
 cover: /assets/blog/covers/sunset.jpg
 images:
   - 
-    image: /assets/blog/images/02.jpg
+    image: /assets/diary/02.jpg
     caption: Torbole
     set: torbole
   - 
-    image: /assets/blog/images/pool.jpg
+    image: /assets/diary/pool.jpg
     caption: Katie in the hotel pool
     set: hotel
   - 
-    image: /assets/blog/images/hotel.jpg
+    image: /assets/diary/hotel.jpg
     caption: Our Hotel
     set: hotel
   - 
-    image: /assets/blog/images/sunset-20150103120523.jpg
+    image: /assets/diary/sunset-20150103120523.jpg
     caption: Sunset in Sirmione
     set: sirmione
   - 
-    image: /assets/blog/images/lazise-site.jpg
+    image: /assets/diary/lazise-site.jpg
     caption: Hi-de-hi campers
     set: lazisesite
 introduction: Our journey continued this week as we ventured across the Alps into Italy.

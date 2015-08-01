@@ -1,6 +1,6 @@
 ---
 title: Feb 15th — Sunday Lunch
-image:
+images:
   - /assets/365/IMG_8291.jpg
   - /assets/365/IMG_9290-Edit.jpg
 tags:

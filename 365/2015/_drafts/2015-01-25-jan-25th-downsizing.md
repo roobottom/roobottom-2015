@@ -1,6 +1,6 @@
 ---
 title: Jan 25th — Downsizing
-image: /assets/365/IMG_8652.jpg
+images: /assets/365/IMG_8652.jpg
 tags:
   - "365"
   - Home

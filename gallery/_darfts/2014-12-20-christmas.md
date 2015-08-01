@@ -4,7 +4,7 @@ cover: /assets/gallery/16086456136_06cf868f5f_o.jpg
 section: gallery
 images:
   - 
-    image: /assets/photos/16111549132_8409017ee7_o.jpg
+    image: /assets/gallery/16111549132_8409017ee7_o.jpg
     title: Into the deep
     tags:
       - ""
@@ -24,7 +24,7 @@ images:
     flickr_id: "16111549132"
     flickr_secret: 574db840ba
   - 
-    image: /assets/photos/16111546582_048c1328a4_o.jpg
+    image: /assets/gallery/16111546582_048c1328a4_o.jpg
     title: Holding of breath
     tags:
       - ""
@@ -44,7 +44,7 @@ images:
     flickr_id: "16111546582"
     flickr_secret: 72e21316f4
   - 
-    image: /assets/photos/16086493956_95b079d17d_o.jpg
+    image: /assets/gallery/16086493956_95b079d17d_o.jpg
     title: Photographer Father
     tags:
       - ""
@@ -64,7 +64,7 @@ images:
     flickr_id: "16086493956"
     flickr_secret: 65ab29c87b
   - 
-    image: /assets/photos/16111541992_753f7de29e_o.jpg
+    image: /assets/gallery/16111541992_753f7de29e_o.jpg
     title: 'Katie & Mum'
     tags:
       - ""
@@ -84,7 +84,7 @@ images:
     flickr_id: "16111541992"
     flickr_secret: 27e9afc077
   - 
-    image: /assets/photos/16086487956_e733156bbc_o.jpg
+    image: /assets/gallery/16086487956_e733156bbc_o.jpg
     title: Feed Me!
     tags:
       - ""
@@ -104,7 +104,7 @@ images:
     flickr_id: "16086487956"
     flickr_secret: eb17939ca4
   - 
-    image: /assets/photos/16086485336_ff7c4d07f0_o.jpg
+    image: /assets/gallery/16086485336_ff7c4d07f0_o.jpg
     title: Nikon
     tags:
       - ""
@@ -124,7 +124,7 @@ images:
     flickr_id: "16086485336"
     flickr_secret: ccb5655467
   - 
-    image: /assets/photos/16111533162_f292eb498a_o.jpg
+    image: /assets/gallery/16111533162_f292eb498a_o.jpg
     title: The Santa Display Team
     tags:
       - ""
@@ -144,7 +144,7 @@ images:
     flickr_id: "16111533162"
     flickr_secret: 9d62543f98
   - 
-    image: /assets/photos/15492570973_4c0a6b9f80_o.jpg
+    image: /assets/gallery/15492570973_4c0a6b9f80_o.jpg
     title: Airlift
     tags:
       - ""
@@ -164,7 +164,7 @@ images:
     flickr_id: "15492570973"
     flickr_secret: 81394319f8
   - 
-    image: /assets/photos/16112246315_132ddc1b2b_o.jpg
+    image: /assets/gallery/16112246315_132ddc1b2b_o.jpg
     title: Walk away
     tags:
       - ""
@@ -184,7 +184,7 @@ images:
     flickr_id: "16112246315"
     flickr_secret: 6e597a9d16
   - 
-    image: /assets/photos/16112244335_8295e4c08f_o.jpg
+    image: /assets/gallery/16112244335_8295e4c08f_o.jpg
     title: Dad
     tags:
       - ""
@@ -204,7 +204,7 @@ images:
     flickr_id: "16112244335"
     flickr_secret: 52fec10290
   - 
-    image: /assets/photos/15924962010_436dace114_o.jpg
+    image: /assets/gallery/15924962010_436dace114_o.jpg
     title: Felicity
     tags:
       - ""
@@ -224,7 +224,7 @@ images:
     flickr_id: "15924962010"
     flickr_secret: 2960b763b8
   - 
-    image: /assets/photos/15926500807_6633618fe4_o.jpg
+    image: /assets/gallery/15926500807_6633618fe4_o.jpg
     title: 'Joan & Katie'
     tags:
       - ""
@@ -244,7 +244,7 @@ images:
     flickr_id: "15926500807"
     flickr_secret: 5513752a5b
   - 
-    image: /assets/photos/15924956900_ec09586ece_o.jpg
+    image: /assets/gallery/15924956900_ec09586ece_o.jpg
     title: Christmas Dinner Table
     tags:
       - ""
@@ -264,7 +264,7 @@ images:
     flickr_id: "15924956900"
     flickr_secret: 88961aa2d4
   - 
-    image: /assets/photos/15492556853_8c06156cdc_o.jpg
+    image: /assets/gallery/15492556853_8c06156cdc_o.jpg
     title: roobottom
     tags:
       - ""
@@ -284,7 +284,7 @@ images:
     flickr_id: "15492556853"
     flickr_secret: 940d8ceb14
   - 
-    image: /assets/photos/16112232795_25837579b7_o.jpg
+    image: /assets/gallery/16112232795_25837579b7_o.jpg
     title: Christmas gift
     tags:
       - ""
@@ -304,7 +304,7 @@ images:
     flickr_id: "16112232795"
     flickr_secret: 07b58974d2
   - 
-    image: /assets/photos/16086462246_d12a362da9_o.jpg
+    image: /assets/gallery/16086462246_d12a362da9_o.jpg
     title: New socks?
     tags:
       - ""
@@ -324,7 +324,7 @@ images:
     flickr_id: "16086462246"
     flickr_secret: 3fba2be0df
   - 
-    image: /assets/photos/16112228015_f292dd3b3a_o.jpg
+    image: /assets/gallery/16112228015_f292dd3b3a_o.jpg
     title: Sniff
     tags:
       - ""
@@ -344,7 +344,7 @@ images:
     flickr_id: "16112228015"
     flickr_secret: 4df3d34aae
   - 
-    image: /assets/photos/16111507942_fffb0fd71a_o.jpg
+    image: /assets/gallery/16111507942_fffb0fd71a_o.jpg
     title: Jon
     tags:
       - ""
@@ -364,7 +364,7 @@ images:
     flickr_id: "16111507942"
     flickr_secret: 8169e59c72
   - 
-    image: /assets/photos/16086456136_06cf868f5f_o.jpg
+    image: /assets/gallery/16086456136_06cf868f5f_o.jpg
     title: Lego-ho-ho
     tags:
       - ""
@@ -384,7 +384,7 @@ images:
     flickr_id: "16086456136"
     flickr_secret: 42332a79e8
   - 
-    image: /assets/photos/15936072320_405050bda6_o.jpg
+    image: /assets/gallery/15936072320_405050bda6_o.jpg
     title: Imogen
     tags:
       - ""
@@ -404,7 +404,7 @@ images:
     flickr_id: "15936072320"
     flickr_secret: bc65e8a8cf
   - 
-    image: /assets/photos/15936074590_539d5fd125_o.jpg
+    image: /assets/gallery/15936074590_539d5fd125_o.jpg
     title: Dad and the girls
     tags:
       - ""
@@ -424,7 +424,7 @@ images:
     flickr_id: "15936074590"
     flickr_secret: 0f7d866777
   - 
-    image: /assets/photos/15937619337_4105cfab5f_o.jpg
+    image: /assets/gallery/15937619337_4105cfab5f_o.jpg
     title: Ella
     tags:
       - ""
@@ -444,7 +444,7 @@ images:
     flickr_id: "15937619337"
     flickr_secret: 3a6b0e6130
   - 
-    image: /assets/photos/15937305659_eb66f6d489_o.jpg
+    image: /assets/gallery/15937305659_eb66f6d489_o.jpg
     title: Mum and Dad reading the rules
     tags:
       - ""
@@ -464,7 +464,7 @@ images:
     flickr_id: "15937305659"
     flickr_secret: c306bf4448
   - 
-    image: /assets/photos/16123370815_f8c52a61eb_o.jpg
+    image: /assets/gallery/16123370815_f8c52a61eb_o.jpg
     title: Ratrace
     tags:
       - ""
@@ -484,7 +484,7 @@ images:
     flickr_id: "16123370815"
     flickr_secret: 41fb59a49b
   - 
-    image: /assets/photos/15503675123_f566d6f955_o.jpg
+    image: /assets/gallery/15503675123_f566d6f955_o.jpg
     title: Money
     tags:
       - ""

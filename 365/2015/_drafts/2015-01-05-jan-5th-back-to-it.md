@@ -1,6 +1,6 @@
 ---
 title: Jan 5th — Back to it
-image: /assets/365/IMG_8091.jpg
+images: /assets/365/IMG_8091.jpg
 tags:
   - "365"
   - work

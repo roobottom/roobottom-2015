@@ -1,6 +1,6 @@
 ---
 title: Feb 8th — Levitate
-image: /assets/365/IMG_9138-Edit.jpg
+images: /assets/365/IMG_9138-Edit.jpg
 tags:
   - "365"
   - Light Painting

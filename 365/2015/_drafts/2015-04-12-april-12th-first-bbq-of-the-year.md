@@ -1,6 +1,6 @@
 ---
 title: April 12th — First BBQ of the year
-image: /assets/365/IMG_0882.jpg
+images: /assets/365/IMG_0882.jpg
 tags:
   - "365"
   - freinds

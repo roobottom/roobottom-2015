@@ -1,6 +1,6 @@
 ---
 title: 'Jan 21st — Peaches & Tip Top'
-image: /assets/365/IMG_8658.jpg
+images: /assets/365/IMG_8658.jpg
 tags:
   - "365"
 ---

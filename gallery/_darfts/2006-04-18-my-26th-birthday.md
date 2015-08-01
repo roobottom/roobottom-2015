@@ -4,7 +4,7 @@ cover: /assets/gallery/131860723_a43efef132_o.jpg
 section: gallery
 images:
   - 
-    image: /assets/photos/131860723_a43efef132_o.jpg
+    image: /assets/gallery/131860723_a43efef132_o.jpg
     title: Esther, Esta and Me...
     tags:
       - ""
@@ -23,7 +23,7 @@ images:
     flickr_id: "131860723"
     flickr_secret: a43efef132
   - 
-    image: /assets/photos/131861066_37d20ab204_o.jpg
+    image: /assets/gallery/131861066_37d20ab204_o.jpg
     title: Dancing Slippers
     tags:
       - ""
@@ -42,7 +42,7 @@ images:
     flickr_id: "131861066"
     flickr_secret: 37d20ab204
   - 
-    image: /assets/photos/131860420_9e24a15712_o.jpg
+    image: /assets/gallery/131860420_9e24a15712_o.jpg
     title: Closeup Cotton
     tags:
       - ""
@@ -61,7 +61,7 @@ images:
     flickr_id: "131860420"
     flickr_secret: 9e24a15712
   - 
-    image: /assets/photos/131860127_ffc9ceb1b7_o.jpg
+    image: /assets/gallery/131860127_ffc9ceb1b7_o.jpg
     title: NOT rolling a cig
     tags:
       - ""
@@ -80,7 +80,7 @@ images:
     flickr_id: "131860127"
     flickr_secret: ffc9ceb1b7
   - 
-    image: /assets/photos/131859770_11c2fa9d73_o.jpg
+    image: /assets/gallery/131859770_11c2fa9d73_o.jpg
     title: Dance, boy, dance
     tags:
       - danwest
@@ -99,7 +99,7 @@ images:
     flickr_id: "131859770"
     flickr_secret: 11c2fa9d73
   - 
-    image: /assets/photos/131859299_7de8258710_o.jpg
+    image: /assets/gallery/131859299_7de8258710_o.jpg
     title: Good one of KT... but as for me and dee...
     tags:
       - ""
@@ -118,7 +118,7 @@ images:
     flickr_id: "131859299"
     flickr_secret: 7de8258710
   - 
-    image: /assets/photos/131859070_ba8c4f1b8c_o.jpg
+    image: /assets/gallery/131859070_ba8c4f1b8c_o.jpg
     title: How!
     tags:
       - ""
@@ -137,7 +137,7 @@ images:
     flickr_id: "131859070"
     flickr_secret: ba8c4f1b8c
   - 
-    image: /assets/photos/131858727_37221423af_o.jpg
+    image: /assets/gallery/131858727_37221423af_o.jpg
     title: Oi!
     tags:
       - ""
@@ -156,7 +156,7 @@ images:
     flickr_id: "131858727"
     flickr_secret: 37221423af
   - 
-    image: /assets/photos/131858447_3686081722_o.jpg
+    image: /assets/gallery/131858447_3686081722_o.jpg
     title: Heaton, Cooking up a storm
     tags:
       - ""
@@ -175,7 +175,7 @@ images:
     flickr_id: "131858447"
     flickr_secret: "3686081722"
   - 
-    image: /assets/photos/131858073_817babd1e1_o.jpg
+    image: /assets/gallery/131858073_817babd1e1_o.jpg
     title: Dee
     tags:
       - ""

@@ -1,6 +1,6 @@
 ---
 title: May 17th — Lunch with the gang
-image: /assets/365/IMG_1781.jpg
+images: /assets/365/IMG_1781.jpg
 tags:
   - "365"
   - friends

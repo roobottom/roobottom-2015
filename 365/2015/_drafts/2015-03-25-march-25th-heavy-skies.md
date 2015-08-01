@@ -1,6 +1,6 @@
 ---
 title: March 25th — Heavy Skies
-image: /assets/365/IMG_0345.jpg
+images: /assets/365/IMG_0345.jpg
 tags:
   - "365"
   - photography

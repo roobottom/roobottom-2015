@@ -4,7 +4,7 @@ cover: /assets/gallery/775744406_fed36edb2a_o.jpg
 section: gallery
 images:
   - 
-    image: /assets/photos/775744406_fed36edb2a_o.jpg
+    image: /assets/gallery/775744406_fed36edb2a_o.jpg
     title: What did I just do?
     tags:
       - wedding
@@ -24,7 +24,7 @@ images:
     flickr_id: "775744406"
     flickr_secret: bad271d7d3
   - 
-    image: /assets/photos/774825207_a6d02f8219_o.jpg
+    image: /assets/gallery/774825207_a6d02f8219_o.jpg
     title: Does your mum use Daz?
     tags:
       - wedding
@@ -44,7 +44,7 @@ images:
     flickr_id: "774825207"
     flickr_secret: 11d2db702d
   - 
-    image: /assets/photos/774831841_ea27b0c4a8_o.jpg
+    image: /assets/gallery/774831841_ea27b0c4a8_o.jpg
     title: Magic Dan
     tags:
       - wedding
@@ -64,7 +64,7 @@ images:
     flickr_id: "774831841"
     flickr_secret: 74a2ba75fc
   - 
-    image: /assets/photos/775748910_2ed3d0c1eb_o.jpg
+    image: /assets/gallery/775748910_2ed3d0c1eb_o.jpg
     title: ar-ahy truck
     tags:
       - wedding
@@ -84,7 +84,7 @@ images:
     flickr_id: "775748910"
     flickr_secret: 66693491d3
   - 
-    image: /assets/photos/775753772_3501a528b4_o.jpg
+    image: /assets/gallery/775753772_3501a528b4_o.jpg
     title: oooo...
     tags:
       - wedding
@@ -104,7 +104,7 @@ images:
     flickr_id: "775753772"
     flickr_secret: aa5937dcc3
   - 
-    image: /assets/photos/774855659_fbba3321d2_o.jpg
+    image: /assets/gallery/774855659_fbba3321d2_o.jpg
     title: Tell Me a story Zim
     tags:
       - wedding
@@ -124,7 +124,7 @@ images:
     flickr_id: "774855659"
     flickr_secret: 55d1851084
   - 
-    image: /assets/photos/775735924_1d425d111f_o.jpg
+    image: /assets/gallery/775735924_1d425d111f_o.jpg
     title: The Wedding Breakfast Room
     tags:
       - wedding
@@ -144,7 +144,7 @@ images:
     flickr_id: "775735924"
     flickr_secret: 973bc46068
   - 
-    image: /assets/photos/775712594_0328daadc2_o.jpg
+    image: /assets/gallery/775712594_0328daadc2_o.jpg
     title: Riks Great Grandad before he started drinking
     tags:
       - wedding
@@ -164,7 +164,7 @@ images:
     flickr_id: "775712594"
     flickr_secret: abb965b5d9
   - 
-    image: /assets/photos/774843155_da0019eeed_o.jpg
+    image: /assets/gallery/774843155_da0019eeed_o.jpg
     title: Riks Great Grandad
     tags:
       - wedding
@@ -184,7 +184,7 @@ images:
     flickr_id: "774843155"
     flickr_secret: 583fdfdc3f
   - 
-    image: /assets/photos/774852995_4798497353_o.jpg
+    image: /assets/gallery/774852995_4798497353_o.jpg
     title: Ripon Cathedreal
     tags:
       - wedding
@@ -204,7 +204,7 @@ images:
     flickr_id: "774852995"
     flickr_secret: 0a4345950e
   - 
-    image: /assets/photos/775740250_e956acd0b5_o.jpg
+    image: /assets/gallery/775740250_e956acd0b5_o.jpg
     title: Wana
     tags:
       - wedding
@@ -224,7 +224,7 @@ images:
     flickr_id: "775740250"
     flickr_secret: 1eb426de5d
   - 
-    image: /assets/photos/775704034_2372d7cfe5_o.jpg
+    image: /assets/gallery/775704034_2372d7cfe5_o.jpg
     title: Les Tibbles
     tags:
       - wedding
@@ -244,7 +244,7 @@ images:
     flickr_id: "775704034"
     flickr_secret: 36293616a1
   - 
-    image: /assets/photos/774818437_21b350fd9b_o.jpg
+    image: /assets/gallery/774818437_21b350fd9b_o.jpg
     title: Cake-oil
     tags:
       - wedding
@@ -264,7 +264,7 @@ images:
     flickr_id: "774818437"
     flickr_secret: 3a4f2a5818
   - 
-    image: /assets/photos/775756786_0e100d2e4f_o.jpg
+    image: /assets/gallery/775756786_0e100d2e4f_o.jpg
     title: yeah? you want some?
     tags:
       - wedding

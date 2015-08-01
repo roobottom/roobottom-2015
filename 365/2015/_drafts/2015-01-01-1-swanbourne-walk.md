@@ -1,6 +1,6 @@
 ---
 title: Jan 1st — Swanbourne Walk
-image: /assets/365/IMG_7388.jpg
+images: /assets/365/IMG_7388.jpg
 tags:
   - "365"
   - friends
