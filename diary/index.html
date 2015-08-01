@@ -1,0 +1,8 @@
+---
+title: Diary
+layout: default
+---
+
+{% for post in site.categories.diary limit:20 %}
+    {% include article.html %}
+{% endfor %}
