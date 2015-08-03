@@ -18,7 +18,7 @@ title: Archives
     <h2 id="{{ this_year }}-ref">{{this_year}}</h2>
     <a href="{{ this_year }}">Explore the whole of {{ this_year }}</a>
     <ul class="archives-calendar">
-        <li><a href="/archives/{{ next_year }}/{{ this_month }}">{{ this_month_text }}</a></li>
+        <h3><a href="/archives/{{ next_year }}/{{ this_month }}">{{ this_month_text }}</a></h3>
     
     {% endif %}
 
@@ -31,11 +31,13 @@ title: Archives
         <h2 id="{{ next_year }}-ref">{{next_year}}</h2>
         <a href="{{ next_year }}">Explore the whole of {{ next_year }}</a>
         <ul class="archives-calendar">
-            <li><a href="/archives/{{ next_year }}/{{ this_month }}">{{ this_month_text }}</a></li>
+            <h3><a href="/archives/{{ next_year }}/{{ this_month }}">{{ this_month_text }}</a></h3>
+            <li>{{ post.categories[0] }} - <a href="{{ post.url }}">{{ post.title }}</a></li>
         {% else %}    
             {% if this_month_text != next_month_text %}
-            <li><a href="/archives/{{ this_year }}/{{ next_month }}">{{ next_month_text }}</a></li>
+            <h3><a href="/archives/{{ this_year }}/{{ next_month }}">{{ next_month_text }}</a></h3>
             {% endif %}
+            <li>{{ post.categories[0] }} - <a href="{{ post.url }}">{{ post.title }}</a></li>
         {% endif %}
     {% endif %}
     

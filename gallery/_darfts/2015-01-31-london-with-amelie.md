@@ -4,7 +4,7 @@ cover: /assets/gallery/15790812894_e8c3fe08bb_o.jpg
 section: gallery
 images:
   - 
-    image: /assets/photos/15790812894_e8c3fe08bb_o.jpg
+    image: /assets/gallery/15790812894_e8c3fe08bb_o.jpg
     title: IMG_8978.jpg
     tags:
       - ""
@@ -24,7 +24,7 @@ images:
     flickr_id: "15790812894"
     flickr_secret: cd750aa736
   - 
-    image: /assets/photos/16412351152_3678d6331e_o.jpg
+    image: /assets/gallery/16412351152_3678d6331e_o.jpg
     title: IMG_8955.jpg
     tags:
       - ""
@@ -44,7 +44,7 @@ images:
     flickr_id: "16412351152"
     flickr_secret: cc4ec89296
   - 
-    image: /assets/photos/16227368667_4574c10a65_o.jpg
+    image: /assets/gallery/16227368667_4574c10a65_o.jpg
     title: IMG_8939.jpg
     tags:
       - ""
@@ -64,7 +64,7 @@ images:
     flickr_id: "16227368667"
     flickr_secret: f0a852cf46
   - 
-    image: /assets/photos/16411516411_606685be74_o.jpg
+    image: /assets/gallery/16411516411_606685be74_o.jpg
     title: IMG_8930.jpg
     tags:
       - ""
@@ -84,7 +84,7 @@ images:
     flickr_id: "16411516411"
     flickr_secret: c9f5ae5e3b
   - 
-    image: /assets/photos/16413277375_a3ec0fd711_o.jpg
+    image: /assets/gallery/16413277375_a3ec0fd711_o.jpg
     title: IMG_8913.jpg
     tags:
       - ""
@@ -104,7 +104,7 @@ images:
     flickr_id: "16413277375"
     flickr_secret: 0df00451b6
   - 
-    image: /assets/photos/16387302656_df4baa33bd_o.jpg
+    image: /assets/gallery/16387302656_df4baa33bd_o.jpg
     title: IMG_8907.jpg
     tags:
       - ""
@@ -124,7 +124,7 @@ images:
     flickr_id: "16387302656"
     flickr_secret: 125d757c0f
   - 
-    image: /assets/photos/16387300466_102dbeb78c_o.jpg
+    image: /assets/gallery/16387300466_102dbeb78c_o.jpg
     title: IMG_8889.jpg
     tags:
       - ""
@@ -144,7 +144,7 @@ images:
     flickr_id: "16387300466"
     flickr_secret: 45ca990ae3
   - 
-    image: /assets/photos/16412339232_d6b4f4ff02_o.jpg
+    image: /assets/gallery/16412339232_d6b4f4ff02_o.jpg
     title: IMG_8883.jpg
     tags:
       - ""
@@ -164,7 +164,7 @@ images:
     flickr_id: "16412339232"
     flickr_secret: d356159447
   - 
-    image: /assets/photos/16225618438_083e34727f_o.jpg
+    image: /assets/gallery/16225618438_083e34727f_o.jpg
     title: IMG_8865.jpg
     tags:
       - ""
@@ -184,7 +184,7 @@ images:
     flickr_id: "16225618438"
     flickr_secret: cbaacdcc22
   - 
-    image: /assets/photos/16413268335_223f7e65c8_o.jpg
+    image: /assets/gallery/16413268335_223f7e65c8_o.jpg
     title: IMG_8863.jpg
     tags:
       - ""
@@ -204,7 +204,7 @@ images:
     flickr_id: "16413268335"
     flickr_secret: 8853fcea1c
   - 
-    image: /assets/photos/16413266335_ca2944a380_o.jpg
+    image: /assets/gallery/16413266335_ca2944a380_o.jpg
     title: IMG_8839.jpg
     tags:
       - ""
@@ -224,7 +224,7 @@ images:
     flickr_id: "16413266335"
     flickr_secret: 6ee69bc000
   - 
-    image: /assets/photos/16227048289_230a0fcd44_o.jpg
+    image: /assets/gallery/16227048289_230a0fcd44_o.jpg
     title: IMG_8835.jpg
     tags:
       - ""
@@ -244,7 +244,7 @@ images:
     flickr_id: "16227048289"
     flickr_secret: e7bc4fb75a
   - 
-    image: /assets/photos/16412329302_d0d6aef66d_o.jpg
+    image: /assets/gallery/16412329302_d0d6aef66d_o.jpg
     title: IMG_8830.jpg
     tags:
       - ""
@@ -264,7 +264,7 @@ images:
     flickr_id: "16412329302"
     flickr_secret: 2fcaf311fb
   - 
-    image: /assets/photos/15790787594_1dcf25da89_o.jpg
+    image: /assets/gallery/15790787594_1dcf25da89_o.jpg
     title: IMG_8825.jpg
     tags:
       - ""
@@ -284,7 +284,7 @@ images:
     flickr_id: "15790787594"
     flickr_secret: 99e785712a
   - 
-    image: /assets/photos/15793220823_b6f73958e9_o.jpg
+    image: /assets/gallery/15793220823_b6f73958e9_o.jpg
     title: IMG_8813.jpg
     tags:
       - ""
@@ -304,7 +304,7 @@ images:
     flickr_id: "15793220823"
     flickr_secret: a4012f1e12
   - 
-    image: /assets/photos/15793219093_05d81fe399_o.jpg
+    image: /assets/gallery/15793219093_05d81fe399_o.jpg
     title: IMG_8804.jpg
     tags:
       - ""
@@ -324,7 +324,7 @@ images:
     flickr_id: "15793219093"
     flickr_secret: 04ea1c33c9
   - 
-    image: /assets/photos/15793216483_a920955a6a_o.jpg
+    image: /assets/gallery/15793216483_a920955a6a_o.jpg
     title: IMG_8803.jpg
     tags:
       - ""
@@ -344,7 +344,7 @@ images:
     flickr_id: "15793216483"
     flickr_secret: 71fb2acb94
   - 
-    image: /assets/photos/16411488941_69eae5508b_o.jpg
+    image: /assets/gallery/16411488941_69eae5508b_o.jpg
     title: IMG_8798.jpg
     tags:
       - ""

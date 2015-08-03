@@ -96,10 +96,10 @@ defaults:
   -
     scope:
       type: "posts"
-      path: "365"
+      path: "notes"
     values:
       layout: "default"
-      category: "365"
+      category: "notes"
       
 
 #archives      

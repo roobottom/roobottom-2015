@@ -1,9 +1,0 @@
----
-title: Jan 12th — Hammersmith
-images: /assets/365/IMG_8113.jpg
-tags:
-  - "365"
-  - Work
-  - Firefly
----
-It may be cold and wet outside but the Firefly office is warm and bright here in the centre of Hammersmith. I've been coming here for three years to work with some brilliant people on some fascinating projects. Bless you One Lyric Square, and all who sail in you.
