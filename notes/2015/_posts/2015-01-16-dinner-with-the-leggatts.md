@@ -1,6 +1,6 @@
 ---
 title: Dinner with the Leggatts
-images: /assets/365/IMG_8288.jpg
+images: IMG_8288.jpg
 tags:
 
   - Friends

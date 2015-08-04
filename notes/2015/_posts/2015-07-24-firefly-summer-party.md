@@ -1,9 +1,9 @@
 ---
 title: Firefly Summer Party
 images:
-  - /assets/365/IMG_8780.jpg
-  - /assets/365/IMG_8785.jpg
-  - /assets/365/IMG_8784.jpg
+  - IMG_8780.jpg
+  - IMG_8785.jpg
+  - IMG_8784.jpg
 tags:
 
   - firefly

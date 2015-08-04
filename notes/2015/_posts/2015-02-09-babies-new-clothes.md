@@ -1,6 +1,6 @@
 ---
 title: Babies New Clothes
-images: /assets/365/IMG_9155.jpg
+images: IMG_9155.jpg
 tags:
 
   - Family

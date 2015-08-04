@@ -1,6 +1,6 @@
 ---
 title: Big Church Day Out
-images: /assets/365/IMG_1810.jpg
+images: IMG_1810.jpg
 tags:
 
   - friends

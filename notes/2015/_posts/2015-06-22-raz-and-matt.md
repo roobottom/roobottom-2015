@@ -1,6 +1,6 @@
 ---
 title: Raz & Matt
-images: /assets/365/IMG_8559.JPG
+images: IMG_8559.JPG
 tags:
 
   - friends

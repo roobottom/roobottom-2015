@@ -1,8 +1,8 @@
 ---
 title: Hidden Treasure
 images:
-  - /assets/365/IMG_8319.jpg
-  - /assets/365/IMG_8315.jpg
+  - IMG_8319.jpg
+  - IMG_8315.jpg
 tags:
 
   - Home

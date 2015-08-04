@@ -1,6 +1,6 @@
 ---
 title: Total un-eclipse of the sun
-images: /assets/365/IMG_0030.jpg
+images: IMG_0030.jpg
 tags:
 
 ---

@@ -1,6 +1,6 @@
 ---
 title: New Contacts
-images: /assets/365/IMG_0400.jpg
+images: IMG_0400.jpg
 tags:
 
   - toys

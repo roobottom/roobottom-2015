@@ -1,6 +1,6 @@
 ---
 title: Kinder Surprise
-images: /assets/365/IMG_0221.jpg
+images: IMG_0221.jpg
 tags:
 
   - family

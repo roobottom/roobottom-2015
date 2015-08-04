@@ -1,7 +1,7 @@
 ---
 title: Pimm's O'Clock
 images:
-  - /assets/365/2015-July-31-181002.jpg
+  - 2015-July-31-181002.jpg
 tags:
   - friends
 ---

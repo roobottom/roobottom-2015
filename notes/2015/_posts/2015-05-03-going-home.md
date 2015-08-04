@@ -1,8 +1,8 @@
 ---
 title: Going home
 images:
-  - /assets/365/IMG_1353.jpg
-  - /assets/365/IMG_1366.jpg
+  - IMG_1353.jpg
+  - IMG_1366.jpg
 tags:
 
   - family

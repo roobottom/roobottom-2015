@@ -1,12 +1,12 @@
 ---
 title: Cousin's Weekend
 images:
-  - /assets/365/IMG_2205.jpg
-  - /assets/365/IMG_2160.jpg
-  - /assets/365/IMG_2201.jpg
-  - /assets/365/IMG_2541.jpg
-  - /assets/365/IMG_2635.jpg
-  - /assets/365/IMG_2359.jpg
+  - IMG_2205.jpg
+  - IMG_2160.jpg
+  - IMG_2201.jpg
+  - IMG_2541.jpg
+  - IMG_2635.jpg
+  - IMG_2359.jpg
 tags:
 
   - family

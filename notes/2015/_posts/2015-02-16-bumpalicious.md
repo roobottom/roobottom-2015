@@ -1,6 +1,6 @@
 ---
 title: Bumpalicious
-images: /assets/365/IMG_9328.jpg
+images: IMG_9328.jpg
 tags:
 
   - Family

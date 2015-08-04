@@ -1,9 +1,9 @@
 ---
 title: Stormy Weather
 images:
-  - /assets/365/IMG_8161.jpg
-  - /assets/365/IMG_8190.jpg
-  - /assets/365/IMG_8211.jpg
+  - IMG_8161.jpg
+  - IMG_8190.jpg
+  - IMG_8211.jpg
 tags:
 
   - Photography

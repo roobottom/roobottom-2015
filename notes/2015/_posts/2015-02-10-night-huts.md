@@ -1,6 +1,6 @@
 ---
 title: Night Huts
-images: /assets/365/IMG_9162-Edit.jpg
+images: IMG_9162-Edit.jpg
 tags:
 
   - Light Painting

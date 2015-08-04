@@ -1,8 +1,8 @@
 ---
 title: Lightpainting
 images:
-  - /assets/365/IMG_8747.jpg
-  - /assets/365/IMG_8753.jpg
+  - IMG_8747.jpg
+  - IMG_8753.jpg
 tags:
 
   - photography

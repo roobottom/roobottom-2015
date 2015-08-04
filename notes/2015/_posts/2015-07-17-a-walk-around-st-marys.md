@@ -1,12 +1,12 @@
 ---
 title: A walk around St. Mary's
 images:
-  - /assets/365/IMG_3372.jpg
-  - /assets/365/IMG_3383.jpg
-  - /assets/365/IMG_3410.jpg
-  - /assets/365/IMG_8626.jpg
-  - /assets/365/IMG_8662.jpg
-  - /assets/365/IMG_8641.jpg
+  - IMG_3372.jpg
+  - IMG_3383.jpg
+  - IMG_3410.jpg
+  - IMG_8626.jpg
+  - IMG_8662.jpg
+  - IMG_8641.jpg
 tags:
 
   - isles of scilly

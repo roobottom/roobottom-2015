@@ -1,6 +1,6 @@
 ---
 title: London Museums
-images: /assets/365/IMG_8883.jpg
+images: IMG_8883.jpg
 tags:
 
   - family

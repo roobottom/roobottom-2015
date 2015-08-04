@@ -1,6 +1,6 @@
 ---
 title: Goodbye Archice
-images: /assets/365/IMG_1397.jpg
+images: IMG_1397.jpg
 tags:
 
   - campervan

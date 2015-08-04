@@ -1,6 +1,6 @@
 ---
 title: Van for Sale
-images: /assets/365/IMG_9267.jpg
+images: IMG_9267.jpg
 tags:
 
   - Campervan

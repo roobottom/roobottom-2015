@@ -1,6 +1,6 @@
 ---
 title: Star Trail Semi-Success
-images: /assets/365/StarStaX_IMG_8614-IMG_8633_lighten-2.jpg
+images: StarStaX_IMG_8614-IMG_8633_lighten-2.jpg
 tags:
 
   - Photography

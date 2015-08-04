@@ -1,10 +1,10 @@
 ---
 title: Easter Sunday
 images:
-  - /assets/365/IMG_0612.jpg
-  - /assets/365/IMG_6055.jpg
-  - /assets/365/IMG_6057.jpg
-  - /assets/365/IMG_0632.jpg
+  - IMG_0612.jpg
+  - IMG_6055.jpg
+  - IMG_6057.jpg
+  - IMG_0632.jpg
 tags:
 
   - family

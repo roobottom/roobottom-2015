@@ -1,6 +1,6 @@
 ---
 title: Goodbye Penzance
-images: /assets/365/IMG_2810.jpg
+images: IMG_2810.jpg
 tags:
 
   - holiday

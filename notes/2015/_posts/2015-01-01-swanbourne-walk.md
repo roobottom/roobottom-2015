@@ -1,6 +1,6 @@
 ---
 title: Swanbourne Walk
-images: /assets/365/IMG_7388.jpg
+images: IMG_7388.jpg
 tags:
 
   - friends

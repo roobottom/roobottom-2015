@@ -1,6 +1,6 @@
 ---
 title: Brighton Calling
-images: /assets/365/IMG_7634.jpg
+images: IMG_7634.jpg
 tags:
 
   - work

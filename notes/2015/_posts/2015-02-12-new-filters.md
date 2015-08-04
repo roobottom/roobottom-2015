@@ -1,6 +1,6 @@
 ---
 title: New Filters
-images: /assets/365/IMG_9225.jpg
+images: IMG_9225.jpg
 tags:
 
   - Photography

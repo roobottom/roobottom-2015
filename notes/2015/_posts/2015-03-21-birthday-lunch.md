@@ -1,10 +1,10 @@
 ---
 title: Birthday Lunch
 images:
-  - /assets/365/IMG_0101.jpg
-  - /assets/365/IMG_0120.jpg
-  - /assets/365/IMG_0141.jpg
-  - /assets/365/IMG_0151.jpg
+  - IMG_0101.jpg
+  - IMG_0120.jpg
+  - IMG_0141.jpg
+  - IMG_0151.jpg
 tags:
 
   - friends

@@ -1,8 +1,8 @@
 ---
 title: Sunday Lunch
 images:
-  - /assets/365/IMG_8291.jpg
-  - /assets/365/IMG_9290-Edit.jpg
+  - IMG_8291.jpg
+  - IMG_9290-Edit.jpg
 tags:
 
   - Friends

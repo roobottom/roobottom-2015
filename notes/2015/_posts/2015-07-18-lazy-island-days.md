@@ -1,11 +1,11 @@
 ---
 title: Lazy Island Days
 images:
-  - /assets/365/IMG_8666.jpg
-  - /assets/365/IMG_3440.jpg
-  - /assets/365/IMG_8677.jpg
-  - /assets/365/IMG_3446.jpg
-  - /assets/365/IMG_8681.jpg
+  - IMG_8666.jpg
+  - IMG_3440.jpg
+  - IMG_8677.jpg
+  - IMG_3446.jpg
+  - IMG_8681.jpg
 tags:
 
   - holiday

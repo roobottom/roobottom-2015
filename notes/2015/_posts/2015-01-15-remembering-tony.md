@@ -1,6 +1,6 @@
 ---
 title: Remembering Tony
-images: /assets/365/Photo 15-01-2015 7 38 38 pm.jpg
+images: Photo 15-01-2015 7 38 38 pm.jpg
 tags:
 
   - Family

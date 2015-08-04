@@ -1,6 +1,6 @@
 ---
 title: Firefly Planning Session
-images: /assets/365/IMG_8531.JPG
+images: IMG_8531.JPG
 tags:
 
   - work

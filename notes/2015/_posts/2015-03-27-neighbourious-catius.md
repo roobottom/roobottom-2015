@@ -1,6 +1,6 @@
 ---
 title: Neighbourious Catius
-images: /assets/365/IMG_0380.jpg
+images: IMG_0380.jpg
 tags:
 
   - pets

@@ -1,6 +1,6 @@
 ---
 title: Thanks mum
-images: /assets/365/IMG_2787.jpg
+images: IMG_2787.jpg
 tags:
 
   - baby roo

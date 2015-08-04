@@ -1,6 +1,6 @@
 ---
 title: Womb Tunes
-images: /assets/365/IMG_7751.jpg
+images: IMG_7751.jpg
 tags:
 
   - family

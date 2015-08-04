@@ -1,6 +1,6 @@
 ---
 title: Peaches & Tip Top
-images: /assets/365/IMG_8658.jpg
+images: IMG_8658.jpg
 tags:
 
 ---

@@ -8,7 +8,7 @@ data_source: ./_data
 # Handling Reading
 safe:         false
 include:      [".htaccess"]
-exclude:      ["./_dev", "./less","Gemfile","config.codekit"]
+exclude:      ["/less","Gemfile","package.json","Gruntfile.js",".gitattributes",".gitignore","README.md","/node_modules"]
 keep_files:   [".git", ".svn"]
 encoding:     "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
@@ -33,7 +33,7 @@ excerpt_separator: "\n\n"
 detach:  false
 port:    4000
 host:    127.0.0.1
-baseurl: "/roobottom.com" # does not include hostname
+baseurl: "" # does not include hostname
 
 # Backwards-compatibility
 relative_permalinks: false

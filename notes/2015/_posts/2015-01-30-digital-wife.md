@@ -1,6 +1,6 @@
 ---
 title: Digital Wife
-images: /assets/365/IMG_8787.jpg
+images: IMG_8787.jpg
 tags:
 
   - light painting

@@ -1,6 +1,6 @@
 ---
 title: Star Trail Fail
-images: /assets/365/IMG_7684.jpg
+images: IMG_7684.jpg
 tags:
 
   - photography

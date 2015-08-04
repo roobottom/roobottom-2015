@@ -1,6 +1,6 @@
 ---
 title: More Floor Fun
-images: /assets/365/IMG_9257.jpg
+images: IMG_9257.jpg
 tags:
 
   - Home

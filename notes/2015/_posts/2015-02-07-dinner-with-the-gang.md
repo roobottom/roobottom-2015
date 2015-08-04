@@ -1,6 +1,6 @@
 ---
 title: Dinner with the gang
-images: /assets/365/IMG_8224.jpg
+images: IMG_8224.jpg
 tags:
 
   - Friends

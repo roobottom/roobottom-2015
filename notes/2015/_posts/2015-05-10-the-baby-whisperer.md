@@ -1,6 +1,6 @@
 ---
 title: The baby whisperer
-images: /assets/365/IMG_1498.jpg
+images: IMG_1498.jpg
 tags:
 
   - friends

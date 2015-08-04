@@ -1,6 +1,6 @@
 ---
 title: Downsizing
-images: /assets/365/IMG_8652.jpg
+images: IMG_8652.jpg
 tags:
 
   - Home

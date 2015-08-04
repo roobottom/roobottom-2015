@@ -1,6 +1,6 @@
 ---
 title: Feeling Rough
-images: /assets/365/IMG_9850.jpg
+images: IMG_9850.jpg
 tags:
 
 ---

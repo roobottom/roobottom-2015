@@ -1,6 +1,6 @@
 ---
 title: Firefly Babygrow
-images: /assets/365/IMG_1909.jpg
+images: IMG_1909.jpg
 tags:
 
   - firefly

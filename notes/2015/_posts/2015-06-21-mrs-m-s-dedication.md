@@ -1,6 +1,6 @@
 ---
 title: Mrs. M's dedication
-images: /assets/365/IMG_2120.jpg
+images: IMG_2120.jpg
 tags:
 
   - friends

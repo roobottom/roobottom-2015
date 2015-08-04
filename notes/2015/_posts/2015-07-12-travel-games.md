@@ -1,6 +1,6 @@
 ---
 title: Travel Games
-images: /assets/365/IMG_2808.jpg
+images: IMG_2808.jpg
 tags:
 
   - baby roo

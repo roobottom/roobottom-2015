@@ -1,6 +1,6 @@
 ---
 title: Weekend at Chez Roo Senior
-images: /assets/365/IMG_9612.jpg
+images: IMG_9612.jpg
 tags:
 
   - Family

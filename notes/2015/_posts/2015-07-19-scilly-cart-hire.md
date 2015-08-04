@@ -1,16 +1,16 @@
 ---
 title: Scilly Cart Hire
 images:
-  - /assets/365/IMG_8690.jpg
-  - /assets/365/IMG_8706.jpg
-  - /assets/365/IMG_8743.jpg
-  - /assets/365/IMG_3565.jpg
-  - /assets/365/IMG_3570.jpg
-  - /assets/365/IMG_3586.jpg
-  - /assets/365/IMG_3603.jpg
-  - /assets/365/IMG_3612.jpg
-  - /assets/365/IMG_8754.jpg
-  - /assets/365/IMG_8760.jpg
+  - IMG_8690.jpg
+  - IMG_8706.jpg
+  - IMG_8743.jpg
+  - IMG_3565.jpg
+  - IMG_3570.jpg
+  - IMG_3586.jpg
+  - IMG_3603.jpg
+  - IMG_3612.jpg
+  - IMG_8754.jpg
+  - IMG_8760.jpg
 tags:
 
   - isles of scilly

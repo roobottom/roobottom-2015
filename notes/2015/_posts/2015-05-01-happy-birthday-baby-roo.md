@@ -1,6 +1,6 @@
 ---
 title: Happy Birthday baby Roo
-images: /assets/365/IMG_1259.jpg
+images: IMG_1259.jpg
 tags:
 
   - family

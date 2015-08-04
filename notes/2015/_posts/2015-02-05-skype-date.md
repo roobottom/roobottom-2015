@@ -1,6 +1,6 @@
 ---
 title: Skype Date
-images: /assets/365/IMG_9095.jpg
+images: IMG_9095.jpg
 tags:
 
   - Family

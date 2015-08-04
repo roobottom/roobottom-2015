@@ -1,8 +1,8 @@
 ---
 title: Jez & Cherry's Wedding
 images:
-  - /assets/365/IMG_1715.jpg
-  - /assets/365/IMG_1717.jpg
+  - IMG_1715.jpg
+  - IMG_1717.jpg
 tags:
 
   - baby roo

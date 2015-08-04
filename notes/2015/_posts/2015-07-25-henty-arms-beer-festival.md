@@ -1,8 +1,8 @@
 ---
 title: Henty Arms Beer Festival
 images:
-  - /assets/365/IMG_8788.jpg
-  - /assets/365/IMG_8793.jpg
+  - IMG_8788.jpg
+  - IMG_8793.jpg
 tags:
 
   - friends

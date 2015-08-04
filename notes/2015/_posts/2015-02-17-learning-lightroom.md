@@ -1,6 +1,6 @@
 ---
 title: Learning Lightroom
-images: /assets/365/IMG_9350.jpg
+images: IMG_9350.jpg
 tags:
 
   - Photography

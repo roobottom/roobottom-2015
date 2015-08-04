@@ -1,6 +1,6 @@
 ---
 title: Teaching baby to read
-images: /assets/365/IMG_0245.jpg
+images: IMG_0245.jpg
 tags:
 
   - family

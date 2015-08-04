@@ -1,6 +1,6 @@
 ---
 title: So Long Student Loan
-images: /assets/365/IMG_8739.jpg
+images: IMG_8739.jpg
 tags:
 
 ---

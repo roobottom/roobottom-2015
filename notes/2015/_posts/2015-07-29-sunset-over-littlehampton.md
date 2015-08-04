@@ -1,7 +1,7 @@
 ---
 title: Sunset over Littlehampton
 images:
-  - /assets/365/2015-July-29-202937.jpg
+  - 2015-July-29-202937.jpg
 tags:
   - Littlehampton
 ---

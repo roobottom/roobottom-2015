@@ -1,9 +1,9 @@
 ---
 title: Creepy Dolls, Swarming Birds & Card Games
 images:
-  - /assets/365/IMG_3272.jpg
-  - /assets/365/IMG_3308.jpg
-  - /assets/365/IMG_3366.jpg
+  - IMG_3272.jpg
+  - IMG_3308.jpg
+  - IMG_3366.jpg
 tags:
 
   - holiday

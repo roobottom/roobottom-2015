@@ -1,6 +1,6 @@
 ---
 title: Meeting Grandpa & Grandma
-images: /assets/365/IMG_1324.jpg
+images: IMG_1324.jpg
 tags:
 
   - family

@@ -1,6 +1,6 @@
 ---
 title: The support team
-images: /assets/365/IMG_9693.jpg
+images: IMG_9693.jpg
 tags:
 
   - Firefly

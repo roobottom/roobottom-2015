@@ -1,6 +1,6 @@
 ---
 title: Bathroom Bella
-images: /assets/365/IMG_9030.jpg
+images: IMG_9030.jpg
 tags:
 
   - pets

@@ -1,6 +1,6 @@
 ---
 title: Heavy Skies
-images: /assets/365/IMG_0345.jpg
+images: IMG_0345.jpg
 tags:
 
   - photography

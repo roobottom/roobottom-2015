@@ -1,8 +1,8 @@
 ---
 title: Strategy Workshop
 images:
-  - /assets/365/IMG_6037.jpg
-  - /assets/365/IMG_6039.jpg
+  - IMG_6037.jpg
+  - IMG_6039.jpg
 tags:
 
   - Work

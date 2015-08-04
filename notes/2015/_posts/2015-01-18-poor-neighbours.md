@@ -1,6 +1,6 @@
 ---
 title: Poor Neighbours
-images: /assets/365/IMG_8334.jpg
+images: IMG_8334.jpg
 tags:
 
   - Home

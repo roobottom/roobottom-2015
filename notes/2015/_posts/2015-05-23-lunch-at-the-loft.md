@@ -1,8 +1,8 @@
 ---
 title: Lunch at The Loft
 images:
-  - /assets/365/IMG_1788.jpg
-  - /assets/365/IMG_1794.jpg
+  - IMG_1788.jpg
+  - IMG_1794.jpg
 tags:
 
   - baby roo

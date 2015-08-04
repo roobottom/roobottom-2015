@@ -1,6 +1,6 @@
 ---
 title: Baby Roo, surprised by finger
-images: /assets/365/IMG_2034.jpg
+images: IMG_2034.jpg
 tags:
 
   - baby roo

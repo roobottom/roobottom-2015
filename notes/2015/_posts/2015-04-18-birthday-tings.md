@@ -1,8 +1,8 @@
 ---
 title: Birthday tings
 images:
-  - /assets/365/IMG_0971.jpg
-  - /assets/365/IMG_0966.jpg
+  - IMG_0971.jpg
+  - IMG_0966.jpg
 tags:
 
   - family

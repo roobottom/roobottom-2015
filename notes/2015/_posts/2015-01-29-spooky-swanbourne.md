@@ -1,6 +1,6 @@
 ---
 title: Spooky Swanbourne
-images: /assets/365/IMG_8778-Edit.jpg
+images: IMG_8778-Edit.jpg
 tags:
 
   - Photography

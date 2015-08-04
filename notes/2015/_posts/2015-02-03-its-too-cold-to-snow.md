@@ -1,6 +1,6 @@
 ---
 title: It's too cold to snow
-images: /assets/365/IMG_9048.jpg
+images: IMG_9048.jpg
 tags:
 
   - Home

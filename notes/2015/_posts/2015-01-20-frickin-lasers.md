@@ -1,6 +1,6 @@
 ---
 title: Frickin' Lasers
-images: /assets/365/IMG_8427.jpg
+images: IMG_8427.jpg
 tags:
 
   - Photography

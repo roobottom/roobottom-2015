@@ -1,6 +1,6 @@
 ---
 title: First BBQ of the year
-images: /assets/365/IMG_0882.jpg
+images: IMG_0882.jpg
 tags:
 
   - freinds

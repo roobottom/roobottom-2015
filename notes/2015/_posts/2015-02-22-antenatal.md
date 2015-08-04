@@ -1,8 +1,8 @@
 ---
 title: Antenatal
 images:
-  - /assets/365/IMG_6028.jpg
-  - /assets/365/IMG_6029.jpg
+  - IMG_6028.jpg
+  - IMG_6029.jpg
 tags:
 
   - Family

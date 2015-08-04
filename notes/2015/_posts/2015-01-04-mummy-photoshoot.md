@@ -1,6 +1,6 @@
 ---
 title: Mummy Photoshoot
-images: /assets/365/IMG_7543.jpg
+images: IMG_7543.jpg
 tags:
 
   - family

@@ -1,6 +1,6 @@
 ---
 title: Babysitters!
-images: /assets/365/IMG_8546.JPG
+images: IMG_8546.JPG
 tags:
 
 ---

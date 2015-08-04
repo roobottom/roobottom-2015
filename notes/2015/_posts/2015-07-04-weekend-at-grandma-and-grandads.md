@@ -1,13 +1,13 @@
 ---
 title: Weekend at Grandma & Grandads
 images:
-  - /assets/365/IMG_2772.jpg
-  - /assets/365/IMG_2764.jpg
-  - /assets/365/IMG_2750.jpg
-  - /assets/365/IMG_2737.jpg
-  - /assets/365/IMG_2721.jpg
-  - /assets/365/IMG_2689.jpg
-  - /assets/365/IMG_2660.jpg
+  - IMG_2772.jpg
+  - IMG_2764.jpg
+  - IMG_2750.jpg
+  - IMG_2737.jpg
+  - IMG_2721.jpg
+  - IMG_2689.jpg
+  - IMG_2660.jpg
 tags:
 
   - family

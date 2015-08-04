@@ -1,11 +1,11 @@
 ---
 title: Dave's Birthday
 images:
-  - /assets/365/IMG_1188.jpg
-  - /assets/365/IMG_1192.jpg
-  - /assets/365/IMG_1204.jpg
-  - /assets/365/IMG_1215.jpg
-  - /assets/365/IMG_1220.jpg
+  - IMG_1188.jpg
+  - IMG_1192.jpg
+  - IMG_1204.jpg
+  - IMG_1215.jpg
+  - IMG_1220.jpg
 tags:
 
   - friends

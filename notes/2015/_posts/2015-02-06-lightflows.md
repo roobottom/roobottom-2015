@@ -1,8 +1,8 @@
 ---
 title: Lightflows
 images:
-  - /assets/365/IMG_9102.jpg
-  - /assets/365/IMG_9105.jpg
+  - IMG_9102.jpg
+  - IMG_9105.jpg
 tags:
 
   - Light Painting

@@ -1,6 +1,6 @@
 ---
 title: Lunch with the gang
-images: /assets/365/IMG_1781.jpg
+images: IMG_1781.jpg
 tags:
 
   - friends

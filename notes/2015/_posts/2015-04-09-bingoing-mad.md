@@ -1,6 +1,6 @@
 ---
 title: Bingoing Mad
-images: /assets/365/IMG_8397.JPG
+images: IMG_8397.JPG
 tags:
 
   - friends

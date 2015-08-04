@@ -1,6 +1,6 @@
 ---
 title: First Bath
-images: /assets/365/IMG_1457-2.jpg
+images: IMG_1457-2.jpg
 tags:
 
   - baby roo

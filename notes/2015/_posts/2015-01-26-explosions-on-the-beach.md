@@ -1,6 +1,6 @@
 ---
 title: Explosions on the Beach
-images: /assets/365/IMG_8733.jpg
+images: IMG_8733.jpg
 tags:
 
   - Photography

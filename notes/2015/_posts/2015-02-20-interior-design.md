@@ -1,6 +1,6 @@
 ---
 title: Interior Design
-images: /assets/365/IMG_9553.jpg
+images: IMG_9553.jpg
 tags:
 
   - Home

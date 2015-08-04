@@ -1,7 +1,7 @@
 ---
 title: Baby Roo Booties
 images:
-    - /assets/365/2015-July-26-112802.jpg
+    - 2015-July-26-112802.jpg
 tags:
     - baby roo
 ---

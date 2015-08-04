@@ -5,7 +5,9 @@ title: Home
 
 
 {% for post in site.posts limit:20 %}
-    {% include article.html %}
+    {% if post.categories[0] == 'notes' %}
+        {% include post-note.html %}
+    {% endif %}
 {% endfor %}
 
 {% for category in site.categories %}

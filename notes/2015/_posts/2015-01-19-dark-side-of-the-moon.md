@@ -1,8 +1,8 @@
 ---
 title: Dark Side of the Moon
 images:
-  - /assets/365/IMG_8347.jpg
-  - /assets/365/IMG_8355.jpg
+  - IMG_8347.jpg
+  - IMG_8355.jpg
 tags:
 
   - Photography

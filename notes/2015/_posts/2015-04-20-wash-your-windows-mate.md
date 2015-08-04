@@ -1,9 +1,9 @@
 ---
 title: Wash your windows mate?
 images:
-  - /assets/365/IMG_1103.jpg
-  - /assets/365/IMG_1100.jpg
-  - /assets/365/IMG_1109.jpg
+  - IMG_1103.jpg
+  - IMG_1100.jpg
+  - IMG_1109.jpg
 tags:
 
   - Firefly

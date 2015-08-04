@@ -1,8 +1,8 @@
 ---
 title: A fond Farewell
 images:
-  - /assets/365/IMG_8769.jpg
-  - /assets/365/IMG_3632.jpg
+  - IMG_8769.jpg
+  - IMG_3632.jpg
 tags:
 
   - holiday

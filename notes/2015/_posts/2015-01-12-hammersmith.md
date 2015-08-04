@@ -1,6 +1,6 @@
 ---
 title: Hammersmith
-images: /assets/365/IMG_8113.jpg
+images: IMG_8113.jpg
 tags:
 
   - Work

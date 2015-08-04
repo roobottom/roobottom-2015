@@ -1,6 +1,6 @@
 ---
 title: Light Tunnel
-images: /assets/365/IMG_9411.jpg
+images: IMG_9411.jpg
 tags:
 
   - Light Painting

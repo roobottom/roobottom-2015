@@ -1,6 +1,6 @@
 ---
 title: My Office for the Evening
-images: /assets/365/IMG_8500.jpg
+images: IMG_8500.jpg
 tags:
 
   - Work

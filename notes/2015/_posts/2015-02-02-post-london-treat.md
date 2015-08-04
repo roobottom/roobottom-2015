@@ -1,6 +1,6 @@
 ---
 title: Post London Treat
-images: /assets/365/IMG_9042.jpg
+images: IMG_9042.jpg
 tags:
 
   - home

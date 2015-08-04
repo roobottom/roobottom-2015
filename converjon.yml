@@ -1,8 +1,0 @@
-urls:
-  - "http://localhost*"
-  - "http://roobottom.com/*"
-
-download:
-  url_whitelist:
-    - "http://localhost*"
-    - "http://roobottom.com/*"
