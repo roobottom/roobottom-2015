@@ -39,7 +39,7 @@ baseurl: "" # does not include hostname
 relative_permalinks: false
 
 # Outputting
-permalink:     /:categories/:title
+permalink:     /:categories/:year/:title
 paginate_path: /page:num
 timezone:      null
 

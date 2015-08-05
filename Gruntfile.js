@@ -1,10 +1,13 @@
 module.exports = function(grunt) {
     
-  //load   
+  //load dependencies
   grunt.loadNpmTasks('grunt-responsive-images');
   grunt.loadNpmTasks('grunt-jekyll');
   grunt.loadNpmTasks('grunt-contrib-watch');
   grunt.loadNpmTasks('grunt-contrib-less');
+  grunt.loadNpmTasks('grunt-shell');
+  grunt.loadNpmTasks('grunt-concurrent');
+  require('time-grunt')(grunt);
 
   grunt.initConfig({
     
@@ -55,22 +58,23 @@ module.exports = function(grunt) {
             options: {
                 // These paths are searched when trying to resolve @import in less file
                 paths: [
-                    'less/*'
+                    'less/**'
                 ]
             },
             files: {
                 'css/styles.css': 'less/styles.less'
             }
         }
+        
     },
     
     //watch tasks
     watch: {
         styles: {
             files: [
-                'less/*'
+                'less/**'
             ],
-            tasks: 'less'
+            tasks: ['less','shell:copyCss']
         },
         jekyll: {
             files: [
@@ -81,9 +85,29 @@ module.exports = function(grunt) {
                 '_includes/*',
                 '_layouts/*'
             ],
-            tasks: 'jekyll'
+            tasks: ['jekyll','less','shell:copyCss']
         }
-}
+    },
+    
+    
+    //shell tasks
+    shell: {
+        copyCss: {
+            command: 'cp css/styles.css _site/css/styles.css'
+        }
+    },
+    
+    //concurrent tasks
+    concurrent: {
+        options: {
+            logConcurrentOutput: true
+        },
+        dev: {
+            tasks: ['watch:styles', 'watch:jekyll']
+        }
+    }
+    
+    
     
     
     
@@ -91,8 +115,8 @@ module.exports = function(grunt) {
 
   //register tasks
   grunt.registerTask('preflight', ['responsive_images']);
-  grunt.registerTask('dev', ['less','jekyll','watch:styles','watch:jekyll']);
-  grunt.registerTask('styles', ['less','watch:styles']);
+  grunt.registerTask('dev', ['concurrent:dev']);
+  grunt.registerTask('styles', ['less','shell:copyCss','watch:styles']);
   
   
   // The default task will show the usage
