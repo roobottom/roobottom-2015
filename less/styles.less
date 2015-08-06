@@ -1,13 +1,38 @@
-@import '_modules/gallery';
+//global settings
+@import 'settings';
+//pre includes
+@import '_inc/reset';
+@import '_inc/mixins';
+
+//responsiveness
+.superwide() {}
+.widescreen(){}
+.desktop(){}
+.tablet(){}
+.mobile(){}
+
+//apply any overides for ie in this mixin
+.ie(){}
+
+/* mobile */
+@media screen and (max-width:@layout_mobile) {.mobile(); #matchmedia { content: 'mobile';}}
+/* tablet */
+@media screen and (min-width:@layout_mobile) and (max-width:@layout_tablet) {.tablet(); #matchmedia { content: 'tablet';}}
+/* desktop */
+@media screen and (min-width:@layout_tablet) and (max-width:@layout_desktop) {.desktop(); #matchmedia { content: 'desktop';}}
+/* widescreen */
+@media screen and (min-width:@layout_desktop) and (max-width:@layout_widescreen) {.widescreen(); #matchmedia { content: 'widescreen';}}
+/* superwide */
+@media screen and (min-width:@layout_widescreen) {.superwide(); #matchmedia { content: 'superwide';}}
+
+.ie7,.ie8,.ie9 {
+  .desktop();
+  .ie();
+}
 
 body {
     font-family: 'Mercury SSm A', 'Mercury SSm B'; font-weight: 400; font-style: normal;
     background-color: white;
-}
-
-.site-content {
-    max-width: 800px;
-    margin: 20px auto;
 }
 
 img {
@@ -19,3 +44,10 @@ ul, li {
     margin: 0;
     padding: 0;
 }
+
+
+//post includes
+@import '_inc/layout';
+//modules
+@import '_modules/prose';
+@import '_modules/gallery';

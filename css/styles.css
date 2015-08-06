@@ -1,3 +1,462 @@
+/* Eric Meyer's Reset CSS v2.0 - http://cssreset.com */
+html,
+body,
+div,
+span,
+applet,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+b,
+u,
+i,
+center,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+canvas,
+details,
+embed,
+figure,
+figcaption,
+footer,
+header,
+hgroup,
+menu,
+nav,
+output,
+ruby,
+section,
+summary,
+time,
+mark,
+audio,
+video {
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+  margin: 0;
+  padding: 0;
+}
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section {
+  display: block;
+}
+body {
+  line-height: 1;
+}
+ol,
+ul {
+  list-style: none;
+}
+blockquote,
+q {
+  quotes: none;
+}
+blockquote:before,
+blockquote:after,
+q:before,
+q:after {
+  content: none;
+}
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+/* mobile */
+@media screen and (max-width: 40em) {
+  .prose.diary-post p,
+  .prose.diary-post > ul,
+  .prose.diary-post > ol,
+  .prose.diary-post dl,
+  .prose.diary-post > table,
+  .prose.diary-post h2,
+  .prose.diary-post .h2,
+  .prose.diary-post h3,
+  .prose.diary-post h4,
+  .prose.diary-post h5,
+  .prose.diary-post h6 {
+    max-width: 90%;
+    margin-left: 5%;
+  }
+  .prose h1,
+  .prose .h1 {
+    font-size: 30px;
+    font-size: 1.875rem;
+    line-height: 1.06666667;
+  }
+  .prose h2,
+  .prose .h2 {
+    font-size: 27px;
+    font-size: 1.6875rem;
+    line-height: 1.18518519;
+  }
+  .prose figure figcaption {
+    padding: 0 16px;
+  }
+  .prose.post-navigation {
+    margin: 0 32px;
+  }
+  #matchmedia {
+    content: 'mobile';
+  }
+}
+/* tablet */
+@media screen and (min-width: 40em) and (max-width: 64em) {
+  .prose.diary-post p,
+  .prose.diary-post > ul,
+  .prose.diary-post > ol,
+  .prose.diary-post dl,
+  .prose.diary-post > table,
+  .prose.diary-post h2,
+  .prose.diary-post .h2,
+  .prose.diary-post h3,
+  .prose.diary-post h4,
+  .prose.diary-post h5,
+  .prose.diary-post h6 {
+    max-width: 90%;
+    margin-left: 5%;
+  }
+  .prose h1,
+  .prose .h1 {
+    font-size: 30px;
+    font-size: 1.875rem;
+    line-height: 1.06666667;
+  }
+  .prose h2,
+  .prose .h2 {
+    font-size: 27px;
+    font-size: 1.6875rem;
+    line-height: 1.18518519;
+  }
+  .prose figure figcaption {
+    padding: 0 16px;
+  }
+  .prose.post-navigation {
+    margin: 0 32px;
+  }
+  #matchmedia {
+    content: 'tablet';
+  }
+}
+/* desktop */
+@media screen and (min-width: 64em) and (max-width: 75em) {
+  #matchmedia {
+    content: 'desktop';
+  }
+}
+/* widescreen */
+@media screen and (min-width: 75em) and (max-width: 100em) {
+  #matchmedia {
+    content: 'widescreen';
+  }
+}
+/* superwide */
+@media screen and (min-width: 100em) {
+  #matchmedia {
+    content: 'superwide';
+  }
+}
+body {
+  font-family: 'Mercury SSm A', 'Mercury SSm B';
+  font-weight: 400;
+  font-style: normal;
+  background-color: white;
+}
+img {
+  max-width: 100%;
+}
+ul,
+li {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.site-header {
+  background-color: #342e3b;
+  border-bottom: 1px solid white;
+}
+.container-full {
+  zoom: 1;
+  max-width: 1248px;
+  max-width: 78rem;
+  margin: 32px auto;
+  margin: 2rem auto;
+  /*
+@media screen and (max-width: @width) {
+		margin: unit(@lineheight,px);
+		margin: unit(@lineheight/@base,rem);
+	}
+*/
+}
+.container-full:before,
+.container-full:after {
+  content: "";
+  display: table;
+}
+.container-full:after {
+  clear: both;
+}
+.container-partial {
+  zoom: 1;
+  max-width: 832px;
+  max-width: 52rem;
+  margin: 32px auto;
+  margin: 2rem auto;
+  /*
+@media screen and (max-width: @width) {
+		margin: unit(@lineheight,px);
+		margin: unit(@lineheight/@base,rem);
+	}
+*/
+}
+.container-partial:before,
+.container-partial:after {
+  content: "";
+  display: table;
+}
+.container-partial:after {
+  clear: both;
+}
+.column-main {
+  float: left;
+  width: 66.66666667%;
+}
+.column-aside {
+  float: right;
+  width: 30.76923077%;
+}
+@media screen and (max-width: 832px) {
+  .column-main,
+  .column-aside {
+    float: none;
+    width: auto;
+  }
+}
+.prose {
+  font-size: 19px;
+  font-size: 1.1875rem;
+  line-height: 1.68421053;
+}
+.prose p,
+.prose > ul,
+.prose > ol,
+.prose dl,
+.prose > table,
+.prose h1,
+.prose h2,
+.prose .h2,
+.prose h3,
+.prose h4,
+.prose h5,
+.prose h6,
+.prose > img,
+.prose > .gallery {
+  margin: 32px 0;
+  margin: 2rem 0;
+}
+.prose h1,
+.prose h2,
+.prose h3,
+.prose h4,
+.prose h5,
+.prose h6,
+.prose h1 a,
+.prose h2 a,
+.prose h3 a,
+.prose h4 a,
+.prose h5 a,
+.prose h6 a {
+  color: black;
+  text-decoration: none;
+}
+.prose p,
+.prose ul,
+.prose ol,
+.prose dl,
+.prose table {
+  color: #333;
+}
+.post .prose p,
+.post .prose > ul,
+.post .prose > ol,
+.post .prose dl,
+.post .prose > table,
+.post .prose h2,
+.post .prose .h2,
+.post .prose h3,
+.post .prose h4,
+.post .prose h5,
+.post .prose h6 {
+  max-width: 80%;
+  margin-left: 10%;
+}
+.prose p {
+  position: relative;
+}
+.prose a {
+  color: #3498db;
+}
+.prose a.button {
+  color: white;
+}
+.prose h1,
+.prose .h1 {
+  font-size: 58px;
+  font-size: 3.625rem;
+  line-height: 1.10344828;
+}
+.prose h2,
+.prose .h2 {
+  font-size: 41px;
+  font-size: 2.5625rem;
+  line-height: 1.56097561;
+}
+.prose h3,
+.prose .h3 {
+  font-size: 23px;
+  font-size: 1.4375rem;
+  line-height: 1.39130435;
+}
+.prose h4,
+.prose .h4 {
+  font-size: 18px;
+  font-size: 1.125rem;
+  line-height: 1.77777778;
+}
+.prose h5,
+.prose .h5,
+.prose h6,
+.prose .h6 {
+  font-size: 16px;
+  font-size: 1rem;
+  line-height: 2;
+  color: #333;
+  text-transform: uppercase;
+}
+.prose ul {
+  list-style: disc;
+}
+.prose ul ul {
+  list-style: circle;
+}
+.prose ul ul ul {
+  list-style: square;
+}
+.prose ol {
+  list-style: decimal;
+}
+.prose ol ol {
+  list-style: lower-latin;
+}
+.prose ol ol ol {
+  list-style: lower-roman;
+}
+.prose ul ul,
+.prose ul ol,
+.prose ol ol,
+.prose ol ul {
+  margin-left: 3em;
+}
+.prose .quiet {
+  color: #7f7e80;
+  font-size: 13px;
+  font-size: 0.8125rem;
+  line-height: 2.46153846;
+  text-transform: uppercase;
+}
+.prose .center {
+  text-align: center;
+}
+.prose .underline {
+  border-bottom: 1px solid #ecf0f3;
+  -ms-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  margin-bottom: 31px;
+  margin-bottom: 1.9375rem;
+}
+.prose .close {
+  margin-bottom: 0;
+}
+.prose .close + * {
+  margin-top: 0;
+}
+.prose img {
+  display: block;
+  max-width: 100%;
+}
+.prose figure {
+  margin: 31px 0;
+  margin: 1.9375rem 0;
+  border-bottom: 1px solid #e5e5e5;
+}
+.prose figure figcaption {
+  font-size: 13px;
+  font-size: 0.8125rem;
+  line-height: 2.46153846;
+  color: #7f7e80;
+  font-style: italic;
+}
 .gallery,
 .gallery ol,
 .gallery li {
@@ -22,23 +481,4 @@
 .gallery img {
   display: block;
   width: 100%;
-}
-body {
-  font-family: 'Mercury SSm A', 'Mercury SSm B';
-  font-weight: 400;
-  font-style: normal;
-  background-color: white;
-}
-.site-content {
-  max-width: 800px;
-  margin: 20px auto;
-}
-img {
-  max-width: 100%;
-}
-ul,
-li {
-  list-style: none;
-  margin: 0;
-  padding: 0;
 }
