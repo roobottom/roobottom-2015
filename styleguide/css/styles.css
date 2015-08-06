@@ -1,0 +1,316 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+html,
+body,
+div,
+span,
+applet,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+b,
+u,
+i,
+center,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+canvas,
+details,
+embed,
+figure,
+figcaption,
+footer,
+header,
+hgroup,
+menu,
+nav,
+output,
+ruby,
+section,
+summary,
+time,
+mark,
+audio,
+video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section {
+  display: block;
+}
+body {
+  line-height: 1;
+}
+ol,
+ul {
+  list-style: none;
+}
+blockquote,
+q {
+  quotes: none;
+}
+blockquote:before,
+blockquote:after,
+q:before,
+q:after {
+  content: '';
+  content: none;
+}
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+hr {
+  margin: 0;
+}
+.layout {
+  margin: 2rem auto;
+}
+.layout__posts {
+  max-width: 41.875rem;
+}
+.pullout {
+  margin-left: -15.81632653%;
+  margin-right: -15.81632653%;
+}
+.gallery ol,
+.gallery li {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+.gallery .gallery-row {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin-bottom: 10px;
+}
+.gallery .gallery-row:last-child {
+  margin-bottom: 0;
+}
+.gallery .gallery-row li {
+  margin-right: 10px;
+  width: 100%;
+}
+.gallery .gallery-row li:last-child {
+  margin-right: 0;
+}
+.gallery img {
+  display: block;
+  width: 100%;
+}
+body {
+  font-family: "Sentinel SSm A", "Sentinel SSm B";
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+time {
+  font-family: "Whitney SSm A", "Whitney SSm B";
+}
+h1,
+h2,
+h3,
+h4 {
+  font-weight: bold;
+}
+h1 {
+  font-size: 58px;
+  font-size: 3.625rem;
+  line-height: 1.10344828;
+}
+h2 {
+  font-size: 32px;
+  font-size: 2rem;
+  line-height: 2;
+}
+h3 {
+  font-size: 22px;
+  font-size: 1.375rem;
+  line-height: 2.18181818;
+}
+h4,
+h5,
+h6 {
+  font-size: 16px;
+  font-size: 1rem;
+  line-height: 2;
+  color: #333;
+  text-transform: uppercase;
+}
+time {
+  font-size: 14px;
+  line-height: 2.28571429;
+  color: #CCC;
+  text-transform: uppercase;
+}
+.prose {
+  font-size: 19px;
+  font-size: 1.1875rem;
+  line-height: 1.68421053;
+}
+.prose p,
+.prose ul,
+.prose ol,
+.prose dl,
+.prose table {
+  color: #333;
+}
+.prose p {
+  margin-bottom: 32px;
+  margin-bottom: 2rem;
+}
+.prose a:link {
+  color: #3a99d9;
+}
+.prose a:visited {
+  color: #247fbc;
+}
+.prose ul {
+  list-style: disc;
+}
+.prose ul ul {
+  list-style: circle;
+}
+.prose ul ul ul {
+  list-style: square;
+}
+.prose ol {
+  list-style: decimal;
+}
+.prose ol ol {
+  list-style: lower-latin;
+}
+.prose ol ol ol {
+  list-style: lower-roman;
+}
+.prose ul ul,
+.prose ul ol,
+.prose ol ol,
+.prose ol ul {
+  margin-left: 3em;
+}
+.prose img {
+  display: block;
+  max-width: 100%;
+}
+.prose figure {
+  margin: 31px 0;
+  margin: 1.9375rem 0;
+  border-bottom: 1px solid #ffffff;
+}
+.prose figure figcaption {
+  font-size: 13px;
+  font-size: 0.8125rem;
+  line-height: 2.46153846;
+  color: #cccccc;
+  font-style: italic;
+}
+.prose hr {
+  border: 6px solid #cccccc;
+  margin-bottom: 32px;
+  margin-bottom: 2rem;
+}
+.prose h2,
+.prose h3,
+.prose h4,
+.prose h5,
+.prose h6,
+.prose > figure,
+.prose > .gallery,
+.prose > img {
+  margin-top: 32px;
+  margin-top: 2rem;
+}
+.u-quiet {
+  color: #cccccc;
+  font-size: 13px;
+  font-size: 0.8125rem;
+  line-height: 2.46153846;
+  text-transform: uppercase;
+}
+.u-center {
+  text-align: center;
+}
+.u-underline {
+  border-bottom: 1px solid #65afe1;
+  box-sizing: border-box;
+  margin-bottom: 32px;
+  margin-bottom: 2rem;
+}
+.u-snug {
+  margin-bottom: 0;
+}
+.u-snug + * {
+  margin-top: 0;
+}

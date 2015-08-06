@@ -1,0 +1,48 @@
+//global font styles
+
+body {
+    font-family: "Sentinel SSm A", "Sentinel SSm B";
+}
+
+h1,h2,h3,h4,h5,h6,time {
+    font-family: "Whitney SSm A", "Whitney SSm B";
+}
+
+h1, h2, h3, h4 {
+    font-weight: bold;
+}
+
+//headings
+
+h1 {
+  font-size: 58px;
+  font-size: unit(58/@base,rem);
+  line-height: @lineheight*2/58;
+}
+
+h2 {
+  font-size: 32px;
+  font-size: unit(32/@base,rem);
+  line-height: 2;
+}
+
+h3 {
+  font-size: 22px;
+  font-size: unit(22/@base,rem);
+  line-height: @lineheight*1.5/22;
+}
+
+h4, h5, h6 {
+  font-size: 16px;
+  font-size: 1rem;
+  line-height: @lineheight/16;
+  color: #333;
+  text-transform: uppercase;
+}
+
+time {
+    font-size: 14px;
+    line-height: @lineheight/14;
+    color: #CCC;
+    text-transform: uppercase;
+}

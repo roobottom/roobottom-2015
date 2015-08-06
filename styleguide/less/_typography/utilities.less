@@ -1,0 +1,23 @@
+.u-quiet {
+    color: @grey;
+    font-size: 13px;
+    font-size: unit(13/@base,rem);
+    line-height: @lineheight/13;
+    text-transform: uppercase;
+}
+
+.u-center {
+    text-align: center;
+}
+.u-underline {
+    border-bottom: 1px solid lighten(@blue,10%);
+    box-sizing: border-box;
+    .margin-bottom();
+}
+
+.u-snug {
+    margin-bottom: 0;
+}
+.u-snug + * {
+    margin-top: 0;
+}

@@ -1,0 +1,32 @@
+//global base size
+@base:                      16;
+
+//baseline grid
+@lineheight:                32;
+@paragraph:                 19;
+
+
+//layouts
+@layout_posts:              670; //the max width for text 
+@max_pull_width:            980; //the max with pulled items can stretch to.
+
+
+//colours
+@blue:                      #3A99D9;
+@grey:                      #cccccc;
+
+//includes
+@import '__includes/reset';
+@import '__includes/mixins';
+
+//layouts
+@import '_layouts/layouts';
+@import '_layouts/pullouts';
+
+//components
+@import '_components/gallery';
+
+//type
+@import '_typography/typography';
+@import '_typography/prose';
+@import '_typography/utilities';
