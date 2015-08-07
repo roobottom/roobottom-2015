@@ -192,7 +192,7 @@ h1 {
 h2 {
   font-size: 32px;
   font-size: 2rem;
-  line-height: 2;
+  line-height: 1.4;
 }
 h3 {
   font-size: 22px;
@@ -211,7 +211,7 @@ h6 {
 time {
   font-size: 14px;
   line-height: 2.28571429;
-  color: #CCC;
+  color: #cccccc;
   text-transform: uppercase;
 }
 .prose {
@@ -226,15 +226,54 @@ time {
 .prose table {
   color: #333;
 }
-.prose p {
+.prose p,
+.prose > ul,
+.prose > ol {
   margin-bottom: 32px;
   margin-bottom: 2rem;
 }
-.prose a:link {
-  color: #3a99d9;
+.prose a {
+  -webkit-transition: color 200ms ease;
+          transition: color 200ms ease;
+  background-image: -webkit-linear-gradient(bottom, white, white 2px, #3a99d9 2px, #3a99d9 3px, white 3px);
+  background-image: linear-gradient(to top, white, white 2px, #3a99d9 2px, #3a99d9 3px, white 3px);
+  text-shadow: -1px -1px 0 #ffffff, 1px -1px 0 #ffffff, -1px 1px 0 #ffffff, 1px 1px 0 #ffffff;
+  text-decoration: none;
+  color: #333;
 }
-.prose a:visited {
+.prose a:hover,
+.prose a:focus {
   color: #247fbc;
+}
+.prose em,
+.prose i {
+  font-style: italic;
+}
+.prose strong,
+.prose b {
+  font-weight: bold;
+}
+.prose em strong,
+.prose i strong,
+.prose em b,
+.prose i b,
+.prose strong em,
+.prose strong i,
+.prose b em,
+.prose b i {
+  font-style: italic;
+  font-weight: bold;
+}
+.prose h2,
+.prose h3,
+.prose h4,
+.prose h5,
+.prose h6,
+.prose > figure,
+.prose > .gallery,
+.prose > img {
+  margin-top: 32px;
+  margin-top: 2rem;
 }
 .prose ul {
   list-style: disc;
@@ -249,10 +288,10 @@ time {
   list-style: decimal;
 }
 .prose ol ol {
-  list-style: lower-latin;
+  list-style: lower-roman;
 }
 .prose ol ol ol {
-  list-style: lower-roman;
+  list-style: lower-latin;
 }
 .prose ul ul,
 .prose ul ol,
@@ -277,20 +316,29 @@ time {
   font-style: italic;
 }
 .prose hr {
-  border: 6px solid #cccccc;
+  border-top: 2px dashed #cccccc;
+  border-bottom: none;
   margin-bottom: 32px;
   margin-bottom: 2rem;
 }
-.prose h2,
-.prose h3,
-.prose h4,
-.prose h5,
-.prose h6,
-.prose > figure,
-.prose > .gallery,
-.prose > img {
-  margin-top: 32px;
-  margin-top: 2rem;
+.prose blockquote {
+  padding-left: 2em;
+  border-left: 3px solid #cccccc;
+}
+.prose blockquote p,
+.prose blockquote ul,
+.prose blockquote ol,
+.prose blockquote dl,
+.prose blockquote table {
+  color: #666666;
+}
+.prose code {
+  font-family: 'source code', monospace;
+  font-feature-setting: 'liga' 0;
+}
+.prose p > code {
+  color: #ed3046;
+  margin: 0 .1em;
 }
 .u-quiet {
   color: #cccccc;

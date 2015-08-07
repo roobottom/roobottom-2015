@@ -23,7 +23,7 @@ h1 {
 h2 {
   font-size: 32px;
   font-size: unit(32/@base,rem);
-  line-height: 2;
+  line-height: @lineheight*1.4/32;
 }
 
 h3 {
@@ -43,6 +43,6 @@ h4, h5, h6 {
 time {
     font-size: 14px;
     line-height: @lineheight/14;
-    color: #CCC;
+    color: @grey;
     text-transform: uppercase;
 }

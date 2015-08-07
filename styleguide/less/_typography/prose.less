@@ -3,24 +3,49 @@
   font-size: unit(@paragraph/@base,rem);
   line-height: @lineheight/@paragraph;
   
+//basic text styling
+
   p, ul, ol, dl, table {
 	  color: #333;
   }
-
   
-  
-  p {
+  p, >ul, >ol {
     .margin-bottom();
   }
   
-  a:link {
-	  color: @blue;
+  a {
+	  transition: color 200ms ease;
+	  background-image: linear-gradient(to top, white, white 2px, @blue 2px, @blue 3px, white 3px);
+	  text-shadow: -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff, 1px 1px 0 #fff;
+	  text-decoration: none;
+	  color: #333;
   }
-  a:visited {
+
+  a:hover, a:focus {
       color: darken(@blue,10%);
   }
   
+  em, i {
+      font-style: italic;
+  }
   
+  strong, b {
+      font-weight: bold;
+  }
+  
+  em strong, i strong,
+  em b, i b,
+  strong em, strong i,
+  b em, b i {
+      font-style: italic;
+      font-weight: bold;
+  }
+  
+//spacing
+
+    h2, h3, h4, h5, h6, >figure, >.gallery, >img {
+        .margin-top();
+    }  
    
 //lists
 
@@ -37,9 +62,9 @@
   ol {
     list-style: decimal;
     ol {
-      list-style: lower-latin;
+      list-style: lower-roman;
       ol {
-        list-style: lower-roman;
+        list-style: lower-latin;
       }
     }
   }
@@ -74,15 +99,31 @@
 //hr
     
     hr {
-        border: 6px solid @grey;
+        border-top: 2px dashed @grey;
+        border-bottom: none;
         .margin-bottom();
     }
+    
+//blockquotes
+    
+    blockquote {
+        padding-left: 2em;
+        border-left: 3px solid @grey;
+        p, ul, ol, dl, table {
+           color: darken(@grey,40%); 
+        }
+    }    
   
-  
-//seperations of concerns
+//code 
 
-    h2, h3, h4, h5, h6, >figure, >.gallery, >img {
-        .margin-top();
+    code {
+        font-family: 'source code', monospace;
+        font-feature-setting: 'liga' 0;
+    }
+    
+    p >code {
+        color: @red;
+        margin: 0 .1em;
     }
   
 }
