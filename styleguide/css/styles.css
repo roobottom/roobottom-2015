@@ -132,11 +132,31 @@ hr {
 a {
   text-decoration: none;
 }
+.styleguide--block {
+  border: 1px solid #cccccc;
+  background-color: #e6e6e6;
+  min-width: 40%;
+}
+.styleguide--block *,
+.styleguide--block {
+  color: #cccccc;
+  text-align: center;
+}
 .layout {
   margin: 2rem auto;
 }
 .layout__posts {
   max-width: 41.875rem;
+}
+.push--left {
+  float: left;
+  margin: 0 16px 32px 0;
+  margin: 0 1rem 2rem 0;
+}
+.push--right {
+  float: right;
+  margin: 0 0 32px 16px;
+  margin: 0 0 2rem 1rem;
 }
 .pull--wide {
   margin-left: -155px;
@@ -185,6 +205,10 @@ a {
   border-bottom-right-radius: 5px;
   margin: 0 .5em;
   display: block;
+}
+.tags a:before {
+  content: "";
+  position: absolute;
 }
 body {
   font-family: "Sentinel SSm A", "Sentinel SSm B";

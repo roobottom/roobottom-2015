@@ -407,7 +407,7 @@
 		"disableJavascript": 0,
 		"fileType": 1,
 		"ieCompatibility": 1,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/less\/__includes\/styleguide.less",
 		"outputAbbreviatedPath": "\/less\/css\/styleguide.css",
@@ -481,7 +481,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/less\/_layouts\/pullouts.less": {
+	"\/less\/_layouts\/push-pull.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -489,8 +489,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/less\/_layouts\/pullouts.less",
-		"outputAbbreviatedPath": "\/less\/css\/pullouts.css",
+		"inputAbbreviatedPath": "\/less\/_layouts\/push-pull.less",
+		"outputAbbreviatedPath": "\/less\/css\/push-pull.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
