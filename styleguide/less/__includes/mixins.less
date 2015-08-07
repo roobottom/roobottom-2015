@@ -1,7 +1,9 @@
 .calculate-pullout(@inner,@outer) {
-    @pullout: -1 * ((100 - ((@inner/@outer) * 100)) / 2);
-    margin-left: unit(@pullout,%);
-    margin-right: unit(@pullout,%);
+    @pullout: -1 * ((@outer - @inner)/2);
+    margin-left: unit(@pullout,px);
+    margin-left: unit(@pullout/@base,rem);
+    margin-right: unit(@pullout,px);
+    margin-right: unit(@pullout/@base,rem);
 }
 
 .margin-bottom() {

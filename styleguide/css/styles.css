@@ -129,15 +129,20 @@ table {
 hr {
   margin: 0;
 }
+a {
+  text-decoration: none;
+}
 .layout {
   margin: 2rem auto;
 }
 .layout__posts {
   max-width: 41.875rem;
 }
-.pullout {
-  margin-left: -15.81632653%;
-  margin-right: -15.81632653%;
+.pull--wide {
+  margin-left: -155px;
+  margin-left: -9.6875rem;
+  margin-right: -155px;
+  margin-right: -9.6875rem;
 }
 .gallery ol,
 .gallery li {
@@ -165,6 +170,21 @@ hr {
 .gallery img {
   display: block;
   width: 100%;
+}
+.tags {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+.tags a {
+  background-color: #3a99d9;
+  color: white;
+  padding: .5em;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+  margin: 0 .5em;
+  display: block;
 }
 body {
   font-family: "Sentinel SSm A", "Sentinel SSm B";
@@ -304,9 +324,7 @@ time {
   max-width: 100%;
 }
 .prose figure {
-  margin: 31px 0;
-  margin: 1.9375rem 0;
-  border-bottom: 1px solid #ffffff;
+  border-bottom: 1px solid #e6e6e6;
 }
 .prose figure figcaption {
   font-size: 13px;
@@ -314,6 +332,11 @@ time {
   line-height: 2.46153846;
   color: #cccccc;
   font-style: italic;
+}
+.prose > img,
+.prose > .gallery {
+  margin-bottom: 32px;
+  margin-bottom: 2rem;
 }
 .prose hr {
   border-top: 2px dashed #cccccc;

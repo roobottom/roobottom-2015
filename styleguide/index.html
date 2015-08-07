@@ -7,28 +7,12 @@
 		<link rel="stylesheet" href="css/styles.css" type="text/css" media="screen" charset="utf-8">
 	</head>
 	<body>
-		<section class="styleguide-section layout layout__posts">
-    		<article class="article article__note">
-        		<header class="article--header">
-            		<h1>Holiday Quickie</h1>
-        		</header>
-        		<footer class="article--footer">
-            		  <p><time>Thursday, 19th July 2080</time></p>
-        		</footer>
-        		<div class="article--body prose">
-            		<div class="gallery pullout">
-                		<ol>
-                    		<li class="gallery-item"><a href="example-images/large/2015-08-02-01.jpg"><img src="example-images/medium/2015-08-02-01.jpg" class="gallery-image" data-width="640" data-height="427"/></a></li>
-                    		<li class="gallery-item"><a href="example-images/large/2015-08-02-02.jpg"><img src="example-images/medium/2015-08-02-02.jpg" class="gallery-image" data-width="640" data-height="427"/></a></li>
-                    		<li class="gallery-item"><a href="example-images/large/2015-08-02-03.jpg"><img src="example-images/medium/2015-08-02-03.jpg" class="gallery-image" data-width="640" data-height="427"/></a></li>
-                    		<li class="gallery-item"><a href="example-images/large/2015-08-02-04.jpg"><img src="example-images/medium/2015-08-02-04.jpg" class="gallery-image" data-width="640" data-height="427"/></a></li>
-                    		<li class="gallery-item"><a href="example-images/large/2015-08-02-05.jpg"><img src="example-images/medium/2015-08-02-05.jpg" class="gallery-image" data-width="640" data-height="427"/></a></li>
-                    		<li class="gallery-item"><a href="example-images/large/2015-08-02-06.jpg"><img src="example-images/medium/2015-08-02-06.jpg" class="gallery-image" data-width="640" data-height="427"/></a></li>
-                    		<li class="gallery-item"><a href="example-images/large/2015-08-02-07.jpg"><img src="example-images/medium/2015-08-02-07.jpg" class="gallery-image" data-width="640" data-height="480"/></a></li>
-                		</ol>
-            		</div>
-            		
-            		<h2>Second level heading</h2>
+		<section class="layout layout__posts">
+    		    <h1>Styleguide</h1>
+        		<div class="prose">
+            		<p>All the content within this page is contained with the <code>.prose</code> class scope. This is used when writing blocks of text.</p>
+            		<h2>Headings</h2>
+            		<h3>Second level heading</h3>
             		<p>Second level headings <code>h2</code> are used in a post. Multiple second level headings can be used to introduce separate ideas in a post.</p>
             		<h3>Third level heading</h3>
             		<p>Third level headings <code>h3</code> are used in a post as a sub level heading to a <code>h2</code>.</p>
@@ -96,14 +80,40 @@
             		<p>For snippets of code inline in text the <code>code</code> tag is used, for example typing <code>ls -a</code> into terminal will show you all files including the . files</p>
             		<p>However, if there's more code to be shown then multiline code can be wrapped in <code>pre</code> tags and then styled automagically with the <a href="https://github.com/jneen/rouge">Rouge Highlighter</a>, like this:
             		<p><em>Missing for now, until this is a jekyll page</em></p>
+            		<hr/>
+            		<h2>Media</h2>
+            		<h3>Image</h3>
+            		<p>Most new posts will use the <code>figure</code> tag to wrap an image, however historical posts will use the <code>img</code> tag directly.</p>
+            		<img src="example-images/large/2015-08-02-01.jpg"/>
+            		<h3>figures</h3>
+            		<p>A <code>figure</code> tag is used to present a single image. It can have an optional caption with <code>figcaption</code>.</p>
+            		<figure class="">
+            		    <img src="example-images/large/2015-08-02-02.jpg" />
+            		    <figcaption>Katie and A enjoying themselves at Mewsbrook park, Littlehampton</figcaption>
+            		</figure>
+            		<h3>Gallery</h3>
+            		<p>A gallery component is used when two or more images need to be contained together. It uses javascript to achieve the 'brick wall' effect.</p>
+            		<div class="gallery">
+                		<ol>
+                    		<li class="gallery-item"><a href="example-images/large/2015-08-02-01.jpg"><img src="example-images/medium/2015-08-02-01.jpg" class="gallery-image" data-width="640" data-height="427"/></a></li>
+                    		<li class="gallery-item"><a href="example-images/large/2015-08-02-02.jpg"><img src="example-images/medium/2015-08-02-02.jpg" class="gallery-image" data-width="640" data-height="427"/></a></li>
+                    		<li class="gallery-item"><a href="example-images/large/2015-08-02-03.jpg"><img src="example-images/medium/2015-08-02-03.jpg" class="gallery-image" data-width="640" data-height="427"/></a></li>
+                    		<li class="gallery-item"><a href="example-images/large/2015-08-02-04.jpg"><img src="example-images/medium/2015-08-02-04.jpg" class="gallery-image" data-width="640" data-height="427"/></a></li>
+                    		<li class="gallery-item"><a href="example-images/large/2015-08-02-05.jpg"><img src="example-images/medium/2015-08-02-05.jpg" class="gallery-image" data-width="640" data-height="427"/></a></li>
+                    		<li class="gallery-item"><a href="example-images/large/2015-08-02-06.jpg"><img src="example-images/medium/2015-08-02-06.jpg" class="gallery-image" data-width="640" data-height="427"/></a></li>
+                    		<li class="gallery-item"><a href="example-images/large/2015-08-02-07.jpg"><img src="example-images/medium/2015-08-02-07.jpg" class="gallery-image" data-width="640" data-height="480"/></a></li>
+                		</ol>
+            		</div>
+            		<hr/>
         		</div>
-        		<div class="tags">
-            		<ul>
-                        <li><a href="#">Family</a></li>
-                        <li><a href="#">Baby Roo</a></li>
-            		</ul>
-        		</div>
-    		</article>
+        		
+        		<h2>tags</h2>
+        		<ul class="tags">
+            		<li><a href="#">Friends</a></li>
+            		<li><a href="#">Family</a></li>
+            		<li><a href="#">Baby Roo</a></li>
+        		</ul>
+        		
 		</section>
 		
 		<script src="js/jquery.2.1.4.js"></script>
