@@ -2,19 +2,48 @@
 
 .push--left {
     float:left;
-    margin: 0 unit(@lineheight/2,px) unit(@lineheight,px) 0;
-    margin: 0 unit((@lineheight/2)/@base,rem) unit(@lineheight/@base,rem) 0;
+    margin: 0 unit(@lineheight/2,px) 0 0;
+    margin: 0 unit((@lineheight/2)/@base,rem) 0 0;
 }
 
 .push--right {
     float:right;
-    margin: 0 0 unit(@lineheight,px) unit(@lineheight/2,px);
-    margin: 0 0 unit(@lineheight/@base,rem) unit((@lineheight/2)/@base,rem);
+    margin: 0 0 0 unit(@lineheight/2,px);
+    margin: 0 0 0 unit((@lineheight/2)/@base,rem);
 }
-
 
 //pull
 
-.pull--wide {
-    .calculate-pullout(@layout_posts,@max_pull_width);
+.calculate-pullout(@inner,@outer) {
+    @pullout: -1 * ((@outer - @inner)/2);
+    margin-left: unit(@pullout,px);
+    margin-left: unit(@pullout/@base,rem);
+    margin-right: unit(@pullout,px);
+    margin-right: unit(@pullout/@base,rem);
+}
+
+
+@pullout: -1 * ((@max_pull_width - @layout_posts)/2);
+
+.pull--left {
+   margin-left: unit(@pullout,px);
+   margin-left: unit(@pullout/@base,rem); 
+   float: left;
+   margin-right: unit(@lineheight/2,px);
+   margin-right: unit((@lineheight/2)/@base,rem);
+}
+
+.pull--right {
+   margin-right: unit(@pullout,px);
+   margin-right: unit(@pullout/@base,rem); 
+   float: right;
+   margin-left: unit(@lineheight/2,px);
+   margin-left: unit((@lineheight/2)/@base,rem);
+}
+
+.pull--both {
+    margin-left: unit(@pullout,px);
+    margin-left: unit(@pullout/@base,rem);
+    margin-right: unit(@pullout,px);
+    margin-right: unit(@pullout/@base,rem);
 }
