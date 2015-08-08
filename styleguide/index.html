@@ -7,7 +7,7 @@
 		<link rel="stylesheet" href="css/styles.css" type="text/css" media="screen" charset="utf-8">
 	</head>
 	<body>
-		<section class="layout layout__posts">
+		<section class="layout--posts">
     		    <h1>Styleguide</h1>
         		<div class="prose">
             		<p>All the content within this page is contained with the <code>.prose</code> class scope. This is used when writing blocks of text.</p>
@@ -91,19 +91,6 @@
             		    <img src="example-images/large/2015-08-02-02.jpg" />
             		    <figcaption>Katie and A enjoying themselves at Mewsbrook park, Littlehampton</figcaption>
             		</figure>
-            		<h3>Gallery</h3>
-            		<p>A gallery component is used when two or more images need to be contained together. It uses javascript to achieve the 'brick wall' effect.</p>
-            		<div class="gallery">
-                		<ol>
-                    		<li class="gallery-item"><a href="example-images/large/2015-08-02-01.jpg"><img src="example-images/medium/2015-08-02-01.jpg" class="gallery-image" data-width="640" data-height="427"/></a></li>
-                    		<li class="gallery-item"><a href="example-images/large/2015-08-02-02.jpg"><img src="example-images/medium/2015-08-02-02.jpg" class="gallery-image" data-width="640" data-height="427"/></a></li>
-                    		<li class="gallery-item"><a href="example-images/large/2015-08-02-03.jpg"><img src="example-images/medium/2015-08-02-03.jpg" class="gallery-image" data-width="640" data-height="427"/></a></li>
-                    		<li class="gallery-item"><a href="example-images/large/2015-08-02-04.jpg"><img src="example-images/medium/2015-08-02-04.jpg" class="gallery-image" data-width="640" data-height="427"/></a></li>
-                    		<li class="gallery-item"><a href="example-images/large/2015-08-02-05.jpg"><img src="example-images/medium/2015-08-02-05.jpg" class="gallery-image" data-width="640" data-height="427"/></a></li>
-                    		<li class="gallery-item"><a href="example-images/large/2015-08-02-06.jpg"><img src="example-images/medium/2015-08-02-06.jpg" class="gallery-image" data-width="640" data-height="427"/></a></li>
-                    		<li class="gallery-item"><a href="example-images/large/2015-08-02-07.jpg"><img src="example-images/medium/2015-08-02-07.jpg" class="gallery-image" data-width="640" data-height="480"/></a></li>
-                		</ol>
-            		</div>
             		<hr/>
             		<h2>Layouts</h2>
             		<p>There are several utility classes that can be used to either push or pull content, typically media elements, to one side or another.</p>
@@ -111,18 +98,36 @@
             		<p><span class="push--left styleguide--block"><code>.push--left</code></span><code>.push--left</code> is used to align items to the left of inline elements.</p>
             		<p><span class="push--right styleguide--block"><code>.push--right</code></span><code>.push--right</code> is used to align items to the right of elements.</p>
             		<h3>Pull</h3>
-            		<p><span class="styleguide--block pull--left"><code>.pull--left</code></span><code>.pull--left</code> is used to pull items to the left of inline items</p>
-            		<p><span class="styleguide--block pull--right"><code>.pull--right</code></span><code>.pull--right</code> is used to pull items to the left of inline items</p>
+            		<p><span class="styleguide--block pull--left"><code>.pull--left</code></span><code>.pull--left</code> is used to pull items out of column to the left of inline items</p>
+            		<p><span class="styleguide--block pull--right"><code>.pull--right</code></span><code>.pull--right</code> is used to pull items out of column to the right of inline items</p>
                     <div class="styleguide--block pull--both"><code>.pull--both</code></div>
                     <p><code>.pull--both</code> is used to pull block level elements into a wider column on both sides. Usually used for images and galleries within posts.</p>
+                    <div class="styleguide--block pull--extended"><code>.pull--extended</code></div>
+                    <p><code>.pull--extended</code> is used to pull block level elements into a max-width column on both sides. Usually used for galleries within gallery pages.</p>
         		</div>
         		
-        		<h2>tags</h2>
+        		<h2>Tags</h2>
         		<ul class="tags">
             		<li><a href="#">Friends</a></li>
             		<li><a href="#">Family</a></li>
             		<li><a href="#">Baby Roo</a></li>
         		</ul>
+        		
+        		<div class="prose">
+        		<h2>Gallery</h2>
+        		<p>A gallery component is used when two or more images need to be contained together. It uses javascript to achieve the 'brick wall' effect.</p>
+        		<div class="gallery pull--extended">
+            		<ol>
+                		<li class="gallery-item"><a href="example-images/large/2015-08-02-01.jpg"><img src="example-images/medium/2015-08-02-01.jpg" class="gallery-image" data-width="640" data-height="427"/></a></li>
+                		<li class="gallery-item"><a href="example-images/large/2015-08-02-02.jpg"><img src="example-images/medium/2015-08-02-02.jpg" class="gallery-image" data-width="640" data-height="427"/></a></li>
+                		<li class="gallery-item"><a href="example-images/large/2015-08-02-03.jpg"><img src="example-images/medium/2015-08-02-03.jpg" class="gallery-image" data-width="640" data-height="427"/></a></li>
+                		<li class="gallery-item"><a href="example-images/large/2015-08-02-04.jpg"><img src="example-images/medium/2015-08-02-04.jpg" class="gallery-image" data-width="640" data-height="427"/></a></li>
+                		<li class="gallery-item"><a href="example-images/large/2015-08-02-05.jpg"><img src="example-images/medium/2015-08-02-05.jpg" class="gallery-image" data-width="640" data-height="427"/></a></li>
+                		<li class="gallery-item"><a href="example-images/large/2015-08-02-06.jpg"><img src="example-images/medium/2015-08-02-06.jpg" class="gallery-image" data-width="640" data-height="427"/></a></li>
+                		<li class="gallery-item"><a href="example-images/large/2015-08-02-07.jpg"><img src="example-images/medium/2015-08-02-07.jpg" class="gallery-image" data-width="640" data-height="480"/></a></li>
+            		</ol>
+        		</div>
+        		</div>
         		
 		</section>
 		

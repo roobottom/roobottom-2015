@@ -142,11 +142,16 @@ a {
   color: #cccccc;
   text-align: center;
 }
-.layout {
-  margin: 2rem auto;
-}
-.layout__posts {
+.layout--posts {
   max-width: 41.875rem;
+  margin: 20px;
+  margin: 1.25rem;
+}
+@media screen and (min-width: 690px) {
+  .layout--posts {
+    margin: 32px auto;
+    margin: 2rem auto;
+  }
 }
 .push--left {
   float: left;
@@ -159,24 +164,50 @@ a {
   margin: 0 0 0 1rem;
 }
 .pull--left {
-  margin-left: -155px;
-  margin-left: -9.6875rem;
+  margin-left: -20px;
+  margin-left: -1.25rem;
   float: left;
   margin-right: 16px;
   margin-right: 1rem;
 }
 .pull--right {
-  margin-right: -155px;
-  margin-right: -9.6875rem;
+  margin-right: -20px;
+  margin-right: -1.25rem;
   float: right;
   margin-left: 16px;
   margin-left: 1rem;
 }
-.pull--both {
-  margin-left: -155px;
-  margin-left: -9.6875rem;
-  margin-right: -155px;
-  margin-right: -9.6875rem;
+.pull--both,
+.pull--extended {
+  margin-left: -20px;
+  margin-left: -1.25rem;
+  margin-right: -20px;
+  margin-right: -1.25rem;
+}
+@media screen and (min-width: 1000px) {
+  .pull--left {
+    margin-left: -155px;
+    margin-left: -9.6875rem;
+  }
+  .pull--right {
+    margin-right: -155px;
+    margin-right: -9.6875rem;
+  }
+  .pull--both,
+  .pull--extended {
+    margin-left: -155px;
+    margin-left: -9.6875rem;
+    margin-right: -155px;
+    margin-right: -9.6875rem;
+  }
+}
+@media screen and (min-width: 1420px) {
+  .pull--extended {
+    margin-left: -365px;
+    margin-left: -22.8125rem;
+    margin-right: -365px;
+    margin-right: -22.8125rem;
+  }
 }
 .gallery ol,
 .gallery li {
