@@ -1,11 +1,9 @@
-
-
-.margin-bottom() {
-    margin-bottom: unit(@lineheight,px);
-    margin-bottom: unit(@lineheight/@base,rem);
+.margin-bottom(@div:1) {
+    margin-bottom: unit(@lineheight/@div,px);
+    margin-bottom: unit((@lineheight/@div)/@base,rem);
 }
 
-.margin-top() {
-    margin-top: unit(@lineheight,px);
-    margin-top: unit(@lineheight/@base,rem);
+.margin-top(@div:1) {
+    margin-top: unit(@lineheight/@div,px);
+    margin-top: unit((@lineheight/@div)/@base,rem);
 }

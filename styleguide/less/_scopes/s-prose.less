@@ -1,19 +1,11 @@
-.prose {
+.s-prose {
   font-size: unit(@paragraph,px);
   font-size: unit(@paragraph/@base,rem);
   line-height: @lineheight/@paragraph;
   
 //basic text styling
-
-  p, ul, ol, dl, table {
-	  color: #333;
-  }
   
-  p, >ul, >ol {
-    .margin-bottom();
-  }
-  
-  a {
+  a:not(.tag) {
 	  transition: color 200ms ease;
 	  background-image: linear-gradient(to top, white, white 2px, @blue 2px, @blue 3px, white 3px);
 	  text-shadow: -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff, 1px 1px 0 #fff;
@@ -43,13 +35,13 @@
   
 //spacing
 
-    h2, h3, h4, h5, h6, >figure, >.gallery, >img {
-        .margin-top();
+    >figure, >.gallery, >img, p, >ul, >ol, hr {
+        .margin-bottom();
     }  
    
 //lists
 
-  ul  {
+  ul:not(.tags)  {
     list-style: disc;
     ul {
       list-style: circle;
@@ -107,7 +99,6 @@
     hr {
         border-top: 2px dashed @grey;
         border-bottom: none;
-        .margin-bottom();
     }
     
 //blockquotes

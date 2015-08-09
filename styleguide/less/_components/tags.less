@@ -1,20 +1,31 @@
 .tags {
     display: flex;
+    flex-wrap: wrap;
+    .margin-bottom(2);
+    
+    font-size: 80%;
+    
+    li {
+      float: left; //fallback for older browsers  
+      .margin-bottom(2);
+    }
     
     a {
-        background-color: @blue;
-        color: white;
+        background-color: @yellow;
+        color: darken(@yellow,44%);
+        text-shadow: 0 1px 0 white;
         padding: .5em;
-        border-top-right-radius: 5px;
-        border-bottom-right-radius: 5px;
-        margin: 0 .5em; 
+        border-radius: 5px;
+        margin: 0 .5em 0 0; 
         display: block;
+        border: 1px solid darken(@yellow,10%);
+        border-bottom-width: 2px;
         
         
         &:before {
-            content: "";
-            position: absolute;
-            
+            content: "#";
+            color: darken(@yellow,30%); 
+            text-shadow: none;
         }
         
     }
