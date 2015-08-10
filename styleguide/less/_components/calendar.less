@@ -6,16 +6,32 @@
     }
     
     li {
-        width: 100%/7;
+        width: 100%/3;
+        @media screen and (min-width:unit((@layout_narrow + @layout_buffer),px)) {
+            width: 100%/5;
+        }
+        @media screen and (min-width:unit((@layout_wide + @layout_buffer),px)) {
+            width: 100%/7;
+        }
     }
     
     a {
         display: block;
+        position: relative;
     }
     
     img {
         display: block;
         max-width: 100%;
+    }
+    
+    time {
+        position: absolute;
+        top:0;
+        right: 0;
+        color: white;
+        background-color: fade(black,50%);
+        padding: .5em;
     }
     
 }

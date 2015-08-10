@@ -32,17 +32,12 @@
    margin-left: unit((@lineheight/2)/@base,rem);
 }
 
-.pull--both {
+.pull--both,
+.pull--extended {
     margin-left: unit(-1 * @layout_buffer,px);
     margin-left: unit(-1 * (@layout_buffer/@base),rem);
     margin-right: unit(-1 * @layout_buffer,px);
     margin-right: unit(-1 * (@layout_buffer/@base),rem);
-}
-
-.pull--extended {
-    @pullout: -1 * ((100 - ((@layout_narrow / @layout_full) * 100)) /2);
-    margin-left: unit(@pullout,%);
-        margin-right: unit(@pullout,%);
 }
 
 
@@ -57,7 +52,8 @@
         margin-right: unit(@pullout,px);
         margin-right: unit(@pullout/@base,rem); 
     }
-    .pull--both {
+    .pull--both,
+    .pull--extended {
         margin-left: unit(@pullout,px);
         margin-left: unit(@pullout/@base,rem);
         margin-right: unit(@pullout,px);

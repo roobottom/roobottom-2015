@@ -8,8 +8,9 @@
 	</head>
 	<body>
 		<section class="layout--posts">
-    		    <h1>Styleguide</h1>
         		<div class="s-prose">
+            		<h1>Style guide</h1>
+            		<p>This style guide outlines all the styles used on this website. It's rather bare-bones as this isn't a particularly complex website. It borrows ideas from all over the web, but mainly from <a href="https://paulrobertlloyd.com/styleguide">Paul Robert Lloyd's Style Guide</a>. Go there if you want to see how a style guide should be done.</p>
             		<h2>Headings</h2>
             		<h2>Second level heading</h2>
             		<p>Second level headings <code>h2</code> are used in a post. Multiple second level headings can be used to introduce separate ideas in a post.</p>
@@ -75,11 +76,29 @@
             		<p>The <code>em</code> tag is used to <em>add emphasis</em> to a word or phrase.</p>
             		<h3>Importance</h3>
             		<p>The <code>strong</code> tag is used to <strong>add importance</strong> to a word or phrase.</p>
+            		<h3>Abbreviations</h3>
+            		<p>The <code>abbr</code> tag is used along with it's <code>title</code> attribute to explain any abbreviations used, such as <abbr title="Hyper Text Markup Language">HTML</abbr> or <abbr title="To Long;Didn't Read">TL;DR</abbr></p>
+            		<h3>Dates and time</h3>
+            		<p>The <code>time</code> tag is used to display a date or time. For example, this page was written on <time>Monday, 10th August 2015</time>.</p>
             		<h3>Code</h3>
             		<p>For snippets of code inline in text the <code>code</code> tag is used, for example typing <code>ls -a</code> into terminal will show you all files including the . files</p>
             		<p>However, if there's more code to be shown then multiline code can be wrapped in <code>pre</code> tags and then styled automagically with the <a href="https://github.com/jneen/rouge">Rouge Highlighter</a>, like this:
             		<p><em>Missing for now, until this is a jekyll page</em></p>
-            		<hr/>
+            		
+            		<hr class="pull--both"/>
+            		
+            		<h2>Utilities</h2>
+            		<h3>Centre</h3>
+            		<p>The <code>.u-centre</code> class is used to align text to the centre. Usually used with a heading, for example:</p>
+            		<h4 class="u-centre">A centred heading</h4>
+            		<h3>Quiet</h3>
+            		<p>The <code>.u-quiet</code> class is used to reduce the visual importance of text, for example, <span class="u-quiet">See the <a href="#">note</a> about this</span>
+            		
+            		<h3>Highlight</h3>
+            		<p>The <code>.u-highlight</code> class is used to draw attention to text, for example, <span class="u-highlight">Fire sale in the sports department!</span></p>
+            		
+            		<hr class="pull--both"/>
+            		
             		<h2>Media</h2>
             		<h3>Image</h3>
             		<p>Most new posts will use the <code>figure</code> tag to wrap an image, however historical posts will use the <code>img</code> tag directly.</p>
@@ -90,7 +109,7 @@
             		    <img src="example-images/large/2015-08-02-02.jpg" />
             		    <figcaption>Katie and A enjoying themselves at Mewsbrook park, Littlehampton</figcaption>
             		</figure>
-            		<hr/>
+            		<hr class="pull--both"/>
             		<h2>Layouts</h2>
             		<p>There are several utility classes that can be used to either push or pull content, typically media elements, to one side or another.</p>
             		<h3>Push</h3>
@@ -136,21 +155,22 @@
                 		</ol>
             		</div>
             		<h3>Calendar</h3>
-            		<p>A calendar is used to display an overview of posts from a month or year. It is presumed that all posts will have at least one image. When a day has more than one post, the first one returned from the <abbr title="Content Management System">CMS</abbr> is used</p>
+            		<p>A calendar is used to display an overview of posts that have images from a year, split by months. When a day has more than one post, the first one returned from the <abbr title="Content Management System">CMS</abbr> is used.</p>
+            		<h3>January</h3>
             		<div class="calendar pull--extended">
                 		<ol>
-                    		<li class="gallery-item"><a href="#"><img src="example-images/square/2015-08-02-01.jpg" /></a></li>
-                    		<li class="gallery-item"><a href="#"><img src="example-images/square/2015-08-02-02.jpg" /></a></li>
-                    		<li class="gallery-item"><a href="#"><img src="example-images/square/2015-08-02-03.jpg" /></a></li>
-                    		<li class="gallery-item"><a href="#"><img src="example-images/square/2015-08-02-04.jpg" /></a></li>
-                    		<li class="gallery-item"><a href="#"><img src="example-images/square/2015-08-02-05.jpg" /></a></li>
-                    		<li class="gallery-item"><a href="#"><img src="example-images/square/2015-08-02-06.jpg" /></a></li>
-                    		<li class="gallery-item"><a href="#"><img src="example-images/square/2015-08-02-07.jpg" /></a></li>
-                    		<li class="gallery-item"><a href="#"><img src="example-images/square/2015-08-02-01.jpg" /></a></li>
-                    		<li class="gallery-item"><a href="#"><img src="example-images/square/2015-08-02-02.jpg" /></a></li>
-                    		<li class="gallery-item"><a href="#"><img src="example-images/square/2015-08-02-03.jpg" /></a></li>
-                    		<li class="gallery-item"><a href="#"><img src="example-images/square/2015-08-02-04.jpg" /></a></li>
-                    		<li class="gallery-item"><a href="#"><img src="example-images/square/2015-08-02-05.jpg" /></a></li>
+                    		<li><a href="#"><img src="example-images/square/2015-08-02-01.jpg" title="January 1st 2015" /><time datetime="20150101">1st</time></a></li>
+                    		<li><a href="#"><img src="example-images/square/2015-08-02-02.jpg" title="January 2nd 2015" /><time datetime="20150102">2nd</time></a></li>
+                    		<li><a href="#"><img src="example-images/square/2015-08-02-03.jpg" title="January 3rd 2015" /><time datetime="20150103">3rd</time></a></li>
+                    		<li><a href="#"><img src="example-images/square/2015-08-02-04.jpg" title="January 4th 2015" /><time datetime="20150104">4th</time></a></li>
+                    		<li><a href="#"><img src="example-images/square/2015-08-02-05.jpg" title="January 5th 2015" /><time datetime="20150105">5th</time></a></li>
+                    		<li><a href="#"><img src="example-images/square/2015-08-02-06.jpg" title="January 8th 2015" /><time datetime="20150108">8th</time></a></li>
+                    		<li><a href="#"><img src="example-images/square/2015-08-02-07.jpg" title="January 9th 2015" /><time datetime="20150109">9th</time></a></li>
+                    		<li><a href="#"><img src="example-images/square/2015-08-02-01.jpg" title="January 12th 2015" /><time datetime="20150112">12th</time></a></li>
+                    		<li><a href="#"><img src="example-images/square/2015-08-02-02.jpg" title="January 13th 2015" /><time datetime="20150113">13th</time></a></li>
+                    		<li><a href="#"><img src="example-images/square/2015-08-02-03.jpg" title="January 17th 2015" /><time datetime="20150117">17th</time></a></li>
+                    		<li><a href="#"><img src="example-images/square/2015-08-02-04.jpg" title="January 20th 2015" /><time datetime="20150120">20th</time></a></li>
+                    		<li><a href="#"><img src="example-images/square/2015-08-02-05.jpg" title="January 28th 2015" /><time datetime="20150128">28th</time></a></li>
                 		</ol>
             		</div>
         		</div><!-- /s-meta-->

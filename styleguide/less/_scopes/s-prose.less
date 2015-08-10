@@ -5,16 +5,16 @@
   
 //basic text styling
   
-  a:not(.tag) {
+  a, a:visited {
 	  transition: color 200ms ease;
 	  background-image: linear-gradient(to top, white, white 2px, @blue 2px, @blue 3px, white 3px);
 	  text-shadow: -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff, 1px 1px 0 #fff;
 	  text-decoration: none;
-	  color: #333;
+	  color: @blue;
   }
 
   a:hover, a:focus {
-      color: darken(@blue,10%);
+      color: darken(@blue,30%);
   }
   
   em, i {
@@ -41,7 +41,7 @@
    
 //lists
 
-  ul:not(.tags)  {
+  ul  {
     list-style: disc;
     ul {
       list-style: circle;
@@ -64,6 +64,15 @@
   ul ul, ul ol, ol ol, ol ul {
     margin-left: 3em;
   }
+  
+  >ul, >ol {
+      list-style-position: inside;
+      @media screen and (min-width:unit((@layout_narrow + @layout_buffer*6),px)) {
+        list-style-position: outside;
+      }
+  }
+  
+  
   
 //media
 	
@@ -92,7 +101,11 @@
 	}
 	
 	
-	
+// time
+
+    time {
+        color: darken(@grey,20%);
+    }	
 
 //hr
     
@@ -112,11 +125,6 @@
     }    
   
 //code 
-
-    code {
-        font-family: 'source code', monospace;
-        font-feature-setting: 'liga' 0;
-    }
     
     p >code {
         color: @red;
