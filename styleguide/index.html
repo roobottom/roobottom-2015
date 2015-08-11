@@ -1,183 +1,213 @@
-<!DOCTYPE html>
-<html>
-	<head>
-    	<meta charset="utf-8">
-		<title>Styleguide — roobottom.com</title>
-		<link rel="stylesheet" type="text/css" href="//cloud.typography.com/7701512/728566/css/fonts.css" />
-		<link rel="stylesheet" href="css/styles.css" type="text/css" media="screen" charset="utf-8">
-	</head>
-	<body>
-		<section class="layout--posts">
-        		<div class="s-prose">
-            		<h1>Style guide</h1>
-            		<p>This style guide outlines all the styles used on this website. It's rather bare-bones as this isn't a particularly complex website. It borrows ideas from all over the web, but mainly from <a href="https://paulrobertlloyd.com/styleguide">Paul Robert Lloyd's Style Guide</a>. Go there if you want to see how a style guide should be done.</p>
-            		<h2>Headings</h2>
-            		<h2>Second level heading</h2>
-            		<p>Second level headings <code>h2</code> are used in a post. Multiple second level headings can be used to introduce separate ideas in a post.</p>
-            		<h3>Third level heading</h3>
-            		<p>Third level headings <code>h3</code> are used in a post as a sub level heading to a <code>h2</code>.</p>
-            		<h4>Fourth level heading</h4>
-            		<p>Fourth level headings <code>h4</code> are used in a post as a sub level heading to a <code>h3</code>.</p>
-            		<h2>Grouping Content</h2>
-            		<h3>Horizontal rule</h3>
-            		<p>The horizontal rule is used to separate one concept from another in a post.</p>
-            		<hr/>
-            		<p>Usually, then, followed by a second level heading</p>
-            		<h3>Blockquotes</h3>
-            		<p>The <code>blockquote</code> element is used when quoting from another source</p>
-            		<blockquote>
-                		<p>The history of the Olympics is not only one of remarkable sporting achievement, but acts of incredible artistry too.</p>
-            		</blockquote>
-            		<h3>Ordered lists</h3>
-            		<p>Ordered lists <code>ol</code> are used, as their name suggests, to list items which have an order. They can be nested.</p>
-            		<ol>
-                		<li><abbr title="User eXperience">UX</abbr> tasks
-                		    <ol>
-                    		    <li>User research</li>
-                    		    <li>Creating personas</li>
-                    		    <li>Story writing</li>
-                    		    <li>Sketching</li>
-                    		    <li>Wireframes</li>
-                		    </ol>
-                		</li>
-                		<li>Design tasks
-                		    <ol>
-                    		    <li>Sketching</li>
-                    		    <li>Screen mockups</li>
-                    		    <li>Pattern systems</li>
-                    		    <li>Screen flows</li>
-                		    </ol>
-                		</li>
-            		</ol>
-            		<h3>Unordered lists</h3>
-                    <p>Unordered lists <code>ul</code> are used, as their name suggests, to list items which don't have an order. They can be nested.</p>
-            		<ul>
-                		<li>Colours
-                		    <ul>
-                    		    <li>Red</li>
-                    		    <li>Yellow</li>
-                    		    <li>Pink</li>
-                    		    <li>Green</li>
-                		    </ul>
-                		</li>
-                		<li>Textures
-                		    <ul>
-                                <li>Rough</li>
-                                <li>Sand</li>
-                                <li>Grass</li>
-                                <li>Smooth</li>
-                		    </ul>
-                		</li>
-            		</ul>
-            		<h2>Text level semantics</h2>
-            		<h3>Links</h3>
-            		<p>The <code>a</code> tag is used to link text to another location on the web.<br/><a href="#">This is an example of a link</a>.
-            		<h3>Emphasis</h3>
-            		<p>The <code>em</code> tag is used to <em>add emphasis</em> to a word or phrase.</p>
-            		<h3>Importance</h3>
-            		<p>The <code>strong</code> tag is used to <strong>add importance</strong> to a word or phrase.</p>
-            		<h3>Abbreviations</h3>
-            		<p>The <code>abbr</code> tag is used along with it's <code>title</code> attribute to explain any abbreviations used, such as <abbr title="Hyper Text Markup Language">HTML</abbr> or <abbr title="To Long;Didn't Read">TL;DR</abbr></p>
-            		<h3>Dates and time</h3>
-            		<p>The <code>time</code> tag is used to display a date or time. For example, this page was written on <time>Monday, 10th August 2015</time>.</p>
-            		<h3>Code</h3>
-            		<p>For snippets of code inline in text the <code>code</code> tag is used, for example typing <code>ls -a</code> into terminal will show you all files including the . files</p>
-            		<p>However, if there's more code to be shown then multiline code can be wrapped in <code>pre</code> tags and then styled automagically with the <a href="https://github.com/jneen/rouge">Rouge Highlighter</a>, like this:
-            		<p><em>Missing for now, until this is a jekyll page</em></p>
-            		
-            		<hr class="pull--both"/>
-            		
-            		<h2>Utilities</h2>
-            		<h3>Centre</h3>
-            		<p>The <code>.u-centre</code> class is used to align text to the centre. Usually used with a heading, for example:</p>
-            		<h4 class="u-centre">A centred heading</h4>
-            		<h3>Quiet</h3>
-            		<p>The <code>.u-quiet</code> class is used to reduce the visual importance of text, for example, <span class="u-quiet">See the <a href="#">note</a> about this</span>
-            		
-            		<h3>Highlight</h3>
-            		<p>The <code>.u-highlight</code> class is used to draw attention to text, for example, <span class="u-highlight">Fire sale in the sports department!</span></p>
-            		
-            		<hr class="pull--both"/>
-            		
-            		<h2>Media</h2>
-            		<h3>Image</h3>
-            		<p>Most new posts will use the <code>figure</code> tag to wrap an image, however historical posts will use the <code>img</code> tag directly.</p>
-            		<img src="example-images/large/2015-08-02-01.jpg"/>
-            		<h3>figures</h3>
-            		<p>A <code>figure</code> tag is used to present a single image. It can have an optional caption with <code>figcaption</code>.</p>
-            		<figure class="">
-            		    <img src="example-images/large/2015-08-02-02.jpg" />
-            		    <figcaption>Katie and A enjoying themselves at Mewsbrook park, Littlehampton</figcaption>
-            		</figure>
-            		<hr class="pull--both"/>
-            		<h2>Layouts</h2>
-            		<p>There are several utility classes that can be used to either push or pull content, typically media elements, to one side or another.</p>
-            		<h3>Push</h3>
-            		<p><span class="push--left styleguide--item"><code>.push--left</code></span><code>.push--left</code> is used to align items to the left of inline elements.</p>
-            		<p><span class="push--right styleguide--item"><code>.push--right</code></span><code>.push--right</code> is used to align items to the right of elements.</p>
-            		<h3>Pull</h3>
-            		<p><span class="styleguide--item pull--left"><code>.pull--left</code></span><code>.pull--left</code> is used to pull items out of column to the left of inline items</p>
-            		<p><span class="styleguide--item pull--right"><code>.pull--right</code></span><code>.pull--right</code> is used to pull items out of column to the right of inline items</p>
-                    <div class="styleguide--item styleguide__block pull--both"><code>.pull--both</code></div>
-                    <p><code>.pull--both</code> is used to pull block level elements into a wider column on both sides. Usually used for images and galleries within posts.</p>
-                    <div class="styleguide--item styleguide__block pull--extended"><code>.pull--extended</code></div>
-                    <p><code>.pull--extended</code> is used to pull block level elements into a max-width column on both sides. Usually used for galleries within gallery pages.</p>
-        		</div><!-- /s-prose -->
+---
+title: Style guide
+layout: default
+---
+<div class="s-prose">
+	<h2>Headings</h2>
+	<h2>Second level heading</h2>
+	<p>Second level headings <code>h2</code> are used in a post. Multiple second level headings can be used to introduce separate ideas in a post.</p>
+	<h3>Third level heading</h3>
+	<p>Third level headings <code>h3</code> are used in a post as a sub level heading to a <code>h2</code>.</p>
+	<h4>Fourth level heading</h4>
+	<p>Fourth level headings <code>h4</code> are used in a post as a sub level heading to a <code>h3</code>.</p>
+	<h2>Grouping Content</h2>
+	<h3>Horizontal rule</h3>
+	<p>The horizontal rule is used to separate one concept from another in a post.</p>
+	<hr/>
+	<p>Usually, then, followed by a second level heading</p>
+	<h3>Blockquotes</h3>
+	<p>The <code>blockquote</code> element is used when quoting from another source</p>
+	<blockquote>
+		<p>The history of the Olympics is not only one of remarkable sporting achievement, but acts of incredible artistry too.</p>
+	</blockquote>
+	<h3>Ordered lists</h3>
+	<p>Ordered lists <code>ol</code> are used, as their name suggests, to list items which have an order. They can be nested.</p>
+	<ol>
+		<li><abbr title="User eXperience">UX</abbr> tasks
+		    <ol>
+    		    <li>User research</li>
+    		    <li>Creating personas</li>
+    		    <li>Story writing</li>
+    		    <li>Sketching</li>
+    		    <li>Wireframes</li>
+		    </ol>
+		</li>
+		<li>Design tasks
+		    <ol>
+    		    <li>Sketching</li>
+    		    <li>Screen mockups</li>
+    		    <li>Pattern systems</li>
+    		    <li>Screen flows</li>
+		    </ol>
+		</li>
+	</ol>
+	<h3>Unordered lists</h3>
+    <p>Unordered lists <code>ul</code> are used, as their name suggests, to list items which don't have an order. They can be nested.</p>
+	<ul>
+		<li>Colours
+		    <ul>
+    		    <li>Red</li>
+    		    <li>Yellow</li>
+    		    <li>Pink</li>
+    		    <li>Green</li>
+		    </ul>
+		</li>
+		<li>Textures
+		    <ul>
+                <li>Rough</li>
+                <li>Sand</li>
+                <li>Grass</li>
+                <li>Smooth</li>
+		    </ul>
+		</li>
+	</ul>
+	<h3>Tables</h3>
+	<table>
+		  <thead>
+    		  <tr>
+        		  <th>Year</th>
+        		  <th>Song</th>
+        		  <th>Artist</th>
+        		  <th>Label</th>
+        		  <th>UK Chart position</th>
+    		  </tr>
+		  </thead>
+		  <tbody>
+    		  <tbody>
+        		  <tr>
+            		  <td>1957</td>
+            		  <td>"Peggy Sue"</td>
+            		  <td>Buddy Holly</td>
+            		  <td>Decca</td>
+            		  <td>6</td>
+        		  </tr>
+        		  <tr>
+            		  <td>1958</td>
+            		  <td>"You Are My One Desire"</td>
+            		  <td>Buddy Holly</td>
+            		  <td>Coral</td>
+            		  <td>-</td>
+        		  </tr>
+    		  </tbody>
+		  </tbody>
+	</table>
+	<hr class="pull--both"/>
+	<h2>Text level semantics</h2>
+	<h3>Links</h3>
+	<p>The <code>a</code> tag is used to link text to another location on the web.<br/><a href="#">This is an example of a link</a>.
+	<h3>Emphasis</h3>
+	<p>The <code>em</code> tag is used to <em>add emphasis</em> to a word or phrase.</p>
+	<h3>Importance</h3>
+	<p>The <code>strong</code> tag is used to <strong>add importance</strong> to a word or phrase.</p>
+	<h3>Abbreviations</h3>
+	<p>The <code>abbr</code> tag is used along with it's <code>title</code> attribute to explain any abbreviations used, such as <abbr title="Hyper Text Markup Language">HTML</abbr> or <abbr title="To Long;Didn't Read">TL;DR</abbr></p>
+	<h3>Dates and time</h3>
+	<p>The <code>time</code> tag is used to display a date or time. For example, this page was written on <time>Monday, 10th August 2015</time>.</p>
+	<h3>Code</h3>
+	<p>For snippets of code inline in text the <code>code</code> tag is used, for example typing <code>ls -a</code> into terminal will show you all files including the . files</p>
+	<p>However, if there's more code to be shown then multiline code can be wrapped in <code>pre</code> tags and then styled automagically with the <a href="https://github.com/jneen/rouge">Rouge Highlighter</a>, like this:
+	<p><em>Missing for now, until this is a jekyll page</em></p>
+	
+	<hr class="pull--both"/>
+	
+	<h2>Utilities</h2>
+	<h3>Centre</h3>
+	<p>The <code>.u-centre</code> class is used to align text to the centre. Usually used with a heading, for example:</p>
+	<h4 class="u-centre">A centred heading</h4>
+	<h3>Quiet</h3>
+	<p>The <code>.u-quiet</code> class is used to reduce the visual importance of text, for example, <span class="u-quiet">See the <a href="#">note</a> about this</span>
+	
+	<h3>Highlight</h3>
+	<p>The <code>.u-highlight</code> class is used to draw attention to text, for example, <span class="u-highlight">Fire sale in the sports department!</span></p>
+	
+	<hr class="pull--both"/>
+	
+	<h2>Media</h2>
+	<h3>Image</h3>
+	<p>Most new posts will use the <code>figure</code> tag to wrap an image, however historical posts will use the <code>img</code> tag directly.</p>
+	<img src="example-images/large/2015-08-02-01.jpg"/>
+	<h3>figures</h3>
+	<p>A <code>figure</code> tag is used to present a single image. It can have an optional caption with <code>figcaption</code>.</p>
+	<figure class="">
+	    <img src="example-images/large/2015-08-02-02.jpg" />
+	    <figcaption>Katie and A enjoying themselves at Mewsbrook park, Littlehampton</figcaption>
+	</figure>
+	
+	<hr class="pull--both"/>
+	
+	<h2>Layouts</h2>
+	<p>There are several utility classes that can be used to push, pull or repel content, typically media elements, to one side or another.</p>
+	<h3>Push</h3>
+	<p><span class="push--left styleguide--item"><code>.push--left</code></span><code>.push--left</code> is used to align items to the left of inline elements.</p>
+	<p><span class="push--right styleguide--item"><code>.push--right</code></span><code>.push--right</code> is used to align items to the right of elements.</p>
+	<h3>Pull</h3>
+	<p><span class="styleguide--item pull--left"><code>.pull--left</code></span><code>.pull--left</code> is used to pull items out of column to the left of inline items</p>
+	<p><span class="styleguide--item pull--right"><code>.pull--right</code></span><code>.pull--right</code> is used to pull items out of column to the right of inline items</p>
+    <div class="styleguide--item styleguide__block pull--both"><code>.pull--both</code></div>
+    <p><code>.pull--both</code> is used to pull block level elements into a wider column on both sides. Usually used for images and galleries within posts.</p>
+    <div class="styleguide--item styleguide__block pull--extended"><code>.pull--extended</code></div>
+    <p><code>.pull--extended</code> is used to pull block level elements into a max-width column on both sides. Usually used for galleries within gallery pages.</p>
+    <h3>Repel</h3>
+    <div class="styleguide--item styleguide__block repel--none"><code>.repel--none</code></div>
+    <p><code>.repel--none</code> is used to turn off repel between a block level element and elements below.</p>
+    <div class="styleguide--item styleguide__block repel--1"><code>.repel--1</code></div>
+    <p><code>.repel--1</code> is used on a block level element to to repel elements below by a factor of 1. (1 x line height spacing).</p>
+    <div class="styleguide--item styleguide__block repel--2"><code>.repel--2</code></div>
+    <p><code>.repel--2</code> is used on a block level element to to repel elements below by a factor of 2. (2 x line height spacing).</p>
+     <div class="styleguide--item styleguide__block repel--3"><code>.repel--3</code></div>
+    <p><code>.repel--3</code> is used on a block level element to to repel elements below by a factor of 3. (3 x line height spacing).</p>
+</div><!-- /s-prose -->
+
+<div class="s-meta">
+	<h2>Components</h2>
+	<h3>Tags</h3>
+	<ul class="tags">
+		<li><a href="#">Red</a><em class="tag-count">4</em></li>
+		<li><a href="#">Yellow</a><em class="tag-count">67</em></li>
+		<li><a href="#">Pink</a></li>
+		<li><a href="#">Green</a></li>
+		<li><a href="#">Orange</a></li>
+		<li><a href="#">Purple</a></li>
+		<li><a href="#">Blue</a><em class="tag-count">8,987</em></li>
+		<li><a href="#">Black</a></li>
+		<li><a href="#">White</a></li>
+		<li><a href="#">Battleship Grey</a></li>
+		<li><a href="#">British Racing Green</a></li>
+	</ul>
+	
+	<h3>Gallery</h3>
+	<p>A gallery component is used when two or more images need to be contained together. It uses javascript to achieve the 'brick wall' effect.</p>
+	<div class="gallery pull--extended">
+		<ol>
+    		<li class="gallery-item"><a href="example-images/large/2015-08-02-01.jpg"><img src="example-images/medium/2015-08-02-01.jpg" class="gallery-image" data-width="640" data-height="427"/></a></li>
+    		<li class="gallery-item"><a href="example-images/large/2015-08-02-02.jpg"><img src="example-images/medium/2015-08-02-02.jpg" class="gallery-image" data-width="640" data-height="427"/></a></li>
+    		<li class="gallery-item"><a href="example-images/large/2015-08-02-03.jpg"><img src="example-images/medium/2015-08-02-03.jpg" class="gallery-image" data-width="640" data-height="427"/></a></li>
+    		<li class="gallery-item"><a href="example-images/large/2015-08-02-04.jpg"><img src="example-images/medium/2015-08-02-04.jpg" class="gallery-image" data-width="640" data-height="427"/></a></li>
+    		<li class="gallery-item"><a href="example-images/large/2015-08-02-05.jpg"><img src="example-images/medium/2015-08-02-05.jpg" class="gallery-image" data-width="640" data-height="427"/></a></li>
+    		<li class="gallery-item"><a href="example-images/large/2015-08-02-06.jpg"><img src="example-images/medium/2015-08-02-06.jpg" class="gallery-image" data-width="640" data-height="427"/></a></li>
+    		<li class="gallery-item"><a href="example-images/large/2015-08-02-07.jpg"><img src="example-images/medium/2015-08-02-07.jpg" class="gallery-image" data-width="640" data-height="480"/></a></li>
+		</ol>
+	</div>
+	
+	<h3>Calendar</h3>
+	<p>A <code>.calendar</code> is used to display an overview of posts that have images from a year, split by months. When a day has more than one post, the first one returned from the <abbr title="Content Management System">CMS</abbr> is used.</p>
+	<h3>January</h3>
+	<div class="calendar pull--extended">
+		<ol>
+    		<li><a href="#"><img src="example-images/square/2015-08-02-01.jpg" title="January 1st 2015" /><time datetime="20150101">1st</time></a></li>
+    		<li><a href="#"><img src="example-images/square/2015-08-02-02.jpg" title="January 2nd 2015" /><time datetime="20150102">2nd</time></a></li>
+    		<li><a href="#"><img src="example-images/square/2015-08-02-03.jpg" title="January 3rd 2015" /><time datetime="20150103">3rd</time></a></li>
+    		<li><a href="#"><img src="example-images/square/2015-08-02-04.jpg" title="January 4th 2015" /><time datetime="20150104">4th</time></a></li>
+    		<li><a href="#"><img src="example-images/square/2015-08-02-05.jpg" title="January 5th 2015" /><time datetime="20150105">5th</time></a></li>
+    		<li><a href="#"><img src="example-images/square/2015-08-02-06.jpg" title="January 8th 2015" /><time datetime="20150108">8th</time></a></li>
+    		<li><a href="#"><img src="example-images/square/2015-08-02-07.jpg" title="January 9th 2015" /><time datetime="20150109">9th</time></a></li>
+    		<li><a href="#"><img src="example-images/square/2015-08-02-01.jpg" title="January 12th 2015" /><time datetime="20150112">12th</time></a></li>
+    		<li><a href="#"><img src="example-images/square/2015-08-02-02.jpg" title="January 13th 2015" /><time datetime="20150113">13th</time></a></li>
+    		<li><a href="#"><img src="example-images/square/2015-08-02-03.jpg" title="January 17th 2015" /><time datetime="20150117">17th</time></a></li>
+    		<li><a href="#"><img src="example-images/square/2015-08-02-04.jpg" title="January 20th 2015" /><time datetime="20150120">20th</time></a></li>
+    		<li><a href="#"><img src="example-images/square/2015-08-02-05.jpg" title="January 28th 2015" /><time datetime="20150128">28th</time></a></li>
+		</ol>
+	</div>
+	
+</div><!-- /s-meta-->
         		
-        		<div class="s-meta">
-            		<h2>Components</h2>
-            		<h3>Tags</h3>
-            		<ul class="tags">
-                		<li><a href="#">Red</a></li>
-                		<li><a href="#">Yellow</a></li>
-                		<li><a href="#">Pink</a></li>
-                		<li><a href="#">Green</a></li>
-                		<li><a href="#">Orange</a></li>
-                		<li><a href="#">Purple</a></li>
-                		<li><a href="#">Blue</a></li>
-                		<li><a href="#">Black</a></li>
-                		<li><a href="#">White</a></li>
-                		<li><a href="#">Battleship Grey</a></li>
-                		<li><a href="#">British Racing Green</a></li>
-            		</ul>
-            		
-            		<h3>Gallery</h3>
-            		<p>A gallery component is used when two or more images need to be contained together. It uses javascript to achieve the 'brick wall' effect.</p>
-            		<div class="gallery pull--extended">
-                		<ol>
-                    		<li class="gallery-item"><a href="example-images/large/2015-08-02-01.jpg"><img src="example-images/medium/2015-08-02-01.jpg" class="gallery-image" data-width="640" data-height="427"/></a></li>
-                    		<li class="gallery-item"><a href="example-images/large/2015-08-02-02.jpg"><img src="example-images/medium/2015-08-02-02.jpg" class="gallery-image" data-width="640" data-height="427"/></a></li>
-                    		<li class="gallery-item"><a href="example-images/large/2015-08-02-03.jpg"><img src="example-images/medium/2015-08-02-03.jpg" class="gallery-image" data-width="640" data-height="427"/></a></li>
-                    		<li class="gallery-item"><a href="example-images/large/2015-08-02-04.jpg"><img src="example-images/medium/2015-08-02-04.jpg" class="gallery-image" data-width="640" data-height="427"/></a></li>
-                    		<li class="gallery-item"><a href="example-images/large/2015-08-02-05.jpg"><img src="example-images/medium/2015-08-02-05.jpg" class="gallery-image" data-width="640" data-height="427"/></a></li>
-                    		<li class="gallery-item"><a href="example-images/large/2015-08-02-06.jpg"><img src="example-images/medium/2015-08-02-06.jpg" class="gallery-image" data-width="640" data-height="427"/></a></li>
-                    		<li class="gallery-item"><a href="example-images/large/2015-08-02-07.jpg"><img src="example-images/medium/2015-08-02-07.jpg" class="gallery-image" data-width="640" data-height="480"/></a></li>
-                		</ol>
-            		</div>
-            		<h3>Calendar</h3>
-            		<p>A calendar is used to display an overview of posts that have images from a year, split by months. When a day has more than one post, the first one returned from the <abbr title="Content Management System">CMS</abbr> is used.</p>
-            		<h3>January</h3>
-            		<div class="calendar pull--extended">
-                		<ol>
-                    		<li><a href="#"><img src="example-images/square/2015-08-02-01.jpg" title="January 1st 2015" /><time datetime="20150101">1st</time></a></li>
-                    		<li><a href="#"><img src="example-images/square/2015-08-02-02.jpg" title="January 2nd 2015" /><time datetime="20150102">2nd</time></a></li>
-                    		<li><a href="#"><img src="example-images/square/2015-08-02-03.jpg" title="January 3rd 2015" /><time datetime="20150103">3rd</time></a></li>
-                    		<li><a href="#"><img src="example-images/square/2015-08-02-04.jpg" title="January 4th 2015" /><time datetime="20150104">4th</time></a></li>
-                    		<li><a href="#"><img src="example-images/square/2015-08-02-05.jpg" title="January 5th 2015" /><time datetime="20150105">5th</time></a></li>
-                    		<li><a href="#"><img src="example-images/square/2015-08-02-06.jpg" title="January 8th 2015" /><time datetime="20150108">8th</time></a></li>
-                    		<li><a href="#"><img src="example-images/square/2015-08-02-07.jpg" title="January 9th 2015" /><time datetime="20150109">9th</time></a></li>
-                    		<li><a href="#"><img src="example-images/square/2015-08-02-01.jpg" title="January 12th 2015" /><time datetime="20150112">12th</time></a></li>
-                    		<li><a href="#"><img src="example-images/square/2015-08-02-02.jpg" title="January 13th 2015" /><time datetime="20150113">13th</time></a></li>
-                    		<li><a href="#"><img src="example-images/square/2015-08-02-03.jpg" title="January 17th 2015" /><time datetime="20150117">17th</time></a></li>
-                    		<li><a href="#"><img src="example-images/square/2015-08-02-04.jpg" title="January 20th 2015" /><time datetime="20150120">20th</time></a></li>
-                    		<li><a href="#"><img src="example-images/square/2015-08-02-05.jpg" title="January 28th 2015" /><time datetime="20150128">28th</time></a></li>
-                		</ol>
-            		</div>
-        		</div><!-- /s-meta-->
-        		
-		</section>
-		
-		<script src="js/jquery.2.1.4.js"></script>
-		<script src="js/gallery.js"></script>
-	</body>
-</html>

@@ -3,13 +3,36 @@ layout: default
 title: Home
 ---
 
-
 {% for post in site.posts limit:20 %}
-    {% if post.categories[0] == 'notes' %}
-        {% include post-note.html %}
-    {% endif %}
-{% endfor %}
-
-{% for category in site.categories %}
-    <p>{{ category.name }}</p>
+    <article class="repel--2">
+        <div class="s-prose">
+            <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+            <p class="u-quiet">Written <time>{{ post.date | date date: "%A, %B %e %Y" }}</time>, in {{ post.categories[0] }}</p>
+            {% if post.categories[0] == 'notes' %}
+                {% assign numberOfImages = post.images | size %}
+                {% if numberOfImages > 1 %}
+                    <div class="gallery">
+                        <ol class="gallery-row">
+                            {% for image in post.images %}
+                            {% capture fullImagePath %}{{ site.roobottom_assets }}/notes/medium/{{ image }}{% endcapture %}
+                            <li class="gallery-item"><img src="{{ fullImagePath }}" class="gallery-image"/></li>
+                            {% endfor %}
+                        </ul>
+                    </div>
+                {% else %}
+                    <figure class="">
+                        <img src="{{ site.roobottom_assets }}/notes/large/{{ post.images[0] }}"/>
+                    </figure>
+                {% endif %}
+            {% endif %}
+            {{ post.content }}
+        </div>
+        <footer class="s-meta">
+            <ul class="tags">
+            {% for tag in post.tags %}
+                <li><a href="/archives">{{ tag }}</a></li>
+            {% endfor %}
+            </ul>
+        </footer>
+    </article>
 {% endfor %}

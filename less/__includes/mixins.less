@@ -1,0 +1,9 @@
+.margin-bottom(@divide:1,@multiply:1) {
+    margin-bottom: unit((@lineheight/@divide) * @multiply,px);
+    margin-bottom: unit(((@lineheight/@divide) * @multiply)/@base,rem);
+}
+
+.margin-top(@div:1) {
+    margin-top: unit(@lineheight/@div,px);
+    margin-top: unit((@lineheight/@div)/@base,rem);
+}

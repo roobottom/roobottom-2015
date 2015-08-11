@@ -1,0 +1,144 @@
+.s-prose {
+  font-size: unit(@paragraph,px);
+  font-size: unit(@paragraph/@base,rem);
+  line-height: @lineheight/@paragraph;
+  
+//basic text styling
+  
+  a, a:visited {
+	  transition: color 200ms ease;
+	  text-shadow: -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff, 1px 1px 0 #fff;
+	  color: @blue;
+	  border-bottom: 1px solid @blue;
+  }
+
+  a:hover, a:focus {
+      color: darken(@blue,30%);
+  }
+  
+  h1,h2,h3,h4,h5,h6 {
+      a, a:visited {
+          border: none;
+      }
+  }
+  
+  em, i {
+      font-style: italic;
+  }
+  
+  strong, b {
+      font-weight: bold;
+  }
+  
+  em strong, i strong,
+  em b, i b,
+  strong em, strong i,
+  b em, b i {
+      font-style: italic;
+      font-weight: bold;
+  }
+  
+//spacing
+
+    >figure, >.gallery, >img, p, >ul, >ol, hr, table {
+        .margin-bottom();
+    }  
+   
+//lists
+
+  ul  {
+    list-style: disc;
+    ul {
+      list-style: circle;
+      ul {
+        list-style: square;
+      }
+    }
+  }
+  
+  ol {
+    list-style: decimal;
+    ol {
+      list-style: lower-roman;
+      ol {
+        list-style: lower-latin;
+      }
+    }
+  }
+  
+  ul ul, ul ol, ol ol, ol ul {
+    margin-left: 3em;
+  }
+  
+  >ul, >ol {
+      list-style-position: inside;
+      @media screen and (min-width:unit((@layout_narrow + @layout_buffer*6),px)) {
+        list-style-position: outside;
+      }
+  }
+  
+  
+  
+//media
+	
+	img {
+		display: block;
+		max-width: 100%;
+	}
+	
+	figure {
+	    border-bottom: 1px solid lighten(@grey,10%);
+		
+		figcaption {
+			font-size: 13px;
+			font-size: unit(13/@base,rem);
+			line-height: @lineheight/13;
+			color: @grey;
+			font-style: italic;
+		}
+		
+	}
+	
+	//(media spacing within the prose scope)
+	> img,
+	>.gallery  {
+    	.margin-bottom();
+	}	
+    
+//blockquotes
+    
+    blockquote {
+        padding-left: 2em;
+        border-left: 3px solid @grey;
+        p, ul, ol, dl, table {
+           color: darken(@grey,40%); 
+        }
+    }    
+  
+//code 
+    
+    p >code {
+        color: @red;
+        margin: 0 .1em;
+    }
+    
+    
+//tables
+
+    table {
+        border-collapse: collapse;
+        font-size: 80%;
+    }
+    
+    td, th {
+        text-align: left;
+        border-bottom: 1px solid @grey;
+        padding: .5em .7em;
+    }
+    
+    th {
+        font-weight: bold;
+        border-bottom: 2px solid darken(@grey,10%);
+    }
+  
+}

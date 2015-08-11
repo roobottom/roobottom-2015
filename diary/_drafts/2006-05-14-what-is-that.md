@@ -1,4 +1,0 @@
----
-title: What Is That?!
----
-![The Miner In Browhills](http://wp.roodesign.co.uk/wp-content/uploads/2006/05/brownhills_miner.jpg) Usually a trip to the supermarket is an uneventful affair, more or less your standard drive-shop-pay-drive event. But not so last week on a visit to Tesco in Brownhills. I caught my first glimpse of the thing as I turned onto the Lichfield road. Getting closer I could see it was some kind of pick-axe wielding metal giant. Apparently this cost £70,000! I just don't know what it'll add to the area. Granted, we shouldn't forget our heritage, but couldn't have that money been better spent on a public service? Admittedly this isn't a particularly educated opinion, but no doubt a question a lot of people in the area will be asking.

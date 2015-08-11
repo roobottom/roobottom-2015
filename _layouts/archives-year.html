@@ -1,9 +1,0 @@
-{% capture title %}{{ page.date | date: "%Y" }}{% endcapture %}
-{% include site-head.html pagetitle = title %}
-        
-        <main class="site-content">
-            <h1>Archive of posts from {{ title }}</h1>
-            {% include archives-posts.html %}
-        </main>
-        
-{% include site-footer.html %}

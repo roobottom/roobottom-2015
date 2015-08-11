@@ -1,4 +1,0 @@
----
-title: I Heart Blix
----
-I realise it's been entirely too long since I wrote a post that was remotely geeky (they've all been quite nerdy, but that's something entirely different). So the more observant of you my have realised the diary looking a little different. That's because I'm now using the very beautiful, very elegant [Blix](http://www.kingcosmonaut.de/blix/) theme for word press. I will do a proper rdc header when I get the chance, but until then, you can enjoy the diary working properly at long last. [![Evening Surf](http://static.flickr.com/17/20284222_2d9ddaca61.jpg)](http://www.flickr.com/photos/roobottom/20284222/ "Photo Sharing") The other thing I wanted to mention while I'm on my geek rant is [Flickr](http://www.flickr.com), which is where I now host all of my photographs. Go check them out, if you know me and I've rudely shoved a camera in your face, I've probably even more rudely up-loaded them to the internet for all to see! That is all.

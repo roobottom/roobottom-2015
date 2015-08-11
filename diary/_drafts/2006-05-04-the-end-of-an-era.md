@@ -1,4 +1,0 @@
----
-title: The End Of An Era
----
-[![The End Of An Era](http://static.flickr.com/52/140011142_9ddeb744b9.jpg)](http://www.flickr.com/photos/roobottom/140011142/ "View this photo on Flickr") After nearly two years I'm moving on from Michelle's cell group. Steve, Gill & I are joining a brand new cell based in Coalpool, which should prove to be both extremely interesting and no doubt challenging. While I'm keen to see what the new cell will bring, tonight has also given me a chance to reflect on the journey I started at the end of an Alpha in Michelle's living room what seems like a life time ago. I'll miss my weekly meetings with all these guys, it's been interesting to say the least, and without doubt a lot a fun! Onwards and upwards. For His glory.

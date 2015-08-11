@@ -5,11 +5,14 @@ plugins:     ./_plugins
 layouts:     ./_layouts
 data_source: ./_data
 
+#custom variables
+roobottom_assets:      "http://assets.roobottom.dev"
+
 # Handling Reading
 safe:         false
 include:      [".htaccess"]
-exclude:      ["/less","Gemfile","package.json","Gruntfile.js",".gitattributes",".gitignore","README.md","/node_modules"]
-keep_files:   [".git", ".svn"]
+exclude:      ["/assets","/less","Gemfile","package.json","Gruntfile.js",".gitattributes",".gitignore","README.md","/node_modules"]
+keep_files:   [".git", ".svn","/assets"]
 encoding:     "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
@@ -21,7 +24,7 @@ unpublished: false
 
 # Plugins
 whitelist: []
-gems: [jekyll-archives]
+gems: []
 
 # Conversion
 markdown:    kramdown
@@ -82,10 +85,10 @@ defaults:
   -
     scope:
       type: "posts"
-      path: "diary"
+      path: "posts"
     values:
       layout: "default"
-      category: "diary"
+      category: "posts"
   -
     scope:
       type: "posts"

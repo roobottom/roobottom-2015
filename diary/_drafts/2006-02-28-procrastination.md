@@ -1,4 +1,0 @@
----
-title: Procrastination
----
-Over a week since my last post!? I'd been really getting into this writing thing too. To be honest with you I have six draft posts that I've half written and not published. Mainly because I'd write a line and then think "Crap, what would people think if they read that?" and given up and gone off to write about "safer" subjects. Much like [Lloydy](http://www.lloydyweb.org) I have a great desire to spew for all to read (or, in this case, not), but to construct posts of intelligence and wit (feel free to laugh out loud at this concept) and NOT the arbitrary "Today I went to the loo three times, and had corned beef hash for my tea". So then what am I trying to say? Maybe nothing, maybe I'm filling the void - bridging the gap until I have something remotely interesting to say. Or grow some balls and say what I really mean. Until then, I hope this has kept you relatively entertained. I'm glad I could fill up 16 seconds of you day.

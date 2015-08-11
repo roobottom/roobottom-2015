@@ -1,0 +1,45 @@
+.styleguide--item {
+    border: 1px solid @grey;
+    background-color: lighten(@grey,10%);
+    min-width: 40%;
+    *, & {
+        color: @grey;
+        text-align: center;
+    }
+}
+
+.styleguide__block {
+    display: block;
+    margin-bottom: unit(@lineheight,px);
+    margin-bottom: unit(@lineheight/@base,rem);
+}
+
+//MODFIERS
+
+body.style-guide {
+
+    .s-prose {
+        border: 1px dotted darken(white,20%);
+        position: relative;
+        &:before {
+            content: 'scope: s-prose';
+            position: absolute;
+            top: 0;
+            right: 0;
+            color: darken(white,20%);
+        }
+    }
+    
+    .s-meta {
+        border: 1px dotted lighten(@blue,20%);
+        position: relative;
+        &:before {
+            content: 'scope: s-meta';
+            position: absolute;
+            top: 0;
+            right: 0;
+            color: lighten(@blue,20%);
+        }
+    }
+
+}

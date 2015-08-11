@@ -1,0 +1,70 @@
+//global font styles
+
+body {
+    font-family: "Mercury SSm A", "Mercury SSm B","Charter","Baskerville",serif;
+}
+
+h1,h2,h3,h4,h5,h6, .tags {
+    font-family: "Whitney SSm A", "Whitney SSm B","Seravek","GillSans",sans-serif;
+}
+
+code {
+    font-family: 'Menlo', monospace;
+    font-size: 80%;
+}
+
+h1, h2, h3, h4 {
+    font-weight: bold;
+}
+
+//headings
+
+h2, h3, h4, h5, h6 {
+    .margin-top();
+}
+
+h1 {
+  font-size: 58px;
+  font-size: unit(58/@base,rem);
+  line-height: @lineheight*2/58;
+}
+
+h2 {
+  font-size: 32px;
+  font-size: unit(32/@base,rem);
+  line-height: @lineheight*1.4/32;
+}
+
+h3 {
+  font-size: 22px;
+  font-size: unit(22/@base,rem);
+  line-height: @lineheight*1.5/22;
+}
+
+h4, h5, h6 {
+  font-size: 16px;
+  font-size: 1rem;
+  line-height: @lineheight/16;
+  color: #333;
+  text-transform: uppercase;
+}
+
+p, ul, ol, dl, table {
+  color: #333;
+}
+
+abbr {
+    border-bottom-style: dotted;
+    border-bottom-width: 1px;
+    cursor: help;
+    &:hover {
+        background-color: lighten(@yellow,20%);
+    }
+}
+
+//hr
+    
+    hr {
+        border-top: 2px dashed @grey;
+        border-bottom: none;
+    }
