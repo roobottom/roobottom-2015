@@ -6,7 +6,7 @@ layouts:     ./_layouts
 data_source: ./_data
 
 #custom variables
-roobottom_assets:      "http://assets.roobottom.dev"
+roobottom_assets:      "https://dl.dropboxusercontent.com/u/317028/roobottom-assets"
 
 # Handling Reading
 safe:         false
