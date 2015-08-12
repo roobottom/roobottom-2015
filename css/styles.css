@@ -444,11 +444,9 @@ body.style-guide .s-meta:before {
           flex-wrap: wrap;
   margin-bottom: 16px;
   margin-bottom: 1rem;
-  background: #f2f2f2;
-  border-top: 1px solid #d9d9d9;
-  border-bottom: 1px solid #d9d9d9;
-  padding: 16px;
-  padding: 1rem;
+  border-top: 1px solid #f2f2f2;
+  padding: 16px 0;
+  padding: 1rem 0;
   padding-bottom: 0;
   font-size: 80%;
 }
@@ -521,6 +519,25 @@ body.style-guide .s-meta:before {
   background-color: rgba(0, 0, 0, 0.5);
   padding: .5em;
 }
+.teaser {
+  background-color: white;
+  margin-left: -20px;
+  margin-right: -20px;
+  margin-left: -1.25rem;
+  margin-right: -1.25rem;
+  padding: 0 32px;
+  padding: 0 2rem;
+  overflow: hidden;
+  border: 1px solid #cdd7df;
+}
+@media screen and (min-width: 940px) {
+  .teaser {
+    padding: 0 48px;
+    padding: 0 3rem;
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
 .u-quiet {
   color: #cccccc;
   font-size: 90%;
@@ -544,7 +561,7 @@ body.style-guide .s-meta:before {
   margin-top: 0;
 }
 body {
-  font-family: "Mercury SSm A", "Mercury SSm B", "Charter", "Baskerville", serif;
+  font-family: "Sentinel SSm A", "Sentinel SSm B", "Charter", "Baskerville", serif;
 }
 h1,
 h2,
@@ -558,12 +575,6 @@ h6,
 code {
   font-family: 'Menlo', monospace;
   font-size: 80%;
-}
-h1,
-h2,
-h3,
-h4 {
-  font-weight: bold;
 }
 h2,
 h3,
@@ -615,4 +626,7 @@ abbr:hover {
 hr {
   border-top: 2px dashed #cccccc;
   border-bottom: none;
+}
+body {
+  background-color: #ecf0f3;
 }

@@ -1,0 +1,19 @@
+.teaser {
+    background-color: white;
+    margin-left: unit(-1 * @layout_buffer,px);
+    margin-right: unit(-1 * @layout_buffer,px);
+    margin-left: unit(-1 * @layout_buffer/@base,rem);
+    margin-right: unit(-1 * @layout_buffer/@base,rem);
+    padding: 0 unit(@lineheight,px);
+    padding: 0 unit(@lineheight/@base,rem);
+    overflow: hidden;
+    border: 1px solid darken(@lightblue,10%);
+    
+    @media screen and (min-width:unit((@layout_narrow + @layout_buffer*6),px)) {
+       padding: 0 unit(@lineheight*1.5,px);
+       padding: 0 unit(@lineheight*1.5/@base,rem); 
+       margin-left: 0;
+       margin-right: 0;
+    }
+     
+}

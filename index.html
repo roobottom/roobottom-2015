@@ -4,10 +4,11 @@ title: Home
 ---
 
 {% for post in site.posts limit:20 %}
-    <article class="repel--2">
+    <article class="repel--2 teaser">
         <div class="s-prose">
             <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-            <p class="u-quiet">Written <time>{{ post.date | date date: "%A, %B %e %Y" }}</time>, in {{ post.categories[0] }}</p>
+            <p class="u-quiet">Published <time>{{ post.date | date date: "%A, %B %e %Y" }}</time>, in {{ post.categories[0] }}</p>
+            
             {% if post.categories[0] == 'notes' %}
                 {% assign numberOfImages = post.images | size %}
                 {% if numberOfImages > 1 %}
@@ -25,7 +26,20 @@ title: Home
                     </figure>
                 {% endif %}
             {% endif %}
+            
+            {% if post.categories[0] == 'gallery' %}
+                <div class="gallery">
+                    <ol class="gallery-row">
+                        {% for image in post.images limit:9 %}
+                        {% capture fullImagePath %}{{ site.roobottom_assets }}/gallery/medium/{{ image.image }}{% endcapture %}
+                        <li class="gallery-item"><img src="{{ fullImagePath }}" class="gallery-image"/></li>
+                        {% endfor %}
+                    </ul>
+                </div>
+            {% endif %}
+            
             {{ post.content }}
+            <p><a href="{{ post.url }}">See all {{ post.images | size }} images in this gallery</a></p>
         </div>
         <footer class="s-meta">
             <ul class="tags">
@@ -36,3 +50,6 @@ title: Home
         </footer>
     </article>
 {% endfor %}
+<div class="s-prose">
+    <p>Read more in the <a href="/arvives">archives</a>.</p>
+</div>

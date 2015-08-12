@@ -85,10 +85,10 @@ defaults:
   -
     scope:
       type: "posts"
-      path: "posts"
+      path: "diary"
     values:
       layout: "default"
-      category: "posts"
+      category: "diary"
   -
     scope:
       type: "posts"

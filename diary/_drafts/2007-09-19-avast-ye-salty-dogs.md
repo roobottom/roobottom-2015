@@ -1,0 +1,4 @@
+---
+title: Avast ye salty Dogs.
+---
+Yarr! It be [international talk like a Pirate day](http://www.talklikeapirate.com/)! Well me harties y'vall lived like lubbers all ye lives, now try the pirate way! Avast! The fine fellows at Talk Like a Pirate have put together a video on how to speak like a scurvy dog pirate to get you started. <object height="366" width="425"><param name="movie" value="http://www.youtube.com/v/2cKCkbWDGwE"></param><param name="wmode" value="transparent"></param><embed height="366" src="http://www.youtube.com/v/2cKCkbWDGwE" type="application/x-shockwave-flash" width="425" wmode="transparent"></embed></object> Most notably tho, Flickr has gone all out in support by adding a new language option for the occasion, so go and [check it out](http://flickr.com) quick before yarrrr miss it! [![yarr](http://farm2.static.flickr.com/1132/1406880297_fb9e148a60.jpg)](http://www.flickr.com/photos/roobottom/1406880297/ "Arr! Photo Sharing")

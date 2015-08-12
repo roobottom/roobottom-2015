@@ -16,6 +16,7 @@
 
 //colours
 @blue:                      #3A99D9;
+@lightblue:                 #ECF0F3;
 @grey:                      #cccccc;
 @red:                       #ed3046;
 @yellow:                    #FCDF76;
@@ -37,10 +38,15 @@
 @import '_components/gallery';
 @import '_components/tags';
 @import '_components/calendar';
-@import '_components/entries';
+@import '_components/teaser';
 
 //utilities
 @import '_utilities/utilities';
 
 //type
 @import '_typography/typography';
+
+
+body {
+    background-color: @lightblue;
+}

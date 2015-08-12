@@ -1,0 +1,4 @@
+---
+title: Trinity Swan Song
+---
+![Ar-Ger Screen Shot](http://wp.roodesign.co.uk/wp-content/uploads/2007/05/arger.png) The very last site I did while at [Trinity](http://www.trinitydesign.co.uk) was [Ar-Ger](http://www.ar-ger.com) for the company of the same name who specializes in selling spiffing properties somewhere in France. I don't know if it was the fact I had a week left to finish it, or just because I've got a hidden passion for French property websites (sometimes, I wake in the night, my head full of fine wines and blue cheese), but this is perhaps the best site I've done to date. So, so long Trinity, I had a fine three-and-a-bit years with you, but onwards and upwards. There's gonna be some exciting things coming out of [Glaxstar](http://www.glaxstar.com) in the next few months so keep an eye out for them.

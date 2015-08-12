@@ -1,0 +1,4 @@
+---
+title: The Greene Stripe
+---
+At last! I'm ready to release the public beta-1 version of [greeneStripe](http://www.roobottom.com/inc/livelinks.go.php?url=http://www.roobottom.com/greeneStripe/), a new theme for Wordpress! ![greeneStripe](http://wp.roodesign.co.uk/wp-content/uploads/2006/07/greenestripe-beta1.gif) It's still very much in the testing phase, but if you can cope with a few bugs then please feel free to [download a copy](http://www.roobottom.com/downloads/greeneStripe-beta-1.zip) and install it on your wordpress. It even includes support for Automattic's [Wordpress Widgets](http://automattic.com/code/widgets/), which work very nicely once installed. Please post any bug reports / design ideas / slag-offs here rather than on the theme blog! Thank you!
