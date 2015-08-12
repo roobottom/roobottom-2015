@@ -16,7 +16,15 @@ title: Home
                         <ol class="gallery-row">
                             {% for image in post.images %}
                             {% capture fullImagePath %}{{ site.roobottom_assets }}/notes/medium/{{ image }}{% endcapture %}
-                            <li class="gallery-item"><img src="{{ fullImagePath }}" class="gallery-image"/></li>
+                            <li class="gallery-item"><img src="{{ fullImagePath }}" class="gallery-image" width="
+                            
+                            {% for exif in site.data.notes %}
+                                {% if exif.SourceFile == image %}
+                                    {{ exif.ImageWidth }}
+                                {% endif %}
+                            {% endfor %}
+                            
+                            "/></li>
                             {% endfor %}
                         </ul>
                     </div>
