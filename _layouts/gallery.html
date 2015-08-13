@@ -12,14 +12,9 @@
                             {% for image in page.images %}
                                 {% capture fullImagePath %}{{ site.roobottom_assets }}/gallery/medium/{{ image.image }}{% endcapture %}
                                 
-                                {% for exif in site.data.gallery %}
-                                    {% if exif.SourceFile == image.image %}
-                                        {% capture width %}{{ exif.ImageWidth }}{% endcapture %}
-                                        {% capture height %}{{ exif.ImageHeight }}{% endcapture %}
-                                    {% endif %}
-                                {% endfor %}
                                 
-                                <li class="gallery-item"><img src="{{ fullImagePath }}" class="gallery-image" data-width="{{ width }}" data-height="{{ height }}"/></li>
+                                
+                                <li class="gallery-item"><img src="{{ fullImagePath }}" class="gallery-image" data-width="{{ image.width }}" data-height="{{ image.height }}"/></li>
                             {% endfor %}
                         </ul>
                     </div>
@@ -31,7 +26,7 @@
                 <footer class="s-meta">
                     <ul class="tags">
                     {% for tag in page.tags %}
-                        <li><a href="{{ site.baseurl }}{/archives">{{ tag }}</a></li>
+                        <li><a href="{{ site.baseurl }}/archives">{{ tag }}</a></li>
                     {% endfor %}
                     </ul>
                 </footer>
