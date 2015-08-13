@@ -101,7 +101,7 @@ defaults:
       type: "posts"
       path: "notes"
     values:
-      layout: "default"
+      layout: "notes"
       category: "notes"
       
 

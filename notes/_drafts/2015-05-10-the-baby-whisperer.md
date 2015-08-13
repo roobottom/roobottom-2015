@@ -1,8 +1,0 @@
----
-title: The baby whisperer
-images: IMG_1498.jpg
-tags:
-
-  - friends
----
-We know who to call when we need a babysitter, Dave obviously has the touch!

@@ -251,11 +251,6 @@ body.style-guide .s-meta:before {
   margin-bottom: 96px;
   margin-bottom: 6rem;
 }
-.s-prose {
-  font-size: 19px;
-  font-size: 1.1875rem;
-  line-height: 1.68421053;
-}
 .s-prose a,
 .s-prose a:visited {
   -webkit-transition: color 200ms ease;
@@ -354,8 +349,7 @@ body.style-guide .s-meta:before {
   border-bottom: 1px solid #e6e6e6;
 }
 .s-prose figure figcaption {
-  font-size: 13px;
-  font-size: 0.8125rem;
+  font-size: 70%;
   line-height: 2.46153846;
   color: #cccccc;
   font-style: italic;
@@ -520,6 +514,7 @@ body.style-guide .s-meta:before {
   padding: .5em;
 }
 .teaser {
+  background-color: white;
   margin-left: -20px;
   margin-right: -20px;
   margin-left: -1.25rem;
@@ -527,7 +522,7 @@ body.style-guide .s-meta:before {
   padding: 0 32px;
   padding: 0 2rem;
   overflow: hidden;
-  border-top: 3px solid #cccccc;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
 }
 .teaser figure,
 .teaser .gallery {
@@ -558,8 +553,20 @@ body.style-guide .s-meta:before {
 .u-quiet a,
 .u-quiet a:visited {
   color: #cccccc;
-  background: none;
   border-bottom: 1px solid #bfbfbf;
+}
+.u-meta {
+  color: #e6e6e6;
+  font-size: 70%;
+  text-transform: uppercase;
+}
+.u-meta a,
+.u-meta a:visited {
+  color: #b3b3b3;
+  border-bottom: none;
+}
+.u-meta time {
+  color: #b3b3b3;
 }
 .u-centre {
   text-align: center;
@@ -575,6 +582,10 @@ body.style-guide .s-meta:before {
 }
 body {
   font-family: "Sentinel SSm A", "Sentinel SSm B", "Charter", "Baskerville", serif;
+  font-size: 19px;
+  font-size: 1.1875rem;
+  line-height: 1.68421053;
+  color: #333;
 }
 h1,
 h2,
@@ -582,13 +593,15 @@ h3,
 h4,
 h5,
 h6,
-.tags {
+.tags,
+.u-meta {
   font-family: "Whitney SSm A", "Whitney SSm B", "Seravek", "GillSans", sans-serif;
 }
 code {
   font-family: 'Menlo', monospace;
   font-size: 80%;
 }
+h1,
 h2,
 h3,
 h4,
@@ -598,9 +611,9 @@ h6 {
   margin-top: 2rem;
 }
 h1 {
-  font-size: 58px;
-  font-size: 3.625rem;
-  line-height: 1.10344828;
+  font-size: 54px;
+  font-size: 3.375rem;
+  line-height: 1.18518519;
 }
 h2 {
   font-size: 32px;
@@ -639,4 +652,7 @@ abbr:hover {
 hr {
   border-top: 2px dashed #cccccc;
   border-bottom: none;
+}
+body.home {
+  background-color: #F9F9F9;
 }

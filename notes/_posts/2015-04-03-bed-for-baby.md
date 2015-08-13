@@ -1,0 +1,8 @@
+---
+title: Bed for baby
+images: [IMG_0490.jpg]
+tags:
+
+  - family
+---
+Happy Easter! My parents are down for the weekend, they brought us a new cot!

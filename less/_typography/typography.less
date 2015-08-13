@@ -2,9 +2,13 @@
 
 body {
     font-family: "Sentinel SSm A", "Sentinel SSm B","Charter","Baskerville",serif;
+    font-size: unit(@paragraph,px);
+    font-size: unit(@paragraph/@base,rem);
+    line-height: @lineheight/@paragraph;
+    color: #333;
 }
 
-h1,h2,h3,h4,h5,h6, .tags {
+h1,h2,h3,h4,h5,h6, .tags, .u-meta {
     font-family: "Whitney SSm A", "Whitney SSm B","Seravek","GillSans",sans-serif;
 }
 
@@ -19,14 +23,14 @@ h1, h2, h3, h4 {
 
 //headings
 
-h2, h3, h4, h5, h6 {
+h1,h2, h3, h4, h5, h6 {
     .margin-top();
 }
 
 h1 {
-  font-size: 58px;
-  font-size: unit(58/@base,rem);
-  line-height: @lineheight*2/58;
+  font-size: 54px;
+  font-size: unit(54/@base,rem);
+  line-height: @lineheight*2/54;
 }
 
 h2 {
@@ -49,6 +53,8 @@ h4, h5, h6 {
   text-transform: uppercase;
 }
 
+
+
 p, ul, ol, dl, table {
   color: #333;
 }
@@ -68,3 +74,4 @@ abbr {
         border-top: 2px dashed @grey;
         border-bottom: none;
     }
+    

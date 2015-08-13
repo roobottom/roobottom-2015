@@ -19,10 +19,10 @@ $(function() {
 	if(galleryWidth < 560) {
 		maxItems = 2
 	}
-	if(galleryWidth > 560 && galleryWidth < 990) {
+	if(galleryWidth > 560 && galleryWidth < 1024) {
 		maxItems = 3;
 	}
-	if(galleryWidth > 990) {
+	if(galleryWidth > 1024) {
 		maxItems = 4;
 	}
     

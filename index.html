@@ -6,8 +6,8 @@ title: Home
 {% for post in site.posts limit:20 %}
     <article class="repel--2 teaser">
         <div class="s-prose">
-            <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
-            <p class="u-quiet">Published <time>{{ post.date | date date: "%A, %B %e %Y" }}</time>, in {{ post.categories[0] }}</p>
+            <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+            <p class="u-meta"><time>{{ post.date | date date: "%A, %B %e %Y" }}</time></p>
             
             {% if post.categories[0] == 'notes' %}
                 {% assign numberOfImages = post.images | size %}
@@ -53,7 +53,15 @@ title: Home
             {% endif %}
             
             {{ post.content }}
-            <p><a href="{{ site.baseurl }}{{{ post.url }}">See all {{ post.images | size }} images in this gallery</a></p>
+            
+            {% if post.categories[0] == 'gallery' %}
+            <p><a href="{{ site.baseurl }}{{ post.url }}">See all {{ post.images | size }} images in this gallery</a></p>
+            {% endif %}
+            
+            {% if post.categories[0] == 'diary' %}
+            <p><a href="{{ site.baseurl }}{{ post.url }}">Read this entire diary post</a></p>
+            {% endif %}
+            
         </div>
         <footer class="s-meta">
             <ul class="tags">
@@ -65,5 +73,5 @@ title: Home
     </article>
 {% endfor %}
 <div class="s-prose">
-    <p>Read more in the <a href="{{ site.baseurl }}{/arvives">archives</a>.</p>
+    <p>Read more in the <a href="{{ site.baseurl }}/archives">archives</a>.</p>
 </div>
