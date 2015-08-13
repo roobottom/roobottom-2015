@@ -94,7 +94,7 @@ defaults:
       type: "posts"
       path: "gallery"
     values:
-      layout: "default"
+      layout: "gallery"
       category: "gallery"
   -
     scope:

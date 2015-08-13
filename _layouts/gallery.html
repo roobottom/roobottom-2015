@@ -7,29 +7,23 @@
                     <h1>{{ page.title }}</h1>
                     <p class="u-meta"><time>{{ page.date | date: "%A, %B %e %Y" }}</time></p>
                     
-                    {% assign numberOfImages = page.images | size %}
-                    {% if numberOfImages > 1 %}
-                        <div class="gallery pull--extended">
-                            <ol class="gallery-row">
-                                {% for image in page.images %}
-                                {% capture fullImagePath %}{{ site.roobottom_assets }}/notes/medium/{{ image }}{% endcapture %}
+                    <div class="gallery pull--extended">
+                        <ol class="gallery-row">
+                            {% for image in page.images %}
+                                {% capture fullImagePath %}{{ site.roobottom_assets }}/gallery/medium/{{ image.image }}{% endcapture %}
                                 
-                                {% for exif in site.data.notes %}
-                                    {% if exif.SourceFile == image %}
+                                {% for exif in site.data.gallery %}
+                                    {% if exif.SourceFile == image.image %}
                                         {% capture width %}{{ exif.ImageWidth }}{% endcapture %}
                                         {% capture height %}{{ exif.ImageHeight }}{% endcapture %}
                                     {% endif %}
                                 {% endfor %}
                                 
                                 <li class="gallery-item"><img src="{{ fullImagePath }}" class="gallery-image" data-width="{{ width }}" data-height="{{ height }}"/></li>
-                                {% endfor %}
-                            </ul>
-                        </div>
-                    {% else %}
-                        <figure class=" pull--both">
-                            <img src="{{ site.roobottom_assets }}/notes/large/{{ page.images[0] }}"/>
-                        </figure>
-                    {% endif %}    
+                            {% endfor %}
+                        </ul>
+                    </div>
+
                 
                     {{ content }}
                 </div>
