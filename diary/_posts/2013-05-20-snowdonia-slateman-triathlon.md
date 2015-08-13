@@ -5,15 +5,15 @@ tags:
   - triathlon
 images:
   - 
-    image: /assets/diary/slateman_1.jpg
+    image: slateman_1.jpg
     caption: The very well organised transition
     set: slateman_1
   - 
-    image: /assets/diary/slateman_2.jpg
+    image: slateman_2.jpg
     caption: Conquering champions
     set: slateman_2
   - 
-    image: /assets/diary/slateman_3.jpg
+    image: slateman_3.jpg
     caption: The beautiful Llyn Padarn
     set: slateman_3
 cover: ""

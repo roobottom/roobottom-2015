@@ -2,15 +2,15 @@
 title: What I talk about when I talk about beards
 images:
   - 
-    image: /assets/diary/IMG_0184.jpg
+    image: IMG_0184.jpg
     caption: The final product, far from perfect
     set: beard
   - 
-    image: /assets/diary/IMG_0199.jpg
+    image: IMG_0199.jpg
     caption: ""
     set: shave
   - 
-    image: /assets/diary/IMG_0208.jpg
+    image: IMG_0208.jpg
     caption: ""
     set: shave
 cover: /assets/blog/covers/IMG_0184.jpg

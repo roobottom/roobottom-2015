@@ -1,8 +1,7 @@
 module.exports = function(grunt) {
 	grunt.loadNpmTasks('grunt-responsive-images');
-	grunt.loadNpmTasks('grunt-image-size');
 	grunt.loadNpmTasks('grunt-shell');
-	grunt.loadNpmTasks('grunt-convert');
+	grunt.loadNpmTasks('grunt-link-checker');
 
 	grunt.initConfig({
     
@@ -14,8 +13,8 @@ module.exports = function(grunt) {
 	                engine: 'im',
 	                newFilesOnly: true,
 	                sizes: [{
-	                    width: 240,
-	                    height: 240,
+	                    width: 380,
+	                    height: 380,
 	                    name: 'square',
 	                    quality: 60,
 	                    aspectRatio: false,
@@ -34,7 +33,7 @@ module.exports = function(grunt) {
 	            files: [{
     	            imageFolder: '/Users/roobottom/Dropbox/Public/roobottom-assets/',
 	                expand: true,
-	                src: ['/Users/roobottom/Dropbox/Public/roobottom-assets/assets/*/**.{jpg,jpeg}'],
+	                src: ['/Users/roobottom/Dropbox/Public/roobottom-assets/assets/*/**.{jpg,jpeg,JPG,JPEG,png,PNG,gif,GIF}'],
 	                custom_dest: '{%= path %}/{%= name %}/'
 	            }]
 	        }  
@@ -51,12 +50,29 @@ module.exports = function(grunt) {
 	                'cd /Users/roobottom/Dropbox/Public/roobottom-assets/assets/gallery/',
 	                'exiftool -csv -ImageWidth -ImageHeight *.jpg > /Users/roobottom/git/roobottom.com/_data/gallery.csv',
 	            ].join('&&')
+	        },
+	        jekyll: {
+    	        command: [
+        	        'cd /Users/roobottom/git/roobottom.com/',
+        	        'jekyll build --config _dev.yml'
+    	        ].join('&&')
 	        }
     	},
+    	
+    	//check links
+    	linkChecker: {
+          dev: {
+            site: 'roo.dev',
+            options: {
+              initialPort: 80
+            }
+          }
+        }
 
 	});
 
-	grunt.registerTask('publish', ['responsive_images','shell:writeCSV']);
+	grunt.registerTask('publish', ['responsive_images','shell:writeCSV','shell:jekyll']);
+	grunt.registerTask('links', ['linkChecker']);
 
 
 };

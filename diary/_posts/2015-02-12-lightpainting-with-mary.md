@@ -2,23 +2,23 @@
 title: Lightpainting with Mary
 images:
   - 
-    image: /assets/diary/IMG_9243.jpg
+    image: IMG_9243.jpg
     caption: 'Sheltering from Sparks — 5 seconds at f2.8 / ISO: 400 / Focal Length: 17mm. '
     set: mary1
   - 
-    image: /assets/diary/IMG_9244.jpg
+    image: IMG_9244.jpg
     caption: Ouch!
     set: mary2
   - 
-    image: /assets/diary/IMG_9245.jpg
+    image: IMG_9245.jpg
     caption: Sheltering from Sparks, reprise.
     set: mary2
   - 
-    image: /assets/diary/IMG_9247.jpg
+    image: IMG_9247.jpg
     caption: Mary spins the wool
     set: mary2
   - 
-    image: /assets/diary/IMG_9256.jpg
+    image: IMG_9256.jpg
     caption: Halo
     set: mary2
 section: diary

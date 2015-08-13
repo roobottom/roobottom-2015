@@ -7,7 +7,7 @@ tags:
 cover: /assets/blog/covers/0104 Firefly.jpg
 images:
   - 
-    image: /assets/diary/0104 Firefly.jpg
+    image: 0104 Firefly.jpg
     caption: 'The partners Joe & Simon and (some of) the design team at the Firefly Learning Conference 2014'
     set: team
 post_css: |

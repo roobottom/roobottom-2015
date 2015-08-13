@@ -2,16 +2,14 @@
     .margin-bottom();
     ol {
       display: flex;
-      flex-wrap: wrap;  
+      flex-wrap: wrap;
+      clear: both;  
     }
     
     li {
         width: 100%/3;
         @media screen and (min-width:unit((@layout_narrow + @layout_buffer),px)) {
             width: 100%/5;
-        }
-        @media screen and (min-width:unit((@layout_wide + @layout_buffer),px)) {
-            width: 100%/7;
         }
     }
     

@@ -6,6 +6,13 @@ body {
     font-size: unit(@paragraph/@base,rem);
     line-height: @lineheight/@paragraph;
     color: #333;
+    
+    @media screen and (min-width:unit((@layout_narrow + @layout_buffer),px)) {
+        font-size: unit(@ls_paragraph,px);
+        font-size: unit(@ls_paragraph/@base,rem);
+        line-height: @lineheight/@ls_paragraph;
+    }
+    
 }
 
 h1,h2,h3,h4,h5,h6, .tags, .u-meta {
@@ -28,21 +35,21 @@ h1,h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 54px;
-  font-size: unit(54/@base,rem);
-  line-height: @lineheight*2/54;
+  font-size: 33px;
+  font-size: unit(33/@base,rem);
+  line-height: @lineheight*1.5/33;
 }
 
 h2 {
-  font-size: 32px;
-  font-size: unit(32/@base,rem);
-  line-height: @lineheight*1.4/32;
+  font-size: 25px;
+  font-size: unit(25/@base,rem);
+  line-height: @lineheight*1.5/25;
 }
 
 h3 {
-  font-size: 22px;
-  font-size: unit(22/@base,rem);
-  line-height: @lineheight*1.5/22;
+  font-size: 19px;
+  font-size: unit(19/@base,rem);
+  line-height: @lineheight/18;
 }
 
 h4, h5, h6 {
@@ -51,6 +58,26 @@ h4, h5, h6 {
   line-height: @lineheight/16;
   color: #333;
   text-transform: uppercase;
+}
+
+@media screen and (min-width:unit((@layout_narrow + @layout_buffer),px)) {
+    h1 {
+      font-size: 54px;
+      font-size: unit(54/@base,rem);
+      line-height: @lineheight*2/54;
+    }
+    
+    h2 {
+      font-size: 32px;
+      font-size: unit(32/@base,rem);
+      line-height: @lineheight*1.4/32;
+    }
+    
+    h3 {
+      font-size: 22px;
+      font-size: unit(22/@base,rem);
+      line-height: @lineheight*1.5/22;
+    }
 }
 
 

@@ -8,27 +8,27 @@ tags:
 cover: /assets/blog/covers/01-20150102233740.jpg
 images:
   - 
-    image: /assets/diary/01-20150102233753.jpg
+    image: 01-20150102233753.jpg
     caption: Driving over the Alps
     set: alps
   - 
-    image: /assets/diary/france.jpg
+    image: france.jpg
     caption: Our first night at Camping des Bruyeres
     set: france
   - 
-    image: /assets/diary/adam-night.jpg
+    image: adam-night.jpg
     caption: The view from our van at Campingplatz Adam
     set: adam
   - 
-    image: /assets/diary/baden_lunch.jpg
+    image: baden_lunch.jpg
     caption: Lunch in Baden-Baden
     set: baden
   - 
-    image: /assets/diary/salzburg.jpg
+    image: salzburg.jpg
     caption: Downtown Salzburg
     set: salzburg
   - 
-    image: /assets/diary/pavilion.jpg
+    image: pavilion.jpg
     caption: Katie outside the "Sixteen Going on Seventeen" pavilion
     set: pavilion
 ---

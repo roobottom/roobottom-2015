@@ -389,9 +389,9 @@ body.style-guide .s-meta:before {
   border-bottom: 2px solid #b3b3b3;
 }
 .s-meta {
-  font-size: 19px;
-  font-size: 1.1875rem;
-  line-height: 1.68421053;
+  font-size: 16px;
+  font-size: 1rem;
+  line-height: 2;
 }
 .s-meta > p {
   margin-bottom: 32px;
@@ -483,6 +483,7 @@ body.style-guide .s-meta:before {
   -webkit-flex-wrap: wrap;
       -ms-flex-wrap: wrap;
           flex-wrap: wrap;
+  clear: both;
 }
 .calendar li {
   width: 33.33333333%;
@@ -490,11 +491,6 @@ body.style-guide .s-meta:before {
 @media screen and (min-width: 840px) {
   .calendar li {
     width: 20%;
-  }
-}
-@media screen and (min-width: 1000px) {
-  .calendar li {
-    width: 14.28571429%;
   }
 }
 .calendar a {
@@ -582,10 +578,17 @@ body.style-guide .s-meta:before {
 }
 body {
   font-family: "Sentinel SSm A", "Sentinel SSm B", "Charter", "Baskerville", serif;
-  font-size: 19px;
-  font-size: 1.1875rem;
-  line-height: 1.68421053;
+  font-size: 16px;
+  font-size: 1rem;
+  line-height: 2;
   color: #333;
+}
+@media screen and (min-width: 840px) {
+  body {
+    font-size: 19px;
+    font-size: 1.1875rem;
+    line-height: 1.68421053;
+  }
 }
 h1,
 h2,
@@ -611,19 +614,19 @@ h6 {
   margin-top: 2rem;
 }
 h1 {
-  font-size: 54px;
-  font-size: 3.375rem;
-  line-height: 1.18518519;
+  font-size: 33px;
+  font-size: 2.0625rem;
+  line-height: 1.45454545;
 }
 h2 {
-  font-size: 32px;
-  font-size: 2rem;
-  line-height: 1.4;
+  font-size: 25px;
+  font-size: 1.5625rem;
+  line-height: 1.92;
 }
 h3 {
-  font-size: 22px;
-  font-size: 1.375rem;
-  line-height: 2.18181818;
+  font-size: 19px;
+  font-size: 1.1875rem;
+  line-height: 1.77777778;
 }
 h4,
 h5,
@@ -633,6 +636,23 @@ h6 {
   line-height: 2;
   color: #333;
   text-transform: uppercase;
+}
+@media screen and (min-width: 840px) {
+  h1 {
+    font-size: 54px;
+    font-size: 3.375rem;
+    line-height: 1.18518519;
+  }
+  h2 {
+    font-size: 32px;
+    font-size: 2rem;
+    line-height: 1.4;
+  }
+  h3 {
+    font-size: 22px;
+    font-size: 1.375rem;
+    line-height: 2.18181818;
+  }
 }
 p,
 ul,

@@ -2,35 +2,35 @@
 title: European Adventure Week Three
 images:
   - 
-    image: /assets/diary/boat-on-lake-magorie.jpg
+    image: boat-on-lake-magorie.jpg
     caption: Beautiful Lake Magorie, Switzerland
     set: lake-magorie
   - 
-    image: /assets/diary/lacarno-square-20150724101128.jpg
+    image: lacarno-square-20150724101128.jpg
     caption: Lacarno Square
     set: lacarno-square
   - 
-    image: /assets/diary/verzasca-20150724101526.jpg
+    image: verzasca-20150724101526.jpg
     caption: The dizzying heights at Verzasca Dam
     set: verzasca
   - 
-    image: /assets/diary/trendcamping-20150724101706.jpg
+    image: trendcamping-20150724101706.jpg
     caption: Archie at Trendcamping, Germany
     set: trendcamping
   - 
-    image: /assets/diary/wolfach-2-20150724101906.jpg
+    image: wolfach-2-20150724101906.jpg
     caption: Wolfach
     set: wolfach
   - 
-    image: /assets/diary/wolfach-20150724101934.jpg
+    image: wolfach-20150724101934.jpg
     caption: Wolfach
     set: wolfach
   - 
-    image: /assets/diary/iledefaigneul-20150724102041.jpg
+    image: iledefaigneul-20150724102041.jpg
     caption: Camping Ile de Faigneul
     set: faigneul
   - 
-    image: /assets/diary/calais-20150724102134.jpg
+    image: calais-20150724102134.jpg
     caption: Katie at Calais Eurotunnel on our last day
     set: calis
 cover: /assets/blog/covers/boat-on-lake-magorie.jpg
