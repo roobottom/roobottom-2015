@@ -1,0 +1,30 @@
+{
+  "name": "roobottom.com",
+  "version": "1.0.0",
+  "description": "My personal webiste",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roobottom/roobottom.com.git"
+  },
+  "author": "Jon Roobottom",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roobottom/roobottom.com/issues"
+  },
+  "homepage": "https://github.com/roobottom/roobottom.com#readme",
+  "devDependencies": {
+    "fs": "0.0.2",
+    "glob": "^5.0.14",
+    "grunt": "^0.4.5",
+    "grunt-convert": "^0.1.12",
+    "grunt-image-size": "0.0.4",
+    "grunt-responsive-images": "^0.1.6",
+    "grunt-shell": "^1.1.2",
+    "image-size": "^0.3.5",
+    "yamljs": "^0.2.3"
+  }
+}

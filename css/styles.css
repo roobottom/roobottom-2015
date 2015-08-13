@@ -520,7 +520,6 @@ body.style-guide .s-meta:before {
   padding: .5em;
 }
 .teaser {
-  background-color: white;
   margin-left: -20px;
   margin-right: -20px;
   margin-left: -1.25rem;
@@ -528,7 +527,14 @@ body.style-guide .s-meta:before {
   padding: 0 32px;
   padding: 0 2rem;
   overflow: hidden;
-  border: 1px solid #cdd7df;
+  border-top: 3px solid #cccccc;
+}
+.teaser figure,
+.teaser .gallery {
+  margin-left: -32px;
+  margin-right: -32px;
+  margin-left: -2rem;
+  margin-right: -2rem;
 }
 @media screen and (min-width: 940px) {
   .teaser {
@@ -536,6 +542,13 @@ body.style-guide .s-meta:before {
     padding: 0 3rem;
     margin-left: 0;
     margin-right: 0;
+  }
+  .teaser figure,
+  .teaser .gallery {
+    margin-left: -48px;
+    margin-right: -48px;
+    margin-left: -3rem;
+    margin-right: -3rem;
   }
 }
 .u-quiet {
@@ -626,7 +639,4 @@ abbr:hover {
 hr {
   border-top: 2px dashed #cccccc;
   border-bottom: none;
-}
-body {
-  background-color: #ecf0f3;
 }
