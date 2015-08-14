@@ -424,9 +424,31 @@ body.style-guide .s-meta:before {
 .gallery .gallery-row li:last-child {
   margin-right: 0;
 }
+.gallery .gallery-row a {
+  display: block;
+  position: relative;
+  color: white;
+}
 .gallery img {
   display: block;
   width: 100%;
+}
+.gallery .gallery-item-meta {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: rgba(0, 0, 0, 0.3);
+  padding: 10px;
+}
+.gallery .u-meta {
+  color: rgba(255, 255, 255, 0.8);
+}
+.gallery .gallery-item-title {
+  color: white;
+}
+.gallery .gallery-item-title {
+  color: white;
 }
 .tags {
   display: -webkit-box;
@@ -508,6 +530,13 @@ body.style-guide .s-meta:before {
   color: white;
   background-color: rgba(0, 0, 0, 0.5);
   padding: .5em;
+}
+.calendar .calendar-title {
+  font-size: 70%;
+  margin-top: 16px;
+  margin-top: 1rem;
+  margin-bottom: 16px;
+  margin-bottom: 1rem;
 }
 .teaser {
   background-color: white;

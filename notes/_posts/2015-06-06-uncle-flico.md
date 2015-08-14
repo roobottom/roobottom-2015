@@ -1,8 +1,8 @@
 ---
 title: Uncle Flico
 images:
-  - IMG_8508.JPG
-  - IMG_8505.JPG
+  - IMG_8508.jpg
+  - IMG_8505.jpg
 tags:
 
   - baby roo

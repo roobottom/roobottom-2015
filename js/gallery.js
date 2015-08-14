@@ -13,21 +13,22 @@ $(function() {
     var ratiosum = 0;
     var totalItems = items.length;
     
+    var maxItems = $(this).attr('data-max-items');
+    if (typeof maxItems == typeof undefined || maxItems == false) {
+       maxItems = 4; 
+    }
+    
     //calculate items per row based on the width of the gallery
     var galleryWidth = $(this).width();
-	var maxItems = 3;
 	if(galleryWidth < 560) {
-		maxItems = 2
+		maxItems = 2;
 	}
 	if(galleryWidth > 560 && galleryWidth < 1024) {
 		maxItems = 3;
 	}
-	if(galleryWidth > 1024) {
-		maxItems = 4;
-	}
     
     if (totalItems == 4) {
-      maxItems = 2;
+        //maxItems = 2;
     }
     
     //loop through each item and get it's ratio

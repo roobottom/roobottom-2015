@@ -8,23 +8,53 @@
     .gallery-row {
         display: flex;
         margin-bottom: 10px;
-    &:last-child {
-        margin-bottom: 0;
-    }
-    
-    li {
-        margin-right: 10px;
-        width: 100%;
         &:last-child {
-            margin-right: 0;
+            margin-bottom: 0;
         }
-    }
+        
+        li {
+            margin-right: 10px;
+            width: 100%;
+            &:last-child {
+                margin-right: 0;
+            }
+        }
+        
+        a {
+            display: block;
+            position: relative;
+            color: white;
+        }
     
     }//row
     
     img {
         display: block;
         width: 100%;
+    }
+    
+    
+    //meta
+    .gallery-item-meta {
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        background-color: fade(black,30%);
+        padding: 10px;
+    }
+    
+    //meta
+    .u-meta {
+        color: fade(white,80%);
+    }
+    
+    .gallery-item-title {
+        color: white;
+    }
+    
+    .gallery-item-title {
+        color: white;
     }
   
 }

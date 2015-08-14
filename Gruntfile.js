@@ -13,16 +13,16 @@ module.exports = function(grunt) {
 	                engine: 'im',
 	                newFilesOnly: true,
 	                sizes: [{
-	                    width: 380,
-	                    height: 380,
+	                    width: 280,
+	                    height: 280,
 	                    name: 'square',
-	                    quality: 60,
+	                    quality: 50,
 	                    aspectRatio: false,
 	                    
 	                } , {
 	                    width: 640,
 	                    name: 'medium',
-	                    quality: 80
+	                    quality: 50
 	                } , {
 	                    width: 1024,
 	                    name: 'large',

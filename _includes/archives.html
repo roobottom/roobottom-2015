@@ -1,0 +1,97 @@
+<h1 class="u-centre">Archives for {{ include.year }}</h1>
+
+{% for post in site.posts  %}
+
+    {% capture year %}{{post.date | date: "%Y"}}{% endcapture %}
+    {% if year == include.year %}
+
+        {% capture this_month %}{{ post.date | date: '%m' }}{% endcapture %}
+        {% capture next_month %}{{ post.next.date | date: '%m' }}{% endcapture %}
+      
+        {% assign loop = forloop.index | modulo:6 %}
+        {% if loop == 0 or forloop.index == 1 or this_month != next_month or forloop.last %}
+            {% assign image_type = 'medium' %}
+        {% else %}
+            {% assign image_type = 'square' %}
+        {% endif %}
+        
+        
+        {% case post.categories[0] %}
+            {% when 'diary' %}
+                
+                {% assign currentImage = post.images[0].image %}
+                {% if image_type != 'square' %}
+                    {% for exif in site.data.diary %}
+                        {% if exif.SourceFile == currentImage %}
+                            {% capture width %}{{ exif.ImageWidth }}{% endcapture %}
+                            {% capture height %}{{ exif.ImageHeight }}{% endcapture %}
+                        {% endif %}
+                    {% endfor %}
+                {% else %}
+                    {% assign width = '380' %}
+                    {% assign height = '380' %}
+                {% endif %}
+                
+            {% when 'gallery' %}
+                
+                {% assign currentImage = post.images[0].image %}
+                {% if image_type != 'square' %}
+                    {% capture width %}{{ post.images[0].width }}{% endcapture %}
+                    {% capture height %}{{ post.images[0].height }}{% endcapture %}
+                {% else %}
+                    {% assign width = '380' %}
+                    {% assign height = '380' %}
+                {% endif %}
+                
+            {% when 'notes' %}
+            
+                {% assign currentImage = post.images[0] %}
+                {% if image_type != 'square' %}
+                    {% for exif in site.data.notes %}
+                        {% if exif.SourceFile == currentImage %}
+                            {% capture width %}{{ exif.ImageWidth }}{% endcapture %}
+                            {% capture height %}{{ exif.ImageHeight }}{% endcapture %}
+                        {% endif %}
+                    {% endfor %}
+                {% else %}
+                    {% assign width = '380' %}
+                    {% assign height = '380' %}
+                {% endif %}
+                
+            {% else %}
+        {% endcase %}
+        
+        {% if this_month != next_month %}
+            {% if forloop.index != 1 %}
+                </ol>
+                </div>
+            {% endif %}
+            <h2 class="repel--1 u-centre">{{ post.date | date: '%B %Y' }}</h2>
+            <div class="gallery pull--extended" data-max-items="5">
+            <ol class="gallery-row">
+        {% endif %}
+        
+            <li class="gallery-item">
+                <a href="{{ post.url }}">
+                    {% if currentImage %}
+                        <img src="{{ site.roobottom_assets }}/{{ post.categories[0]}}/{{ image_type }}/{{ currentImage }}" class="gallery-image" data-width="{{ width }}" data-height="{{ height }}"/>
+                    {% else %}
+                        <img src="{{ site.baseurl }}/css/images/calendar-default.png" data-width="280" data-height="280"/>
+                    {% endif %}
+                    
+                    <div class="gallery-item-meta">
+                        <time class="u-meta">{{ post.date | date date: "%a %d %B %Y" }}</time>
+                        <p class="gallery-item-title">{{ post.title }}</p>
+                    </div>
+                    
+                </a>
+            </li>
+      
+        {% if forloop.last %}
+            </ol>
+            </div>
+        {% endif %}
+        
+    {% endif %}
+
+{% endfor %}

@@ -5,10 +5,9 @@ tags:
   - website
 images:
   - 
-    image: ""
+    image: "01.jpg"
     caption: 'Some early concepts for the roo logo '
     set: logo
-cover: /assets/blog/covers/01.jpg
 ---
 Back in 2001, while I was still in midst of a degree that didn't really teach me anything, I built the first version of roobottom.com on a crappy second-hand PC.
 
