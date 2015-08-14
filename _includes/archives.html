@@ -72,7 +72,7 @@
         {% endif %}
         
             <li class="gallery-item">
-                <a href="{{ post.url }}">
+                <a href="{{ site.baseurl }}{{ post.url }}">
                     {% if currentImage %}
                         <img src="{{ site.roobottom_assets }}/{{ post.categories[0]}}/{{ image_type }}/{{ currentImage }}" class="gallery-image" data-width="{{ width }}" data-height="{{ height }}"/>
                     {% else %}
