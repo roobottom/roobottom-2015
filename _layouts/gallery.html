@@ -11,15 +11,10 @@ layout: default
             <ol class="gallery-row">
                 {% for image in page.images %}
                     {% capture fullImagePath %}{{ site.roobottom_assets }}/gallery/medium/{{ image.image }}{% endcapture %}
-                    
-                    
-                    
                     <li class="gallery-item"><img src="{{ fullImagePath }}" class="gallery-image" data-width="{{ image.width }}" data-height="{{ image.height }}"/></li>
                 {% endfor %}
             </ul>
         </div>
-
-    
         {{ content }}
     </div>
     
