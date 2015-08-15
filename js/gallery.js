@@ -1,16 +1,12 @@
 $(function() {
 	
-	//match media
-	//$('body').append('<div id="matchmedia" style="display:none;"/>');
-	
-	
 	
   //gallery rows calculation
   $('.gallery').each(function() {
   
   	var items = $('.gallery-item', this);
-    var ratios = [];
-    var ratiosum = 0;
+    var ratios = []; //store each items ratio in this array
+    var ratiosum = 0; //the ratiosum is used to store a cumulative width of each image.
     var totalItems = items.length;
     
     var maxItems = $(this).attr('data-max-items');

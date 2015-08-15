@@ -1,7 +1,6 @@
 module.exports = function(grunt) {
 	grunt.loadNpmTasks('grunt-responsive-images');
 	grunt.loadNpmTasks('grunt-shell');
-	grunt.loadNpmTasks('grunt-link-checker');
 
 	grunt.initConfig({
     
@@ -58,16 +57,6 @@ module.exports = function(grunt) {
     	        ].join('&&')
 	        }
     	},
-    	
-    	//check links
-    	linkChecker: {
-          dev: {
-            site: 'roo.dev',
-            options: {
-              initialPort: 80
-            }
-          }
-        }
 
 	});
 

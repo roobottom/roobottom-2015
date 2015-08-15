@@ -8,7 +8,7 @@
         {% capture this_month %}{{ post.date | date: '%m' }}{% endcapture %}
         {% capture next_month %}{{ post.next.date | date: '%m' }}{% endcapture %}
       
-        {% assign loop = forloop.index | modulo:6 %}
+        {% assign loop = forloop.index | modulo:9 %}
         {% if loop == 0 or forloop.index == 1 or this_month != next_month or forloop.last %}
             {% assign image_type = 'medium' %}
         {% else %}
@@ -67,7 +67,7 @@
                 </div>
             {% endif %}
             <h2 class="repel--1 u-centre">{{ post.date | date: '%B %Y' }}</h2>
-            <div class="gallery pull--extended" data-max-items="5">
+            <div class="gallery pull--extended" data-max-items="7" data-min-items="3">
             <ol class="gallery-row">
         {% endif %}
         
