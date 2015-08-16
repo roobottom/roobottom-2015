@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-{% for post in site.posts limit:20 %}
+{% for post in site.posts limit:5 %}
     <article class="repel--2 teaser">
         <div class="s-prose">
             <h2 class="h1"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
@@ -15,7 +15,7 @@ title: Home
                     <div class="gallery">
                         <ol class="gallery-row">
                             {% for image in post.images %}
-                            {% capture fullImagePath %}{{ site.roobottom_assets }}/notes/medium/{{ image }}{% endcapture %}
+                            {% capture fullImagePath %}{{ site.roobottom_assets }}/notes/small/{{ image }}{% endcapture %}
                             
                             {% for exif in site.data.notes %}
                                 {% if exif.SourceFile == image %}
@@ -30,7 +30,7 @@ title: Home
                     </div>
                 {% else %}
                     <figure class="">
-                        <img src="{{ site.roobottom_assets }}/notes/large/{{ post.images[0] }}"/>
+                        <img src="{{ site.roobottom_assets }}/notes/medium/{{ post.images[0] }}"/>
                     </figure>
                 {% endif %}
             {% endif %}
@@ -39,7 +39,7 @@ title: Home
                 <div class="gallery">
                     <ol class="gallery-row">
                         {% for image in post.images limit:9 %}
-                        {% capture fullImagePath %}{{ site.roobottom_assets }}/gallery/medium/{{ image.image }}{% endcapture %}
+                        {% capture fullImagePath %}{{ site.roobottom_assets }}/gallery/small/{{ image.image }}{% endcapture %}
                         {% for exif in site.data.gallery %}
                             {% if exif.SourceFile == image %}
                                 {% capture width %}{{ exif.ImageWidth }}{% endcapture %}

@@ -19,6 +19,10 @@ module.exports = function(grunt) {
 	                    aspectRatio: false,
 	                    
 	                } , {
+	                    width: 380,
+	                    name: 'small',
+	                    quality: 50
+	                } , {
 	                    width: 640,
 	                    name: 'medium',
 	                    quality: 50

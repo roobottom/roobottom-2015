@@ -11,6 +11,6 @@ images:
     - 2015-08-08_005.jpg
 ---
 
-We spent a lovely warm afternoon with Ellie, Kamran and Mrs.M. The babies very much enjoyed splashing around in the pool, an experience enhanced by the addition of baby Roo's vomit. 
+We spent a lovely hot afternoon with Ellie, Kamran and Mrs.M. The babies very much enjoyed splashing around in the pool, enhanced by the addition of baby Roo's vomit. 
 
-Cath and Dave came round in the evening. We sat out in the warm evening air and shared a take away from the Lemongrass.
+Cath and Dave came round later. We sat out in the warm evening air and shared a take away from the Lemongrass.

@@ -343,7 +343,7 @@ body.style-guide .s-meta:before {
 }
 .s-prose img {
   display: block;
-  max-width: 100%;
+  width: 100%;
 }
 .s-prose figure {
   border-bottom: 1px solid #e6e6e6;
