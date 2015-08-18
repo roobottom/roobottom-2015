@@ -5,37 +5,28 @@
     padding: 0 unit(@lineheight,px);
     padding: 0 unit(@lineheight/@base,rem);
     box-shadow: 0 1px 3px fade(black,10%);
-    background-color: white;
     margin-bottom: unit(@lineheight,px);
     margin-bottom: unit(@lineheight/@base,rem);
+    border: 1px solid lighten(@grey,10%);
     
-    figure, .gallery, .teaser-header {
+    .teaser-header {
         //pull these items out to meet the edges of this box.
         margin-left: unit(-1 * @lineheight,px);
         margin-right: unit(-1 * @lineheight,px);
         margin-left: unit(-1 * @lineheight/@base,rem);
         margin-right: unit(-1 * @lineheight/@base,rem);
-        img { max-width: 100%; }  
+        
+        margin-bottom: unit(@lineheight,px);
+        margin-bottom: unit(@lineheight/@base,rem);
     }
-    
-    max-height: 600px;
     
     .teaser-header {
         padding: unit(@lineheight/2,px) unit(@lineheight,px);
         padding: unit(@lineheight/2/@base,rem) unit(@lineheight/@base,rem); 
         
         background: lighten(@grey,15%);
-        font-size: 70%;
-        box-shadow: inset 0px -3px 5px -3px fade(black,5%);
-        
-        &, a, a:link, a:visited, a:hover {
-            color: darken(@grey,20%);
-            border-color: darken(@grey,20%);
-        }
-        
-        a:hover {
-            color: darken(@grey,40%);
-        }
+        font-size: 80%;
+        text-transform: uppercase;
         
     }
     
@@ -50,24 +41,22 @@
         
     }
     
-    
+    //mods for teasers
     figcaption {
         padding: 0 unit(@lineheight,px);
         padding: 0 unit(@lineheight/@base,rem);
     }
     
-    &.teaser--note,
-    &.teaser--gallery {
-        border: 1px solid lighten(@grey,10%);
-        background-color: transparent;
-        box-shadow: none;
+    &.teaser--diary .teaser-header {
+        background-color: lighten(@blue,40%);
     }
     
-    @media screen and (min-width: unit(@layout_medium,px)) {
-        
-        max-height: none;
-        
-        
+    &.teaser--notes .teaser-header {
+        background-color: lighten(@yellow,20%);
+    }
+    
+    &.teaser--gallery .teaser-header {
+        background-color: lighten(@red,40%);
     }
     
     

@@ -203,14 +203,14 @@ body.style-guide .s-meta:before {
     border: 20px solid transparent;
   }
   .layout--grid-span1 {
-    -webkit-flex-shrink: 5;
-        -ms-flex-negative: 5;
-            flex-shrink: 5;
+    -webkit-flex-shrink: 70;
+        -ms-flex-negative: 70;
+            flex-shrink: 70;
   }
   .layout--grid-span2 {
-    -webkit-flex-shrink: 2;
-        -ms-flex-negative: 2;
-            flex-shrink: 2;
+    -webkit-flex-shrink: 30;
+        -ms-flex-negative: 30;
+            flex-shrink: 30;
   }
 }
 .push--left {
@@ -460,6 +460,7 @@ body.style-guide .s-meta:before {
   display: block;
   position: relative;
   color: white;
+  border: none;
 }
 .gallery img {
   display: block;
@@ -576,41 +577,24 @@ body.style-guide .s-meta:before {
   padding: 0 32px;
   padding: 0 2rem;
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
-  background-color: white;
   margin-bottom: 32px;
   margin-bottom: 2rem;
-  max-height: 600px;
+  border: 1px solid #e6e6e6;
 }
-.teaser figure,
-.teaser .gallery,
 .teaser .teaser-header {
   margin-left: -32px;
   margin-right: -32px;
   margin-left: -2rem;
   margin-right: -2rem;
-}
-.teaser figure img,
-.teaser .gallery img,
-.teaser .teaser-header img {
-  max-width: 100%;
+  margin-bottom: 32px;
+  margin-bottom: 2rem;
 }
 .teaser .teaser-header {
   padding: 16px 32px;
   padding: 1rem 2rem;
   background: #f2f2f2;
-  font-size: 70%;
-  box-shadow: inset 0px -3px 5px -3px rgba(0, 0, 0, 0.05);
-}
-.teaser .teaser-header,
-.teaser .teaser-header a,
-.teaser .teaser-header a:link,
-.teaser .teaser-header a:visited,
-.teaser .teaser-header a:hover {
-  color: #999999;
-  border-color: #999999;
-}
-.teaser .teaser-header a:hover {
-  color: #666666;
+  font-size: 80%;
+  text-transform: uppercase;
 }
 .teaser .teaser-footer {
   margin-left: -32px;
@@ -625,16 +609,14 @@ body.style-guide .s-meta:before {
   padding: 0 32px;
   padding: 0 2rem;
 }
-.teaser.teaser--note,
-.teaser.teaser--gallery {
-  border: 1px solid #e6e6e6;
-  background-color: transparent;
-  box-shadow: none;
+.teaser.teaser--diary .teaser-header {
+  background-color: #e5f2fa;
 }
-@media screen and (min-width: 980px) {
-  .teaser {
-    max-height: none;
-  }
+.teaser.teaser--notes .teaser-header {
+  background-color: #fef6da;
+}
+.teaser.teaser--gallery .teaser-header {
+  background-color: #fdecee;
 }
 .u-quiet {
   color: #cccccc;
@@ -710,9 +692,9 @@ h6 {
 }
 h1,
 .h1 {
-  font-size: 33px;
-  font-size: 2.0625rem;
-  line-height: 1.45454545;
+  font-size: 31px;
+  font-size: 1.9375rem;
+  line-height: 1.5483871;
 }
 h2,
 .h2 {
@@ -741,9 +723,9 @@ h6,
 @media screen and (min-width: 860px) {
   h1,
   .h1 {
-    font-size: 54px;
-    font-size: 3.375rem;
-    line-height: 1.18518519;
+    font-size: 43px;
+    font-size: 2.6875rem;
+    line-height: 1.26511628;
   }
   h2,
   .h2 {

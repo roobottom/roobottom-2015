@@ -9,46 +9,54 @@ title: Home
             <article class="s-prose teaser teaser--diary">
                 <header class="teaser-header">Latest from  /<a href="{{ site.baseurl }}/diary">diary</a></header>
                 <figure>
-                    <img src="{{ site.roobottom_assets }}/{{ post.categories[0] }}/large/{{ post.images[0].image }}" />
-                </figure> 
+                    <a href="{{ site.baseurl }}{{ post.url }}"><img src="{{ site.roobottom_assets }}/{{ post.categories[0] }}/large/{{ post.images[0].image }}" /></a>
+                </figure>
                 <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
                 <p class="u-meta"><time>{{ post.date | date date: "%A, %B %e %Y" }}</time></p>
                 {{ post.excerpt }}
-                <footer class="teaser-footer"><a href="{{ site.baseurl }}{{ post.url }}">See the full article</a></footer>
+<!--                 <footer class="teaser-footer"><a href="{{ site.baseurl }}{{ post.url }}">See the full article</a></footer> -->
             </article>
         {% endfor %}
     </div>
     <div class="layout--grid-span1">
         {% for post in site.categories.notes limit:1 %}
         
-            <article class="s-prose teaser teaser--note">
-                <header class="teaser-header">Latest from  /<a href="{{ site.baseurl }}/notes">notes</a></header>  
+            <article class="s-prose teaser teaser--notes">
+                <header class="teaser-header">Latest from  /<a href="{{ site.baseurl }}/notes">notes</a></header> 
                 <figure>
-                    <img src="{{ site.roobottom_assets }}/{{ post.categories[0] }}/small/{{ post.images[0] }}" />
+                    <a href="{{ site.baseurl }}{{ post.url }}"><img src="{{ site.roobottom_assets }}/{{ post.categories[0] }}/small/{{ post.images[0] }}" /></a>
                 </figure>
-                <h2>{{ post.title }}</h2>
+                <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
                 <p class="u-meta"><time>{{ post.date | date date: "%A, %B %e %Y" }}</time></p>
-                {{ post.excerpt }}
-                <footer class="teaser-footer"><a href="{{ site.baseurl }}{{ post.url }}">Read this note</a></footer>
+<!--                 <footer class="teaser-footer"><a href="{{ site.baseurl }}{{ post.url }}">Read this note</a></footer> -->
             </article>
             
         {% endfor %}
-        
         
         {% for post in site.categories.gallery limit:1 %}
         
             <article class="s-prose teaser teaser--gallery">
-                <header class="teaser-header">Latest from  /<a href="{{ site.baseurl }}/gallery">gallery</a></header>  
-                <figure>
-                    <img src="{{ site.roobottom_assets }}/{{ post.categories[0] }}/small/{{ post.images[0].image }}" />
-                </figure>
-                <h2>{{ post.title }}</h2>
+                <header class="teaser-header">Latest from  /<a href="{{ site.baseurl }}/gallery">gallery</a></header> 
+                <div class="gallery">
+                    <ol class="gallery-row">
+                        {% for image in post.images limit:5 %}
+                            {% capture width %}{{ image.width }}{% endcapture %}
+                            {% capture height %}{{ image.height }}{% endcapture %}
+                            <li class="gallery-item">
+                                <a href="{{ site.baseurl }}{{ post.url }}">
+                                    <img src="{{ site.roobottom_assets }}/{{ post.categories[0] }}/small/{{ image.image }}" data-width="{{ width }}" data-height="{{ height }}" class="gallery-image"/>
+                                </a>
+                            </li>
+                        {% endfor %}
+                    </ol>
+                </div>
+                <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
                 <p class="u-meta"><time>{{ post.date | date date: "%A, %B %e %Y" }}</time></p>
-                {{ post.excerpt }}
-                <footer class="teaser-footer"><a href="{{ site.baseurl }}{{ post.url }}">See all {{ post.images | size }} images in this gallery</a></footer>
+<!--                 <footer class="teaser-footer"><a href="{{ site.baseurl }}{{ post.url }}">See all {{ post.images | size }} images in {{ post.title }}</a></footer> -->
             </article>
             
         {% endfor %}
+        
         
     </div>
 </section>
