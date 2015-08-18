@@ -1,0 +1,18 @@
+---
+title: Notes
+layout: default
+---
+<section class="layout--grid">
+    {% for post in site.categories.notes %}
+        <div class="layout--grid-span1">
+            <article class="s-prose teaser teaser--notes">
+                <header class="teaser-header">Latest from  /<a href="{{ site.baseurl }}/notes">notes</a></header> 
+                <figure>
+                    <a href="{{ site.baseurl }}{{ post.url }}"><img src="{{ site.roobottom_assets }}/{{ post.categories[0] }}/square/{{ post.images[0] }}" /></a>
+                </figure>
+                <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+                <p class="u-meta"><time>{{ post.date | date date: "%A, %B %e %Y" }}</time></p>
+            </article>
+        </div>
+    {% endfor %}
+</section>

@@ -201,21 +201,11 @@ body.style-guide .s-meta:before {
     margin: 32px auto;
     margin: 2rem auto;
   }
-  .layout--grid-span1,
-  .layout--grid-span2 {
-    border: 0.2px solid transparent;
-  }
   .layout--grid-span1 {
-    max-width: 400px;
-    -webkit-flex-shrink: 70;
-        -ms-flex-negative: 70;
-            flex-shrink: 70;
+    max-width: 28%;
   }
   .layout--grid-span2 {
-    max-width: 840px;
-    -webkit-flex-shrink: 30;
-        -ms-flex-negative: 30;
-            flex-shrink: 30;
+    max-width: 68%;
   }
 }
 .push--left {

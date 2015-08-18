@@ -34,16 +34,14 @@
     }
     .layout--grid-span1,
     .layout--grid-span2 {
-        border: unit(@layout_gap/100,px) solid transparent;
+        //border: unit(@layout_gap/100,px) solid transparent;
     }
     
     
     .layout--grid-span1 {
-        max-width: unit((@layout_narrow/2) - @layout_gap,px);
-        flex-shrink: 70;
+        max-width: 28%;
     }
     .layout--grid-span2 {
-        max-width: unit(@layout_narrow,px);
-        flex-shrink: 30;
+        max-width: 68%;
     }
 }

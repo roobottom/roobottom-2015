@@ -1,5 +1,6 @@
 <h1 class="u-centre">Archives for {{ include.year }}</h1>
 
+<div class="layout--column">
 {% for post in site.posts  %}
 
     {% capture year %}{{post.date | date: "%Y"}}{% endcapture %}
@@ -95,3 +96,4 @@
     {% endif %}
 
 {% endfor %}
+</div>
