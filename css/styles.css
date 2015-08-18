@@ -191,6 +191,9 @@ body.style-guide .s-meta:before {
     display: -webkit-flex;
     display: -ms-flexbox;
     display: flex;
+    -webkit-flex-wrap: wrap;
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
     -webkit-box-pack: justify;
     -webkit-justify-content: space-between;
         -ms-flex-pack: justify;
@@ -200,14 +203,16 @@ body.style-guide .s-meta:before {
   }
   .layout--grid-span1,
   .layout--grid-span2 {
-    border: 20px solid transparent;
+    border: 0.2px solid transparent;
   }
   .layout--grid-span1 {
+    max-width: 400px;
     -webkit-flex-shrink: 70;
         -ms-flex-negative: 70;
             flex-shrink: 70;
   }
   .layout--grid-span2 {
+    max-width: 840px;
     -webkit-flex-shrink: 30;
         -ms-flex-negative: 30;
             flex-shrink: 30;

@@ -27,22 +27,23 @@
 @media screen and (min-width:unit(@layout_medium,px)) {
     .layout--grid {
         display: flex;
+        flex-wrap: wrap;
         justify-content: space-between;
         margin: unit(@lineheight,px) auto;
         margin: unit(@lineheight/@base,rem) auto;
     }
     .layout--grid-span1,
     .layout--grid-span2 {
-        border: unit(@layout_gap,px) solid transparent;
+        border: unit(@layout_gap/100,px) solid transparent;
     }
     
     
     .layout--grid-span1 {
-        //max-width: unit((@layout_narrow/2) - @layout_gap,px);
+        max-width: unit((@layout_narrow/2) - @layout_gap,px);
         flex-shrink: 70;
     }
     .layout--grid-span2 {
-        //max-width: unit(@layout_narrow,px);
+        max-width: unit(@layout_narrow,px);
         flex-shrink: 30;
     }
 }
