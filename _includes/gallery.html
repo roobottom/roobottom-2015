@@ -1,0 +1,19 @@
+<div class="gallery {{ include.class }}" data-max-items="3" data-min-items="3">
+    <ol class="gallery-row">
+        {% for image in page.images %}
+        {% if image.set == include.set %}
+        
+            {% for exif in site.data.diary %}
+                {% if exif.SourceFile == image.image %}
+                    {% capture width %}{{ exif.ImageWidth }}{% endcapture %}
+                    {% capture height %}{{ exif.ImageHeight }}{% endcapture %}
+                {% endif %}
+            {% endfor %}
+        
+            <li class="gallery-item">
+                <img src="{{ site.roobottom_assets }}/{{ page.categories[0] }}/medium/{{ image.image }}" data-width="{{ width }}" data-height="{{ height }}" class="gallery-image"/>
+            </li>
+        {% endif %}
+        {% endfor %}
+    </ol>
+</div>

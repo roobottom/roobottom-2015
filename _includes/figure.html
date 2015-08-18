@@ -1,0 +1,13 @@
+{% for image in page.images %}
+    {% if image.set == include.set %}
+        {% assign image = image.image %}
+        {% assign caption = image.caption %}
+    {% endif %}
+{% endfor %}
+
+<figure class="{{ include.class }}">
+    <img src="{{ site.roobottom_assets }}/{{ page.categories[0] }}/large/{{ image }}"/>
+    {% if caption != "" %}
+        <figcaption>{{ caption }}</figcaption>  
+    {% endif %}
+</figure>

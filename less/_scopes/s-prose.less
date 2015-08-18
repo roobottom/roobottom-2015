@@ -4,7 +4,6 @@
   
   a, a:visited {
 	  transition: color 200ms ease;
-	  text-shadow: -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff, 1px 1px 0 #fff;
 	  color: @blue;
 	  border-bottom: 1px solid @blue;
   }
@@ -69,7 +68,7 @@
   
   >ul, >ol {
       list-style-position: inside;
-      @media screen and (min-width:unit((@layout_narrow + @layout_buffer*6),px)) {
+      @media screen and (min-width:unit((@layout_narrow + @layout_gap*6),px)) {
         list-style-position: outside;
       }
   }

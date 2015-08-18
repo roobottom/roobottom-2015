@@ -87,7 +87,7 @@ defaults:
       type: "posts"
       path: "diary"
     values:
-      layout: "default"
+      layout: "diary"
       category: "diary"
   -
     scope:

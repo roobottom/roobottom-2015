@@ -169,15 +169,48 @@ body.style-guide .s-meta:before {
   right: 0;
   color: #90c5e9;
 }
-.layout--posts {
-  max-width: 51.25rem;
+.layout--column {
+  max-width: 52.5rem;
   margin: 20px;
   margin: 1.25rem;
 }
-@media screen and (min-width: 840px) {
-  .layout--posts {
+@media screen and (min-width: 860px) {
+  .layout--column {
     margin: 32px auto;
     margin: 2rem auto;
+  }
+}
+.layout--grid {
+  max-width: 79.375rem;
+  margin: 20px;
+  margin: 1.25rem;
+}
+@media screen and (min-width: 980px) {
+  .layout--grid {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+    -webkit-justify-content: space-between;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+    margin: 32px auto;
+    margin: 2rem auto;
+  }
+  .layout--grid-span1,
+  .layout--grid-span2 {
+    border: 20px solid transparent;
+  }
+  .layout--grid-span1 {
+    -webkit-flex-shrink: 5;
+        -ms-flex-negative: 5;
+            flex-shrink: 5;
+  }
+  .layout--grid-span2 {
+    -webkit-flex-shrink: 2;
+        -ms-flex-negative: 2;
+            flex-shrink: 2;
   }
 }
 .push--left {
@@ -213,27 +246,27 @@ body.style-guide .s-meta:before {
 }
 @media screen and (min-width: 1000px) {
   .pull--left {
-    margin-left: -80px;
-    margin-left: -5rem;
+    margin-left: -70px;
+    margin-left: -4.375rem;
   }
   .pull--right {
-    margin-right: -80px;
-    margin-right: -5rem;
+    margin-right: -70px;
+    margin-right: -4.375rem;
   }
   .pull--both,
   .pull--extended {
-    margin-left: -80px;
-    margin-left: -5rem;
-    margin-right: -80px;
-    margin-right: -5rem;
+    margin-left: -70px;
+    margin-left: -4.375rem;
+    margin-right: -70px;
+    margin-right: -4.375rem;
   }
 }
-@media screen and (min-width: 1420px) {
+@media screen and (min-width: 1290px) {
   .pull--extended {
-    margin-left: -290px;
-    margin-left: -18.125rem;
-    margin-right: -290px;
-    margin-right: -18.125rem;
+    margin-left: -215px;
+    margin-left: -13.4375rem;
+    margin-right: -215px;
+    margin-right: -13.4375rem;
   }
 }
 .repel--none {
@@ -255,7 +288,6 @@ body.style-guide .s-meta:before {
 .s-prose a:visited {
   -webkit-transition: color 200ms ease;
           transition: color 200ms ease;
-  text-shadow: -1px -1px 0 #ffffff, 1px -1px 0 #ffffff, -1px 1px 0 #ffffff, 1px 1px 0 #ffffff;
   color: #3a99d9;
   border-bottom: 1px solid #3a99d9;
 }
@@ -335,7 +367,7 @@ body.style-guide .s-meta:before {
 .s-prose > ol {
   list-style-position: inside;
 }
-@media screen and (min-width: 940px) {
+@media screen and (min-width: 960px) {
   .s-prose > ul,
   .s-prose > ol {
     list-style-position: outside;
@@ -510,7 +542,7 @@ body.style-guide .s-meta:before {
 .calendar li {
   width: 33.33333333%;
 }
-@media screen and (min-width: 840px) {
+@media screen and (min-width: 860px) {
   .calendar li {
     width: 20%;
   }
@@ -539,36 +571,69 @@ body.style-guide .s-meta:before {
   margin-bottom: 1rem;
 }
 .teaser {
-  background-color: white;
-  margin-left: -20px;
-  margin-right: -20px;
-  margin-left: -1.25rem;
-  margin-right: -1.25rem;
+  box-sizing: border-box;
+  overflow: hidden;
   padding: 0 32px;
   padding: 0 2rem;
-  overflow: hidden;
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  background-color: white;
+  margin-bottom: 32px;
+  margin-bottom: 2rem;
+  max-height: 600px;
 }
 .teaser figure,
-.teaser .gallery {
+.teaser .gallery,
+.teaser .teaser-header {
   margin-left: -32px;
   margin-right: -32px;
   margin-left: -2rem;
   margin-right: -2rem;
 }
-@media screen and (min-width: 940px) {
+.teaser figure img,
+.teaser .gallery img,
+.teaser .teaser-header img {
+  max-width: 100%;
+}
+.teaser .teaser-header {
+  padding: 16px 32px;
+  padding: 1rem 2rem;
+  background: #f2f2f2;
+  font-size: 70%;
+  box-shadow: inset 0px -3px 5px -3px rgba(0, 0, 0, 0.05);
+}
+.teaser .teaser-header,
+.teaser .teaser-header a,
+.teaser .teaser-header a:link,
+.teaser .teaser-header a:visited,
+.teaser .teaser-header a:hover {
+  color: #999999;
+  border-color: #999999;
+}
+.teaser .teaser-header a:hover {
+  color: #666666;
+}
+.teaser .teaser-footer {
+  margin-left: -32px;
+  margin-right: -32px;
+  margin-left: -2rem;
+  margin-right: -2rem;
+  padding: 32px 32px;
+  padding: 2rem 2rem;
+  border-top: 1px solid #e6e6e6;
+}
+.teaser figcaption {
+  padding: 0 32px;
+  padding: 0 2rem;
+}
+.teaser.teaser--note,
+.teaser.teaser--gallery {
+  border: 1px solid #e6e6e6;
+  background-color: transparent;
+  box-shadow: none;
+}
+@media screen and (min-width: 980px) {
   .teaser {
-    padding: 0 48px;
-    padding: 0 3rem;
-    margin-left: 0;
-    margin-right: 0;
-  }
-  .teaser figure,
-  .teaser .gallery {
-    margin-left: -48px;
-    margin-right: -48px;
-    margin-left: -3rem;
-    margin-right: -3rem;
+    max-height: none;
   }
 }
 .u-quiet {
@@ -612,7 +677,7 @@ body {
   line-height: 2;
   color: #333;
 }
-@media screen and (min-width: 840px) {
+@media screen and (min-width: 860px) {
   body {
     font-size: 19px;
     font-size: 1.1875rem;
@@ -626,7 +691,8 @@ h4,
 h5,
 h6,
 .tags,
-.u-meta {
+.u-meta,
+.teaser .teaser-header {
   font-family: "Whitney SSm A", "Whitney SSm B", "Seravek", "GillSans", sans-serif;
 }
 code {
@@ -642,42 +708,51 @@ h6 {
   margin-top: 32px;
   margin-top: 2rem;
 }
-h1 {
+h1,
+.h1 {
   font-size: 33px;
   font-size: 2.0625rem;
   line-height: 1.45454545;
 }
-h2 {
+h2,
+.h2 {
   font-size: 25px;
   font-size: 1.5625rem;
   line-height: 1.92;
 }
-h3 {
+h3,
+.h3 {
   font-size: 19px;
   font-size: 1.1875rem;
   line-height: 1.77777778;
 }
 h4,
 h5,
-h6 {
+h6,
+.h4,
+.h5,
+.h6 {
   font-size: 16px;
   font-size: 1rem;
   line-height: 2;
   color: #333;
   text-transform: uppercase;
 }
-@media screen and (min-width: 840px) {
-  h1 {
+@media screen and (min-width: 860px) {
+  h1,
+  .h1 {
     font-size: 54px;
     font-size: 3.375rem;
     line-height: 1.18518519;
   }
-  h2 {
+  h2,
+  .h2 {
     font-size: 32px;
     font-size: 2rem;
     line-height: 1.4;
   }
-  h3 {
+  h3,
+  .h3 {
     font-size: 22px;
     font-size: 1.375rem;
     line-height: 2.18181818;

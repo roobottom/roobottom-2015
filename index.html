@@ -3,68 +3,52 @@ layout: default
 title: Home
 ---
 
-{% for post in site.posts limit:5 %}
-    <article class="repel--2 teaser">
-        <div class="s-prose">
-            <h2 class="h1"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
-            <p class="u-meta"><time>{{ post.date | date date: "%A, %B %e %Y" }}</time></p>
+<section class="layout--grid">
+    <div class="layout--grid-span2">
+        {% for post in site.categories.diary limit:1 %}
+            <article class="s-prose teaser teaser--diary">
+                <header class="teaser-header">Latest from  /<a href="{{ site.baseurl }}/diary">diary</a></header>
+                <figure>
+                    <img src="{{ site.roobottom_assets }}/{{ post.categories[0] }}/large/{{ post.images[0].image }}" />
+                </figure> 
+                <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+                <p class="u-meta"><time>{{ post.date | date date: "%A, %B %e %Y" }}</time></p>
+                {{ post.excerpt }}
+                <footer class="teaser-footer"><a href="{{ site.baseurl }}{{ post.url }}">See the full article</a></footer>
+            </article>
+        {% endfor %}
+    </div>
+    <div class="layout--grid-span1">
+        {% for post in site.categories.notes limit:1 %}
+        
+            <article class="s-prose teaser teaser--note">
+                <header class="teaser-header">Latest from  /<a href="{{ site.baseurl }}/notes">notes</a></header>  
+                <figure>
+                    <img src="{{ site.roobottom_assets }}/{{ post.categories[0] }}/small/{{ post.images[0] }}" />
+                </figure>
+                <h2>{{ post.title }}</h2>
+                <p class="u-meta"><time>{{ post.date | date date: "%A, %B %e %Y" }}</time></p>
+                {{ post.excerpt }}
+                <footer class="teaser-footer"><a href="{{ site.baseurl }}{{ post.url }}">Read this note</a></footer>
+            </article>
             
-            {% if post.categories[0] == 'notes' %}
-                {% assign numberOfImages = post.images | size %}
-                {% if numberOfImages > 1 %}
-                    <div class="gallery">
-                        <ol class="gallery-row">
-                            {% for image in post.images %}
-                            {% capture fullImagePath %}{{ site.roobottom_assets }}/notes/small/{{ image }}{% endcapture %}
-                            
-                            {% for exif in site.data.notes %}
-                                {% if exif.SourceFile == image %}
-                                    {% capture width %}{{ exif.ImageWidth }}{% endcapture %}
-                                    {% capture height %}{{ exif.ImageHeight }}{% endcapture %}
-                                {% endif %}
-                            {% endfor %}
-                            
-                            <li class="gallery-item"><img src="{{ fullImagePath }}" class="gallery-image" data-width="{{ width }}" data-height="{{ height }}"/></li>
-                            {% endfor %}
-                        </ul>
-                    </div>
-                {% else %}
-                    <figure class="">
-                        <img src="{{ site.roobottom_assets }}/notes/medium/{{ post.images[0] }}"/>
-                    </figure>
-                {% endif %}
-            {% endif %}
+        {% endfor %}
+        
+        
+        {% for post in site.categories.gallery limit:1 %}
+        
+            <article class="s-prose teaser teaser--gallery">
+                <header class="teaser-header">Latest from  /<a href="{{ site.baseurl }}/gallery">gallery</a></header>  
+                <figure>
+                    <img src="{{ site.roobottom_assets }}/{{ post.categories[0] }}/small/{{ post.images[0].image }}" />
+                </figure>
+                <h2>{{ post.title }}</h2>
+                <p class="u-meta"><time>{{ post.date | date date: "%A, %B %e %Y" }}</time></p>
+                {{ post.excerpt }}
+                <footer class="teaser-footer"><a href="{{ site.baseurl }}{{ post.url }}">See all {{ post.images | size }} images in this gallery</a></footer>
+            </article>
             
-            {% if post.categories[0] == 'gallery' %}
-                <div class="gallery">
-                    <ol class="gallery-row">
-                        {% for image in post.images limit:9 %}
-                        {% capture fullImagePath %}{{ site.roobottom_assets }}/gallery/small/{{ image.image }}{% endcapture %}
-                        {% for exif in site.data.gallery %}
-                            {% if exif.SourceFile == image %}
-                                {% capture width %}{{ exif.ImageWidth }}{% endcapture %}
-                                {% capture height %}{{ exif.ImageHeight }}{% endcapture %}
-                            {% endif %}
-                        {% endfor %}
-                        <li class="gallery-item"><img src="{{ fullImagePath }}" class="gallery-image" data-width="{{ width }}" data-height="{{ height }}"/></li>
-                        {% endfor %}
-                    </ul>
-                </div>
-            {% endif %}
-            
-            {{ post.content }}
-            
-            {% if post.categories[0] == 'gallery' %}
-            <p><a href="{{ site.baseurl }}{{ post.url }}">See all {{ post.images | size }} images in this gallery</a></p>
-            {% endif %}
-            
-            {% if post.categories[0] == 'diary' %}
-            <p><a href="{{ site.baseurl }}{{ post.url }}">Read this entire diary post</a></p>
-            {% endif %}
-            
-        </div>
-    </article>
-{% endfor %}
-<div class="s-prose">
-    <p>Read more in the <a href="{{ site.baseurl }}/archives">archives</a>.</p>
-</div>
+        {% endfor %}
+        
+    </div>
+</section>

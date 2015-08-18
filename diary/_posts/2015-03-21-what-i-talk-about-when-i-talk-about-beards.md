@@ -13,7 +13,7 @@ images:
     image: IMG_0208.jpg
     caption: ""
     set: shave
-cover: /assets/blog/covers/IMG_0184.jpg
+cover: IMG_0184.jpg
 introduction: _Twiddle, twiddle, scratch, scratch, scratch_. Such has been my life over the past month. That ends this evening; the beard is gone.
 ---
 _Twiddle, twiddle, scratch, scratch, scratch_. Such has been my life over the past month. That ends this evening; the beard is gone.
@@ -30,13 +30,13 @@ It was at this point I decided I needed some help. Having heard Marc talking abo
 
 Beard oil in hand I ploughed on, and was rewarded, even if I do say so myself, with half decent face hair. _Emphasis on the “half”_.
 
-<figure class="inline">{{ theme:partial src="figure" use_context="true" show_img="beard" }}</figure>
+{% include figure.html class="pull--both" set="beard" %}
 
 So, why the change of heart? Why is the beard no more? Well, to be honest, it was all too much like hard work. Oh sure, I was a prince amongst men, but it all got a little too much. I couldn’t stop playing with it for one, not great if you want a great beard. Also, food would occasionally get stuck in there, and that’s a look that’s not that easy to carry off. The writing was on the wall for el beardo.
 
 Of course, I performed the obligatory shaving-off-into-stupid-styles ceremony, many of which, upon seeing my face, Katie threatened divorce. 
 
-<div class="gallery">{{ theme:partial src="gallery" type="diary" use_context="true" show_set="shave" }}</div>
+{% include gallery.html class="pull--both" set="shave" %}
 
 If this month has taught me anything, it’s that a good beard is no easy thing. It takes work. It takes the ability to leave it the hell alone. But, most of all, it takes a will of iron to push though the itchy stage. 
 
