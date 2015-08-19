@@ -3,25 +3,13 @@ layout: default
 title: Archives
 ---
 
-<section class="layout--columns">
-    <div class="teaser">
-        {% assign year = 2015 %}
-        {% assign images_to_show = 9 %}
-        
-        {% assign c = 0 %}
-        {% for post in site.posts %}
-            {% assign postYear = post.date | date: "%Y" %}
-            {% if postYear == year %}
-                {% assign c = c | plus:1 %}
-            {% endif %}
-            {% if forloop.last %}
-                {% assign postCount = c %}
-            {% endif %}
-        {% endfor %}
-        
-        {% assign postSkip = counter | divided_by: images_to_show %}
-        
-
-        
-    </div>
+<section class="layout--grid">
+    
+    {% include_relative _includes/archive-teaser.html year="2015" gallery_size=9 %}
+    {% include_relative _includes/archive-teaser.html year="2014" gallery_size=9 %}
+    {% include_relative _includes/archive-teaser.html year="2013" gallery_size=9 %}
+    {% include_relative _includes/archive-teaser.html year="2012" gallery_size=9 %}
+    {% include_relative _includes/archive-teaser.html year="2011" gallery_size=9 %}
+    {% include_relative _includes/archive-teaser.html year="2010" gallery_size=9 %}
+ 
 </section>
