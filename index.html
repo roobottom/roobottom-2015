@@ -14,7 +14,7 @@ title: Home
                 <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
                 <p class="u-meta"><time>{{ post.date | date date: "%A, %B %e %Y" }}</time></p>
                 {{ post.excerpt }}
-<!--                 <footer class="teaser-footer"><a href="{{ site.baseurl }}{{ post.url }}">See the full article</a></footer> -->
+                <footer class="teaser-footer"><a href="{{ site.baseurl }}{{ post.url }}">Read this article</a></footer>
             </article>
         {% endfor %}
     </div>
@@ -28,7 +28,6 @@ title: Home
                 </figure>
                 <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
                 <p class="u-meta"><time>{{ post.date | date date: "%A, %B %e %Y" }}</time></p>
-<!--                 <footer class="teaser-footer"><a href="{{ site.baseurl }}{{ post.url }}">Read this note</a></footer> -->
             </article>
             
         {% endfor %}
@@ -51,8 +50,7 @@ title: Home
                     </ol>
                 </div>
                 <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
-                <p class="u-meta"><time>{{ post.date | date date: "%A, %B %e %Y" }}</time></p>
-<!--                 <footer class="teaser-footer"><a href="{{ site.baseurl }}{{ post.url }}">See all {{ post.images | size }} images in {{ post.title }}</a></footer> -->
+                <p class="u-meta"><time>{{ post.date | date date: "%A, %B %e %Y" }}</time> &mdash; {{ post.images | size }} images</p>
             </article>
             
         {% endfor %}

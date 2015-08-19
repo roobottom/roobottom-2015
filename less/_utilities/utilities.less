@@ -9,7 +9,7 @@
 }
 
 .u-meta {
-    color: lighten(@grey,10%);
+    color: darken(@grey,10%);
     font-size: 70%;
     text-transform: uppercase;
     
@@ -18,9 +18,6 @@
         border-bottom: none;
     }
     
-    time {
-       color: darken(@grey,10%); 
-    }
 }
 
 .u-centre {
@@ -36,4 +33,20 @@
 }
 .u-snug + * {
     margin-top: 0;
+}
+
+figure {
+    position: relative;
+}
+
+.u-figure-count {
+    position: absolute;
+    font-size: 80%;
+    color: white;
+    padding: unit(@lineheight/2,px);
+    padding: unit(@lineheight/2/@base,rem);
+    background-color: fade(black,50%);
+    border-radius: 5px;
+    bottom: 10px;
+    right: 10px;
 }

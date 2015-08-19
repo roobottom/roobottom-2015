@@ -2,4 +2,38 @@
 layout: default
 title: Archives
 ---
-{% include archives.html year="2015" %}
+
+<section class="layout--columns">
+    <div class="teaser">
+        {% assign year = 2015 %}
+        {% assign images_to_show = 9 %}
+        
+        {% assign c = 0 %}
+        {% for post in site.posts %}
+            {% assign postYear = post.date | date: "%Y" %}
+            {% if postYear == year %}
+                {% assign c = c | plus:1 %}
+            {% endif %}
+            {% if forloop.last %}
+                {% assign postCount = c %}
+            {% endif %}
+        {% endfor %}
+        
+        {% assign postSkip = counter | divided_by: images_to_show %}
+        
+        <div class="gallery">
+            <ol>
+                {% assign c = 0 %}
+                {% for post in site.posts %}
+                {% assign postModulo = postSkip | modulo: c %}
+                <li>
+                    <a href="{{ site.baseurl }}/archives/{{ year }}">
+                    </a>
+                </li>
+                {% assign c = c | plus:1 %}
+                {% endfor %}
+            </ol>
+        </div>
+        
+    </div>
+</section>

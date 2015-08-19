@@ -8,7 +8,7 @@ layout: default
         
         {% assign numberOfImages = page.images | size %}
         {% if numberOfImages > 1 %}
-            <div class="gallery pull--extended">
+            <div class="gallery pull--extended" data-max-items="4">
                 <ol class="gallery-row">
                     {% for image in page.images %}
                     {% capture fullImagePath %}{{ site.roobottom_assets }}/notes/medium/{{ image }}{% endcapture %}

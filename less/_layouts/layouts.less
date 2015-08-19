@@ -28,20 +28,23 @@
     .layout--grid {
         display: flex;
         flex-wrap: wrap;
-        justify-content: space-between;
+        justify-content: flex-start;
+        box-sizing: border-box;
         margin: unit(@lineheight,px) auto;
         margin: unit(@lineheight/@base,rem) auto;
     }
     .layout--grid-span1,
     .layout--grid-span2 {
-        //border: unit(@layout_gap/100,px) solid transparent;
+        > * {
+            margin: 0 unit(@layout_gap/2,px);
+        }
     }
     
     
     .layout--grid-span1 {
-        max-width: 28%;
+        flex-basis: 100%/3;
     }
     .layout--grid-span2 {
-        max-width: 68%;
+        flex-basis: (100%/3) * 2;
     }
 }

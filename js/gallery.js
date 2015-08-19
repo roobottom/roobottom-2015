@@ -13,11 +13,15 @@ $(function() {
     if (typeof maxItems == typeof undefined || maxItems == false) {
        maxItems = 4; 
     }
+    var minItems = $(this).attr('data-min-items');
+    if (typeof minItems == typeof undefined || minItems == false) {
+       minItems = 2; 
+    }
     
     //calculate items per row based on the width of the gallery
     var galleryWidth = $(this).width();
 	if(galleryWidth < 560) {
-		maxItems = 2;
+		maxItems = minItems;
 	}
 	if(galleryWidth > 560 && galleryWidth < 1024) {
 		maxItems = 3;

@@ -16,9 +16,14 @@ module.exports = function(grunt) {
 	                    height: 280,
 	                    name: 'square',
 	                    quality: 50,
-	                    aspectRatio: false,
-	                    
+	                    aspectRatio: false,  
 	                } , {
+    	                width: 200,
+	                    height: 200,
+	                    name: 'small_square',
+	                    quality: 30,
+	                    aspectRatio: false,
+    	            } , {
 	                    width: 380,
 	                    name: 'small',
 	                    quality: 50
