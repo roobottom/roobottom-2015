@@ -1,18 +1,18 @@
-<article class="layout--grid-span-half">
+<article class="layout--grid-span">
     <div class="teaser s-prose">
         
-        <header class="teaser-header">Archives from {{ include.year }} {{ include.gallery_size }}</header> 
+        <header class="teaser-header">Archives from {{ include.year }}</header> 
         
-        
+        {% assign c = 0 %}
+        {% assign c_notes = 0 %}
+        {% assign c_diary = 0 %}
+        {% assign c_gallery = 0 %}
+        {% assign sorted_posts = (site.posts | sort: 'title') %}
         
         <div class="gallery">
             <ol class="galler-row">
-            {% assign c = 0 %}
-            {% assign c_notes = 0 %}
-            {% assign c_diary = 0 %}
-            {% assign c_gallery = 0 %}
-            {% assign sorted_posts = (site.posts | sort: 'title') %}
-            {% for post in site.posts %}
+            
+            {% for post in sorted_posts %}
                 {% assign postYear = post.date | date: "%Y" %}
                 
                 {% if postYear == include.year %}
@@ -20,9 +20,9 @@
                             {% when 'notes' %}
                                 {% assign c_notes = c_notes | plus: 1 %}
                             {% when 'diary' %}
-                                {% assign c_diary = c_dairy | plus: 1 %}
+                                {% assign c_diary = c_diary | plus: 1 %}
                             {% when 'gallery' %}
-                                {% assign c_diary = c_gallery | c_gallery: 1 %}
+                                {% assign c_gallery = c_gallery | plus: 1 %}
                     {% endcase %}
                 {% endif %}
                 
@@ -56,16 +56,17 @@
                             {% endfor %}
 
                     {% endcase %}
-                
-                
-                    <li class="gallery-item">
-                        <a href="{{ site.baseurl }}/archives/{{ include.year }}">
-                            <img src="{{ site.roobottom_assets }}/{{ post.categories[0]}}/small/{{ currentImage }}" class="gallery-image" data-width="{{ width }}" data-height="{{ height }}"/>
-                            <p>{{ c }}</p>
-                        </a>
-                    </li>
+                    
+                    {% if currentImage %}
+                        {% assign c = c | plus: 1 %}
+                        <li class="gallery-item">
+                            <a href="{{ site.baseurl }}/archives/{{ include.year }}">
+                                <img src="{{ site.roobottom_assets }}/{{ post.categories[0]}}/small/{{ currentImage }}" class="gallery-image" data-width="{{ width }}" data-height="{{ height }}"/>
+                            </a>
+                        </li>
+                    {% endif %}
+                    
                 {% endif %}
-                {% assign c = c | plus: 1 %}
             {% endfor %}
             </ol>
         </div>

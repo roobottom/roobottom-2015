@@ -34,7 +34,7 @@
         margin: unit(@lineheight/@base,rem) auto;
     }
     .layout--grid-span1,
-    .layout--grid-span2,
+    .layout--grid-span-2,
     .layout--grid-span-half {
         > * {
             margin: 0 unit(@layout_gap/2,px);
@@ -45,10 +45,13 @@
     .layout--grid-span1 {
         flex-basis: 100%/3;
     }
-    .layout--grid-span2 {
+    .layout--grid-span-2 {
         flex-basis: (100%/3) * 2;
     }
     .layout--grid-span-half {
         flex-basis: 50%;
+    }
+    .layout--grid-span {
+        flex-basis: 100%;
     }
 }

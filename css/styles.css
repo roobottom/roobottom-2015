@@ -203,7 +203,7 @@ body.style-guide .s-meta:before {
     margin: 2rem auto;
   }
   .layout--grid-span1 > *,
-  .layout--grid-span2 > *,
+  .layout--grid-span-2 > *,
   .layout--grid-span-half > * {
     margin: 0 10px;
   }
@@ -212,7 +212,7 @@ body.style-guide .s-meta:before {
         -ms-flex-preferred-size: 33.33333333%;
             flex-basis: 33.33333333%;
   }
-  .layout--grid-span2 {
+  .layout--grid-span-2 {
     -webkit-flex-basis: 66.66666667%;
         -ms-flex-preferred-size: 66.66666667%;
             flex-basis: 66.66666667%;
@@ -221,6 +221,11 @@ body.style-guide .s-meta:before {
     -webkit-flex-basis: 50%;
         -ms-flex-preferred-size: 50%;
             flex-basis: 50%;
+  }
+  .layout--grid-span {
+    -webkit-flex-basis: 100%;
+        -ms-flex-preferred-size: 100%;
+            flex-basis: 100%;
   }
 }
 .push--left {
