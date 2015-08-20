@@ -6,9 +6,8 @@ title: Archives
 <section class="layout--grid">
     
     
-    {% for post in site.categories.archives %}
-        <p>{{ post.title }}</p>
-        {% include_relative _includes/archive-teaser.html year = post.year gallery_size=9 %}
+    {% for post in site.archives %}
+        {% include_relative archive-teaser.html year=post.year gallery_size=9 content=post.content %}
     {% endfor %}
  
 </section>

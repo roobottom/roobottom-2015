@@ -5,6 +5,11 @@ plugins:     ./_plugins
 layouts:     ./_layouts
 data_source: ./_data
 
+collections:
+  archives:
+    output: true
+    permalink: /archives/:path/
+
 #custom variables
 roobottom_assets:      "http://assets.roobottom.dev"
 
@@ -103,6 +108,13 @@ defaults:
     values:
       layout: "notes"
       category: "notes"
+  -
+    scope:
+      type: "archives"
+      path: ""
+    values:
+      layout: "default"
+      category: "archives"
       
 
 #archives      

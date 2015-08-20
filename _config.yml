@@ -103,6 +103,13 @@ defaults:
     values:
       layout: "notes"
       category: "notes"
+  -
+    scope:
+      type: "posts"
+      path: "archives"
+    values:
+      layout: "archives"
+      category: "archives"
       
 
 #archives      
