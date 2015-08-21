@@ -24,7 +24,7 @@ layout: default
         <div class="layout--grid-span1">
             <article class="s-prose teaser teaser--diary">
                 <header class="teaser-header">From the diary</header>
-                {% if post.images[0] %}
+                {% if post.images %}
                 <figure>
                     <a href="{{ site.baseurl }}{{ post.url }}">
                         <img src="{{ site.roobottom_assets }}/{{ post.categories[0] }}/square/{{ post.images[0].image }}" />
@@ -36,7 +36,7 @@ layout: default
                 {% capture cleanTitle %}{% for word in titleWords %}{% if forloop.last %}&nbsp;{% else %} {% endif %}{{ word }}{% endfor %}{% endcapture %}
                 <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ cleanTitle }}</a></h2>
                 <p class="u-meta"><time>{{ post.date | date: "%A, %B %e %Y" }}</time></p>
-                <p>{{ post.excerpt | remove: '<p>' | remove: '</p>' | remove '<img/>' }}</p>
+                <p>{{ post.excerpt | remove: '<p>' | remove: '</p>' }}</p>
             </article>
         </div>
 
