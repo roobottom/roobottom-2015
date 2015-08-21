@@ -1,0 +1,52 @@
+<article class="layout--grid-span">
+    <div class="teaser">
+        
+        <header class="teaser-header">Archives from {{ include.year }}</header> 
+        
+        {% assign c = 0 %}
+        {% assign c_notes = 0 %}
+        {% assign c_diary = 0 %}
+        {% assign c_gallery = 0 %}
+        {% assign sorted_posts = (site.posts | sort: 'title') %}
+        
+        <div class="layout--grid">
+        {% for post in sorted_posts %}
+            {% assign postYear = post.date | date: "%Y" %}
+            
+            {% if postYear == include.year %}
+                {% case post.categories[0] %}
+                        {% when 'notes' %}
+                            {% assign c_notes = c_notes | plus: 1 %}
+                            {% assign currentImage = post.images[0] %}
+                        {% when 'diary' %}
+                            {% assign c_diary = c_diary | plus: 1 %}
+                            {% assign currentImage = post.images[0].image %}
+                        {% when 'gallery' %}
+                            {% assign c_gallery = c_gallery | plus: 1 %}
+                            {% assign currentImage = post.images[0].image %}
+                {% endcase %}
+            
+                <figure class="layout--grid-span-micro">
+                    <a href="{{ post.url }}" title="{{ post.title }}">
+                        <img src="{{ site.roobottom_assets }}/{{ post.categories[0]}}/thumbnail/{{ currentImage }}"/>
+                    </a>
+                </figure>
+            {% endif %}
+            
+            
+            
+        {% endfor %}
+        </div>
+        
+        {% if c_notes == 1 %}{% assign notes_name = "note" %}{% else %}{% assign notes_name = "notes" %}{% endif %}
+        {% if c_diary == 1 %}{% assign diary_name = "diary post" %}{% else %}{% assign diary_name = "diary posts" %}{% endif %}
+        {% if c_gallery == 1 %}{% assign gallery_name = "gallery" %}{% else %}{% assign gallery_name = "galleries" %}{% endif %}
+        
+        <div class="s-prose">
+            <h2><a href="{{ site.baseurl }}/archives/{{ include.year }}">{{ include.year }}</a></h2>
+            
+            <p class="u-meta">{{ c_diary }} {{ diary_name }}, {{ c_gallery }} {{ gallery_name }}, {{ c_notes }} {{ notes_name }}</p>
+            {{ include.content }}
+        </div>
+    </div>
+</article>

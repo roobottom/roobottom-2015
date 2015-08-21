@@ -5,6 +5,11 @@ plugins:     ./_plugins
 layouts:     ./_layouts
 data_source: ./_data
 
+collections:
+  archives:
+    output: true
+    permalink: /archives/:path/
+
 #custom variables
 roobottom_assets:      "https://dl.dropboxusercontent.com/u/317028/roobottom-assets/assets"
 
@@ -87,28 +92,28 @@ defaults:
       type: "posts"
       path: "diary"
     values:
-      layout: "diary"
+      layout: "diary-post"
       category: "diary"
   -
     scope:
       type: "posts"
       path: "gallery"
     values:
-      layout: "gallery"
+      layout: "gallery-post"
       category: "gallery"
   -
     scope:
       type: "posts"
       path: "notes"
     values:
-      layout: "notes"
+      layout: "notes-post"
       category: "notes"
   -
     scope:
-      type: "posts"
-      path: "archives"
+      type: "archives"
+      path: ""
     values:
-      layout: "archives"
+      layout: "default"
       category: "archives"
       
 

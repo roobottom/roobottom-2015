@@ -5,9 +5,8 @@ title: Archives
 
 <section class="layout--grid">
     
-    
-    {% for post in site.archives %}
-        {% include_relative archive-teaser.html year=post.year gallery_size=9 content=post.content %}
+    {% for post in site.archives reversed %}
+        {% include_relative archive-teaser-full.html year=post.year gallery_size=9 content=post.content %}
     {% endfor %}
  
 </section>

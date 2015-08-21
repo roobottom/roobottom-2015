@@ -10,29 +10,18 @@
     font-size: 80%;
     
     li {
-      border-radius: 5px;
-      border: 1px solid darken(@yellow,20%);
-      background-color: @yellow;
       .margin-bottom(2);
-      margin-right: .5em;
-      display: flex;
-      overflow: hidden;
+      margin-right: unit(@layout_gap,px);
+      margin-right: unit(@layout_gap/@base,rem);
+      color: darken(@grey,10%);
+      &:before {
+        content: "#";
+      }
     }
     
     a {
-        color: darken(@yellow,50%);
-        text-shadow: 0 1px 0 fade(white,50%);
-        padding: .3em .7em;
-        &:hover {
-            background-color: darken(@yellow,10%);
-        }
+        color: darken(@grey,10%);
     }
     
-    .tag-count {
-        padding: .3em .7em;
-        display: block;
-        background-color: darken(@yellow,10%);
-        color: darken(@yellow,30%);
-    }
     
 }

@@ -1,0 +1,38 @@
+.pagination {
+
+    border-top: 1px solid lighten(@grey,15%);
+    padding: unit(@lineheight/2,px) 0;
+    padding: unit((@lineheight/2)/@base,rem) 0;
+    
+    li,
+    .pagination-label,
+    a {
+        display: block;
+    }
+    
+    a, a:visited {
+        transition: color 200ms ease;
+        color: @blue;
+        //text-decoration: underline;
+    }
+    
+    a:hover, a:focus {
+        color: darken(@blue,30%);
+    }
+    
+    
+    
+    @media screen and (min-width:unit(@layout_narrow,px))  {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        
+        .pagination-next {
+            text-align: right;
+            margin-left: unit(@layout_gap,px);
+            margin-left: unit(@layout_gap/@base,rem);
+        }
+        
+    }
+    
+}

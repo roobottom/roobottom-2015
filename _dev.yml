@@ -92,21 +92,21 @@ defaults:
       type: "posts"
       path: "diary"
     values:
-      layout: "diary"
+      layout: "diary-post"
       category: "diary"
   -
     scope:
       type: "posts"
       path: "gallery"
     values:
-      layout: "gallery"
+      layout: "gallery-post"
       category: "gallery"
   -
     scope:
       type: "posts"
       path: "notes"
     values:
-      layout: "notes"
+      layout: "notes-post"
       category: "notes"
   -
     scope:

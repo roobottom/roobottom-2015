@@ -25,7 +25,7 @@ I remember the last one in August 1999, I was 19 and had a _trés_ cool summer j
 
 But the bloody weather conspired against all of us along the south coast of England by merrily blocking our view. Mother nature shat out her fluffy sky diarrhoea all over the sky, and all over my dreams.
 
-<figure class="inline">{{ theme:partial src="figure" use_context="true" show_img="seafront" }}</figure>
+{% include figure.html class="pull--both" set="seafront" %}
 
 Katie and I met up with Ellie and Mrs.M. by the big turd on Littlehampton sea-front at half eight this morning, hoping against hope that the sky would clear. Alas, it did not.
 
@@ -33,6 +33,6 @@ The skies _did_ go a little dark, but nothing spectacular, and nothing like I re
 
 Katie attempted to cheer me up by letting me buy her a coffee at the local pub. While we sat, sipping our hot beverage of choice, we tried not to get too jealous at the brilliant pictures being posted by friends and family up in the Midlands, where the skies had been gloriously clear.
 
-<figure class="inline">{{ theme:partial src="figure" use_context="true" show_img="mrsm" }}</figure>
+{% include figure.html class="pull--both" set="mrsm" %}
 
 Next chance to see a decent eclipse is [August 12, 2026](http://en.wikipedia.org/wiki/Solar_eclipse_of_August_12,_2026). Oh well, at least I already have the glasses.

@@ -18,9 +18,9 @@ module.exports = function(grunt) {
 	                    quality: 50,
 	                    aspectRatio: false,  
 	                } , {
-    	                width: 200,
-	                    height: 200,
-	                    name: 'small_square',
+    	                width: 100,
+	                    height: 100,
+	                    name: 'thumbnail',
 	                    quality: 30,
 	                    aspectRatio: false,
     	            } , {
