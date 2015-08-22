@@ -3,27 +3,15 @@ layout: default
 ---
 <article class="layout--column">
     <div class="s-prose">
-        <p class="u-breadcrumb u-centre">You are here: <a href="{{ site.baseurl }}/">home</a> &rArr; <a href="{{ site.baseurl }}/diary">diary</a> &rArr;</p>
+        {% include _components/breadcrumb.html section='diary' %}
         <h1 class="pull--extended u-centre">{{ page.title }}</h1>
         <p class="u-meta u-centre"><time>{{ page.date | date: "%A, %B %e %Y" }}</time></p>
         {{ content }}
     </div>
     
-    <footer class="s-meta">
-        <ul class="pagination">
-            {% if page.previous and page.previous.categories[0] == page.categories[0] %}
-                <li class="pagination-previous"><span class="pagination-label">&lArr; Previous diary post</span><a href="{{ site.baseurl }}{{ page.previous.url }}">{{ page.previous.title }}</a></li>
-            {% endif %}
-            {% if page.next and page.next.categories[0] == page.categories[0] %}
-                <li class="pagination-next"><span class="pagination-label">Next diary post &rArr;</span><a href="{{ site.baseurl }}{{ page.next.url }}">{{ page.next.title }}</a></li>
-            {% endif %}
-        </ul>
-        
-        <ul class="tags">
-        {% for tag in page.tags %}
-            <li><a href="{{ site.baseurl }}/archives">{{ tag }}</a></li>
-        {% endfor %}
-        </ul>
+    <footer class="s-meta"> 
+        {% include _components/paginate-each-post.html prevTitle = 'Previous diary post' nextTitle = 'Next diary post' %}
+        {% include _components/tags.html %}
     </footer>
     
 </article>

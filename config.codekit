@@ -44,6 +44,33 @@
 		"randomFootnoteNumbers": 0,
 		"useCompatibilityMode": 0
 		},
+	"\/_includes\/_components\/breadcrumb.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_includes\/_components\/breadcrumb.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_includes\/_components\/paginate-each-post.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_includes\/_components\/paginate-each-post.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_includes\/_components\/tags.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_includes\/_components\/tags.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_includes\/archives.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -208,15 +235,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/_site\/css\/styles.css": {
-		"fileType": 16,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/css\/styles.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/_site\/diary\/2007\/creating-panoramas-on-mac\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -271,11 +289,29 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_site\/gallery\/2015\/1452-ios-2015\/index.html": {
+	"\/_site\/gallery\/2015\/ios-2015\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/gallery\/2015\/1452-ios-2015\/index.html",
+		"inputAbbreviatedPath": "\/_site\/gallery\/2015\/ios-2015\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/gallery\/2015\/london-with-amelie\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/gallery\/2015\/london-with-amelie\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/gallery\/2015\/new-year\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/gallery\/2015\/new-year\/index.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -5762,7 +5798,7 @@
 		"randomFootnoteNumbers": 0,
 		"useCompatibilityMode": 0
 		},
-	"\/gallery\/_darfts\/2015-01-01-new-year.md": {
+	"\/gallery\/_posts\/2015-01-01-new-year.md": {
 		"criticStyle": 0,
 		"enableFootnotes": 1,
 		"enableLabels": 1,
@@ -5771,9 +5807,9 @@
 		"fileType": 4096,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/gallery\/_darfts\/2015-01-01-new-year.md",
+		"inputAbbreviatedPath": "\/gallery\/_posts\/2015-01-01-new-year.md",
 		"maskEmailAddresses": 1,
-		"outputAbbreviatedPath": "\/gallery\/_darfts\/2015-01-01-new-year.html",
+		"outputAbbreviatedPath": "\/gallery\/_posts\/2015-01-01-new-year.html",
 		"outputFormat": 0,
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
@@ -5783,7 +5819,7 @@
 		"randomFootnoteNumbers": 0,
 		"useCompatibilityMode": 0
 		},
-	"\/gallery\/_darfts\/2015-01-31-london-with-amelie.md": {
+	"\/gallery\/_posts\/2015-01-31-london-with-amelie.md": {
 		"criticStyle": 0,
 		"enableFootnotes": 1,
 		"enableLabels": 1,
@@ -5792,9 +5828,9 @@
 		"fileType": 4096,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/gallery\/_darfts\/2015-01-31-london-with-amelie.md",
+		"inputAbbreviatedPath": "\/gallery\/_posts\/2015-01-31-london-with-amelie.md",
 		"maskEmailAddresses": 1,
-		"outputAbbreviatedPath": "\/gallery\/_darfts\/2015-01-31-london-with-amelie.html",
+		"outputAbbreviatedPath": "\/gallery\/_posts\/2015-01-31-london-with-amelie.html",
 		"outputFormat": 0,
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
@@ -5804,7 +5840,7 @@
 		"randomFootnoteNumbers": 0,
 		"useCompatibilityMode": 0
 		},
-	"\/gallery\/_posts\/2015-07-19-1452-ios-2015.md": {
+	"\/gallery\/_posts\/2015-07-19-ios-2015.md": {
 		"criticStyle": 0,
 		"enableFootnotes": 1,
 		"enableLabels": 1,
@@ -5813,9 +5849,9 @@
 		"fileType": 4096,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/gallery\/_posts\/2015-07-19-1452-ios-2015.md",
+		"inputAbbreviatedPath": "\/gallery\/_posts\/2015-07-19-ios-2015.md",
 		"maskEmailAddresses": 1,
-		"outputAbbreviatedPath": "\/gallery\/_posts\/2015-07-19-1452-ios-2015.html",
+		"outputAbbreviatedPath": "\/gallery\/_posts\/2015-07-19-ios-2015.html",
 		"outputFormat": 0,
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,

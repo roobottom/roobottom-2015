@@ -1,7 +1,6 @@
 ---
 title: London with Amelie
 cover: 15790812894_e8c3fe08bb_o.jpg
-section: gallery
 images:
   - 
     image: 15790812894_e8c3fe08bb_o.jpg

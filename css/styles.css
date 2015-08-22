@@ -667,11 +667,6 @@ body.style-guide .s-meta:before {
     display: -webkit-flex;
     display: -ms-flexbox;
     display: flex;
-    -webkit-box-orient: horizontal;
-    -webkit-box-direction: normal;
-    -webkit-flex-direction: row;
-        -ms-flex-direction: row;
-            flex-direction: row;
     -webkit-box-pack: justify;
     -webkit-justify-content: space-between;
         -ms-flex-pack: justify;
@@ -679,8 +674,7 @@ body.style-guide .s-meta:before {
   }
   .pagination .pagination-next {
     text-align: right;
-    margin-left: 20px;
-    margin-left: 1.25rem;
+    margin-left: auto;
   }
 }
 .site-navigation {

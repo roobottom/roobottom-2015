@@ -1,0 +1,20 @@
+{% assign category = page.categories[0] %}
+
+<ul class="pagination">  
+    {% for post in site.categories[category] %}
+        {% if post.title == page.title %}
+            {% assign nextIndex = forloop.index0 | plus: 1 %}
+            {% assign prevIndex = forloop.index0 | minus: 1 %}
+            
+            
+            {% unless forloop.last %}
+                {% assign next = site.categories.gallery[nextIndex] %}
+                <li class="pagination-previous"><span class="pagination-label">&lArr; {{ include.prevTitle }}</span><a href="{{ site.baseurl }}{{ next.url }}">{{ next.title }}</a></li>
+            {% endunless %}
+            {% unless forloop.first %}
+                {% assign prev = site.categories.gallery[prevIndex]  %}
+                <li class="pagination-next"><span class="pagination-label">{{ include.nextTitle }} &rArr;</span><a href="{{ site.baseurl }}{{ prev.url }}">{{ prev.title }}</a></li>
+            {% endunless %}
+        {% endif %}
+    {% endfor %}
+</ul>
