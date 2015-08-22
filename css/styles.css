@@ -877,7 +877,3 @@ hr {
   border-top: 2px dashed #cccccc;
   border-bottom: none;
 }
-body.home,
-body.notes {
-  background-color: #F9F9F9;
-}
