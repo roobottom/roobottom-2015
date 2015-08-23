@@ -1,0 +1,31 @@
+.quicklinks {
+    li {
+        display: inline-block;
+        font-size: 90%;
+        color: darken(@grey,30%);
+        &:after {
+            content: "/";
+            padding: 0 unit(@lineheight/4,px);
+            padding: 0 unit(@lineheight/4/@base,rem);
+            color: lighten(@grey,5%);
+        }
+        &:last-child:after {
+            display: none;
+        }
+    }
+    
+     a, a:visited {
+        transition: color 200ms ease;
+        color: @blue;
+        //text-decoration: underline;
+    }
+        
+    a:hover, a:focus {
+        color: darken(@blue,30%);
+    }
+    
+    time {
+        font-size: 70%;
+    }
+    
+}

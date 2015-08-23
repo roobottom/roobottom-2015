@@ -677,6 +677,33 @@ body.style-guide .s-meta:before {
     margin-left: auto;
   }
 }
+.quicklinks li {
+  display: inline-block;
+  font-size: 90%;
+  color: #808080;
+}
+.quicklinks li:after {
+  content: "/";
+  padding: 0 8px;
+  padding: 0 0.5rem;
+  color: #d9d9d9;
+}
+.quicklinks li:last-child:after {
+  display: none;
+}
+.quicklinks a,
+.quicklinks a:visited {
+  -webkit-transition: color 200ms ease;
+          transition: color 200ms ease;
+  color: #3a99d9;
+}
+.quicklinks a:hover,
+.quicklinks a:focus {
+  color: #144566;
+}
+.quicklinks time {
+  font-size: 70%;
+}
 .site-navigation {
   border-bottom: 1px solid #e6e6e6;
   padding: 32px 0;
