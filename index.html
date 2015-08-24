@@ -3,15 +3,16 @@ layout: default
 title: Home
 ---
 
-<h1 class="u-centre">Welcome to roobottom.com</h1>
-
 <section class="layout--grid">
     <div class="layout--grid-span-2">
         {% for post in site.categories.diary limit:1 %}
+            {% capture count %}{{ post.images | size }}{% endcapture %}
             <article class="s-prose teaser section-diary">
-                <header class="teaser-header">Latest from  /<a href="{{ site.baseurl }}/diary">diary</a></header>
+                <header class="teaser-header">Latest from  <a href="{{ site.baseurl }}/diary">diary</a></header>
                 <figure>
-                    <a href="{{ site.baseurl }}{{ post.url }}"><img src="{{ site.roobottom_assets }}/{{ post.categories[0] }}/large/{{ post.images[0].image }}" /></a>
+                    <a href="{{ site.baseurl }}{{ post.url }}"><img src="{{ site.roobottom_assets }}/{{ post.categories[0] }}/large/{{ post.images[0].image }}" />
+                        <div class="u-figure-count">{{ count }} image{% if count != '1' %}s{% endif %} &amp; {{ post.content | number_of_words }} words</div>
+                    </a>
                 </figure>
                 <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
                 <p class="u-meta"><time>{{ post.date | date date: "%A, %B %e %Y" }}</time></p>
@@ -25,10 +26,11 @@ title: Home
             {% capture count %}{{ post.images | size }}{% endcapture %}
         
             <article class="s-prose teaser section-notes">
-                <header class="teaser-header">Latest from  /<a href="{{ site.baseurl }}/notes">notes</a></header> 
+                <header class="teaser-header">Latest from  <a href="{{ site.baseurl }}/notes">notes</a></header> 
                 <figure>
-                    <a href="{{ site.baseurl }}{{ post.url }}"><img src="{{ site.roobottom_assets }}/{{ post.categories[0] }}/small/{{ post.images[0] }}" /></a>
+                    <a href="{{ site.baseurl }}{{ post.url }}"><img src="{{ site.roobottom_assets }}/{{ post.categories[0] }}/small/{{ post.images[0] }}" />
                     <div class="u-figure-count">{{ count }} image{% if count != '1' %}s{% endif %}</div>
+                    </a>
                 </figure>
                 <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
                 <p class="u-meta"><time>{{ post.date | date date: "%A, %B %e %Y" }}</time></p>
@@ -37,9 +39,9 @@ title: Home
         {% endfor %}
         
         {% for post in site.categories.gallery limit:1 %}
-        
+            {% capture count %}{{ post.images | size }}{% endcapture %}
             <article class="s-prose teaser section-gallery">
-                <header class="teaser-header">Latest from  /<a href="{{ site.baseurl }}/gallery">gallery</a></header> 
+                <header class="teaser-header">Latest from  <a href="{{ site.baseurl }}/gallery">gallery</a></header> 
                 <div class="gallery">
                     <ol class="gallery-row">
                         {% for image in post.images limit:5 %}
@@ -52,9 +54,10 @@ title: Home
                             </li>
                         {% endfor %}
                     </ol>
+                    <div class="u-figure-count">{ post.images | size }} images</div>
                 </div>
                 <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
-                <p class="u-meta"><time>{{ post.date | date date: "%A, %B %e %Y" }}</time> &mdash; {{ post.images | size }} images</p>
+                <p class="u-meta"><time>{{ post.date | date date: "%A, %B %e %Y" }}</time></p>
             </article>
             
         {% endfor %}

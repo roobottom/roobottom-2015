@@ -7,7 +7,7 @@ categories:
 
 <h1 class="u-centre">Diary</h1>
 
-    {% for post in site.categories.diary | limit: 10 %}
+    {% for post in site.categories.diary | limit: 21 %}
     
         {% capture this_year %}{{ post.date | date: '%Y' }}{% endcapture %}
         {% capture next_year %}{{ post.next.date | date: '%Y' }}{% endcapture %}

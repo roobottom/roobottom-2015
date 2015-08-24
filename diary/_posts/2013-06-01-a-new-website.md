@@ -5,7 +5,7 @@ tags:
   - website
 images:
   - 
-    image: "01.jpg"
+    image: "book.jpg"
     caption: 'Some early concepts for the roo logo '
     set: logo
 ---
@@ -25,6 +25,8 @@ I built my first website because it was fun. I then got a job making websites, a
 So *this* site should be the most fun of all, right? I decided to abandon any highfalutin design ideas and just stick to a few core principals that would allow me to grow this site organically.
 
 First was the logo. I'd been sketching some ideas around a typographic "roo" for a while. A kangaroo was also an obvious choice. The final result is the emblem you see at the top of this page. Not perfect by any means, but a good starting point. I'll no doubt change it as the site grows.
+
+{% include figure.html class="pull--both" set="logo" %}
 
 Secondly to start with core elements then work out from there. Creating a pleasant and easy-to-use website is key to this idea, but it's more than that. By letting the content do the work and keeping the design as subtle as possible I'm striving for (but probably rarely achieving) a browsing experience that feels effortless.
 

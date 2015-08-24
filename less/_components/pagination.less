@@ -10,14 +10,9 @@
         display: block;
     }
     
-    a, a:visited {
-        transition: color 200ms ease;
-        color: @blue;
-        //text-decoration: underline;
-    }
-    
-    a:hover, a:focus {
-        color: darken(@blue,30%);
+    .pagination-next {
+        text-align: right;
+        margin-left: auto;
     }
     
     
@@ -25,11 +20,6 @@
     @media screen and (min-width:unit(@layout_narrow,px))  {
         display: flex;
         justify-content: space-between;
-        
-        .pagination-next {
-            text-align: right;
-            margin-left: auto;
-        }
         
     }
     

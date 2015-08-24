@@ -9,7 +9,7 @@ layout: default
         
         {% assign numberOfImages = page.images | size %}
         {% if numberOfImages > 1 %}
-            <div class="gallery pull--extended" data-max-items="4">
+            <div class="gallery pull--extended" data-max-items="3">
                 <ol class="gallery-row">
                     {% for image in page.images %}
                     {% capture fullImagePath %}{{ site.roobottom_assets }}/notes/medium/{{ image }}{% endcapture %}
@@ -35,19 +35,8 @@ layout: default
     </div>
     
     <footer class="s-meta">
-        <ul class="pagination">
-            {% if page.previous and page.previous.categories[0] == page.categories[0] %}
-                <li class="pagination-previous"><span class="pagination-label">&lArr; Previous diary post</span><a href="{{ page.previous.url }}">{{ page.previous.title }}</a></li>
-            {% endif %}
-            {% if page.next and page.next.categories[0] == page.categories[0] %}
-                <li class="pagination-next"><span class="pagination-label">Next diary post &rArr;</span><a href="{{ page.next.url }}">{{ page.next.title }}</a></li>
-            {% endif %}
-        </ul>
-        <ul class="tags">
-        {% for tag in page.tags %}
-            <li><a href="{{ site.baseurl }}/archives">{{ tag }}</a></li>
-        {% endfor %}
-        </ul>
+        {% include _components/paginate-each-post.html prevTitle = 'Previous note' nextTitle = 'Next note' %}
+        {% include _components/tags.html %}
     </footer>
     
 </article>

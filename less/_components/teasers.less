@@ -1,12 +1,11 @@
-.teaser {
-    
+.teaser {  
     box-sizing: border-box;
     overflow: hidden;
-    padding: 0 unit(@lineheight,px);
     padding: 0 unit(@lineheight/@base,rem);
-    box-shadow: 0 1px 3px fade(black,10%);
-    margin-bottom: unit(@lineheight,px);
     margin-bottom: unit(@lineheight/@base,rem);
+    background-color: white;
+    margin-left: unit(-1 * @layout_gap/@base,rem);
+    margin-right: unit(-1 * @layout_gap/@base,rem);
     
     figure, .gallery {
         margin-left: unit(-1 * @lineheight/@base,rem);
@@ -14,11 +13,8 @@
     }
     
     .teaser-footer {
-        margin-left: unit(-1 * @lineheight,px);
-        margin-right: unit(-1 * @lineheight,px);
         margin-left: unit(-1 * @lineheight/@base,rem);
         margin-right: unit(-1 * @lineheight/@base,rem); 
-        padding: unit(@lineheight,px) unit(@lineheight,px);
         padding: unit(@lineheight/@base,rem) unit(@lineheight/@base,rem); 
         border-top: 1px solid lighten(@grey,10%);
         
@@ -26,7 +22,6 @@
     
     //mods for teasers
     figcaption {
-        padding: 0 unit(@lineheight,px);
         padding: 0 unit(@lineheight/@base,rem);
     }
     
@@ -43,18 +38,27 @@
     &.section-diary {
         .teaser-header {
             background-color: @blue;
+            border-bottom: 1px solid darken(@blue,10%);
         }
     }
     &.section-notes {
         .teaser-header {
             background-color: @yellow;
+            border-bottom: 1px solid darken(@yellow,10%);
         }
     }
     &.section-gallery {
         .teaser-header {
             background-color: @red;
+            border-bottom: 1px solid darken(@red,10%);
         }
     }
     
-    
+     @media screen and (min-width:unit((@layout_narrow/@base),rem)) {
+        //border: 1px solid lighten(@grey,10%);
+        //box-shadow: 0 1px 3px fade(black,10%);
+        margin-left: unit(@lineheight/2/@base,rem);
+        margin-right: unit(@lineheight/2/@base,rem);
+    }
+      
 }

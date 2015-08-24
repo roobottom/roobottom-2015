@@ -23,6 +23,8 @@
 @red:                       #ff0033;
 @yellow:                    #ECB538;
 
+@lightgrey:                 #f1f1f1;
+
 //includes
 @import '__includes/reset';
 @import '__includes/mixins';
@@ -52,3 +54,10 @@
 
 //type
 @import '_typography/typography';
+
+body.page-home,
+body.page-diary,
+body.page-gallery,
+body.page-notes {
+    background-color: @lightgrey;
+}

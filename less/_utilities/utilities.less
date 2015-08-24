@@ -36,7 +36,7 @@
     margin-top: 0;
 }
 
-figure {
+figure, .gallery {
     position: relative;
 }
 
@@ -44,12 +44,12 @@ figure {
     position: absolute;
     font-size: 80%;
     color: white;
-    padding: unit(@lineheight/2,px);
-    padding: unit(@lineheight/2/@base,rem);
+    padding: unit(@lineheight/4/@base,rem) unit(@lineheight/2/@base,rem);
     background-color: fade(black,50%);
     border-radius: 5px;
     bottom: 10px;
     right: 10px;
+    box-shadow: 1px 1px 0 fade(white,30%), inset 1px 1px 1px fade(black,99%);
 }
 
 .u-breadcrumb {

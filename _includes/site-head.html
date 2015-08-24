@@ -9,7 +9,7 @@
         
         <title>{{ page.title }} — roobottom.com</title>
     </head>
-    <body>
+    <body class="pagetype-{{ page.categories[0] }} page-{{ page.title | slugify }}">
         
         
         {% include navigation.html %}

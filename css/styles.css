@@ -572,11 +572,11 @@ body.style-guide .s-meta:before {
 .teaser {
   box-sizing: border-box;
   overflow: hidden;
-  padding: 0 32px;
   padding: 0 2rem;
-  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
-  margin-bottom: 32px;
   margin-bottom: 2rem;
+  background-color: white;
+  margin-left: -1.25rem;
+  margin-right: -1.25rem;
 }
 .teaser figure,
 .teaser .gallery {
@@ -584,16 +584,12 @@ body.style-guide .s-meta:before {
   margin-right: -2rem;
 }
 .teaser .teaser-footer {
-  margin-left: -32px;
-  margin-right: -32px;
   margin-left: -2rem;
   margin-right: -2rem;
-  padding: 32px 32px;
   padding: 2rem 2rem;
   border-top: 1px solid #e6e6e6;
 }
 .teaser figcaption {
-  padding: 0 32px;
   padding: 0 2rem;
 }
 .teaser .teaser-header {
@@ -607,12 +603,21 @@ body.style-guide .s-meta:before {
 }
 .teaser.section-diary .teaser-header {
   background-color: #008eef;
+  border-bottom: 1px solid #0070bc;
 }
 .teaser.section-notes .teaser-header {
   background-color: #ecb538;
+  border-bottom: 1px solid #dc9f15;
 }
 .teaser.section-gallery .teaser-header {
   background-color: #ff0033;
+  border-bottom: 1px solid #cc0029;
+}
+@media screen and (min-width: 52.5rem) {
+  .teaser {
+    margin-left: 1rem;
+    margin-right: 1rem;
+  }
 }
 .pagination {
   border-top: 1px solid #f2f2f2;
@@ -624,15 +629,9 @@ body.style-guide .s-meta:before {
 .pagination a {
   display: block;
 }
-.pagination a,
-.pagination a:visited {
-  -webkit-transition: color 200ms ease;
-          transition: color 200ms ease;
-  color: #008eef;
-}
-.pagination a:hover,
-.pagination a:focus {
-  color: #003356;
+.pagination .pagination-next {
+  text-align: right;
+  margin-left: auto;
 }
 @media screen and (min-width: 840px) {
   .pagination {
@@ -644,10 +643,6 @@ body.style-guide .s-meta:before {
     -webkit-justify-content: space-between;
         -ms-flex-pack: justify;
             justify-content: space-between;
-  }
-  .pagination .pagination-next {
-    text-align: right;
-    margin-left: auto;
   }
 }
 .quicklinks li {
@@ -685,9 +680,8 @@ body.style-guide .s-meta:before {
   background-color: #ecb538;
 }
 .site-navigation {
-  border-bottom: 1px solid #e6e6e6;
-  padding: 32px 0;
-  padding: 2rem 0;
+  border-bottom: 1px solid #4d4d4d;
+  background-color: #333;
 }
 .site-navigation ul {
   display: -webkit-box;
@@ -702,22 +696,42 @@ body.style-guide .s-meta:before {
   -webkit-justify-content: space-between;
       -ms-flex-pack: justify;
           justify-content: space-between;
+  -webkit-flex-wrap: wrap;
+      -ms-flex-wrap: wrap;
+          flex-wrap: wrap;
   margin: 0 auto;
   max-width: 1270px;
   max-width: 79.375rem;
 }
-.site-navigation li {
-  margin: 0 10px;
-  margin: 0 0.625rem;
-}
 .site-navigation a {
   display: block;
-  color: #333;
+  color: white;
+  padding: 1rem 0;
 }
 .site-navigation .nav-home svg {
   width: 50px;
   height: 50px;
   display: block;
+}
+.site-navigation #roo-logo {
+  fill: white;
+}
+.pagetype-diary .site-navigation a,
+.pagetype-gallery .site-navigation a,
+.pagetype-notes .site-navigation a {
+  color: white;
+}
+.pagetype-diary .site-navigation {
+  background-color: #008eef;
+  border-color: #0070bc;
+}
+.pagetype-gallery .site-navigation {
+  background-color: #ff0033;
+  border-color: #cc0029;
+}
+.pagetype-notes .site-navigation {
+  background-color: #ecb538;
+  border-color: #dc9f15;
 }
 .u-quiet {
   color: #cccccc;
@@ -754,19 +768,20 @@ body.style-guide .s-meta:before {
 .u-snug + * {
   margin-top: 0;
 }
-figure {
+figure,
+.gallery {
   position: relative;
 }
 .u-figure-count {
   position: absolute;
   font-size: 80%;
   color: white;
-  padding: 16px;
-  padding: 1rem;
+  padding: 0.5rem 1rem;
   background-color: rgba(0, 0, 0, 0.5);
   border-radius: 5px;
   bottom: 10px;
   right: 10px;
+  box-shadow: 1px 1px 0 rgba(255, 255, 255, 0.3), inset 1px 1px 1px rgba(0, 0, 0, 0.99);
 }
 .u-breadcrumb {
   color: #999999;
@@ -940,4 +955,10 @@ a.link-notes {
 }
 a.link-notes:hover {
   color: #7f5c0c;
+}
+body.page-home,
+body.page-diary,
+body.page-gallery,
+body.page-notes {
+  background-color: #f1f1f1;
 }

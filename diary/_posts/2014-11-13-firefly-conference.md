@@ -35,7 +35,7 @@ Using this feedback, we were able to distill a clear list of the _type_ of theme
 
 When I joined, just over three years ago, Firefly were five people crammed into a small office hidden away in a dark corner of One Lyric Square. The design department consisted of me and a pack of half empty Sharpies. Today we're a forty strong team, with three (soon to be four) designers, with our own office in sunny Brighton. Over the summer holidays we were joined by intern [Adam Marsh](http://www.adammmarsh.com) and, with his help, we set about designing the new themes.
 
-<figure class="inline">{{ theme:partial src="figure" use_context="true" show_img="team" }}</figure>
+{% include figure.html class="pull--both" set="team" %}
 
 I'm really proud of the hard work the entire team put in creating the new themes. This is just the start, we're planning a number of upgrades to these themes as well as several new themes in the coming months. 
 
