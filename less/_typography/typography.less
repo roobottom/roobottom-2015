@@ -37,19 +37,19 @@ h1,h2, h3, h4, h5, h6 {
 h1, .h1 {
   font-size: 31px;
   font-size: unit(31/@base,rem);
-  line-height: @lineheight*1.5/31;
+  line-height: 38/31;
 }
 
 h2, .h2 {
   font-size: 25px;
   font-size: unit(25/@base,rem);
-  line-height: @lineheight*1.5/25;
+  line-height: 33/25;
 }
 
 h3, .h3 {
   font-size: 19px;
   font-size: unit(19/@base,rem);
-  line-height: @lineheight/18;
+  line-height: 25/19;
 }
 
 h4, h5, h6,
@@ -65,19 +65,19 @@ h4, h5, h6,
     h1, .h1 {
       font-size: 43px;
       font-size: unit(43/@base,rem);
-      line-height: @lineheight*1.7/43;
+      line-height: 57/43;
     }
     
     h2, .h2 {
       font-size: 32px;
       font-size: unit(32/@base,rem);
-      line-height: @lineheight*1.4/32;
+      line-height: 45/32;
     }
     
     h3, .h3 {
       font-size: 22px;
       font-size: unit(22/@base,rem);
-      line-height: @lineheight*1.5/22;
+      line-height: 27/22;
     }
 }
 
@@ -98,8 +98,77 @@ abbr {
 
 //hr
     
-    hr {
-        border-top: 2px dashed @grey;
-        border-bottom: none;
+hr {
+    border-top: 2px dashed @grey;
+    border-bottom: none;
+}
+
+
+em, i {
+  font-style: italic;
+}
+
+strong, b {
+  font-weight: bold;
+}
+
+em strong, i strong,
+em b, i b,
+strong em, strong i,
+b em, b i {
+  font-style: italic;
+  font-weight: bold;
+}  
+
+a {
+   transition: color 200ms ease; 
+}
+
+.section-diary {
+    a {
+        color: @blue;
     }
-    
+    a:hover {
+        color: darken(@blue,30%);
+    }
+}
+
+.section-notes {
+    a {
+        color: @yellow;
+    }
+    a:hover {
+        color: darken(@yellow,30%);
+    }
+}
+
+.section-gallery {
+    a {
+        color: @red;
+    }
+    a:hover {
+        color: darken(@red,30%);
+    }
+}
+
+a.link-diary {
+  color: @blue;
+}
+a.link-diary:hover {
+  color: darken(@blue,30%);
+}
+
+
+a.link-gallery {
+  color: @red;
+}
+a.link-gallery:hover {
+  color: darken(@red,30%);
+} 
+
+a.link-notes {
+  color: @yellow;
+}
+a.link-notes:hover {
+  color: darken(@yellow,30%);
+} 

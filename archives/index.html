@@ -3,10 +3,30 @@ layout: default
 title: Archives
 ---
 
-<section class="layout--grid">
+<section class="layout--column">
     
-    {% for post in site.archives reversed %}
-        {% include_relative archive-teaser-full.html year=post.year gallery_size=9 content=post.content %}
+    <h1 class="u-centre">Archives</h1>
+    
+    {% for post in site.posts %}
+        {% capture this_year %}{{ post.date | date: '%Y' }}{% endcapture %}
+        {% capture next_year %}{{ post.next.date | date: '%Y' }}{% endcapture %}
+        {% capture count %}{{ post.images | size }}{% endcapture %}
+        
+        {% if this_year != next_year or forloop.index == 1 %}
+            {% if forloop.index != 1 %}
+                </ul>
+            {% endif %}
+                <h2 class="u-centre repel--1">{{ post.date | date: '%Y' }}</h2>
+                {% include_relative year-summary.html year=this_year %}
+                <ul class="quicklinks pull--both u-centre repel--3">
+        {% endif %}
+        
+        
+        <li><a href="{{ post.url }}" class="link-{{ post.categories[0] }}">{{ post.title }}</a> <time>{{ post.date | date: "%a, %b %e" }}</time></li>
+        
+        {% if forloop.last %}
+                </ul>
+        {% endif %}
+        
     {% endfor %}
- 
 </section>

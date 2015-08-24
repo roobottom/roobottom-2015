@@ -7,15 +7,9 @@
         <link rel="stylesheet" href="{{ site.baseurl }}/css/styles.css" type="text/css" media="screen" charset="utf-8" ,>
         <link rel="shortcut icon" href="{{ site.baseurl }}/favicon.ico" />
         
-        <title>
-        {% if include.pagetitle == null %}
-        {{ page.title }}
-        {% else %}
-        {{ include.pagetitle }}
-        {% endif %}
-         — roobottom.com</title>
+        <title>{{ page.title }} — roobottom.com</title>
     </head>
-    <body class="section-{{ page.title | slugify }}">
+    <body>
         
         
         {% include navigation.html %}

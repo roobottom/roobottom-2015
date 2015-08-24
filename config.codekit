@@ -215,11 +215,29 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/archives\/images-from-year.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/archives\/images-from-year.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/archives\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/archives\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/archives\/year-summary.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/archives\/year-summary.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -234,15 +252,6 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
-		},
-	"\/_site\/css\/styles.css": {
-		"fileType": 16,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/css\/styles.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
 		},
 	"\/_site\/diary\/2009\/the-silly-old-sods\/index.html": {
 		"fileType": 8192,
@@ -502,6 +511,33 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/notes\/2015\/baby-roo-surprised-by-finger\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/notes\/2015\/baby-roo-surprised-by-finger\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/notes\/2015\/babysitters\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/notes\/2015\/babysitters\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/notes\/2015\/big-church-day-out\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/notes\/2015\/big-church-day-out\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/notes\/2015\/clearing-the-shed\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -520,11 +556,38 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/notes\/2015\/cousins-weekend\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/notes\/2015\/cousins-weekend\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/notes\/2015\/creepy-dolls-swarming-birds-and-card-games\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/notes\/2015\/creepy-dolls-swarming-birds-and-card-games\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/notes\/2015\/firefly-babygrow\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/notes\/2015\/firefly-babygrow\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/notes\/2015\/firefly-planning-session\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/notes\/2015\/firefly-planning-session\/index.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -556,6 +619,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/notes\/2015\/goodbye-penzance\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/notes\/2015\/goodbye-penzance\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/notes\/2015\/henty-arms-beer-festival\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -583,6 +655,33 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/notes\/2015\/lunch-at-the-loft\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/notes\/2015\/lunch-at-the-loft\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/notes\/2015\/moon-rise\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/notes\/2015\/moon-rise\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/notes\/2015\/mrs-m-dedication\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/notes\/2015\/mrs-m-dedication\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/notes\/2015\/paddling-pools-and-teacups\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -597,6 +696,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/notes\/2015\/pimms-o-clock\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/notes\/2015\/raz-and-matt\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/notes\/2015\/raz-and-matt\/index.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -628,11 +736,29 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/notes\/2015\/thanks-mum\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/notes\/2015\/thanks-mum\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/notes\/2015\/the-queens-club\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/notes\/2015\/the-queens-club\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/notes\/2015\/travel-games\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/notes\/2015\/travel-games\/index.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -646,11 +772,47 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/notes\/2015\/uncle-flico\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/notes\/2015\/uncle-flico\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/notes\/2015\/walk-with-baby-roo\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/notes\/2015\/walk-with-baby-roo\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/notes\/2015\/weekend-at-grandma-and-grandads\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/notes\/2015\/weekend-at-grandma-and-grandads\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/notes\/2015\/weekend-with-grandma-and-grandad\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/notes\/2015\/weekend-with-grandma-and-grandad\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/notes\/2015\/worthing-10k\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/notes\/2015\/worthing-10k\/index.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -1008,11 +1170,29 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/archives\/images-from-year.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/archives\/images-from-year.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/archives\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/archives\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/archives\/year-summary.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/archives\/year-summary.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -6082,6 +6262,26 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
+	"\/less\/_components\/archive-meta.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 0,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/less\/_components\/archive-meta.less",
+		"outputAbbreviatedPath": "\/less\/css\/archive-meta.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
 	"\/less\/_components\/calendar.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
@@ -6341,6 +6541,15 @@
 		"strictImports": 0,
 		"strictMath": 0,
 		"strictUnits": 0
+		},
+	"\/less\/css\/archive-meta.css": {
+		"fileType": 16,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/less\/css\/archive-meta.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
 		},
 	"\/less\/styles.less": {
 		"allowInsecureImports": 0,
@@ -8378,7 +8587,7 @@
 		"randomFootnoteNumbers": 0,
 		"useCompatibilityMode": 0
 		},
-	"\/notes\/_drafts\/2015-05-23-lunch-at-the-loft.md": {
+	"\/notes\/_posts\/2015-05-23-lunch-at-the-loft.md": {
 		"criticStyle": 0,
 		"enableFootnotes": 1,
 		"enableLabels": 1,
@@ -8387,9 +8596,9 @@
 		"fileType": 4096,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/notes\/_drafts\/2015-05-23-lunch-at-the-loft.md",
+		"inputAbbreviatedPath": "\/notes\/_posts\/2015-05-23-lunch-at-the-loft.md",
 		"maskEmailAddresses": 1,
-		"outputAbbreviatedPath": "\/notes\/_drafts\/2015-05-23-lunch-at-the-loft.html",
+		"outputAbbreviatedPath": "\/notes\/_posts\/2015-05-23-lunch-at-the-loft.html",
 		"outputFormat": 0,
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
@@ -8399,7 +8608,7 @@
 		"randomFootnoteNumbers": 0,
 		"useCompatibilityMode": 0
 		},
-	"\/notes\/_drafts\/2015-05-24-big-church-day-out.md": {
+	"\/notes\/_posts\/2015-05-24-big-church-day-out.md": {
 		"criticStyle": 0,
 		"enableFootnotes": 1,
 		"enableLabels": 1,
@@ -8408,9 +8617,9 @@
 		"fileType": 4096,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/notes\/_drafts\/2015-05-24-big-church-day-out.md",
+		"inputAbbreviatedPath": "\/notes\/_posts\/2015-05-24-big-church-day-out.md",
 		"maskEmailAddresses": 1,
-		"outputAbbreviatedPath": "\/notes\/_drafts\/2015-05-24-big-church-day-out.html",
+		"outputAbbreviatedPath": "\/notes\/_posts\/2015-05-24-big-church-day-out.html",
 		"outputFormat": 0,
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
@@ -8420,7 +8629,7 @@
 		"randomFootnoteNumbers": 0,
 		"useCompatibilityMode": 0
 		},
-	"\/notes\/_drafts\/2015-05-31-weekend-with-grandma-and-grandad.md": {
+	"\/notes\/_posts\/2015-05-31-weekend-with-grandma-and-grandad.md": {
 		"criticStyle": 0,
 		"enableFootnotes": 1,
 		"enableLabels": 1,
@@ -8429,9 +8638,9 @@
 		"fileType": 4096,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/notes\/_drafts\/2015-05-31-weekend-with-grandma-and-grandad.md",
+		"inputAbbreviatedPath": "\/notes\/_posts\/2015-05-31-weekend-with-grandma-and-grandad.md",
 		"maskEmailAddresses": 1,
-		"outputAbbreviatedPath": "\/notes\/_drafts\/2015-05-31-weekend-with-grandma-and-grandad.html",
+		"outputAbbreviatedPath": "\/notes\/_posts\/2015-05-31-weekend-with-grandma-and-grandad.html",
 		"outputFormat": 0,
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
@@ -8441,7 +8650,7 @@
 		"randomFootnoteNumbers": 0,
 		"useCompatibilityMode": 0
 		},
-	"\/notes\/_drafts\/2015-06-06-uncle-flico.md": {
+	"\/notes\/_posts\/2015-06-06-uncle-flico.md": {
 		"criticStyle": 0,
 		"enableFootnotes": 1,
 		"enableLabels": 1,
@@ -8450,9 +8659,9 @@
 		"fileType": 4096,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/notes\/_drafts\/2015-06-06-uncle-flico.md",
+		"inputAbbreviatedPath": "\/notes\/_posts\/2015-06-06-uncle-flico.md",
 		"maskEmailAddresses": 1,
-		"outputAbbreviatedPath": "\/notes\/_drafts\/2015-06-06-uncle-flico.html",
+		"outputAbbreviatedPath": "\/notes\/_posts\/2015-06-06-uncle-flico.html",
 		"outputFormat": 0,
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
@@ -8462,7 +8671,7 @@
 		"randomFootnoteNumbers": 0,
 		"useCompatibilityMode": 0
 		},
-	"\/notes\/_drafts\/2015-06-07-worthing-10k.md": {
+	"\/notes\/_posts\/2015-06-07-worthing-10k.md": {
 		"criticStyle": 0,
 		"enableFootnotes": 1,
 		"enableLabels": 1,
@@ -8471,9 +8680,9 @@
 		"fileType": 4096,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/notes\/_drafts\/2015-06-07-worthing-10k.md",
+		"inputAbbreviatedPath": "\/notes\/_posts\/2015-06-07-worthing-10k.md",
 		"maskEmailAddresses": 1,
-		"outputAbbreviatedPath": "\/notes\/_drafts\/2015-06-07-worthing-10k.html",
+		"outputAbbreviatedPath": "\/notes\/_posts\/2015-06-07-worthing-10k.html",
 		"outputFormat": 0,
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
@@ -8483,7 +8692,7 @@
 		"randomFootnoteNumbers": 0,
 		"useCompatibilityMode": 0
 		},
-	"\/notes\/_drafts\/2015-06-10-firefly-babygrow.md": {
+	"\/notes\/_posts\/2015-06-10-firefly-babygrow.md": {
 		"criticStyle": 0,
 		"enableFootnotes": 1,
 		"enableLabels": 1,
@@ -8492,9 +8701,9 @@
 		"fileType": 4096,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/notes\/_drafts\/2015-06-10-firefly-babygrow.md",
+		"inputAbbreviatedPath": "\/notes\/_posts\/2015-06-10-firefly-babygrow.md",
 		"maskEmailAddresses": 1,
-		"outputAbbreviatedPath": "\/notes\/_drafts\/2015-06-10-firefly-babygrow.html",
+		"outputAbbreviatedPath": "\/notes\/_posts\/2015-06-10-firefly-babygrow.html",
 		"outputFormat": 0,
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
@@ -8504,7 +8713,7 @@
 		"randomFootnoteNumbers": 0,
 		"useCompatibilityMode": 0
 		},
-	"\/notes\/_drafts\/2015-06-16-firefly-planning-session.md": {
+	"\/notes\/_posts\/2015-06-16-firefly-planning-session.md": {
 		"criticStyle": 0,
 		"enableFootnotes": 1,
 		"enableLabels": 1,
@@ -8513,9 +8722,9 @@
 		"fileType": 4096,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/notes\/_drafts\/2015-06-16-firefly-planning-session.md",
+		"inputAbbreviatedPath": "\/notes\/_posts\/2015-06-16-firefly-planning-session.md",
 		"maskEmailAddresses": 1,
-		"outputAbbreviatedPath": "\/notes\/_drafts\/2015-06-16-firefly-planning-session.html",
+		"outputAbbreviatedPath": "\/notes\/_posts\/2015-06-16-firefly-planning-session.html",
 		"outputFormat": 0,
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
@@ -8525,7 +8734,7 @@
 		"randomFootnoteNumbers": 0,
 		"useCompatibilityMode": 0
 		},
-	"\/notes\/_drafts\/2015-06-19-babysitters.md": {
+	"\/notes\/_posts\/2015-06-19-babysitters.md": {
 		"criticStyle": 0,
 		"enableFootnotes": 1,
 		"enableLabels": 1,
@@ -8534,9 +8743,9 @@
 		"fileType": 4096,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/notes\/_drafts\/2015-06-19-babysitters.md",
+		"inputAbbreviatedPath": "\/notes\/_posts\/2015-06-19-babysitters.md",
 		"maskEmailAddresses": 1,
-		"outputAbbreviatedPath": "\/notes\/_drafts\/2015-06-19-babysitters.html",
+		"outputAbbreviatedPath": "\/notes\/_posts\/2015-06-19-babysitters.html",
 		"outputFormat": 0,
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
@@ -8546,7 +8755,7 @@
 		"randomFootnoteNumbers": 0,
 		"useCompatibilityMode": 0
 		},
-	"\/notes\/_drafts\/2015-06-20-baby-roo-surprised-by-finger.md": {
+	"\/notes\/_posts\/2015-06-20-baby-roo-surprised-by-finger.md": {
 		"criticStyle": 0,
 		"enableFootnotes": 1,
 		"enableLabels": 1,
@@ -8555,9 +8764,9 @@
 		"fileType": 4096,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/notes\/_drafts\/2015-06-20-baby-roo-surprised-by-finger.md",
+		"inputAbbreviatedPath": "\/notes\/_posts\/2015-06-20-baby-roo-surprised-by-finger.md",
 		"maskEmailAddresses": 1,
-		"outputAbbreviatedPath": "\/notes\/_drafts\/2015-06-20-baby-roo-surprised-by-finger.html",
+		"outputAbbreviatedPath": "\/notes\/_posts\/2015-06-20-baby-roo-surprised-by-finger.html",
 		"outputFormat": 0,
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
@@ -8567,7 +8776,7 @@
 		"randomFootnoteNumbers": 0,
 		"useCompatibilityMode": 0
 		},
-	"\/notes\/_drafts\/2015-06-21-mrs-m-dedication.md": {
+	"\/notes\/_posts\/2015-06-21-mrs-m-dedication.md": {
 		"criticStyle": 0,
 		"enableFootnotes": 1,
 		"enableLabels": 1,
@@ -8576,9 +8785,9 @@
 		"fileType": 4096,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/notes\/_drafts\/2015-06-21-mrs-m-dedication.md",
+		"inputAbbreviatedPath": "\/notes\/_posts\/2015-06-21-mrs-m-dedication.md",
 		"maskEmailAddresses": 1,
-		"outputAbbreviatedPath": "\/notes\/_drafts\/2015-06-21-mrs-m-dedication.html",
+		"outputAbbreviatedPath": "\/notes\/_posts\/2015-06-21-mrs-m-dedication.html",
 		"outputFormat": 0,
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
@@ -8588,7 +8797,7 @@
 		"randomFootnoteNumbers": 0,
 		"useCompatibilityMode": 0
 		},
-	"\/notes\/_drafts\/2015-06-22-raz-and-matt.md": {
+	"\/notes\/_posts\/2015-06-22-raz-and-matt.md": {
 		"criticStyle": 0,
 		"enableFootnotes": 1,
 		"enableLabels": 1,
@@ -8597,9 +8806,9 @@
 		"fileType": 4096,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/notes\/_drafts\/2015-06-22-raz-and-matt.md",
+		"inputAbbreviatedPath": "\/notes\/_posts\/2015-06-22-raz-and-matt.md",
 		"maskEmailAddresses": 1,
-		"outputAbbreviatedPath": "\/notes\/_drafts\/2015-06-22-raz-and-matt.html",
+		"outputAbbreviatedPath": "\/notes\/_posts\/2015-06-22-raz-and-matt.html",
 		"outputFormat": 0,
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
@@ -8609,7 +8818,7 @@
 		"randomFootnoteNumbers": 0,
 		"useCompatibilityMode": 0
 		},
-	"\/notes\/_drafts\/2015-06-27-cousins-weekend.md": {
+	"\/notes\/_posts\/2015-06-27-cousins-weekend.md": {
 		"criticStyle": 0,
 		"enableFootnotes": 1,
 		"enableLabels": 1,
@@ -8618,9 +8827,9 @@
 		"fileType": 4096,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/notes\/_drafts\/2015-06-27-cousins-weekend.md",
+		"inputAbbreviatedPath": "\/notes\/_posts\/2015-06-27-cousins-weekend.md",
 		"maskEmailAddresses": 1,
-		"outputAbbreviatedPath": "\/notes\/_drafts\/2015-06-27-cousins-weekend.html",
+		"outputAbbreviatedPath": "\/notes\/_posts\/2015-06-27-cousins-weekend.html",
 		"outputFormat": 0,
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
@@ -8630,7 +8839,7 @@
 		"randomFootnoteNumbers": 0,
 		"useCompatibilityMode": 0
 		},
-	"\/notes\/_drafts\/2015-07-04-weekend-at-grandma-and-grandads.md": {
+	"\/notes\/_posts\/2015-07-04-weekend-at-grandma-and-grandads.md": {
 		"criticStyle": 0,
 		"enableFootnotes": 1,
 		"enableLabels": 1,
@@ -8639,9 +8848,9 @@
 		"fileType": 4096,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/notes\/_drafts\/2015-07-04-weekend-at-grandma-and-grandads.md",
+		"inputAbbreviatedPath": "\/notes\/_posts\/2015-07-04-weekend-at-grandma-and-grandads.md",
 		"maskEmailAddresses": 1,
-		"outputAbbreviatedPath": "\/notes\/_drafts\/2015-07-04-weekend-at-grandma-and-grandads.html",
+		"outputAbbreviatedPath": "\/notes\/_posts\/2015-07-04-weekend-at-grandma-and-grandads.html",
 		"outputFormat": 0,
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
@@ -8651,7 +8860,7 @@
 		"randomFootnoteNumbers": 0,
 		"useCompatibilityMode": 0
 		},
-	"\/notes\/_drafts\/2015-07-05-thanks-mum.md": {
+	"\/notes\/_posts\/2015-07-05-thanks-mum.md": {
 		"criticStyle": 0,
 		"enableFootnotes": 1,
 		"enableLabels": 1,
@@ -8660,9 +8869,9 @@
 		"fileType": 4096,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/notes\/_drafts\/2015-07-05-thanks-mum.md",
+		"inputAbbreviatedPath": "\/notes\/_posts\/2015-07-05-thanks-mum.md",
 		"maskEmailAddresses": 1,
-		"outputAbbreviatedPath": "\/notes\/_drafts\/2015-07-05-thanks-mum.html",
+		"outputAbbreviatedPath": "\/notes\/_posts\/2015-07-05-thanks-mum.html",
 		"outputFormat": 0,
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
@@ -8672,7 +8881,7 @@
 		"randomFootnoteNumbers": 0,
 		"useCompatibilityMode": 0
 		},
-	"\/notes\/_drafts\/2015-07-10-moon-rise.md": {
+	"\/notes\/_posts\/2015-07-10-moon-rise.md": {
 		"criticStyle": 0,
 		"enableFootnotes": 1,
 		"enableLabels": 1,
@@ -8681,9 +8890,9 @@
 		"fileType": 4096,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/notes\/_drafts\/2015-07-10-moon-rise.md",
+		"inputAbbreviatedPath": "\/notes\/_posts\/2015-07-10-moon-rise.md",
 		"maskEmailAddresses": 1,
-		"outputAbbreviatedPath": "\/notes\/_drafts\/2015-07-10-moon-rise.html",
+		"outputAbbreviatedPath": "\/notes\/_posts\/2015-07-10-moon-rise.html",
 		"outputFormat": 0,
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
@@ -8693,7 +8902,7 @@
 		"randomFootnoteNumbers": 0,
 		"useCompatibilityMode": 0
 		},
-	"\/notes\/_drafts\/2015-07-12-travel-games.md": {
+	"\/notes\/_posts\/2015-07-12-travel-games.md": {
 		"criticStyle": 0,
 		"enableFootnotes": 1,
 		"enableLabels": 1,
@@ -8702,9 +8911,9 @@
 		"fileType": 4096,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/notes\/_drafts\/2015-07-12-travel-games.md",
+		"inputAbbreviatedPath": "\/notes\/_posts\/2015-07-12-travel-games.md",
 		"maskEmailAddresses": 1,
-		"outputAbbreviatedPath": "\/notes\/_drafts\/2015-07-12-travel-games.html",
+		"outputAbbreviatedPath": "\/notes\/_posts\/2015-07-12-travel-games.html",
 		"outputFormat": 0,
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
@@ -8714,7 +8923,7 @@
 		"randomFootnoteNumbers": 0,
 		"useCompatibilityMode": 0
 		},
-	"\/notes\/_drafts\/2015-07-13-goodbye-penzance.md": {
+	"\/notes\/_posts\/2015-07-13-goodbye-penzance.md": {
 		"criticStyle": 0,
 		"enableFootnotes": 1,
 		"enableLabels": 1,
@@ -8723,9 +8932,9 @@
 		"fileType": 4096,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/notes\/_drafts\/2015-07-13-goodbye-penzance.md",
+		"inputAbbreviatedPath": "\/notes\/_posts\/2015-07-13-goodbye-penzance.md",
 		"maskEmailAddresses": 1,
-		"outputAbbreviatedPath": "\/notes\/_drafts\/2015-07-13-goodbye-penzance.html",
+		"outputAbbreviatedPath": "\/notes\/_posts\/2015-07-13-goodbye-penzance.html",
 		"outputFormat": 0,
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,

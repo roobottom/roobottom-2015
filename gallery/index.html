@@ -1,6 +1,8 @@
 ---
 title: Gallery
 layout: default
+categories:
+    - gallery
 ---
 
 <h1 class="u-centre">Gallery</h1>
@@ -23,7 +25,6 @@ layout: default
 
         <div class="layout--grid-span1">
             <article class="s-prose teaser teaser--gallery">
-                <header class="teaser-header">A gallery</header>
                 {% if post.images %}
                 <figure>
                     <a href="{{ site.baseurl }}{{ post.url }}">

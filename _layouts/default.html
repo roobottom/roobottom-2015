@@ -3,7 +3,7 @@ layout: compress
 ---
 
 {% include site-head.html %}
-        
-        {{ content }}
-        
+        <section class="section-{{ page.categories[0] | slugify }}">
+            {{ content }}
+        </section> 
 {% include site-footer.html %}

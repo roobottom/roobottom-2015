@@ -7,27 +7,10 @@
     box-shadow: 0 1px 3px fade(black,10%);
     margin-bottom: unit(@lineheight,px);
     margin-bottom: unit(@lineheight/@base,rem);
-    border: 1px solid lighten(@grey,10%);
     
-    .teaser-header {
-        //pull these items out to meet the edges of this box.
-        margin-left: unit(-1 * @lineheight,px);
-        margin-right: unit(-1 * @lineheight,px);
+    figure, .gallery {
         margin-left: unit(-1 * @lineheight/@base,rem);
         margin-right: unit(-1 * @lineheight/@base,rem);
-        
-        margin-bottom: unit(@lineheight,px);
-        margin-bottom: unit(@lineheight/@base,rem);
-    }
-    
-    .teaser-header {
-        padding: unit(@lineheight/2,px) unit(@lineheight,px);
-        padding: unit(@lineheight/2/@base,rem) unit(@lineheight/@base,rem); 
-        
-        background: lighten(@grey,15%);
-        font-size: 80%;
-        //text-transform: uppercase;
-        
     }
     
     .teaser-footer {
@@ -47,16 +30,30 @@
         padding: 0 unit(@lineheight/@base,rem);
     }
     
-    &.teaser--diary .teaser-header {
-        background-color: lighten(@blue,40%);
+    //headers
+    .teaser-header {
+        margin-left: unit(-1 * @lineheight/@base,rem);
+        margin-right: unit(-1 * @lineheight/@base,rem);
+        padding: unit(@lineheight/2/@base,rem) unit(@lineheight/@base,rem);
+        &, a {
+            color: white;
+        }
     }
     
-    &.teaser--notes .teaser-header {
-        background-color: lighten(@yellow,20%);
+    &.section-diary {
+        .teaser-header {
+            background-color: @blue;
+        }
     }
-    
-    &.teaser--gallery .teaser-header {
-        background-color: lighten(@red,40%);
+    &.section-notes {
+        .teaser-header {
+            background-color: @yellow;
+        }
+    }
+    &.section-gallery {
+        .teaser-header {
+            background-color: @red;
+        }
     }
     
     

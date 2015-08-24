@@ -1,0 +1,34 @@
+{% assign c_notes = 0 %}
+{% assign c_diary = 0 %}
+{% assign c_gallery = 0 %}
+
+{% for post in site.posts  %}
+    {% assign postYear = post.date | date: "%Y" %}
+    
+    {% if postYear == include.year %}
+        {% case post.categories[0] %}
+                {% when 'notes' %}
+                    {% assign c_notes = c_notes | plus: 1 %}
+                {% when 'diary' %}
+                    {% assign c_diary = c_diary | plus: 1 %}
+                {% when 'gallery' %}
+                    {% assign c_gallery = c_gallery | plus: 1 %}
+        {% endcase %}
+    {% endif %}        
+{% endfor %}
+
+{% if c_notes == 1 %}{% assign notes_name = "note" %}{% else %}{% assign notes_name = "notes" %}{% endif %}
+{% if c_diary == 1 %}{% assign diary_name = "diary post" %}{% else %}{% assign diary_name = "diary posts" %}{% endif %}
+{% if c_gallery == 1 %}{% assign gallery_name = "gallery" %}{% else %}{% assign gallery_name = "galleries" %}{% endif %}
+
+<p class="u-centre u-meta repel--1 archive-meta">
+    {% if c_diary != 0 %}
+    <span class="archive-meta-diary">{{ c_diary }} {{ diary_name }}</span>
+    {% endif %}
+    {% if c_gallery != 0 %}
+    <span class="archive-meta-gallery">{{ c_gallery }} {{ gallery_name }}</span>
+    {% endif %}
+    {% if c_notes != 0 %}
+    <span class="archive-meta-notes">{{ c_notes }} {{ notes_name }}</span>
+    {% endif %}
+</p>

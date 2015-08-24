@@ -1,11 +1,13 @@
 ---
 title: Diary
 layout: default
+categories:
+    - diary
 ---
 
 <h1 class="u-centre">Diary</h1>
 
-    {% for post in site.categories.diary | limit: 4 %}
+    {% for post in site.categories.diary | limit: 10 %}
     
         {% capture this_year %}{{ post.date | date: '%Y' }}{% endcapture %}
         {% capture next_year %}{{ post.next.date | date: '%Y' }}{% endcapture %}
@@ -14,7 +16,7 @@ layout: default
             {% if forloop.index != 1 %}
                 </section>
             {% endif %}
-                <h2 class="repel--1 u-centre">{{ post.date | date: '%Y' }}</h2>
+                <h2 class="repel--1 u-centre h3">{{ post.date | date: '%Y' }}</h2>
                 <section class="layout--grid">
         {% endif %}
         
@@ -23,7 +25,6 @@ layout: default
 
         <div class="layout--grid-span1">
             <article class="s-prose teaser teaser--diary">
-                <header class="teaser-header">From the diary</header>
                 {% if post.images %}
                 <figure>
                     <a href="{{ site.baseurl }}{{ post.url }}">
@@ -34,37 +35,13 @@ layout: default
                 {% endif %}
                 {% assign titleWords = post.title | split:&nbsp; %}
                 {% capture cleanTitle %}{% for word in titleWords %}{% if forloop.last %}&nbsp;{% else %} {% endif %}{{ word }}{% endfor %}{% endcapture %}
-                <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ cleanTitle }}</a></h2>
+                <h2 class="h3"><a href="{{ site.baseurl }}{{ post.url }}">{{ cleanTitle }}</a></h2>
                 <p class="u-meta"><time>{{ post.date | date: "%A, %B %e %Y" }}</time></p>
             </article>
         </div>
 
         
         {% if forloop.last %}
-            </section>
-        {% endif %}
-        
-    {% endfor %}
-    
-
-    {% for post in site.categories.diary | offset: 4 %}
-        {% capture this_year %}{{ post.date | date: '%Y' }}{% endcapture %}
-        {% capture next_year %}{{ post.next.date | date: '%Y' }}{% endcapture %}
-        {% capture count %}{{ post.images | size }}{% endcapture %}
-        
-        {% if this_year != next_year or forloop.index == 1 %}
-            {% if forloop.index != 1 %}
-                </section>
-            {% endif %}
-                <h2 class="repel--1 u-centre">{{ post.date | date: '%Y' }}</h2>
-                <section class="layout--column">
-                    <ul class="quicklinks pull--both u-centre">
-        {% endif %}
-        
-        <li><a href="{{ post.url }}">{{ post.title }}</a> <time>{{ post.date | date: "%a, %b %e" }}</time></li>
-        
-        {% if forloop.last %}
-                    </ul>
             </section>
         {% endif %}
         
