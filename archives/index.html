@@ -22,7 +22,7 @@ title: Archives
         {% endif %}
         
         
-        <li><a href="{{ post.url }}" class="link-{{ post.categories[0] }}">{{ post.title }}</a> <time>{{ post.date | date: "%a, %b %e" }}</time></li>
+        <li><a href="{{ site.baseurl }}{{ post.url }}" class="link-{{ post.categories[0] }}">{{ post.title }}</a> <time>{{ post.date | date: "%a, %b %e" }}</time></li>
         
         {% if forloop.last %}
                 </ul>
