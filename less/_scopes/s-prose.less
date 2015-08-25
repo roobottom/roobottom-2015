@@ -15,7 +15,7 @@
   
 //spacing
 
-    >figure, >.gallery, >img, p, >ul, >ol, hr, table {
+    >figure:not(.gallery-container), >.gallery, >img, p, >ul, >ol, hr, table {
         .margin-bottom();
     }  
    
@@ -62,13 +62,14 @@
 	}
 	
 	figure {
-	    border-bottom: 1px solid lighten(@grey,10%);
+	   
 		
 		figcaption {
 			font-size: 70%;
 			line-height: @lineheight/13;
 			color: @grey;
 			font-style: italic;
+            border-bottom: 1px solid lighten(@grey,10%);
 		}
 		
 	}

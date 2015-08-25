@@ -28,14 +28,13 @@ categories:
                 <figure>
                     <a href="{{ site.baseurl }}{{ post.url }}">
                         <img src="{{ site.roobottom_assets }}/{{ post.categories[0] }}/square/{{ post.images[0] }}" />
-                        <div class="u-figure-count">{{ count }} image{% if count != '1' %}s{% endif %}</div>
+                        <div class="u-figure-count">{{ count }} image{% if count != '1' %}s{% endif %} &amp; {{ post.content | number_of_words }} words</div>
                     </a>
                 </figure>
                 {% assign titleWords = post.title | split:&nbsp; %}
                 {% capture cleanTitle %}{% for word in titleWords %}{% if forloop.last %}&nbsp;{% else %} {% endif %}{{ word }}{% endfor %}{% endcapture %}
                 <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ cleanTitle }}</a></h2>
                 <p class="u-meta"><time>{{ post.date | date: "%A, %B %e %Y" }}</time></p>
-                <p>{{ post.excerpt }}
             </article>
         </div>
 

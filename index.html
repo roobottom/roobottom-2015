@@ -29,7 +29,7 @@ title: Home
                 <header class="teaser-header">Latest from  <a href="{{ site.baseurl }}/notes">notes</a></header> 
                 <figure>
                     <a href="{{ site.baseurl }}{{ post.url }}"><img src="{{ site.roobottom_assets }}/{{ post.categories[0] }}/small/{{ post.images[0] }}" />
-                    <div class="u-figure-count">{{ count }} image{% if count != '1' %}s{% endif %}</div>
+                    <div class="u-figure-count">{{ count }} image{% if count != '1' %}s{% endif %} &amp; {{ post.content | number_of_words }} words</div>
                     </a>
                 </figure>
                 <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
@@ -41,21 +41,23 @@ title: Home
         {% for post in site.categories.gallery limit:1 %}
             {% capture count %}{{ post.images | size }}{% endcapture %}
             <article class="s-prose teaser section-gallery">
-                <header class="teaser-header">Latest from  <a href="{{ site.baseurl }}/gallery">gallery</a></header> 
-                <div class="gallery">
-                    <ol class="gallery-row">
-                        {% for image in post.images limit:5 %}
-                            {% capture width %}{{ image.width }}{% endcapture %}
-                            {% capture height %}{{ image.height }}{% endcapture %}
-                            <li class="gallery-item">
-                                <a href="{{ site.baseurl }}{{ post.url }}">
-                                    <img src="{{ site.roobottom_assets }}/{{ post.categories[0] }}/small/{{ image.image }}" data-width="{{ width }}" data-height="{{ height }}" class="gallery-image"/>
-                                </a>
-                            </li>
-                        {% endfor %}
-                    </ol>
-                    <div class="u-figure-count">{ post.images | size }} images</div>
-                </div>
+                <header class="teaser-header">Latest from  <a href="{{ site.baseurl }}/gallery">gallery</a></header>
+                <figure class="gallery-container"> 
+                    <div class="gallery">
+                        <ol class="gallery-row">
+                            {% for image in post.images limit:5 %}
+                                {% capture width %}{{ image.width }}{% endcapture %}
+                                {% capture height %}{{ image.height }}{% endcapture %}
+                                <li class="gallery-item">
+                                    <a href="{{ site.baseurl }}{{ post.url }}">
+                                        <img src="{{ site.roobottom_assets }}/{{ post.categories[0] }}/small/{{ image.image }}" data-width="{{ width }}" data-height="{{ height }}" class="gallery-image"/>
+                                    </a>
+                                </li>
+                            {% endfor %}
+                        </ol>
+                    </div>
+                    <div class="u-figure-count">{{ post.images | size }} images</div>
+                </figure>
                 <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
                 <p class="u-meta"><time>{{ post.date | date date: "%A, %B %e %Y" }}</time></p>
             </article>

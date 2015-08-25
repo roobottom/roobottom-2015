@@ -29,7 +29,14 @@ categories:
                 <figure>
                     <a href="{{ site.baseurl }}{{ post.url }}">
                         <img src="{{ site.roobottom_assets }}/{{ post.categories[0] }}/square/{{ post.images[0].image }}" />
-                        <div class="u-figure-count">{{ count }} image{% if count != '1' %}s{% endif %} &amp; {{ post.content | number_of_words }} words</div>
+                        <div class="u-figure-count">{{ count }} image{% if count != '1' %}s &amp; {% endif %}{{ post.content | number_of_words }} words</div>
+                    </a>
+                </figure>
+                {% else %}
+                <figure>
+                    <a href="{{ site.baseurl }}{{ post.url }}">
+                        <img src="{{ site.baseurl }}/css/images/default.png"/>
+                        <div class="u-figure-count">{{ post.content | number_of_words }} words</div>
                     </a>
                 </figure>
                 {% endif %}

@@ -170,11 +170,11 @@ body.style-guide .s-meta:before {
   color: #56baff;
 }
 .layout--column {
-  max-width: 52.5rem;
+  max-width: 45rem;
   margin: 20px;
   margin: 1.25rem;
 }
-@media screen and (min-width: 860px) {
+@media screen and (min-width: 740px) {
   .layout--column {
     margin: 32px auto;
     margin: 2rem auto;
@@ -284,27 +284,27 @@ body.style-guide .s-meta:before {
 }
 @media screen and (min-width: 1000px) {
   .pull--left {
-    margin-left: -70px;
-    margin-left: -4.375rem;
+    margin-left: -130px;
+    margin-left: -8.125rem;
   }
   .pull--right {
-    margin-right: -70px;
-    margin-right: -4.375rem;
+    margin-right: -130px;
+    margin-right: -8.125rem;
   }
   .pull--both,
   .pull--extended {
-    margin-left: -70px;
-    margin-left: -4.375rem;
-    margin-right: -70px;
-    margin-right: -4.375rem;
+    margin-left: -130px;
+    margin-left: -8.125rem;
+    margin-right: -130px;
+    margin-right: -8.125rem;
   }
 }
 @media screen and (min-width: 1290px) {
   .pull--extended {
-    margin-left: -215px;
-    margin-left: -13.4375rem;
-    margin-right: -215px;
-    margin-right: -13.4375rem;
+    margin-left: -275px;
+    margin-left: -17.1875rem;
+    margin-right: -275px;
+    margin-right: -17.1875rem;
   }
 }
 .repel--none {
@@ -340,7 +340,7 @@ body.style-guide .s-meta:before {
 .s-prose h6 a:visited {
   text-decoration: none;
 }
-.s-prose > figure,
+.s-prose > figure:not(.gallery-container),
 .s-prose > .gallery,
 .s-prose > img,
 .s-prose p,
@@ -379,7 +379,7 @@ body.style-guide .s-meta:before {
 .s-prose > ol {
   list-style-position: inside;
 }
-@media screen and (min-width: 960px) {
+@media screen and (min-width: 840px) {
   .s-prose > ul,
   .s-prose > ol {
     list-style-position: outside;
@@ -389,14 +389,12 @@ body.style-guide .s-meta:before {
   display: block;
   width: 100%;
 }
-.s-prose figure {
-  border-bottom: 1px solid #e6e6e6;
-}
 .s-prose figure figcaption {
   font-size: 70%;
   line-height: 2.46153846;
   color: #cccccc;
   font-style: italic;
+  border-bottom: 1px solid #e6e6e6;
 }
 .s-prose > img,
 .s-prose > .gallery {
@@ -541,7 +539,7 @@ body.style-guide .s-meta:before {
 .calendar li {
   width: 33.33333333%;
 }
-@media screen and (min-width: 860px) {
+@media screen and (min-width: 740px) {
   .calendar li {
     width: 20%;
   }
@@ -613,7 +611,7 @@ body.style-guide .s-meta:before {
   background-color: #ff0033;
   border-bottom: 1px solid #cc0029;
 }
-@media screen and (min-width: 52.5rem) {
+@media screen and (min-width: 45rem) {
   .teaser {
     margin-left: 1rem;
     margin-right: 1rem;
@@ -633,7 +631,7 @@ body.style-guide .s-meta:before {
   text-align: right;
   margin-left: auto;
 }
-@media screen and (min-width: 840px) {
+@media screen and (min-width: 720px) {
   .pagination {
     display: -webkit-box;
     display: -webkit-flex;
@@ -680,7 +678,7 @@ body.style-guide .s-meta:before {
   background-color: #ecb538;
 }
 .site-navigation {
-  border-bottom: 1px solid #4d4d4d;
+  border-bottom: 1px solid white;
   background-color: #333;
 }
 .site-navigation ul {
@@ -778,10 +776,8 @@ figure,
   color: white;
   padding: 0.5rem 1rem;
   background-color: rgba(0, 0, 0, 0.5);
-  border-radius: 5px;
-  bottom: 10px;
-  right: 10px;
-  box-shadow: 1px 1px 0 rgba(255, 255, 255, 0.3), inset 1px 1px 1px rgba(0, 0, 0, 0.99);
+  bottom: 0.625rem;
+  right: 0.625rem;
 }
 .u-breadcrumb {
   color: #999999;
@@ -797,7 +793,7 @@ body {
   line-height: 2;
   color: #333;
 }
-@media screen and (min-width: 860px) {
+@media screen and (min-width: 740px) {
   body {
     font-size: 19px;
     font-size: 1.1875rem;
@@ -812,7 +808,8 @@ h5,
 h6,
 .tags,
 .u-meta,
-.teaser .teaser-header {
+.teaser .teaser-header,
+.u-figure-count {
   font-family: "Whitney SSm A", "Whitney SSm B", "Seravek", "GillSans", sans-serif;
 }
 code {
@@ -858,7 +855,7 @@ h6,
   color: #333;
   text-transform: uppercase;
 }
-@media screen and (min-width: 860px) {
+@media screen and (min-width: 740px) {
   h1,
   .h1 {
     font-size: 43px;
@@ -891,7 +888,7 @@ abbr {
   cursor: help;
 }
 abbr:hover {
-  background-color: #f5d895;
+  background-color: #e6e6e6;
 }
 hr {
   border-top: 2px dashed #cccccc;
@@ -919,6 +916,7 @@ b i {
 a {
   -webkit-transition: color 200ms ease;
           transition: color 200ms ease;
+  color: #333;
 }
 .section-diary a {
   color: #008eef;

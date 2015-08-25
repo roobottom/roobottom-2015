@@ -1,4 +1,0 @@
----
-title: She said Yes!
----
-[![Katie's Ring](http://farm4.static.flickr.com/3166/3116966434_2c90a2210d.jpg)](http://www.flickr.com/photos/roobottom/3116966434/ "Katie's Ring by roobottom, on Flickr") It's been a while coming, but finally I popped the question and for some unknown reason Katie said yes! So this is it then, I'm off the market. Please ladies, don't weep and don't, for goodness sake, do anything silly. On a serious note, I'd like to say a big BIG thank you to all that have congratulated us over the last couple of weeks. I'm really looking forward to my life with Cake - she's a good 'un... I'm not a big fan of deeply personal emotions on my blog - but screw it, I bloody love her. I couldn't be happier.
