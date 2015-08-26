@@ -1,0 +1,8 @@
+---
+title: Found feet
+images:
+    - 2015-08-19_001.jpg
+tags:
+     - baby roo
+---
+She feels so chunky in my arms now. Amazing to see her grow up and develop. She found her feed for the first time today, they went directly into her mouth. 

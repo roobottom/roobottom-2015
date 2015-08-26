@@ -111,5 +111,19 @@ $(function() {
     
   });
   
+    $(".gallery a").on('click',function(e) {
+        e.preventDefault();
+        console.log('clicked');
+    })
+    
+    //lightbox
+    $(".gallery a").tosrus({
+        buttons    : "inline",
+        pagination : {
+            add        : true,
+            type       : "thumbnails"
+        }
+    });
+  
   
 });
