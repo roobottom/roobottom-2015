@@ -1240,12 +1240,12 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 0
 		},
-	"\/_site\/js\/jquery.tosrus.min.js": {
+	"\/_site\/js\/jquery.tosrus.min.all.js": {
 		"fileType": 64,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/js\/jquery.tosrus.min.js",
-		"outputAbbreviatedPath": "\/_site\/js\/min\/jquery.tosrus.min-min.js",
+		"inputAbbreviatedPath": "\/_site\/js\/jquery.tosrus.min.all.js",
+		"outputAbbreviatedPath": "\/_site\/js\/min\/jquery.tosrus.min.all-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -7374,12 +7374,12 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 0
 		},
-	"\/js\/jquery.tosrus.min.js": {
+	"\/js\/jquery.tosrus.min.all.js": {
 		"fileType": 64,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/js\/jquery.tosrus.min.js",
-		"outputAbbreviatedPath": "\/js\/min\/jquery.tosrus.min-min.js",
+		"inputAbbreviatedPath": "\/js\/jquery.tosrus.min.all.js",
+		"outputAbbreviatedPath": "\/js\/min\/jquery.tosrus.min.all-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -7605,6 +7605,26 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
+	"\/less\/_components\/tosrus.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 0,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/less\/_components\/tosrus.less",
+		"outputAbbreviatedPath": "\/less\/css\/tosrus.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
 	"\/less\/_layouts\/layouts.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
@@ -7724,15 +7744,6 @@
 		"strictImports": 0,
 		"strictMath": 0,
 		"strictUnits": 0
-		},
-	"\/less\/css\/archive-meta.css": {
-		"fileType": 16,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/less\/css\/archive-meta.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
 		},
 	"\/less\/styles.less": {
 		"allowInsecureImports": 0,
