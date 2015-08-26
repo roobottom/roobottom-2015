@@ -47,7 +47,7 @@ baseurl: "/roobottom.com" # does not include hostname
 relative_permalinks: false
 
 # Outputting
-permalink:     /:categories/:year/:title
+permalink:     /:categories/:title
 paginate_path: /page:num
 timezone:      null
 

@@ -37,7 +37,6 @@ categories:
                 {% capture cleanTitle %}{% for word in titleWords %}{% if forloop.last %}&nbsp;{% else %} {% endif %}{{ word }}{% endfor %}{% endcapture %}
                 <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ cleanTitle }}</a></h2>
                 <p class="u-meta"><time>{{ post.date | date: "%A, %B %e %Y" }}</time></p>
-                <p>{{ post.excerpt | remove: '<p>' | remove: '</p>' }}</p>
             </article>
         </div>
 
