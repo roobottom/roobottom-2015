@@ -11,7 +11,9 @@
             {% endfor %}
         
             <li class="gallery-item">
-                <img src="{{ site.roobottom_assets }}/{{ page.categories[0] }}/medium/{{ image.image }}" data-width="{{ width }}" data-height="{{ height }}" class="gallery-image"/>
+                <a href="{{ site.roobottom_assets }}/{{ page.categories[0] }}/large/{{ image.image }}">
+                    <img src="{{ site.roobottom_assets }}/{{ page.categories[0] }}/medium/{{ image.image }}" data-width="{{ width }}" data-height="{{ height }}" class="gallery-image"/>
+                </a>
             </li>
         {% endif %}
         {% endfor %}
