@@ -21,7 +21,11 @@ layout: default
                         {% endif %}
                     {% endfor %}
                     
-                    <li class="gallery-item"><img src="{{ fullImagePath }}" class="gallery-image" data-width="{{ width }}" data-height="{{ height }}"/></li>
+                    <li class="gallery-item">
+                        <a href="{{ site.roobottom_assets }}/notes/large/{{ image }}">
+                            <img src="{{ fullImagePath }}" class="gallery-image" data-width="{{ width }}" data-height="{{ height }}"/>
+                        </a>
+                    </li>
                     {% endfor %}
                 </ul>
             </div>
