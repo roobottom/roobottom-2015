@@ -7,17 +7,19 @@ categories:
 
 <h1 class="u-centre">Notes</h1>
 
+    {% assign monthTracker = 0 %}
+
     {% for post in site.categories.notes | limit:21 %}
     
         {% capture this_month %}{{ post.date | date: '%m' }}{% endcapture %}
-        {% capture next_month %}{{ post.next.date | date: '%m' }}{% endcapture %}
         
-        {% if this_month != next_month %}
+        {% if this_month != monthTracker %}
             {% if forloop.index != 1 %}
                 </section>
             {% endif %}
                 <h2 class="repel--1 u-centre">{{ post.date | date: '%B %Y' }}</h2>
                 <section class="layout--grid">
+                {% assign monthTracker = this_month %}
         {% endif %}
         
         {% capture count %}{{ post.images | size }}{% endcapture %}

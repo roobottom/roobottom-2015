@@ -7,17 +7,19 @@ categories:
 
 <h1 class="u-centre">Diary</h1>
 
+    {% assign yearTracker = 0 %}
+
     {% for post in site.categories.diary | limit: 21 %}
     
         {% capture this_year %}{{ post.date | date: '%Y' }}{% endcapture %}
-        {% capture next_year %}{{ post.next.date | date: '%Y' }}{% endcapture %}
         
-        {% if this_year != next_year or forloop.index == 1 %}
+        {% if this_year != yearTracker or forloop.index == 1 %}
             {% if forloop.index != 1 %}
                 </section>
             {% endif %}
                 <h2 class="repel--1 u-centre h3">{{ post.date | date: '%Y' }}</h2>
                 <section class="layout--grid">
+                {% assign yearTracker = this_year %}
         {% endif %}
         
         {% capture count %}{{ post.images | size }}{% endcapture %}
