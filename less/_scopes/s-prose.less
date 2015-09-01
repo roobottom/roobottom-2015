@@ -15,7 +15,7 @@
   
 //spacing
 
-    >figure:not(.gallery-container), >.gallery, >img, p, >ul, >ol, hr, table {
+    >figure:not(.gallery-container), >.gallery, >img, p, >ul, >ol, hr, table, .highlight, >h2, >h3 {
         .margin-bottom();
     }  
    
@@ -62,7 +62,6 @@
 	}
 	
 	figure {
-	   
 		
 		figcaption {
 			font-size: 70%;
@@ -93,7 +92,7 @@
 //code 
     
     p >code {
-        color: @red;
+        color: darken(@grey,20%);
         margin: 0 .1em;
     }
     

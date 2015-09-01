@@ -110,24 +110,7 @@ defaults:
       category: "notes"
   -
     scope:
-      type: "archives"
+      type: archives
       path: ""
     values:
-      layout: "default"
-      category: "archives"
-      
-
-#archives      
-jekyll-archives:
-  enabled:
-    - year
-    - month
-    - tags
-  layouts:
-    year: 'archives-year'
-    month: 'archives-month'
-    tag: 'archives-tag'
-  permalinks:
-    year: '/archives/:year/'
-    month: '/archives/:year/:month/'
-    tag: '/archives/tagged/:name/'
+      layout: archive-year

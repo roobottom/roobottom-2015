@@ -62,7 +62,7 @@ module.exports = function(grunt) {
 	        jekyll: {
     	        command: [
         	        'cd /Users/roobottom/git/roobottom.com/',
-        	        'jekyll build --config _dev.yml'
+        	        'jekyll build'
     	        ].join('&&')
 	        }
     	},
