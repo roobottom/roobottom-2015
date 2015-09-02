@@ -1,41 +1,33 @@
 .calendar {
     .margin-bottom();
-    ol {
-      display: flex;
-      flex-wrap: wrap;
-      clear: both;  
-    }
+    display: flex;
+    flex-wrap: wrap; 
     
     li {
-        width: 100%/3;
-        @media screen and (min-width:unit((@layout_narrow + @layout_gap),px)) {
-            width: 100%/5;
-        }
+        background-size: cover;
+        background-repeat: no-repeat;
+        flex: 1;
+        margin: unit(@lineheight/4/@base,rem);
+        display: flex;
+        min-width: 200px;
     }
     
     a {
-        display: block;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
         position: relative;
-    }
-    
-    img {
-        display: block;
-        max-width: 100%;
-    }
-    
-    time {
-        position: absolute;
-        top:0;
-        right: 0;
+        background-color: fade(red,40%);
+        box-sizing: border-box;
+        padding: unit(@lineheight/4/@base,rem);
         color: white;
-        background-color: fade(black,50%);
-        padding: .5em;
     }
     
-    .calendar-title {
-        font-size: 70%;
-        .margin-top(2);
-        .margin-bottom(2);
+    .calendar-title,
+    .calendar-time {
+        display: block;
     }
+    
+
     
 }

@@ -1,4 +1,4 @@
-@media screen and (min-width: 700px) {
+@media screen and (min-width: (700rem/@base)) {
     //push 
     
     .push--left {
@@ -43,7 +43,7 @@
 }
 
 
-@media screen and (min-width:unit((@layout_medium + @layout_gap),px)) {
+@media screen and (min-width:unit(((@layout_medium + @layout_gap)/@base),rem)) {
     @pullout: -1 * ((@layout_medium - @layout_narrow)/2);
     .pull--left {
         margin-left: unit(@pullout,px);
@@ -62,7 +62,7 @@
     }  
 }
 
-@media screen and (min-width:unit((@layout_wide + @layout_gap),px)) {
+@media screen and (min-width:unit(((@layout_wide + @layout_gap)/@base),rem)) {
    @pullout: -1 * ((@layout_wide - @layout_narrow)/2);
    .pull--extended {
         margin-left: unit(@pullout,px);

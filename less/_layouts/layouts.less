@@ -6,7 +6,7 @@
     margin: unit(@layout_gap/@base,rem);
 }
 
-@media screen and (min-width:unit((@layout_narrow + @layout_gap),px)) {
+@media screen and (min-width:unit(((@layout_narrow + @layout_gap)/@base),rem)) {
     .layout--column {
         margin: unit(@lineheight,px) auto;
         margin: unit(@lineheight/@base,rem) auto;
@@ -42,7 +42,7 @@
 
 
 
-@media screen and (min-width:unit(@layout_medium,px)) {
+@media screen and (min-width:unit((@layout_medium/@base),rem)) {
     .layout--grid {
         
         margin: unit(@lineheight,px) auto;

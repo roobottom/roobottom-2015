@@ -7,7 +7,7 @@ body {
     line-height: @lineheight/@paragraph;
     color: #333;
     
-    @media screen and (min-width:unit((@layout_narrow + @layout_gap),px)) {
+    @media screen and (min-width:unit(((@layout_narrow + @layout_gap)/@base),rem)) {
         font-size: unit(@ls_paragraph,px);
         font-size: unit(@ls_paragraph/@base,rem);
         line-height: @lineheight/@ls_paragraph;
@@ -61,7 +61,7 @@ h4, h5, h6,
   text-transform: uppercase;
 }
 
-@media screen and (min-width:unit((@layout_narrow + @layout_gap),px)) {
+@media screen and (min-width:unit(((@layout_narrow + @layout_gap)/@base),rem)) {
     h1, .h1 {
       font-size: 43px;
       font-size: unit(43/@base,rem);

@@ -3,12 +3,28 @@ layout: default
 ---
 <section class="layout--column">
     
-    <h1 class="u-centre">{{ page.title }}</h1>
-    <ul class="quicklinks pull--both u-centre repel--3">
+    <h1 class="u-centre repel--1">{{ page.title }}</h1>
+    {% include _components/year-summary.html year=page.year %}
+    <ol class="calendar pull--both">
     {% for post in site.posts %}
         {% capture post_year %}{{ post.date | date: '%Y' }}{% endcapture %}
         {% if post_year == page.year %}
-                <li><a href="{{ site.baseurl }}{{ post.url }}" class="link-{{ post.categories[0] }}">{{ post.title }}</a> <time>{{ post.date | date: "%a, %b %e" }}</time></li>       
+                
+                {% case post.categories[0] %}
+                    {% when 'notes' %}
+                        {% assign currentImage = post.images[0] %}
+                    {% when 'diary' %}
+                        {% assign currentImage = post.images[0].image %}
+                    {% when 'gallery' %}
+                        {% assign currentImage = post.images[0].image %}
+                {% endcase %}
+                
+                <li class="item-{{ post.categories[0] }}" style="background-image:url('{{ site.roobottom_assets }}/{{ post.categories[0]}}/small/{{ currentImage }}')">
+                    <a href="{{ site.baseurl }}{{ post.url }}">
+                        <span class="calendar-title">{{ post.title }}</span>
+                        <time class="calendar-date">{{ post.date | date: "%a, %b %e" }}</time>
+                    </a>
+                </li>       
         {% endif %}
     {% endfor %}
     </ul>

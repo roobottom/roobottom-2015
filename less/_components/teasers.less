@@ -2,10 +2,13 @@
     box-sizing: border-box;
     overflow: hidden;
     padding: 0 unit(@lineheight/@base,rem);
-    margin-bottom: unit(@lineheight/@base,rem);
     background-color: white;
     margin-left: unit(-1 * @layout_gap/@base,rem);
     margin-right: unit(-1 * @layout_gap/@base,rem);
+    
+    h1, h2 {
+        margin-bottom: 0;
+    }
     
     figure {
         margin-left: unit(-1 * @lineheight/@base,rem);
@@ -59,6 +62,7 @@
         //box-shadow: 0 1px 3px fade(black,10%);
         margin-left: unit(@lineheight/2/@base,rem);
         margin-right: unit(@lineheight/2/@base,rem);
+        margin-bottom: unit(@lineheight/@base,rem);
     }
       
 }

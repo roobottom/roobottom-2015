@@ -17,7 +17,7 @@ title: Archives
                 </ul>
             {% endif %}
                 <h2 class="u-centre repel--1">{{ post.date | date: '%Y' }}</h2>
-                {% include_relative year-summary.html year=this_year %}
+                {% include _components/year-summary.html year=this_year %}
                 <ul class="quicklinks pull--both u-centre repel--3">
         {% endif %}
         

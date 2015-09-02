@@ -47,7 +47,7 @@
   
   >ul, >ol {
       list-style-position: inside;
-      @media screen and (min-width:unit((@layout_narrow + @layout_gap*6),px)) {
+      @media screen and (min-width:unit(((@layout_narrow + @layout_gap*6)/@base),rem)) {
         list-style-position: outside;
       }
   }

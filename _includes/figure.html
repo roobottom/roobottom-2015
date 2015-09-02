@@ -6,12 +6,12 @@
 {% endfor %}
 
 <figure class="{{ include.class }}">
-    {% if include.size %}
-            {% assign size = include.size %}
+    {% if include.image_size %}
+            {% assign image_size = include.image_size %}
         {% else %}
-            {% assign size = "large" %}
+            {% assign image_size = "large" %}
         {% endif %}
-    <img src="{{ site.roobottom_assets }}/{{ page.categories[0] }}/{{ size }}/{{ image }}"/>
+    <img src="{{ site.roobottom_assets }}/{{ page.categories[0] }}/{{ image_size }}/{{ image }}"/>
     {% if caption and caption != "" %}
         <figcaption>{{ caption }}</figcaption>  
     {% endif %}
