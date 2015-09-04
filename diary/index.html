@@ -45,7 +45,7 @@ categories:
                 {% assign titleWords = post.title | split:&nbsp; %}
                 {% capture cleanTitle %}{% for word in titleWords %}{% if forloop.last %}&nbsp;{% else %} {% endif %}{{ word }}{% endfor %}{% endcapture %}
                 <h2 class="h3"><a href="{{ site.baseurl }}{{ post.url }}">{{ cleanTitle }}</a></h2>
-                <p class="u-meta"><time>{{ post.date | date: "%A, %B %e %Y" }}</time></p>
+                <p class="u-meta"><time>{{ post.date | date: "%A, %e %B %Y" }}</time></p>
             </article>
         </div>
 

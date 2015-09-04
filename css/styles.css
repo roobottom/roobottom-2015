@@ -538,43 +538,42 @@ body.style-guide .s-meta:before {
       -ms-flex-wrap: wrap;
           flex-wrap: wrap;
 }
-.calendar li {
-  background-size: cover;
-  background-repeat: no-repeat;
-  -webkit-box-flex: 1;
-  -webkit-flex: 1;
-      -ms-flex: 1;
-          flex: 1;
-  margin: 0.5rem;
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: -ms-flexbox;
-  display: flex;
-  min-width: 200px;
+.calendar .item-diary {
+  background-color: #008eef;
+  border: 5px solid #008eef;
+}
+.calendar .item-notes {
+  background-color: #ecb538;
+  border: 5px solid #ecb538;
+}
+.calendar .item-gallery {
+  background-color: #ff0033;
+  border: 5px solid #ff0033;
 }
 .calendar a {
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-  -webkit-box-orient: vertical;
+  -webkit-box-orient: horizontal;
   -webkit-box-direction: normal;
-  -webkit-flex-direction: column;
-      -ms-flex-direction: column;
-          flex-direction: column;
+  -webkit-flex-direction: row;
+      -ms-flex-direction: row;
+          flex-direction: row;
   -webkit-box-pack: justify;
   -webkit-justify-content: space-between;
       -ms-flex-pack: justify;
           justify-content: space-between;
   position: relative;
-  background-color: rgba(255, 0, 0, 0.4);
   box-sizing: border-box;
-  padding: 0.5rem;
   color: white;
-}
-.calendar .calendar-title,
-.calendar .calendar-time {
-  display: block;
+  -webkit-box-flex: 1;
+  -webkit-flex: auto;
+      -ms-flex: auto;
+          flex: auto;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 300px;
 }
 .teaser {
   box-sizing: border-box;

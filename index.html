@@ -15,7 +15,7 @@ title: Home
                     </a>
                 </figure>
                 <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
-                <p class="u-meta"><time>{{ post.date | date date: "%A, %B %e %Y" }}</time></p>
+                <p class="u-meta"><time>{{ post.date | date date: "%A, %e %B %Y" }}</time></p>
                 {{ post.excerpt }}
             </article>
         {% endfor %}
@@ -33,7 +33,7 @@ title: Home
                     </a>
                 </figure>
                 <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
-                <p class="u-meta"><time>{{ post.date | date date: "%A, %B %e %Y" }}</time></p>
+                <p class="u-meta"><time>{{ post.date | date date: "%A, %e %B %Y" }}</time></p>
             </article>
             
         {% endfor %}
@@ -59,7 +59,7 @@ title: Home
                     <div class="u-figure-count">{{ post.images | size }} images</div>
                 </figure>
                 <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
-                <p class="u-meta"><time>{{ post.date | date date: "%A, %B %e %Y" }}</time></p>
+                <p class="u-meta"><time>{{ post.date | date date: "%A, %e %B %Y" }}</time></p>
             </article>
             
         {% endfor %}

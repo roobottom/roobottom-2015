@@ -9,8 +9,7 @@ As there's a bit more going on here than just a simple Jekyll site hosted on Git
 
 To build the site locally:
 
-`cd /Users/roobottom/git/roobottom.com`
-`jekyll build --config _dev.yml --watch`
+`jekyll build --watch --limit_posts 6 --config _config.yml,_config_local.yml`
 
 To process the site, read for deplyoment:
 

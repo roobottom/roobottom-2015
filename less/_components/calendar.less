@@ -3,31 +3,32 @@
     display: flex;
     flex-wrap: wrap; 
     
-    li {
-        background-size: cover;
-        background-repeat: no-repeat;
-        flex: 1;
-        margin: unit(@lineheight/4/@base,rem);
-        display: flex;
-        min-width: 200px;
+    .item-diary {
+        background-color: @blue;
+        border: 5px solid @blue;
+    }
+    .item-notes {
+        background-color: @yellow;
+        border: 5px solid @yellow;
+    }
+    .item-gallery {
+        background-color: @red;
+        border: 5px solid @red;
     }
     
     a {
         display: flex;
-        flex-direction: column;
+        flex-direction: row;
         justify-content: space-between;
         position: relative;
-        background-color: fade(red,40%);
         box-sizing: border-box;
-        padding: unit(@lineheight/4/@base,rem);
         color: white;
+        flex: auto;
+        background-repeat: no-repeat;
+        background-size: cover;
+        min-height: 300px;
     }
     
-    .calendar-title,
-    .calendar-time {
-        display: block;
-    }
     
-
     
 }

@@ -5,7 +5,7 @@ layout: default
     
     <h1 class="u-centre repel--1">{{ page.title }}</h1>
     {% include _components/year-summary.html year=page.year %}
-    <ol class="calendar pull--both">
+    <div class="calendar pull--both">
     {% for post in site.posts %}
         {% capture post_year %}{{ post.date | date: '%Y' }}{% endcapture %}
         {% if post_year == page.year %}
@@ -13,19 +13,20 @@ layout: default
                 {% case post.categories[0] %}
                     {% when 'notes' %}
                         {% assign currentImage = post.images[0] %}
+                        {% assign currentSize = 'thumbnail' %}
                     {% when 'diary' %}
                         {% assign currentImage = post.images[0].image %}
+                        {% assign currentSize = 'small' %}
                     {% when 'gallery' %}
                         {% assign currentImage = post.images[0].image %}
+                        {% assign currentSize = 'small' %}
                 {% endcase %}
                 
-                <li class="item-{{ post.categories[0] }}" style="background-image:url('{{ site.roobottom_assets }}/{{ post.categories[0]}}/small/{{ currentImage }}')">
-                    <a href="{{ site.baseurl }}{{ post.url }}">
-                        <span class="calendar-title">{{ post.title }}</span>
-                        <time class="calendar-date">{{ post.date | date: "%a, %b %e" }}</time>
-                    </a>
-                </li>       
+                <a href="{{ site.baseurl }}{{ post.url }}" class="item-{{ post.categories[0] }}" style="background-image: url({{ site.roobottom_assets }}/{{ post.categories[0]}}/{{ currentSize }}/{{ currentImage }})">
+                    <span class="calendar-title">{{ post.title }}</span>
+                    <time class="calendar-date">{{ post.date | date: "%a, %b %e" }}</time>
+                </a>      
         {% endif %}
     {% endfor %}
-    </ul>
+    </div>
 </section>
