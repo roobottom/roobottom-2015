@@ -901,6 +901,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/diary\/old-hobbies-die-hard\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/diary\/old-hobbies-die-hard\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/gallery\/ann-and-bills-bbq\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -977,15 +986,6 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/notes\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/_site\/notes\/note-128\/index.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/notes\/note-128\/index.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -4420,6 +4420,27 @@
 		"inputAbbreviatedPath": "\/diary\/_posts\/2015-08-28-jekyll-archives-without-plugins.md",
 		"maskEmailAddresses": 1,
 		"outputAbbreviatedPath": "\/diary\/_posts\/2015-08-28-jekyll-archives-without-plugins.html",
+		"outputFormat": 0,
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"parseMetadata": 1,
+		"processHTML": 0,
+		"randomFootnoteNumbers": 0,
+		"useCompatibilityMode": 0
+		},
+	"\/diary\/_posts\/2015-09-05-old-hobbies-die-hard.md": {
+		"criticStyle": 0,
+		"enableFootnotes": 1,
+		"enableLabels": 1,
+		"enableSmartQuotes": 1,
+		"escapeLineBreaks": 0,
+		"fileType": 4096,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/diary\/_posts\/2015-09-05-old-hobbies-die-hard.md",
+		"maskEmailAddresses": 1,
+		"outputAbbreviatedPath": "\/diary\/_posts\/2015-09-05-old-hobbies-die-hard.html",
 		"outputFormat": 0,
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
