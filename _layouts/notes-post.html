@@ -12,8 +12,11 @@ layout: default
             <div class="gallery pull--extended" data-max-items="3">
                 <ol class="gallery-row">
                     {% for image in page.images %}
-                    {% capture fullImagePath %}{{ site.roobottom_assets }}/notes/medium/{{ image }}{% endcapture %}
-                    
+                    {% if forloop.last %}
+                        {% capture fullImagePath %}{{ site.roobottom_assets }}/notes/large/{{ image }}{% endcapture %}
+                    {% else %}
+                        {% capture fullImagePath %}{{ site.roobottom_assets }}/notes/medium/{{ image }}{% endcapture %}
+                    {% endif %}
                     {% for exif in site.data.notes %}
                         {% if exif.SourceFile == image %}
                             {% capture width %}{{ exif.ImageWidth }}{% endcapture %}

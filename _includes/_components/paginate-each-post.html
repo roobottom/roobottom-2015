@@ -2,18 +2,83 @@
 
 <ul class="pagination">  
     {% for post in site.categories[category] %}
-        {% if post.title == page.title %}
-            {% assign nextIndex = forloop.index0 | plus: 1 %}
-            {% assign prevIndex = forloop.index0 | minus: 1 %}
+        {% assign postDate = post.date | date: '%s' %}
+        {% assign pageDate = page.date | date: '%s' %}
+        {% if postDate == pageDate %}
+            {% assign nextIndex = forloop.index0 | minus: 1 %}
+            {% assign prevIndex = forloop.index0 | plus: 1 %}
+            {% assign prev = site.categories.[category][prevIndex]  %}
+            {% assign next = site.categories.[category][nextIndex] %}
+            
+            {% assign nextDate = site.categories.[category][nextIndex].date | date: '%s'  %}
+            {% assign prevDate = site.categories.[category][prevIndex].date | date: '%s'  %}
+            {% assign nowDate = page.date | date: '%s' %}
+            
+            {% assign nextDateDiff = nextDate | minus: nowDate | divided_by: 86400 %}
+            {% assign prevDateDiff = nowDate | minus: prevDate | divided_by: 86400 %}
+            
+            {% capture nextDateText %}
+                {% if nextDateDiff >= 365 %}
+                    {% assign yearDiff = nextDateDiff | divided_by: 365 | round %}
+                    {% assign yearReminder = nextDateDiff | modulo: 365 | divided_by: 30 | round %}
+                    {{ yearDiff }} year{% if  yearDiff > 1 %}s{% endif %}{% if yearReminder != 0 %} and {{ yearReminder }} month{%if yearReminder > 1 %}s{% endif %}{% endif %} later
+                {% elsif nextDateDiff >= 30 %}
+                    {% assign monthDiff = nextDateDiff | divided_by: 30 | round %}
+                    {% if  monthDiff > 1 %}
+                        {{ monthDiff }} months later
+                    {% else %}
+                        a month later
+                    {% endif %}
+                {% elsif nextDateDiff >= 7 %}
+                    {% assign weekDiff = nextDateDiff | divided_by: 7 | round %}
+                    {% if  weekDiff > 1 %}
+                        {{ weekDiff }} weeks later
+                    {% else %}
+                        a week later
+                    {% endif %}
+                {% elsif nextDateDiff > 1 %}
+                    {{ nextDateDiff }} days later
+                {% elsif nextDateDiff == 1 %}
+                    1 day later  
+                {% else %}
+                    On the same day
+                {% endif %}
+            {% endcapture %}
+            
+            {% capture prevDateText %}
+                {% if prevDateDiff >= 365 %}
+                    {% assign yearDiff = prevDateDiff | divided_by: 365 | round %}
+                    {% assign yearReminder = prevDateDiff | modulo: 365 | divided_by: 30 | round %}
+                    {{ yearDiff }} year{% if  yearDiff > 1 %}s{% endif %}{% if yearReminder != 0 %} and {{ yearReminder }} month{%if yearReminder > 1 %}s{% endif %}{% endif %} previously
+                {% elsif prevDateDiff >= 30 %}
+                    {% assign monthDiff = prevDateDiff | divided_by: 30 | round %}
+                    {% if  monthDiff > 1 %}
+                        {{ monthDiff }} months previously
+                    {% else %}
+                        a month previously
+                    {% endif %}
+                {% elsif prevDateDiff >= 7 %}
+                    {% assign weekDiff = prevDateDiff | divided_by: 7 | round %}
+                    {% if  weekDiff > 1 %}
+                        {{ weekDiff }} weeks previously
+                    {% else %}
+                        a week previously
+                    {% endif %}
+                {% elsif prevDateDiff > 1 %}
+                    {{ prevDateDiff }} days previously
+                {% elsif prevDateDiff == 1 %}
+                    1 day previously  
+                {% else %}
+                    On the same day
+                {% endif %}
+            {% endcapture %}
             
             
             {% unless forloop.last %}
-                {% assign next = site.categories.[category][nextIndex] %}
-                <li class="pagination-previous"><span class="pagination-label">&lArr; {{ include.prevTitle }}</span><a href="{{ site.baseurl }}{{ next.url }}">{{ next.title }}</a></li>
+                <li class="pagination-previous"><span class="pagination-label">&lArr; {{ include.prevTitle }}</span><a href="{{ site.baseurl }}{{ prev.url }}">{{ prev.title }}</a><span class="pagination-meta">{{ prevDateText }}</span></li>
             {% endunless %}
             {% unless forloop.first %}
-                {% assign prev = site.categories.[category][prevIndex]  %}
-                <li class="pagination-next"><span class="pagination-label">{{ include.nextTitle }} &rArr;</span><a href="{{ site.baseurl }}{{ prev.url }}">{{ prev.title }}</a></li>
+                <li class="pagination-next"><span class="pagination-label">{{ include.nextTitle }} &rArr;</span><a href="{{ site.baseurl }}{{ next.url }}">{{ next.title }}</a><span class="pagination-meta">{{ nextDateText }}</span></li>
             {% endunless %}
         {% endif %}
     {% endfor %}

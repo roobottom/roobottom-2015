@@ -635,12 +635,16 @@ body.style-guide .s-meta:before {
 }
 .pagination li,
 .pagination .pagination-label,
+.pagination .pagination-meta,
 .pagination a {
   display: block;
 }
 .pagination .pagination-next {
   text-align: right;
   margin-left: auto;
+}
+.pagination .pagination-meta {
+  color: #cccccc;
 }
 @media screen and (min-width: 45rem) {
   .pagination {

@@ -1,5 +1,5 @@
 ---
-title: Christmas Party
+title: Onalytica Christmas Party
 cover: 4182159165_1a25a603b2_o.jpg
 section: gallery
 images:
