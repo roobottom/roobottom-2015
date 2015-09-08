@@ -1404,12 +1404,6 @@ body.style-guide .s-meta:before {
 .timeline .timeline-item-notes .timeline-image {
   border-color: #ecb538;
 }
-.timeline a {
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: -ms-flexbox;
-  display: flex;
-}
 .u-quiet {
   color: #cccccc;
   font-size: 90%;
