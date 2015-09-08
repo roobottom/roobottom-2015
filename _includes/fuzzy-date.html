@@ -1,10 +1,10 @@
 {% if include.daysDiff >= 365 %}
     {% assign yearDiff = include.daysDiff | divided_by: 365 | round %}
-    {% assign yearReminder = include.daysDiff | modulo: 365 | divided_by: 30 | round %}
-    {% if yearReminder != 0 %}
-        {% if yearReminder > 10 %}
+    {% assign yearRemainder = include.daysDiff | modulo: 365 | divided_by: 30 | round %}
+    {% if yearRemainder != 0 %}
+        {% if yearRemainder > 10 %}
             Almost {{ yearDiff + 1 }} year{% if  yearDiff > 1 %}s{% endif %} {{ include.label }}
-        {% elsif yearReminder >= 6 %}
+        {% elsif yearRemainder >= 6 %}
             {% if yearDiff == 1 %}
                 A year and a half {{ include.label }}
             {% else %}
