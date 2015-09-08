@@ -1374,6 +1374,42 @@ body.style-guide .s-meta:before {
   background-color: #ecb538;
   border-color: #dc9f15;
 }
+.timeline {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  text-align: center;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+.timeline .timeline-image {
+  display: block;
+  border: 6px solid #cccccc;
+  border-radius: 50%;
+  padding: 2px;
+  max-width: 5rem;
+}
+.timeline .timeline-item-diary .timeline-image {
+  border-color: #008eef;
+  max-width: 8.75rem;
+}
+.timeline .timeline-item-gallery .timeline-image {
+  border-color: #ff0033;
+  max-width: 8.75rem;
+}
+.timeline .timeline-item-notes .timeline-image {
+  border-color: #ecb538;
+}
+.timeline a {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
 .u-quiet {
   color: #cccccc;
   font-size: 90%;

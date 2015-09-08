@@ -18,26 +18,37 @@ layout: default
                         {% assign currentSize = 'thumbnail' %}
                     {% when 'diary' %}
                         {% assign currentImage = post.images[0].image %}
-                        {% assign currentSize = 'small' %}
+                        {% assign currentSize = 'square' %}
                     {% when 'gallery' %}
                         {% assign currentImage = post.images[0].image %}
-                        {% assign currentSize = 'small' %}
+                        {% assign currentSize = 'square' %}
                 {% endcase %}
                 
                 
-                {% if this_year != next_year or forloop.index == 1 %}
+                {% if this_month != next_month or forloop.index == 1 %}
                     {% if forloop.index != 1 %}
                         </ol>
                     {% endif %}
-                        <h2 class="u-centre repel--1">{{ post.date | date: '%M' }}</h2>
+                        <h2 class="u-centre repel--1">{{ post.date | date: '%B' }}</h2>
                         {% include _components/year-summary.html year=this_year %}
                          <ol class="timeline pull--both">
                 {% endif %}
                 
-                <li>
+                <li class="timeline-item timeline-item-{{ post.categories[0] }}">
                 <a href="{{ site.baseurl }}{{ post.url }}" class="item-{{ post.categories[0] }}">
-                    <span class="timeline-title">{{ post.title }}</span>
-                    <time class="timeline-date">{{ post.date | date: "%a, %b %e" }}</time>
+                    <img src="{{ site.roobottom_assets }}/{{ post.categories[0] }}/{{ currentSize }}/{{ currentImage }}" class="timeline-image" />
+                    <div class="timeline-meta">
+                        <span class="timeline-title">{{ post.title }}</span>
+                        <time class="timeline-date">{{ post.date | date: "%a, %b %e" }}</time>
+                        {% if forloop.last == false %}
+                        
+                        {% assign prevDate = post.previous.date | date: '%s'  %}
+                        {% assign nowDate = post.date | date: '%s' %}
+                        {% assign prevDateDiff = nowDate | minus: prevDate | divided_by: 86400 %}
+                        
+                        <span class="timeline-date-relative">{% include fuzzy-date.html daysDiff=prevDateDiff label="before" %}</span>
+                        {% endif %}
+                    </div>
                 </a>
                 </li>
                 

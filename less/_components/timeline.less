@@ -1,0 +1,39 @@
+.timeline {
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    
+    .timeline-image {
+        display: block;
+        border: 6px solid @grey;
+        border-radius: 50%;
+        padding: 2px;
+        max-width: 80rem/@base;
+    }
+    
+    .timeline-item-diary {
+        .timeline-image {
+            border-color: @blue;
+            max-width: 140rem/@base;
+        }
+    }
+    
+    .timeline-item-gallery {
+        .timeline-image {
+            border-color: @red;
+            max-width: 140rem/@base;
+        }
+    }
+    
+    .timeline-item-notes {
+        .timeline-image {
+            border-color: @yellow;
+        }
+    }
+    
+    
+    a {
+        display: flex;
+    }
+    
+}
