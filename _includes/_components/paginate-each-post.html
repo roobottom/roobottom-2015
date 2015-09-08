@@ -18,59 +18,11 @@
             {% assign prevDateDiff = nowDate | minus: prevDate | divided_by: 86400 %}
             
             {% capture nextDateText %}
-                {% if nextDateDiff >= 365 %}
-                    {% assign yearDiff = nextDateDiff | divided_by: 365 | round %}
-                    {% assign yearReminder = nextDateDiff | modulo: 365 | divided_by: 30 | round %}
-                    {{ yearDiff }} year{% if  yearDiff > 1 %}s{% endif %}{% if yearReminder != 0 %} and {{ yearReminder }} month{%if yearReminder > 1 %}s{% endif %}{% endif %} later
-                {% elsif nextDateDiff >= 30 %}
-                    {% assign monthDiff = nextDateDiff | divided_by: 30 | round %}
-                    {% if  monthDiff > 1 %}
-                        {{ monthDiff }} months later
-                    {% else %}
-                        a month later
-                    {% endif %}
-                {% elsif nextDateDiff >= 7 %}
-                    {% assign weekDiff = nextDateDiff | divided_by: 7 | round %}
-                    {% if  weekDiff > 1 %}
-                        {{ weekDiff }} weeks later
-                    {% else %}
-                        a week later
-                    {% endif %}
-                {% elsif nextDateDiff > 1 %}
-                    {{ nextDateDiff }} days later
-                {% elsif nextDateDiff == 1 %}
-                    a day later  
-                {% else %}
-                    On the same day
-                {% endif %}
+                {% include fuzzy-date.html daysDiff=nextDateDiff label='later' %}
             {% endcapture %}
             
             {% capture prevDateText %}
-                {% if prevDateDiff >= 365 %}
-                    {% assign yearDiff = prevDateDiff | divided_by: 365 | round %}
-                    {% assign yearReminder = prevDateDiff | modulo: 365 | divided_by: 30 | round %}
-                    {{ yearDiff }} year{% if  yearDiff > 1 %}s{% endif %}{% if yearReminder != 0 %} and {{ yearReminder }} month{%if yearReminder > 1 %}s{% endif %}{% endif %} previously
-                {% elsif prevDateDiff >= 30 %}
-                    {% assign monthDiff = prevDateDiff | divided_by: 30 | round %}
-                    {% if  monthDiff > 1 %}
-                        {{ monthDiff }} months previously
-                    {% else %}
-                        a month previously
-                    {% endif %}
-                {% elsif prevDateDiff >= 7 %}
-                    {% assign weekDiff = prevDateDiff | divided_by: 7 | round %}
-                    {% if  weekDiff > 1 %}
-                        {{ weekDiff }} weeks previously
-                    {% else %}
-                        a week previously
-                    {% endif %}
-                {% elsif prevDateDiff > 1 %}
-                    {{ prevDateDiff }} days previously
-                {% elsif prevDateDiff == 1 %}
-                    a day previously  
-                {% else %}
-                    On the same day
-                {% endif %}
+                {% include fuzzy-date.html daysDiff=prevDateDiff label='previously' %}
             {% endcapture %}
             
             

@@ -1,0 +1,43 @@
+{% if include.daysDiff >= 365 %}
+    {% assign yearDiff = include.daysDiff | divided_by: 365 | round %}
+    {% assign yearReminder = include.daysDiff | modulo: 365 | divided_by: 30 | round %}
+    {% if yearReminder != 0 %}
+        {% if yearReminder > 10 %}
+            Almost {{ yearDiff + 1 }} year{% if  yearDiff > 1 %}s{% endif %} {{ include.label }}
+        {% elsif yearReminder >= 6 %}
+            {% if yearDiff == 1 %}
+                A year and a half {{ include.label }}
+            {% else %}
+                {{ yearDiff }} and a half years {{ include.label }}
+            {% endif %}
+        {% else %}
+            {% if yearDiff == 1 %}
+                Just over a year {{ include.label }}
+            {% else %}
+                Just over {{ yearDiff }} years {{ include.label }}
+            {% endif %}
+        {% endif %}
+    {% else %}
+        {{ yearDiff }} year{% if  yearDiff > 1 %}s{% endif %} {{ include.label }}
+    {% endif %}
+{% elsif include.daysDiff >= 30 %}
+    {% assign monthDiff = include.daysDiff | divided_by: 30 | round %}
+    {% if  monthDiff > 1 %}
+        {{ monthDiff }} months {{ include.label }}
+    {% else %}
+        A month {{ include.label }}
+    {% endif %}
+{% elsif include.daysDiff >= 7 %}
+    {% assign weekDiff = include.daysDiff | divided_by: 7 | round %}
+    {% if  weekDiff > 1 %}
+        {{ weekDiff }} weeks {{ include.label }}
+    {% else %}
+        A week {{ include.label }}
+    {% endif %}
+{% elsif include.daysDiff > 1 %}
+    {{ include.daysDiff }} days {{ include.label }}
+{% elsif include.daysDiff == 1 %}
+    A day {{ include.label }}  
+{% else %}
+    On the same day
+{% endif %}

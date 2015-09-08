@@ -5,10 +5,12 @@ layout: default
     
     <h1 class="u-centre repel--1">{{ page.title }}</h1>
     {% include _components/year-summary.html year=page.year %}
-    <div class="calendar pull--both">
     {% for post in site.posts %}
         {% capture post_year %}{{ post.date | date: '%Y' }}{% endcapture %}
         {% if post_year == page.year %}
+        
+            {% capture this_month %}{{ post.date | date: '%m' }}{% endcapture %}
+            {% capture next_month %}{{ post.next.date | date: '%m' }}{% endcapture %}
                 
                 {% case post.categories[0] %}
                     {% when 'notes' %}
@@ -22,11 +24,29 @@ layout: default
                         {% assign currentSize = 'small' %}
                 {% endcase %}
                 
-                <a href="{{ site.baseurl }}{{ post.url }}" class="item-{{ post.categories[0] }}" style="background-image: url({{ site.roobottom_assets }}/{{ post.categories[0]}}/{{ currentSize }}/{{ currentImage }})">
-                    <span class="calendar-title">{{ post.title }}</span>
-                    <time class="calendar-date">{{ post.date | date: "%a, %b %e" }}</time>
-                </a>      
+                
+                {% if this_year != next_year or forloop.index == 1 %}
+                    {% if forloop.index != 1 %}
+                        </ol>
+                    {% endif %}
+                        <h2 class="u-centre repel--1">{{ post.date | date: '%M' }}</h2>
+                        {% include _components/year-summary.html year=this_year %}
+                         <ol class="timeline pull--both">
+                {% endif %}
+                
+                <li>
+                <a href="{{ site.baseurl }}{{ post.url }}" class="item-{{ post.categories[0] }}">
+                    <span class="timeline-title">{{ post.title }}</span>
+                    <time class="timeline-date">{{ post.date | date: "%a, %b %e" }}</time>
+                </a>
+                </li>
+                
+                {% if forloop.last %}
+                </ol>
+                {% endif %}
+                
+                      
         {% endif %}
     {% endfor %}
-    </div>
+
 </section>

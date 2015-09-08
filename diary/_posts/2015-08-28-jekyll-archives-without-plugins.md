@@ -54,7 +54,7 @@ layout: archive-year
 
 Don't forget the quotation marks, the reason for them will shortly become apparent. 
 
-{% include figure.html set="folders" class="u-boxout push--left" image_size="small" %}
+{% include figure.html set="folders" class="u-boxout pull--left" image_size="small" %}
 
 Here's a simplified view of my local folder setup showing all the markdown files for each year in the `_archives` collection. 
 
