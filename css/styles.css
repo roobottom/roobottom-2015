@@ -1388,6 +1388,20 @@ body.style-guide .s-meta:before {
   bottom: 0;
   border-right: 1px dashed #cccccc;
 }
+.timeline li:first-child:after {
+  content: "";
+  position: absolute;
+  top: -0.3125rem;
+  margin-left: -0.3125rem;
+  left: 50%;
+  width: 0.6875rem;
+  height: 0.6875rem;
+  border-radius: 1.25rem;
+  background-color: #cccccc;
+}
+.timeline .timeline-item-n-1:after {
+  display: none;
+}
 .timeline .timeline-date-relative {
   position: relative;
   background: #f0f0f0;

@@ -16,6 +16,22 @@
             border-right: 1px dashed @grey;
         }
         
+        &:first-child:after {
+            content: "";
+            position: absolute;
+            top: -5rem/@base;
+            margin-left: -5rem/@base;
+            left: 50%;
+            width: 11rem/@base;
+            height: 11rem/@base;
+            border-radius: 20rem/@base;
+            background-color: @grey;
+        }
+        
+    }
+    
+    .timeline-item-n-1:after {
+        display: none;
     }
     
     .timeline-date-relative {

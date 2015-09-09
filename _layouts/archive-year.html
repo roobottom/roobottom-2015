@@ -35,7 +35,7 @@ layout: default
                     {% endif %}
                         <h2 class="u-centre repel--1">{{ post.date | date: '%B' }}</h2>
                         {% include _components/year-summary.html year=this_year %}
-                         <ol class="timeline pull--both">
+                         <ol class="timeline">
                 {% endif %}
                 
                 {% if postCount > 1 %}
@@ -51,7 +51,7 @@ layout: default
                     {% assign topPadding = 0 %}
                 {% endif %}
                 
-                <li class="timeline-item timeline-item-{{ post.categories[0] }}" style="padding-top: {{ topPadding }}px">
+                <li class="timeline-item timeline-item-{{ post.categories[0] }} timeline-item-n-{{ postCount }}" style="padding-top: {{ topPadding }}px">
                     {% if postCount > 1 %}
                         <div class="timeline-date-relative">{% include fuzzy-date.html daysDiff=nextDateDiff label="earlier" %}</div>
                     {% endif %}
