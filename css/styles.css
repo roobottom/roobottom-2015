@@ -1374,35 +1374,67 @@ body.style-guide .s-meta:before {
   background-color: #ecb538;
   border-color: #dc9f15;
 }
-.timeline {
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: -ms-flexbox;
-  display: flex;
+.timeline li {
+  position: relative;
   text-align: center;
-  -webkit-box-orient: vertical;
-  -webkit-box-direction: normal;
-  -webkit-flex-direction: column;
-      -ms-flex-direction: column;
-          flex-direction: column;
+}
+.timeline li:before {
+  content: "";
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 50%;
+  bottom: 0;
+  border-right: 1px dashed #cccccc;
+}
+.timeline .timeline-date-relative {
+  position: relative;
+  background: #f0f0f0;
+  font-size: 70%;
+  padding: 0.5rem 1rem;
+  border-radius: 2.5rem;
+  display: inline-block;
+  margin-bottom: 1rem;
+}
+.timeline a {
+  position: relative;
 }
 .timeline .timeline-image {
   display: block;
   border: 6px solid #cccccc;
   border-radius: 50%;
   padding: 2px;
+  background-color: white;
   max-width: 5rem;
+  margin: 0 auto;
 }
 .timeline .timeline-item-diary .timeline-image {
   border-color: #008eef;
+  border-width: 22px;
   max-width: 8.75rem;
 }
 .timeline .timeline-item-gallery .timeline-image {
   border-color: #ff0033;
+  border-width: 22px;
   max-width: 8.75rem;
 }
 .timeline .timeline-item-notes .timeline-image {
   border-color: #ecb538;
+}
+.timeline .timeline-meta {
+  background-color: white;
+}
+.timeline .timeline-meta > * {
+  display: block;
+}
+.timeline h2.timeline-title {
+  margin-top: 0;
+  padding-top: 1rem;
+}
+.timeline .timeline-date {
+  color: #cccccc;
+  font-size: 80%;
 }
 .u-quiet {
   color: #cccccc;

@@ -2,15 +2,19 @@
 layout: default
 ---
 <section class="layout--column">
-    
-    <h1 class="u-centre repel--1">{{ page.title }}</h1>
+    <div class="s-prose">
+        {% include _components/breadcrumb.html section='archives' %}
+        <h1 class="u-centre repel--1 pull--extended">{{ page.title }}</h1>
+    </div>
     {% include _components/year-summary.html year=page.year %}
+    {% assign postCount = 0 %}
     {% for post in site.posts %}
         {% capture post_year %}{{ post.date | date: '%Y' }}{% endcapture %}
         {% if post_year == page.year %}
         
             {% capture this_month %}{{ post.date | date: '%m' }}{% endcapture %}
             {% capture next_month %}{{ post.next.date | date: '%m' }}{% endcapture %}
+            {% assign postCount = postCount | plus: 1 %}
                 
                 {% case post.categories[0] %}
                     {% when 'notes' %}
@@ -34,22 +38,34 @@ layout: default
                          <ol class="timeline pull--both">
                 {% endif %}
                 
-                <li class="timeline-item timeline-item-{{ post.categories[0] }}">
-                <a href="{{ site.baseurl }}{{ post.url }}" class="item-{{ post.categories[0] }}">
-                    <img src="{{ site.roobottom_assets }}/{{ post.categories[0] }}/{{ currentSize }}/{{ currentImage }}" class="timeline-image" />
-                    <div class="timeline-meta">
-                        <span class="timeline-title">{{ post.title }}</span>
-                        <time class="timeline-date">{{ post.date | date: "%a, %b %e" }}</time>
-                        {% if forloop.last == false %}
+                {% if postCount > 1 %}
                         
-                        {% assign prevDate = post.previous.date | date: '%s'  %}
-                        {% assign nowDate = post.date | date: '%s' %}
-                        {% assign prevDateDiff = nowDate | minus: prevDate | divided_by: 86400 %}
-                        
-                        <span class="timeline-date-relative">{% include fuzzy-date.html daysDiff=prevDateDiff label="before" %}</span>
+                    {% assign nextDate = post.next.date | date: '%s'  %}
+                    {% assign nowDate = post.date | date: '%s' %}
+                    {% assign nextDateDiff = nextDate | minus: nowDate | divided_by: 86400 %}
+                    
+                    {% assign topPadding = nextDateDiff | times: 20 %}
+                    {% if topPadding > 1000 %}{% assign topPadding = 1000 %}{% endif %}
+                    {% if topPadding == 0 %}{% assign topPadding = 10 %}{% endif %}
+                {% else %}
+                    {% assign topPadding = 0 %}
+                {% endif %}
+                
+                <li class="timeline-item timeline-item-{{ post.categories[0] }}" style="padding-top: {{ topPadding }}px">
+                    {% if postCount > 1 %}
+                        <div class="timeline-date-relative">{% include fuzzy-date.html daysDiff=nextDateDiff label="earlier" %}</div>
+                    {% endif %}
+                    <a href="{{ site.baseurl }}{{ post.url }}" class="item-{{ post.categories[0] }}">
+                        {% if currentImage %}
+                            <img src="{{ site.roobottom_assets }}/{{ post.categories[0] }}/{{ currentSize }}/{{ currentImage }}" class="timeline-image" />
+                        {% else %}
+                            <img src="{{ site.baseurl }}/css/images/default.png" class="timeline-image" />
                         {% endif %}
-                    </div>
-                </a>
+                        <div class="timeline-meta">    
+                            <h2 class="timeline-title h3">{{ post.title }}</h2>
+                            <time class="timeline-date">{{ post.date | date: "%a, %e %b" }}</time>
+                        </div>
+                    </a>
                 </li>
                 
                 {% if forloop.last %}

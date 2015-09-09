@@ -1,19 +1,51 @@
 .timeline {
-    display: flex;
-    text-align: center;
-    flex-direction: column;
+
+    
+    li {
+        position: relative;
+        text-align: center;
+        
+        &:before {
+            content: "";
+            display: block;
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 50%;
+            bottom: 0;
+            border-right: 1px dashed @grey;
+        }
+        
+    }
+    
+    .timeline-date-relative {
+        position: relative;
+        background: lighten(@grey,14%);
+        font-size: 70%;
+        padding: unit(@lineheight/4/@base,rem) unit(@lineheight/2/@base,rem);
+        border-radius: 40rem/@base;
+        display: inline-block;
+        margin-bottom: unit(@lineheight/2/@base,rem);
+    }
+    
+    a {
+        position: relative;
+    }
     
     .timeline-image {
         display: block;
         border: 6px solid @grey;
         border-radius: 50%;
         padding: 2px;
+        background-color: white;
         max-width: 80rem/@base;
+        margin: 0 auto;
     }
     
     .timeline-item-diary {
         .timeline-image {
             border-color: @blue;
+            border-width: 22px;
             max-width: 140rem/@base;
         }
     }
@@ -21,6 +53,7 @@
     .timeline-item-gallery {
         .timeline-image {
             border-color: @red;
+            border-width: 22px;
             max-width: 140rem/@base;
         }
     }
@@ -31,9 +64,24 @@
         }
     }
     
-    
-    a {
-        //display: flex;
+    .timeline-meta {
+        >* {
+            display: block;
+        }
+        background-color: white;
     }
+    
+    h2.timeline-title {
+        margin-top: 0;
+        padding-top: unit(@lineheight/2/@base,rem);
+    }
+    
+    .timeline-date {
+        color: @grey;
+        font-size: 80%;
+    }
+    
+    
+    
     
 }
