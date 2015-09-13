@@ -12,9 +12,18 @@ layout: default
             <ol class="gallery-row">
                 {% for image in page.images %}
                     {% capture fullImagePath %}{{ site.roobottom_assets }}/gallery/medium/{{ image.image }}{% endcapture %}
+                    
+                    {% for exif in site.data.gallery %}
+                        {% if exif.SourceFile == image.image %}
+                            {% capture width %}{{ exif.ImageWidth }}{% endcapture %}
+                            {% capture height %}{{ exif.ImageHeight }}{% endcapture %}
+                            {% break %}
+                        {% endif %}
+                    {% endfor %}
+                    
                     <li class="gallery-item">
                         <a href="{{ site.roobottom_assets }}/gallery/large/{{ image.image }}" class="js-lightbox">
-                            <img src="{{ fullImagePath }}" class="gallery-image" data-width="{{ image.width }}" data-height="{{ image.height }}"/>
+                            <img src="{{ fullImagePath }}" class="gallery-image" data-width="{{ width }}" data-height="{{ height }}"/>
                         </a>
                     </li>
                 {% endfor %}

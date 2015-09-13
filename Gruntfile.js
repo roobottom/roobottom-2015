@@ -69,7 +69,7 @@ module.exports = function(grunt) {
 
 	});
 
-	grunt.registerTask('publish', ['responsive_images','shell:writeCSV','shell:jekyll']);
+	grunt.registerTask('publish', ['responsive_images','shell:writeCSV']);
 
 
 };
