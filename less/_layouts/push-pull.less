@@ -1,41 +1,50 @@
 @media screen and (min-width: (700rem/@base)) {
     //push 
     
-    .push--left {
+    .push-left {
         float:left;
-        margin: 0 unit(@lineheight/2,px) 0 0;
-        margin: 0 unit((@lineheight/2)/@base,rem) 0 0;
+        margin-right: unit((@lineheight/2)/@base,rem);
     }
     
-    .push--right {
+    .push-right {
         float:right;
-        margin: 0 0 0 unit(@lineheight/2,px);
-        margin: 0 0 0 unit((@lineheight/2)/@base,rem);
+        margin-left: unit((@lineheight/2)/@base,rem);
     }
     
     //pull
     
     
     
-    .pull--left {
-        margin-left: unit(-1 * @layout_gap,px);
+    .pull-left {
         margin-left: unit(-1 * (@layout_gap/@base),rem);
         float: left;
-        margin-right: unit(@lineheight/2,px);
         margin-right: unit((@lineheight/2)/@base,rem);
     }
     
-    .pull--right {
-       margin-right: unit(-1 * @layout_gap,px);
+    .pull-right {
        margin-right: unit(-1 * (@layout_gap/@base),rem);
        float: right;
-       margin-left: unit(@lineheight/2,px);
        margin-left: unit((@lineheight/2)/@base,rem);
+    }
+    
+    
+    .push-left + *, .pull-left + * {
+        clear: right;
+    }
+    .push-right + *, .pull-right + * {
+        clear: left;
     }
 }
 
-.pull--both,
-.pull--extended {
+.push-left,
+.push-right,
+.pull-left,
+.pull-right {
+    .margin-bottom();
+}
+
+.pull-both,
+.pull-extended {
     margin-left: unit(-1 * @layout_gap,px);
     margin-left: unit(-1 * (@layout_gap/@base),rem);
     margin-right: unit(-1 * @layout_gap,px);
@@ -45,16 +54,16 @@
 
 @media screen and (min-width:unit(((@layout_medium + @layout_gap)/@base),rem)) {
     @pullout: -1 * ((@layout_medium - @layout_narrow)/2);
-    .pull--left {
+    .pull-left {
         margin-left: unit(@pullout,px);
         margin-left: unit(@pullout/@base,rem); 
     }
-    .pull--right {
+    .pull-right {
         margin-right: unit(@pullout,px);
         margin-right: unit(@pullout/@base,rem); 
     }
-    .pull--both,
-    .pull--extended {
+    .pull-both,
+    .pull-extended {
         margin-left: unit(@pullout,px);
         margin-left: unit(@pullout/@base,rem);
         margin-right: unit(@pullout,px);
@@ -64,7 +73,7 @@
 
 @media screen and (min-width:unit(((@layout_wide + @layout_gap)/@base),rem)) {
    @pullout: -1 * ((@layout_wide - @layout_narrow)/2);
-   .pull--extended {
+   .pull-extended {
         margin-left: unit(@pullout,px);
         margin-left: unit(@pullout/@base,rem);
         margin-right: unit(@pullout,px);
@@ -74,16 +83,16 @@
 
 //repel
 
-.repel--none {
+.repel-none {
     margin-bottom: 0;
 }
 
-.repel--1 {
+.repel-1 {
     .margin-bottom();
 }
-.repel--2 {
+.repel-2 {
     .margin-bottom(1,2);
 }
-.repel--3 {
+.repel-3 {
     .margin-bottom(1,3);
 }

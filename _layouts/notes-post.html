@@ -1,15 +1,15 @@
 ---
 layout: default
 ---
-<article class="layout--column">
+<article class="l-column">
     <div class="s-prose">
         <p class="u-breadcrumb u-centre">You are here: <a href="{{ base.url }}/">home</a> &rArr; <a href="{{ base.url }}/notes">notes</a> &rArr;</p>
-        <h1 class="pull--extended u-centre">{{ page.title }}</h1>
+        <h1 class="pull-extended u-centre">{{ page.title }}</h1>
         <p class="u-meta u-centre"><time>{{ page.date | date: "%A, %e %B %Y" }}</time></p>
         
         {% assign numberOfImages = page.images | size %}
         {% if numberOfImages > 1 %}
-            <div class="gallery pull--extended" data-max-items="3">
+            <div class="gallery pull-extended" data-max-items="3">
                 <ol class="gallery-row">
                     {% for image in page.images %}
                     {% if forloop.last %}
@@ -33,7 +33,7 @@ layout: default
                 </ul>
             </div>
         {% else %}
-            <figure class=" pull--both">
+            <figure class=" pull-both">
                 <img src="{{ site.roobottom_assets }}/notes/large/{{ page.images[0] }}"/>
             </figure>
         {% endif %}    

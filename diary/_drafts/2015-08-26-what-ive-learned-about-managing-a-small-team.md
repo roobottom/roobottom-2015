@@ -11,7 +11,7 @@ images:
 ---
 I've been part of Team Firefly for four years, and head of the design team for the last two. [Our story](http://fireflylearning.com/about-us/the-story) is unique; Joe & Simon wrote the first version of Firefly while still at school aged 16. Fast forward 14 years and we're now a 50-strong team with offices in London, Sydney and Brighton. 
 
-{% include figure.html class="pull--both" set="illustration" %}
+{% include figure.html class="pull-both" set="illustration" %}
 
 Over the years we've learned a lot. Sure we've had some great help along the way, but I really think our success is a testament to a strong vision, hard work and a constant willingness to learn. Personally, I'd really like to say I was a natural born leader of people, a figure-head of the company, resplendent in horn-rim glasses and gingham-pattern shirt.
 

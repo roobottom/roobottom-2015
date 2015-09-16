@@ -3,7 +3,7 @@ layout: default
 title: Archives
 ---
 
-<section class="layout--column">
+<section class="l-column">
     
     <h1 class="u-centre">Archives</h1>
     
@@ -16,12 +16,12 @@ title: Archives
             {% if forloop.index != 1 %}
                 </ul>
             {% endif %}
-                    <h2 class="u-centre u-snug pull--extended">{{ post.date | date: '%Y' }}</h2>
+                    <h2 class="u-centre u-snug pull-extended">{{ post.date | date: '%Y' }}</h2>
                 <div class="s-prose">
                     <p class="u-centre"><a href="{{ site.baseurl }}/archives/{{ this_year }}">Explore {{ this_year }}'s timeline</a></p>
                 </div>
                 {% include _components/year-summary.html year=this_year %}
-                <ul class="quicklinks pull--both u-centre repel--3">
+                <ul class="quicklinks pull-both u-centre repel-3">
         {% endif %}
         
         

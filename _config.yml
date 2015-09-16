@@ -9,6 +9,9 @@ collections:
   archives:
     output: true
     permalink: /archives/:path/
+  styleguide:
+    output: true
+    permalink: /styleguide/:path/
 
 #custom variables
 roobottom_assets:      "https://dl.dropboxusercontent.com/u/317028/roobottom-assets/assets"
@@ -114,3 +117,9 @@ defaults:
       path: ""
     values:
       layout: archive-year
+  -
+    scope:
+      type: styleguide
+      path: ""
+    values:
+      layout: styleguide-item

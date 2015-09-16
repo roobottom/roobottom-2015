@@ -4,7 +4,7 @@
 {% assign c_gallery = 0 %}
 {% assign sorted_posts = (site.posts | sort: 'title') %}
 
-<div class="layout--grid pull--both u-centre">
+<div class="l-grid pull-both u-centre">
 {% for post in sorted_posts  %}
     {% assign postYear = post.date | date: "%Y" %}
     
@@ -22,7 +22,7 @@
         {% endcase %}
         
         {% if c < 30 %}
-        <figure class="layout--grid-span-micro">
+        <figure class="l-grid-span-micro">
             <a href="{{ post.url }}" title="{{ post.title }}">
                 <img src="{{ site.roobottom_assets }}/{{ post.categories[0]}}/thumbnail/{{ currentImage }}"/>
             </a>

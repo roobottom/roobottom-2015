@@ -30,13 +30,13 @@ It was at this point I decided I needed some help. Having heard Marc talking abo
 
 Beard oil in hand I ploughed on, and was rewarded, even if I do say so myself, with half decent face hair. _Emphasis on the “half”_.
 
-{% include figure.html class="pull--both" set="beard" %}
+{% include figure.html class="pull-both" set="beard" %}
 
 So, why the change of heart? Why is the beard no more? Well, to be honest, it was all too much like hard work. Oh sure, I was a prince amongst men, but it all got a little too much. I couldn’t stop playing with it for one, not great if you want a great beard. Also, food would occasionally get stuck in there, and that’s a look that’s not that easy to carry off. The writing was on the wall for el beardo.
 
 Of course, I performed the obligatory shaving-off-into-stupid-styles ceremony, many of which, upon seeing my face, Katie threatened divorce. 
 
-{% include gallery.html class="pull--both" set="shave" %}
+{% include gallery.html class="pull-both" set="shave" %}
 
 If this month has taught me anything, it’s that a good beard is no easy thing. It takes work. It takes the ability to leave it the hell alone. But, most of all, it takes a will of iron to push though the itchy stage. 
 

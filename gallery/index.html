@@ -17,8 +17,8 @@ categories:
             {% if forloop.index != 1 %}
                 </section>
             {% endif %}
-                <h2 class="repel--1 u-centre">{{ post.date | date: '%Y' }}</h2>
-                <section class="layout--grid">
+                <h2 class="repel-1 u-centre">{{ post.date | date: '%Y' }}</h2>
+                <section class="l-grid">
                 {% assign yearTracker = this_year %}
         {% endif %}
         
@@ -26,7 +26,7 @@ categories:
         
         
         
-        <div class="layout--grid-span1">
+        <div class="l-grid-span-1">
             <article class="s-prose teaser teaser--gallery">
                 {% if post.images %}
                 <figure>

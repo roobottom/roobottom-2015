@@ -1,13 +1,13 @@
 //single column
 
-.layout--column {
+.l-column {
     max-width: unit(@layout_narrow/@base,rem);
     margin: unit(@layout_gap,px);
     margin: unit(@layout_gap/@base,rem);
 }
 
 @media screen and (min-width:unit(((@layout_narrow + @layout_gap)/@base),rem)) {
-    .layout--column {
+    .l-column {
         margin: unit(@lineheight,px) auto;
         margin: unit(@lineheight/@base,rem) auto;
     }
@@ -15,7 +15,7 @@
 
 //grid
 
-.layout--grid {
+.l-grid {
     max-width: unit(@layout_wide/@base,rem);
     margin: unit(@layout_gap,px);
     margin: unit(@layout_gap/@base,rem);
@@ -25,14 +25,14 @@
     box-sizing: border-box;      
 }
 
-.layout--grid-span1,
-.layout--grid-span-2,
-.layout--grid-span-half,
-.layout--grid-span {
+.l-grid-span-1,
+.l-grid-span-2,
+.l-grid-span-half,
+.l-grid-span {
     flex-basis: 100%;
 }
 
-.layout--grid-span-micro {
+.l-grid-span-micro {
     flex-basis: 100%/10;
     img {
         max-width: 100%;
@@ -43,14 +43,14 @@
 
 
 @media screen and (min-width:unit((@layout_medium/@base),rem)) {
-    .layout--grid {
+    .l-grid {
         
         margin: unit(@lineheight,px) auto;
         margin: unit(@lineheight/@base,rem) auto;
     }
-    .layout--grid-span1,
-    .layout--grid-span-2,
-    .layout--grid-span-half {
+    .l-grid-span-1,
+    .l-grid-span-2,
+    .l-grid-span-half {
         > * {
             margin: 0 unit(@layout_gap/2,px);
             margin: 0 unit(@layout_gap/@base/2,rem);
@@ -58,20 +58,20 @@
     }
     
     
-    .layout--grid-span1 {
+    .l-grid-span-1 {
         flex-basis: 100%/3;
     }
-    .layout--grid-span-2 {
+    .l-grid-span-2 {
         flex-basis: (100%/3) * 2;
     }
-    .layout--grid-span-half {
+    .l-grid-span-half {
         flex-basis: 50%;
     }
-    .layout--grid-span {
+    .l-grid-span {
         flex-basis: 100%;
     }
     
-    .layout--grid-span-micro {
+    .l-grid-span-micro {
         flex-basis: 100%/15;
     }
     

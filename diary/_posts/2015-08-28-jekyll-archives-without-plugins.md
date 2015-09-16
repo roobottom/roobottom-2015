@@ -13,7 +13,7 @@ images:
 ---
 I recently made the switch to [Jekyll](http://jekyllrb.com) as my publishing tool for this website. I love it, not least as it lets me serve content directly from Github. Updating the site is as simple as pushing into my repository. I have no servers to maintain and no extra monthly costs. For a low traffic site it seems, for now at least, like the perfect solution.
 
-{% include figure.html set="artwork" class="pull--both" %}
+{% include figure.html set="artwork" class="pull-both" %}
 
 To me, one of the most interesting things about writing a blog is the ability to look back, to make old posts new again with an easily navigable archive section. A key part of that is the 'archives for year ...' page. However, hosting with Github pages means that I can't use plugins for Jekyll that you'd normally need to achieve this. Jekyll doesn't really offer much in the way of core functionality for archives, but with a bit of hacking you can create an archive page for every year in a way that doesn't suck.
 
@@ -54,7 +54,7 @@ layout: archive-year
 
 Don't forget the quotation marks, the reason for them will shortly become apparent. 
 
-{% include figure.html set="folders" class="u-boxout pull--left" image_size="small" %}
+{% include figure.html set="folders" class="u-boxout pull-left" image_size="small" %}
 
 Here's a simplified view of my local folder setup showing all the markdown files for each year in the `_archives` collection. 
 

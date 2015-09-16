@@ -3,8 +3,8 @@ layout: default
 title: Home
 ---
 
-<section class="layout--grid">
-    <div class="layout--grid-span-2">
+<section class="l-grid">
+    <div class="l-grid-span-2">
         {% for post in site.categories.diary limit:1 %}
             {% capture count %}{{ post.images | size }}{% endcapture %}
             <article class="s-prose teaser section-diary">
@@ -20,7 +20,7 @@ title: Home
             </article>
         {% endfor %}
     </div>
-    <div class="layout--grid-span1">
+    <div class="l-grid-span-1">
         {% for post in site.categories.notes limit:1 %}
         
             {% capture count %}{{ post.images | size }}{% endcapture %}

@@ -17,15 +17,15 @@ categories:
             {% if forloop.index != 1 %}
                 </section>
             {% endif %}
-                <h2 class="repel--1 u-centre">{{ post.date | date: '%B %Y' }}</h2>
-                <section class="layout--grid">
+                <h2 class="repel-1 u-centre">{{ post.date | date: '%B %Y' }}</h2>
+                <section class="l-grid">
                 {% assign monthTracker = this_month %}
         {% endif %}
         
         {% capture count %}{{ post.images | size }}{% endcapture %}
         
 
-        <div class="layout--grid-span1">
+        <div class="l-grid-span-1">
             <article class="s-prose teaser teaser--notes"> 
                 <figure>
                     <a href="{{ site.baseurl }}{{ post.url }}">

@@ -1,6 +1,6 @@
 <h1 class="u-centre">Archives for {{ include.year }}</h1>
 
-<div class="layout--column">
+<div class="l-column">
 {% for post in site.posts  %}
 
     {% capture year %}{{post.date | date: "%Y"}}{% endcapture %}
@@ -67,8 +67,8 @@
                 </ol>
                 </div>
             {% endif %}
-            <h2 class="repel--1 u-centre">{{ post.date | date: '%B %Y' }}</h2>
-            <div class="gallery pull--both" data-max-items="3" data-min-items="1">
+            <h2 class="repel-1 u-centre">{{ post.date | date: '%B %Y' }}</h2>
+            <div class="gallery pull-both" data-max-items="3" data-min-items="1">
             <ol class="gallery-row">
         {% endif %}
         

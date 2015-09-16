@@ -1,18 +1,16 @@
 ---
-title: Style guide
 layout: default
 ---
-
 <div class="l-column">
     <div class="s-prose">
-        <h1 class="u-centre">Style Guide</h1>
+        {% include _components/breadcrumb.html section='styleguide' %}
+        <h1 class="u-centre">{{ page.title }}</h1>
     </div>
     <ul class="quicklinks u-centre">
     {% for styleguide in site.styleguide %}
         <li><a href="{{ site.baseurl }}{{ styleguide.url }}">{{ styleguide.title }}</a></li>
     {% endfor %}
     </ul>
-    <div class="s-prose">
-    <p class="styleguide-note">This is a work in progress.</p>
-    </div>
 </div>
+
+{{ content }}

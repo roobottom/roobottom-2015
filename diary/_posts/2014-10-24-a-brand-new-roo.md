@@ -13,7 +13,7 @@ introduction: "I'm excited and emotional. What's got me into such a tizzy you as
 ---
 I'm excited and emotional. What's got me into such a tizzy you ask? Well, a few weeks ago Katie and I discovered we we're going to have a baby. A brand new Roo, if you will.
 
-{% include figure.html class="pull--both" set="the_kid" %}
+{% include figure.html class="pull-both" set="the_kid" %}
 
 How did this little chap (or chapesses) come about? That my friends is a mystery, but suffice to say that Katie tells me that getting a small person to live inside you is quite an involved process requiring me to provide lots of chocolate because "Baby needs chocolate".
 
