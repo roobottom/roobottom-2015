@@ -1,12 +1,13 @@
 ---
 title: Components
 ---
+
 <div class="l-column">
     
     <!-- archive meta -->
     <div class="s-prose">
         <h3>Archive meta</h3>
-        <p class="styleguide-note">The archive meta is used to present a key to link totals and colours used in the archives section.</p>
+        <p class="styleguide-note">The <code>.archive-meta</code> component is used to present a key to link totals and colours used in the archives section.</p>
     </div>
     <p class="u-centre u-meta repel-1 archive-meta">
         <span class="archive-meta-diary">65 diary posts</span>
@@ -19,7 +20,7 @@ title: Components
     <!-- gallery -->
     <div class="s-prose">
         <h3>Gallery</h3>
-        <p class="styleguide-note">A gallery component is used when two or more images need to be contained together. It uses javascript to achieve a brick wall effect.</p>
+        <p class="styleguide-note">The <code>.gallery</code> component is used when two or more images need to be contained together. It uses javascript to achieve a brick wall effect.</p>
     </div>
     <div class="gallery pull-both">
     	<ol>
@@ -38,7 +39,7 @@ title: Components
     <!-- pagination -->
     <div class="s-prose">
         <h3>Pagination</h3>
-        <p class="styleguide-note">The pagination component is used at the foot of posts to link users to the previous and next items. It also gives an indication of how much time has elapsed since the posts were added, relative to the current one.</p>
+        <p class="styleguide-note">The <code>.pagination</code> component is used at the foot of posts to link users to the previous and next items. It also gives an indication of how much time has elapsed since the posts were added, relative to the current one.</p>
     </div>
     <ul class="pagination">  
         <li class="pagination-previous"><span class="pagination-label">&lArr; Previous note</span><a href="#">Arundel Castle 10K</a><span class="pagination-meta">A day previously</span></li>
@@ -51,8 +52,49 @@ title: Components
     <!-- quicklinks -->
     <div class="s-prose">
         <h3>Quicklinks</h3>
-        <p class="styleguide-note">The quicklinks component provides a minimalist set of stacked links designed to present a lot of url destinations with the minimum of fuss.</p>
+        <p class="styleguide-note">The <code>.quicklinks</code> component provides a minimalist set of stacked links designed to present a lot of url destinations with the minimum of fuss.</p>
     </div>
+    <ul class="quicklinks">
+        <li><a href="#">Brownhills</a></li>
+        <li><a href="#">Burntwood</a></li>
+        <li><a href="#">Cannock</a></li>
+        <li><a href="#">Wolverhampton</a></li>
+        <li><a href="#">Dudley</a></li>
+    </ul>
+    <div class="s-prose">
+        <p class="styleguide-note">The <code>.quicklinks</code> component can also be used with the post-type colours and <code>time</code> element for lists of posts.</p>
+    </div>
+    <ul class="quicklinks">
+        <li><a href="#" class="link-gallery">A Gallery</a> <time>Sun, Sep 13</time></li>
+        <li><a href="#" class="link-notes">A Note</a> <time>Thu, Sep 10</time></li>
+        <li><a href="#" class="link-diary">A Diary post</a> <time>Sat, Sep 5</time></li>
+    </ul>
     
     
+    <!-- tags -->
+    <div class="s-prose">
+        <h3>Tags</h3>
+        <p class="styleguide-note">The <code>.tags</code> component is used to display a list of tags.</p>
+    </div>
+    <ul class="tags">
+        <li>red</li>
+        <li>yellow</li>
+        <li>pink</li>
+        <li>green</li>
+    </ul>
+    
+    <!-- teasers -->
+    <div class="s-prose">
+        <h3>Tags</h3>
+        <p class="styleguide-note">The <code>.teasers</code> component is used to display a snapshot of a number of posts. Most often used with the <code>.l-grid</code> layout.</p>
+    </div>
+    <div class="l-grid pull-extended">
+        <div class="l-grid-span-1">
+            <article class="teaser">
+                <figure> <a href="#"> <img src="{{ site.baseurl }}/styleguide/example-images/square/2015-08-02-01.jpg"> <div class="u-figure-count">2 images &amp; 4 words</div> </a> </figure>
+                <h2><a href="#">A note teaser</a></h2>
+                <p class="u-meta"><time>Thursday, 10 September 2015</time></p>
+            </article>
+        </div>
+    </div>
 </div>

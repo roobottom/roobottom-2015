@@ -164,28 +164,30 @@ a {
   color: #dc9f15;
   font-style: italic;
   text-shadow: 0 1px 0 white;
+  margin-top: 32px;
+  margin-top: 2rem;
 }
 .styleguide-note > code {
   color: #c58e13;
   border-color: #fcf2db;
   font-style: normal;
 }
-body.style-guide .s-prose {
+body.pagetype-styleguide .s-prose {
   border: 1px dotted #cccccc;
   position: relative;
 }
-body.style-guide .s-prose:before {
+body.pagetype-styleguide .s-prose:before {
   content: 'scope: s-prose';
   position: absolute;
   top: 0;
   right: 0;
   color: #cccccc;
 }
-body.style-guide .s-meta {
+body.pagetype-styleguide .s-meta {
   border: 1px dotted #56baff;
   position: relative;
 }
-body.style-guide .s-meta:before {
+body.pagetype-styleguide .s-meta:before {
   content: 'scope: s-meta';
   position: absolute;
   top: 0;
@@ -620,6 +622,10 @@ body.style-guide .s-meta:before {
 .teaser figure {
   margin-left: -2rem;
   margin-right: -2rem;
+}
+.teaser img {
+  display: block;
+  width: 100%;
 }
 .teaser .teaser-footer {
   margin-left: -2rem;

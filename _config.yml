@@ -119,7 +119,8 @@ defaults:
       layout: archive-year
   -
     scope:
-      type: styleguide
-      path: ""
+      type: "styleguide"
+      path: "styleguide"
     values:
-      layout: styleguide-item
+      layout: "styleguide-item"
+      category: "styleguide"
