@@ -196,6 +196,22 @@ p >code {
     box-sizing: border-box;
     padding: unit(@lineheight/2/@base,rem);
     font-size: 80%;
+    transition: all 200ms ease-out;
+    cursor: pointer;
+    
+    @media screen and (min-width:unit(((@layout_medium + @layout_gap)/@base),rem)) {
+        @pullout: -1 * ((@layout_medium - @layout_narrow)/2);
+        &.highlight--active {
+            margin-left: unit(@pullout/@base,rem);
+            margin-right: unit(@pullout/@base,rem);
+        }
+    }
+    
+    &.highlight--active {
+        font-size: 100%;    
+    }
+    
+    
     
     .lineno { 
         color: #ccc; display:inline-block; padding: 0 .7em; border-right:1px solid @grey; 

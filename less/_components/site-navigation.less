@@ -2,21 +2,32 @@
     
     border-bottom: 1px solid white;
     background-color: #333;
+    padding: 0 unit(@lineheight/@base,rem);
+    
+    @media screen and (min-width: (unit(@layout_wide/@base,rem))) {
+        padding: 0;
+    }
     
     ul {
         display: flex;
-        align-items: center;
-        justify-content: space-between;
+        align-items: center; 
+        flex-wrap: wrap;
         flex-wrap: wrap;
         margin: 0 auto;
-        max-width: unit(@layout_wide,px);
         max-width: unit(@layout_wide/@base,rem);
+        justify-content: center;
+        
+        
+        @media screen and (min-width: (unit(@layout_wide/@base,rem))) {
+            justify-content: space-between;
+        }
+        
     }
     
     a {
         display: block;
         color: white;
-        padding: unit(@lineheight/2/@base,rem) 0;
+        padding: unit(@lineheight/2/@base,rem);
     }
     
     .nav-home {

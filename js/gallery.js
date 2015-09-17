@@ -121,6 +121,11 @@ $(function() {
             close: true
         }
     });
+    
+    //highlight active
+    $('.highlight').on('click',function() {
+       $(this).toggleClass('highlight--active'); 
+    });
   
   
 });

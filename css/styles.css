@@ -329,9 +329,7 @@ body.pagetype-styleguide .s-meta:before {
   }
   .pull-both,
   .pull-extended {
-    margin-left: -130px;
     margin-left: -8.125rem;
-    margin-right: -130px;
     margin-right: -8.125rem;
   }
 }
@@ -1359,6 +1357,12 @@ body.pagetype-styleguide .s-meta:before {
 .site-navigation {
   border-bottom: 1px solid white;
   background-color: #333;
+  padding: 0 2rem;
+}
+@media screen and (min-width: 79.375rem) {
+  .site-navigation {
+    padding: 0;
+  }
 }
 .site-navigation ul {
   display: -webkit-box;
@@ -1369,21 +1373,28 @@ body.pagetype-styleguide .s-meta:before {
   -webkit-align-items: center;
       -ms-flex-align: center;
           align-items: center;
-  -webkit-box-pack: justify;
-  -webkit-justify-content: space-between;
-      -ms-flex-pack: justify;
-          justify-content: space-between;
   -webkit-flex-wrap: wrap;
       -ms-flex-wrap: wrap;
           flex-wrap: wrap;
   margin: 0 auto;
-  max-width: 1270px;
   max-width: 79.375rem;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+@media screen and (min-width: 79.375rem) {
+  .site-navigation ul {
+    -webkit-box-pack: justify;
+    -webkit-justify-content: space-between;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+  }
 }
 .site-navigation a {
   display: block;
   color: white;
-  padding: 1rem 0;
+  padding: 1rem;
 }
 .site-navigation .nav-home svg {
   width: 50px;
@@ -1730,6 +1741,9 @@ p > code {
   box-sizing: border-box;
   padding: 1rem;
   font-size: 80%;
+  -webkit-transition: all 200ms ease-out;
+          transition: all 200ms ease-out;
+  cursor: pointer;
   /* Comment */
   /* Error */
   /* Generic */
@@ -1798,6 +1812,15 @@ p > code {
   /* Name.Variable.Global */
   /* Name.Variable.Instance */
   /* Literal.Number.Integer.Long */
+}
+@media screen and (min-width: 62.5rem) {
+  .highlight.highlight--active {
+    margin-left: -8.125rem;
+    margin-right: -8.125rem;
+  }
+}
+.highlight.highlight--active {
+  font-size: 100%;
 }
 .highlight .lineno {
   color: #ccc;
