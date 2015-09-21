@@ -937,6 +937,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/gallery\/felicitys-70s\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/gallery\/felicitys-70s\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/gallery\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -1007,15 +1016,6 @@
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 0
-		},
-	"\/_site\/notes\/138\/index.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/notes\/138\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
 		},
 	"\/_site\/notes\/139\/index.html": {
 		"fileType": 8192,
@@ -6253,6 +6253,27 @@
 		"inputAbbreviatedPath": "\/gallery\/_posts\/2015-09-13-new-forest-camping-2015.md",
 		"maskEmailAddresses": 1,
 		"outputAbbreviatedPath": "\/gallery\/_posts\/2015-09-13-new-forest-camping-2015.html",
+		"outputFormat": 0,
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"parseMetadata": 1,
+		"processHTML": 0,
+		"randomFootnoteNumbers": 0,
+		"useCompatibilityMode": 0
+		},
+	"\/gallery\/_posts\/2015-09-19-felicitys-70s.md": {
+		"criticStyle": 0,
+		"enableFootnotes": 1,
+		"enableLabels": 1,
+		"enableSmartQuotes": 1,
+		"escapeLineBreaks": 0,
+		"fileType": 4096,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/gallery\/_posts\/2015-09-19-felicitys-70s.md",
+		"maskEmailAddresses": 1,
+		"outputAbbreviatedPath": "\/gallery\/_posts\/2015-09-19-felicitys-70s.html",
 		"outputFormat": 0,
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
