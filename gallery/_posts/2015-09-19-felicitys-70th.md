@@ -8,7 +8,6 @@ images:
   - image: 2015-09-19_006.jpg
   - image: 2015-09-19_007.jpg
   - image: 2015-09-19_008.jpg
-  - image: 2015-09-19_009.jpg
   - image: 2015-09-19_010.jpg
   - image: 2015-09-19_011.jpg
   - image: 2015-09-19_012.jpg

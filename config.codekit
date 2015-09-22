@@ -937,11 +937,11 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_site\/gallery\/felicitys-70s\/index.html": {
+	"\/_site\/gallery\/felicitys-70th\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/gallery\/felicitys-70s\/index.html",
+		"inputAbbreviatedPath": "\/_site\/gallery\/felicitys-70th\/index.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -6262,7 +6262,7 @@
 		"randomFootnoteNumbers": 0,
 		"useCompatibilityMode": 0
 		},
-	"\/gallery\/_posts\/2015-09-19-felicitys-70s.md": {
+	"\/gallery\/_posts\/2015-09-19-felicitys-70th.md": {
 		"criticStyle": 0,
 		"enableFootnotes": 1,
 		"enableLabels": 1,
@@ -6271,9 +6271,9 @@
 		"fileType": 4096,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/gallery\/_posts\/2015-09-19-felicitys-70s.md",
+		"inputAbbreviatedPath": "\/gallery\/_posts\/2015-09-19-felicitys-70th.md",
 		"maskEmailAddresses": 1,
-		"outputAbbreviatedPath": "\/gallery\/_posts\/2015-09-19-felicitys-70s.html",
+		"outputAbbreviatedPath": "\/gallery\/_posts\/2015-09-19-felicitys-70th.html",
 		"outputFormat": 0,
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
