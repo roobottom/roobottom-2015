@@ -1,4 +1,0 @@
----
-title: 9rules Wannabe
----
-![9rules submission round 4](http://wp.roodesign.co.uk/wp-content/uploads/2006/05/9rules_round_4.jpg)[9rules](http://9rules.com) are having their 4th round of submissions today! And of course, being one of those web geeks, I've submitted. Yeah, ok, I've even had the date written in my diary for the last month. And yes, both my laptop and my work computer popped up with reminders just so I wouldn't forget. Huh, like I was going to. So there's really no point in this post other than to show off that I remembered, and possibly to give all my adoring fans the opportunity to comment and show the fine people (yeah? Nothing wrong with a little ass-kissing...) just how amazingly popular this site is... What?! A <strike>man</strike> geek can dream can't he?

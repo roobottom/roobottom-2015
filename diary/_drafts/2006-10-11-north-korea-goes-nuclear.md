@@ -1,4 +1,0 @@
----
-title: North Korea Goes Nuclear
----
-I'm at a bit of a loss of opinion on the whole Nuclear testing "thing" that's been hitting the headlines the last few days. There's an uproar, and rightly so I think, but Korea's purpose in all this still remains a mystery to me. Apparently now [Kim Yong-nam](http://en.wikipedia.org/wiki/Kim_Yong-nam) says there will be [more testing](http://news.bbc.co.uk/1/hi/world/asia-pacific/6039438.stm) unless the US change it's "hostile" policy towards them. To me all this political wrangling smacks of desperation on the part of North Korea (were these tests even real?) who maybe feel (and possibly rightly so) somewhat bullied by certain other countries. Agreed the US (or the UK for that matter) shouldn't be the worlds police force, but I for one would sleep a little easier with less nuclear weapons in the world, rather than more.

@@ -1,4 +1,0 @@
----
-title: The dangers of the iTunes Store
----
-The iTunes store is great, I love it! And that's the problem. They have my credit card details and it's way too easy for me to click the all to available 'buy now' button. And, to make matters worse, we now have TV shows in the UK store. Oh crap, Ugly Betty is quite good, and I don't watch TV so this seems like the perfect solution. Click, watch.. and then cower under the table when my Visa bill is delivered each month. They add more stuff all the time, why wont they let me rest? And then, the final straw. They go and launch the [iPod touch](http://www.apple.com/uk/ipodtouch/). How do Apple do that? Make you want their things? And with WiFi access to the store I'd be as dangerous as a granny with a chainsaw. Somebody help. Surly there must be a support group for this kind of thing?

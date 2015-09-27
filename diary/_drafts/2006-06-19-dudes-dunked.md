@@ -1,4 +1,0 @@
----
-title: 'Dudes: Dunked'
----
-I know I said I was taking a short break, and I still am, but this is just a short break from the short break to bring you this one post... [kml_flashembed movie="http://www.roobottom.com/baptisms/slideshow.swf" height="375" width="500" FVERSION="8" /] It was an amazing privilege to see four people I know and respect get baptised. For those of you that don't know, the idea behind baptism is as a declaration of faith. It says that you've chosen to follow the message of Jesus, and symbolises new life, basically you believe and get dunked! Maybe you should see what [answers.com has to say about it](http://www.answers.com/baptism). A brilliant day for all involved! If you're interested (probably only if you were there), you can see ALL the photo's I (and whoever had my camera) took. Feel free to help yourself to the ones you want. [You can find them here](http://www.roobottom.com/baptisms/baptisms.html).

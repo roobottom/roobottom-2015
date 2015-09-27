@@ -1,4 +1,0 @@
----
-title: Who is Newton Faulkner?
----
-One word - Genius! And all from a 22 year old singer / songwriter who hails from London. If you're not familiar with the name then you'll probably know his song 'Dream catch me' which has been getting quite a lot of radio play. Personally, I'd not heard him until Dan was going on about him last night. Like many new bands and artists someone tells you about - you tend to go "yeah, cool" then forget all about them. But then he showed me [this](http://uk.youtube.com/watch?v=_aPPwOLhUts). LOOK at that body slapping! HOW does he do this, and sing *and* play the melody too?! How do you get your brain to process that much all at once? Man... this guy is good. So today I got his album 'Hand Built by Robots'. Again.. Wow. Check him out. See him live. Hook him up with your mother... Or even better get his album, which is available on iTunes and (i'm sure) in all good record stores. And yes, it includes that amazing version of Teardrop.

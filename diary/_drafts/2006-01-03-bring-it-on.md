@@ -1,8 +1,0 @@
----
-title: Bring it on 2006
----
-It's been a strange one this year. Being back at work, freezing my butt off, is given me chance to reflect on everything that's happened in the last week. A week? Has it really only been a week? It seams like a whole other world I was upset to learn of the passing of a very cool person just after Christmas.
-
-Although I didn't really know her, the little time I'd spend with her had shown me what strength she had. She'll be sorely missed. 
-
-Christmas also gave me opportunity to reflect on where I am in my life. And that I cannot any longer piss about when It comes to my faith. I'm a Christian, and damn proud to be one! I need to focus my attention on God. Someone amazing helped me realise this, if you're reading this, you know who you are. Thank you. You rock. You and you're family. So this is it, the first post of 2006, with hope for the coming year. God bless you all.
