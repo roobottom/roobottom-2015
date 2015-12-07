@@ -64,12 +64,19 @@ module.exports = function(grunt) {
         	        'cd /Users/roobottom/git/roobottom.com/',
         	        'jekyll build'
     	        ].join('&&')
+	        },
+	        jekyll_local: {
+    	        command: [
+        	        'cd /Users/roobottom/git/roobottom.com/',
+        	        'jekyll build --limit_posts 10 -w --config _config.yml,_config_local.yml'
+    	        ].join('&&')
 	        }
     	},
 
 	});
 
 	grunt.registerTask('publish', ['responsive_images','shell:writeCSV']);
+	grunt.registerTask('local', ['shell:jekyll_local']);
 
 
 };
