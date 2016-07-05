@@ -3,20 +3,20 @@ module.exports = function(grunt) {
 	grunt.loadNpmTasks('grunt-shell');
 
 	grunt.initConfig({
-    
-    
-	    //process all images.  
+
+
+	    //process all images.
 	    responsive_images: {
 	        resize: {
 	            options: {
-	                engine: 'im',
+	                engine: 'gm',
 	                newFilesOnly: true,
 	                sizes: [{
 	                    width: 280,
 	                    height: 280,
 	                    name: 'square',
 	                    quality: 50,
-	                    aspectRatio: false,  
+	                    aspectRatio: false,
 	                } , {
     	                width: 100,
 	                    height: 100,
@@ -44,7 +44,7 @@ module.exports = function(grunt) {
 	                src: ['/Users/roobottom/Dropbox/Public/roobottom-assets/assets/*/**.{jpg,jpeg,JPG,JPEG,png,PNG,gif,GIF}'],
 	                custom_dest: '{%= path %}/{%= name %}/'
 	            }]
-	        }  
+	        }
 	    },
 
 	    //run shell tasks to write CSV sidecar files
